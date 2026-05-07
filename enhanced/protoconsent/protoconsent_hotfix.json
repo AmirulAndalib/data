@@ -65,5 +65,18 @@
     "thebitsoft360.com",
     "tradeedgeai.com"
   ],
-  "revocation_count": 62
+  "revocation_count": 62,
+  "path_exceptions": [
+    {
+      "urlFilter": "||camel1.tv/lib/sensorsdata.full.min.js",
+      "firstParty": true
+    },
+    {
+      "urlFilter": "||cdn.petametrics.com/*-nbc.js",
+      "initiatorDomains": [
+        "bringmethenews.com"
+      ]
+    }
+  ],
+  "path_exception_count": 2
 }
