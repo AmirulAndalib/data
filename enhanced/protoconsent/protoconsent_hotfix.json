@@ -77,6 +77,10 @@
       ]
     },
     {
+      "urlFilter": "||dishtv.in/scripts/adobeAnalytics.js",
+      "firstParty": true
+    },
+    {
       "urlFilter": "||googletagmanager.com/gtag/js",
       "initiatorDomains": [
         "17track.net",
@@ -376,5 +380,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 9
+  "path_exception_count": 10
 }
