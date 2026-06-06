@@ -694,6 +694,18 @@
       ]
     },
     {
+      "urlFilter": "||tags.tiqcdn.com/utag/*/utag.sync.js",
+      "initiatorDomains": [
+        "10.com.au",
+        "bankofamerica.com",
+        "hsbc.co.uk",
+        "samsung.com",
+        "sony.jp",
+        "visible.com",
+        "vmware.com"
+      ]
+    },
+    {
       "urlFilter": "||chat.dbo-dengi.online/*/track?event=",
       "initiatorDomains": [
         "online.mtsdengi.ru"
@@ -823,5 +835,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 12
+  "path_exception_count": 13
 }
