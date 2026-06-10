@@ -80,6 +80,12 @@
       ]
     },
     {
+      "urlFilter": "||dc.services.visualstudio.com/v2/track",
+      "initiatorDomains": [
+        "aiskillsnavigator.microsoft.com"
+      ]
+    },
+    {
       "urlFilter": "||dishtv.in/scripts/adobeAnalytics.js",
       "firstParty": true
     },
@@ -835,5 +841,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 13
+  "path_exception_count": 14
 }

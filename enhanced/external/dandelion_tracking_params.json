@@ -1,10 +1,13 @@
 {
-  "version": "2026-06-09",
-  "generated": "2026-06-09T05:04:18.748Z",
+  "version": "2026-06-10",
+  "generated": "2026-06-10T05:08:03.928Z",
   "type": "tracking_params_sites",
   "domain_count": 891,
   "param_count": 1839,
   "sites": {
+    "adguard-dns.io": [
+      "clid"
+    ],
     "chexy.co": [
       "_caid",
       "_cvid"
@@ -4175,9 +4178,6 @@
     ],
     "atnsoft.com": [
       "e"
-    ],
-    "adguard-dns.io": [
-      "clid"
     ],
     "ikea.com": [
       "f"
