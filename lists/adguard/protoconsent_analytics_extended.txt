@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-06-13T09:22:39.445Z
+! Last modified: 2026-06-14T06:07:52.656Z
 ! Format: AdGuard
-! Entries: 74502
+! Entries: 74506
 !
 ||0.myikas.com^$third-party
 ||0.net.easyjet.com^$third-party
@@ -67,7 +67,6 @@
 ||19035955.mktg.tajawal.com^$third-party
 ||1909a8.satofull.jp^$third-party
 ||1a715b8q5m3j.www.logology.co^$third-party
-||1a83092b2577f92bf593.proxy-us.posthog.com^$third-party
 ||1amehwchx31.bloxdhop.io^$third-party
 ||1annuaire.com^$third-party
 ||1b6wvktphtz.stresshelden-coaching.de^$third-party
@@ -8306,6 +8305,7 @@
 ||blue.wtnh.com^$third-party
 ||blue.wtrf.com^$third-party
 ||blue.wwlp.com^$third-party
+||blue.yourbasin.com^$third-party
 ||blue.yourcentralvalley.com^$third-party
 ||blueadss.com^$third-party
 ||blueconic.net^$third-party
@@ -11118,6 +11118,7 @@
 ||cp.deltadentalwa.com^$third-party
 ||cp.filext.com^$third-party
 ||cp.ir-central.irco.com^$third-party
+||cp.official-coupons.com^$third-party
 ||cp.official-deals.co.uk^$third-party
 ||cpa.hh.ru^$third-party
 ||cpaevent.ru^$third-party
@@ -16694,6 +16695,7 @@
 ||ev.tpocdm.com^$third-party
 ||eva.institut-sitya.at^$third-party
 ||evael.dreamkloset.com^$third-party
+||evalueserve.com^$third-party
 ||evdni.littlesleepies.com^$third-party
 ||evenement.ricoh.fr^$third-party
 ||event-api.rdstation.com.br^$third-party
@@ -30679,7 +30681,6 @@
 ||mckiey.thun.com^$third-party
 ||mcloudglobal.com^$third-party
 ||mcount.easebar.com^$third-party
-||mcp.posthog.com^$third-party
 ||mcs-ie.tiktokw.eu^$third-party
 ||mcs-va-useast2a.tiktokv.com^$third-party
 ||mcs-va.tiktokv.com^$third-party
@@ -39388,11 +39389,13 @@
 ||panda.unpublished.app^$third-party
 ||pandoiq.com^$third-party
 ||panorama.wixapps.net^$third-party
+||panoramicbutter.com^$third-party
 ||panther.essentialwellnessyoga.com.au^$third-party
 ||panther.familytools.app^$third-party
 ||panther.thestocks.im^$third-party
 ||panther.tigil.rs^$third-party
 ||pap.qualityunit.com^$third-party
+||papadustream.dad^$third-party
 ||papemz.rcwilley.com^$third-party
 ||papi.stylar.ai^$third-party
 ||papoto.com^$third-party
@@ -41207,7 +41210,6 @@
 ||provo1.eway.ca^$third-party
 ||proxima.midjourney.com^$third-party
 ||proxy-eu.posthog.com^$third-party
-||proxy-us.posthog.com^$third-party
 ||proxy.dzeio.com^$third-party
 ||proxy.trysavvy.com^$third-party
 ||prprocess.com^$third-party
@@ -70555,6 +70557,7 @@
 ||adult-trade.nl/lo/track.php^
 ||advancedmp3players.co.uk/themes/basic/js/analytics.js^
 ||advertisertape.com/stat/^
+||advertising.amazon.dev/v1/ad-events/^
 ||advgo.net/hits/^
 ||advgo.net/mushroom/^
 ||aemet.es/js/stats.js^
@@ -71461,6 +71464,7 @@
 ||desmos.com/analytics/js/^
 ||dev.to/fallback_activity_recorder^
 ||dev.visualwebsiteoptimizer.com/*/track-^
+||dev.visualwebsiteoptimizer.com/ping_tpc.php^
 ||developer.mozilla.org/submit/^
 ||developers.miro.com/pageview^
 ||developpez.com/public/js/log.js^
