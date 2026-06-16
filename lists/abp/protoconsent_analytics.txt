@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-! Version: 2026-06-15
-! Last modified: 2026-06-15T06:40:35.790Z
-! Entries: 11482
+! Version: 2026-06-16
+! Last modified: 2026-06-16T06:46:50.458Z
+! Entries: 11486
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -177,6 +177,7 @@
 ||adinsight.co.kr^$third-party
 ||adinte.jp^$third-party
 ||aditude.cloud^$third-party
+||adktracking-1671721947.eu-west-3.elb.amazonaws.com^$third-party
 ||adlc-exchange.toast.com^$third-party
 ||adlog.vivo.com.cn^$third-party
 ||admantx.com^$third-party
@@ -1017,7 +1018,8 @@
 ||axislogger.appspot.com^$third-party
 ||axp.abc27.com^$third-party
 ||axp.abc4.com^$third-party
-||axp.fox2now.com^$third-party
+||axp.fox4kc.com^$third-party
+||axp.fox59.com^$third-party
 ||axp.fox5sandiego.com^$third-party
 ||axp.fox8.com^$third-party
 ||axp.keloland.com^$third-party
@@ -1250,6 +1252,7 @@
 ||brilig.com^$third-party
 ||brilliantcollector.com^$third-party
 ||broadcastbed.com^$third-party
+||broadstreet.ai^$third-party
 ||brominer.com^$third-party
 ||bronto.com^$third-party
 ||browser-intake-datadoghq.com^$third-party
@@ -1978,6 +1981,7 @@
 ||data.em.viking.com^$third-party
 ||data.emb-api.com^$third-party
 ||data.embeddables.com^$third-party
+||data.eml.wegmans.com^$third-party
 ||data.eu.pendo.io^$third-party
 ||data.gosquared.com^$third-party
 ||data.hicloud.com^$third-party
@@ -2940,6 +2944,7 @@
 ||iconmediapixel.com^$third-party
 ||icstats.nl^$third-party
 ||id-visitors.com^$third-party
+||id.nbcuni.com^$third-party
 ||iddu1vvb7sk8-a.akamaihd.net^$third-party
 ||identification.hotmart.com^$third-party
 ||identitypxl.app^$third-party
@@ -3520,7 +3525,6 @@
 ||lokalwerben.t-online.de^$third-party
 ||lomadee.com^$third-party
 ||longloops.com^$third-party
-||lookmy.info^$third-party
 ||loon.analogjoe.com^$third-party
 ||loon.davidalindahl.com^$third-party
 ||loon.jrmyfranck.com^$third-party
@@ -4017,7 +4021,6 @@
 ||netdebit-counter.de^$third-party
 ||netgraviton.net^$third-party
 ||netlify-rum.netlify.app^$third-party
-||netlog.ru^$third-party
 ||netmarbleslog.netmarble.com^$third-party
 ||netminers.dk^$third-party
 ||netmonitor.fi^$third-party
@@ -4889,7 +4892,6 @@
 ||sanalytics.hallmark.com^$third-party
 ||sanalytics.hottopic.com^$third-party
 ||sanalytics.ksta.de^$third-party
-||sanalytics.metro.de^$third-party
 ||sanalytics.ncaa.com^$third-party
 ||sanalytics.spark.co.nz^$third-party
 ||sanalytics.tbs.com^$third-party
@@ -5158,7 +5160,6 @@
 ||smetric.olivegarden.com^$third-party
 ||smetric.schwab.com^$third-party
 ||smetric.schwabinstitutional.com^$third-party
-||smetric.schwabplan.com^$third-party
 ||smetric.trulia.com^$third-party
 ||smetrics-ieeexplore.ieee.org^$third-party
 ||smetrics.10daily.com.au^$third-party
@@ -5400,6 +5401,7 @@
 ||smetrics.napaonline.com^$third-party
 ||smetrics.nascar.com^$third-party
 ||smetrics.nationalgeneral.com^$third-party
+||smetrics.nationaltrust.org.uk^$third-party
 ||smetrics.nationwide.co.uk^$third-party
 ||smetrics.naturalizer.com^$third-party
 ||smetrics.newark.com^$third-party
@@ -5611,7 +5613,6 @@
 ||somni.alaskaair.com^$third-party
 ||somni.australia.com^$third-party
 ||somni.carecredit.com^$third-party
-||somni.carecreditprovidercenter.com^$third-party
 ||somni.choicehotels.com^$third-party
 ||somni.creditonebank.com^$third-party
 ||somni.deere.com^$third-party
@@ -5721,6 +5722,7 @@
 ||ssl.google-analytics.com^$third-party
 ||ssl.o.medicinenet.com^$third-party
 ||ssl.o.medscape.com^$third-party
+||ssl.o.vitals.com^$third-party
 ||sslstats.canadapost.ca^$third-party
 ||ssp.seznam.cz^$third-party
 ||sst.babypark.nl^$third-party
@@ -6053,7 +6055,6 @@
 ||statwup.huya.com^$third-party
 ||statystyki.panelek.com^$third-party
 ||stbg.standardbank.co.za^$third-party
-||stbg.standardbank.com^$third-party
 ||stetic.com^$third-party
 ||stg-data-collector.playbuzz.com^$third-party
 ||sticketsmetrics.masters.com^$third-party
@@ -7100,6 +7101,7 @@
 ||v-collector.dp.aws.charter.com^$third-party
 ||v.oui.sncf^$third-party
 ||v476.reporterherald.com^$third-party
+||v6analytics.htmedia.in.edgekey.net^$third-party
 ||va-endpoint.com^$third-party
 ||valencia-beacons.xumo.com^$third-party
 ||valuedopinions.co.uk^$third-party
@@ -7367,6 +7369,7 @@
 ||wrating.com^$third-party
 ||wren.camdenmecc.org.uk^$third-party
 ||wren.femi.io^$third-party
+||writewealth.com^$third-party
 ||writingcalls.com^$third-party
 ||ws.audioeye.com^$third-party
 ||ws3.smartp.com^$third-party
@@ -7465,6 +7468,7 @@
 ||zion-telemetry-nonprod.api.cnn.io^$third-party
 ||zion-telemetry.api.cnn.io^$third-party
 ||zippyfrog.co^$third-party
+||zirve100.com^$third-party
 ||ziyu.net^$third-party
 ||zontera.com^$third-party
 ||zoomanalytics.co^$third-party

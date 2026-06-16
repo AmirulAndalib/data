@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-06-15
-# Last modified: 2026-06-15T06:40:35.790Z
-# Entries: 7468
+# Version: 2026-06-16
+# Last modified: 2026-06-16T06:46:50.458Z
+# Entries: 7472
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -176,6 +176,7 @@
 0.0.0.0 adinsight.co.kr
 0.0.0.0 adinte.jp
 0.0.0.0 aditude.cloud
+0.0.0.0 adktracking-1671721947.eu-west-3.elb.amazonaws.com
 0.0.0.0 adlc-exchange.toast.com
 0.0.0.0 adlog.vivo.com.cn
 0.0.0.0 admantx.com
@@ -1016,7 +1017,8 @@
 0.0.0.0 axislogger.appspot.com
 0.0.0.0 axp.abc27.com
 0.0.0.0 axp.abc4.com
-0.0.0.0 axp.fox2now.com
+0.0.0.0 axp.fox4kc.com
+0.0.0.0 axp.fox59.com
 0.0.0.0 axp.fox5sandiego.com
 0.0.0.0 axp.fox8.com
 0.0.0.0 axp.keloland.com
@@ -1249,6 +1251,7 @@
 0.0.0.0 brilig.com
 0.0.0.0 brilliantcollector.com
 0.0.0.0 broadcastbed.com
+0.0.0.0 broadstreet.ai
 0.0.0.0 brominer.com
 0.0.0.0 bronto.com
 0.0.0.0 browser-intake-datadoghq.com
@@ -1977,6 +1980,7 @@
 0.0.0.0 data.em.viking.com
 0.0.0.0 data.emb-api.com
 0.0.0.0 data.embeddables.com
+0.0.0.0 data.eml.wegmans.com
 0.0.0.0 data.eu.pendo.io
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.hicloud.com
@@ -2939,6 +2943,7 @@
 0.0.0.0 iconmediapixel.com
 0.0.0.0 icstats.nl
 0.0.0.0 id-visitors.com
+0.0.0.0 id.nbcuni.com
 0.0.0.0 iddu1vvb7sk8-a.akamaihd.net
 0.0.0.0 identification.hotmart.com
 0.0.0.0 identitypxl.app
@@ -3519,7 +3524,6 @@
 0.0.0.0 lokalwerben.t-online.de
 0.0.0.0 lomadee.com
 0.0.0.0 longloops.com
-0.0.0.0 lookmy.info
 0.0.0.0 loon.analogjoe.com
 0.0.0.0 loon.davidalindahl.com
 0.0.0.0 loon.jrmyfranck.com
@@ -4016,7 +4020,6 @@
 0.0.0.0 netdebit-counter.de
 0.0.0.0 netgraviton.net
 0.0.0.0 netlify-rum.netlify.app
-0.0.0.0 netlog.ru
 0.0.0.0 netmarbleslog.netmarble.com
 0.0.0.0 netminers.dk
 0.0.0.0 netmonitor.fi
@@ -4888,7 +4891,6 @@
 0.0.0.0 sanalytics.hallmark.com
 0.0.0.0 sanalytics.hottopic.com
 0.0.0.0 sanalytics.ksta.de
-0.0.0.0 sanalytics.metro.de
 0.0.0.0 sanalytics.ncaa.com
 0.0.0.0 sanalytics.spark.co.nz
 0.0.0.0 sanalytics.tbs.com
@@ -5157,7 +5159,6 @@
 0.0.0.0 smetric.olivegarden.com
 0.0.0.0 smetric.schwab.com
 0.0.0.0 smetric.schwabinstitutional.com
-0.0.0.0 smetric.schwabplan.com
 0.0.0.0 smetric.trulia.com
 0.0.0.0 smetrics-ieeexplore.ieee.org
 0.0.0.0 smetrics.10daily.com.au
@@ -5399,6 +5400,7 @@
 0.0.0.0 smetrics.napaonline.com
 0.0.0.0 smetrics.nascar.com
 0.0.0.0 smetrics.nationalgeneral.com
+0.0.0.0 smetrics.nationaltrust.org.uk
 0.0.0.0 smetrics.nationwide.co.uk
 0.0.0.0 smetrics.naturalizer.com
 0.0.0.0 smetrics.newark.com
@@ -5610,7 +5612,6 @@
 0.0.0.0 somni.alaskaair.com
 0.0.0.0 somni.australia.com
 0.0.0.0 somni.carecredit.com
-0.0.0.0 somni.carecreditprovidercenter.com
 0.0.0.0 somni.choicehotels.com
 0.0.0.0 somni.creditonebank.com
 0.0.0.0 somni.deere.com
@@ -5720,6 +5721,7 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.o.medicinenet.com
 0.0.0.0 ssl.o.medscape.com
+0.0.0.0 ssl.o.vitals.com
 0.0.0.0 sslstats.canadapost.ca
 0.0.0.0 ssp.seznam.cz
 0.0.0.0 sst.babypark.nl
@@ -6052,7 +6054,6 @@
 0.0.0.0 statwup.huya.com
 0.0.0.0 statystyki.panelek.com
 0.0.0.0 stbg.standardbank.co.za
-0.0.0.0 stbg.standardbank.com
 0.0.0.0 stetic.com
 0.0.0.0 stg-data-collector.playbuzz.com
 0.0.0.0 sticketsmetrics.masters.com
@@ -7099,6 +7100,7 @@
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 v.oui.sncf
 0.0.0.0 v476.reporterherald.com
+0.0.0.0 v6analytics.htmedia.in.edgekey.net
 0.0.0.0 va-endpoint.com
 0.0.0.0 valencia-beacons.xumo.com
 0.0.0.0 valuedopinions.co.uk
@@ -7366,6 +7368,7 @@
 0.0.0.0 wrating.com
 0.0.0.0 wren.camdenmecc.org.uk
 0.0.0.0 wren.femi.io
+0.0.0.0 writewealth.com
 0.0.0.0 writingcalls.com
 0.0.0.0 ws.audioeye.com
 0.0.0.0 ws3.smartp.com
@@ -7464,6 +7467,7 @@
 0.0.0.0 zion-telemetry-nonprod.api.cnn.io
 0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 zippyfrog.co
+0.0.0.0 zirve100.com
 0.0.0.0 ziyu.net
 0.0.0.0 zontera.com
 0.0.0.0 zoomanalytics.co
