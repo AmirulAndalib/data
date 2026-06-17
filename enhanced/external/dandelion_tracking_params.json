@@ -1,10 +1,14 @@
 {
-  "version": "2026-06-16",
-  "generated": "2026-06-16T05:28:39.389Z",
+  "version": "2026-06-17",
+  "generated": "2026-06-17T05:21:06.615Z",
   "type": "tracking_params_sites",
-  "domain_count": 893,
-  "param_count": 1844,
+  "domain_count": 896,
+  "param_count": 1848,
   "sites": {
+    "pages.tmall.com": [
+      "tkSid",
+      "xMktId"
+    ],
     "theepochtimes.com": [
       "ea_med",
       "ea_src"
@@ -611,12 +615,13 @@
     "stanby.com": [
       "sr_fr"
     ],
+    "youtu.be": [
+      "is",
+      "si"
+    ],
     "youtube.com": [
       "is",
       "pp",
-      "si"
-    ],
-    "youtu.be": [
       "si"
     ],
     "myaccount.google.com": [
@@ -4187,6 +4192,13 @@
     "www.dropbox.com": [
       "_ad",
       "_camp"
+    ],
+    "photoshop.adobe.com": [
+      "mv",
+      "promoid"
+    ],
+    "apps.microsoft.com": [
+      "hasHeroImage"
     ],
     "ikea.com": [
       "f"
