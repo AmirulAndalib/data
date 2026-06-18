@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-! Version: 2026-06-17
-! Last modified: 2026-06-17T06:30:15.456Z
-! Entries: 11543
+! Version: 2026-06-18
+! Last modified: 2026-06-18T06:13:49.290Z
+! Entries: 11550
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -103,6 +103,8 @@
 ||abcompteur.com^$third-party
 ||abcstats.com^$third-party
 ||ablida.net^$third-party
+||ablink.comms.trainline.com^$third-party
+||ablinks.mail.hinge.co^$third-party
 ||aboardlevel.com^$third-party
 ||abovechat.com^$third-party
 ||abs.proxistore.com^$third-party
@@ -143,7 +145,6 @@
 ||ad.aloodo.com^$third-party
 ||ad.daum.net^$third-party
 ||ad5track.com^$third-party
-||ad7.bigmir.net^$third-party
 ||ad7.com^$third-party
 ||adactive.cz^$third-party
 ||adap.tv^$third-party
@@ -354,6 +355,7 @@
 ||analytic.337.com^$third-party
 ||analytic.angiang.gov.vn^$third-party
 ||analytic.baodantoc.vn^$third-party
+||analytic.hawaii.aaa.com^$third-party
 ||analytic.proxyme.link^$third-party
 ||analytic.rocks^$third-party
 ||analytic.rollout.io^$third-party
@@ -545,6 +547,7 @@
 ||analytics.gnetworks.xyz^$third-party
 ||analytics.google.com^$third-party
 ||analytics.gooogol.com^$third-party
+||analytics.govyy.com^$third-party
 ||analytics.greensender.pl^$third-party
 ||analytics.groupe-seb.com^$third-party
 ||analytics.growthphysics.com^$third-party
@@ -753,6 +756,7 @@
 ||analytics.tio.ch^$third-party
 ||analytics.tmonews.com^$third-party
 ||analytics.tn.kz^$third-party
+||analytics.tnt.africa^$third-party
 ||analytics.topseotoolkit.com^$third-party
 ||analytics.totalprosports.com^$third-party
 ||analytics.trbna.com^$third-party
@@ -1017,7 +1021,6 @@
 ||axislogger.appspot.com^$third-party
 ||axp.abc27.com^$third-party
 ||axp.abc4.com^$third-party
-||axp.cbs17.com^$third-party
 ||axp.fox2now.com^$third-party
 ||axp.fox4kc.com^$third-party
 ||axp.fox59.com^$third-party
@@ -1026,27 +1029,30 @@
 ||axp.kdvr.com^$third-party
 ||axp.keloland.com^$third-party
 ||axp.kfor.com^$third-party
+||axp.klfy.com^$third-party
+||axp.koin.com^$third-party
 ||axp.kron4.com^$third-party
 ||axp.ksn.com^$third-party
 ||axp.ktla.com^$third-party
 ||axp.kxan.com^$third-party
 ||axp.myfox8.com^$third-party
 ||axp.nbc4i.com^$third-party
+||axp.news10.com^$third-party
 ||axp.newsnationnow.com^$third-party
-||axp.ozarksfirst.com^$third-party
 ||axp.thehill.com^$third-party
 ||axp.wane.com^$third-party
 ||axp.wavy.com^$third-party
 ||axp.wfla.com^$third-party
 ||axp.wgntv.com^$third-party
 ||axp.who13.com^$third-party
-||axp.wjhl.com^$third-party
 ||axp.wjtv.com^$third-party
 ||axp.wkbn.com^$third-party
+||axp.wkrg.com^$third-party
 ||axp.wkrn.com^$third-party
 ||axp.woodtv.com^$third-party
 ||axp.wpri.com^$third-party
 ||axp.wreg.com^$third-party
+||axp.wric.com^$third-party
 ||axp.wtnh.com^$third-party
 ||az.nzn.io^$third-party
 ||azlej8cdm.pragmaticwebsecurity.com^$third-party
@@ -1147,7 +1153,6 @@
 ||beam.telex.hu^$third-party
 ||beamanalytics.b-cdn.net^$third-party
 ||beanstalkdata.com^$third-party
-||bear.builtbyborda.com^$third-party
 ||bear.datingrelationshipsadvice.com^$third-party
 ||bear.jake.nyc^$third-party
 ||bear.modulr.design^$third-party
@@ -1853,6 +1858,7 @@
 ||d-log.tv-asahi.co.jp^$third-party
 ||d-markets.net^$third-party
 ||d-stats.com^$third-party
+||d.adlpo.com^$third-party
 ||d.email.forbes.com^$third-party
 ||d.haberler.com^$third-party
 ||d.lilstts.com^$third-party
@@ -1980,7 +1986,6 @@
 ||data-ssl.stepstone.de^$third-party
 ||data.abc.es^$third-party
 ||data.circulate.com^$third-party
-||data.cs.officedepot.com^$third-party
 ||data.deep-content.io^$third-party
 ||data.digitalks.az^$third-party
 ||data.dow.com^$third-party
@@ -2000,7 +2005,6 @@
 ||data.mistat.india.xiaomi.com^$third-party
 ||data.mistat.rus.xiaomi.com^$third-party
 ||data.mistat.xiaomi.com^$third-party
-||data.mmail.northeast.aaa.com^$third-party
 ||data.nexxt.com^$third-party
 ||data.northeast.aaa.com^$third-party
 ||data.pendo.io^$third-party
@@ -2436,7 +2440,6 @@
 ||evt.ilovepdf.com^$third-party
 ||evyy.net^$third-party
 ||ewe.loudcrowd.com^$third-party
-||exactag.com^$third-party
 ||excitingdates.com^$third-party
 ||exe.bid^$third-party
 ||exlogcollector.sooplive.com^$third-party
@@ -2492,6 +2495,7 @@
 ||felidae.top10partnersuche.ch^$third-party
 ||femalecook.com^$third-party
 ||femetrics.grammarly.io^$third-party
+||feraciumus.com^$third-party
 ||ferret.ecvan.io^$third-party
 ||ferret.firstprogressivechurch.org^$third-party
 ||ferret.helpspace.com^$third-party
@@ -4475,6 +4479,7 @@
 ||pollster.pl^$third-party
 ||polymorphicads.jp^$third-party
 ||ponos.zeronaught.com^$third-party
+||poolcushions.com^$third-party
 ||popt.in^$third-party
 ||popup-static.unisender.com^$third-party
 ||porcupine.dvresolve.com^$third-party
@@ -4504,6 +4509,7 @@
 ||prefixpatriot.com^$third-party
 ||presetrabbits.com^$third-party
 ||prettybicycle.com^$third-party
+||prettydemo.com^$third-party
 ||preview-collector.scopely.io^$third-party
 ||prf.vagnt.com^$third-party
 ||prfct.co^$third-party
@@ -4618,6 +4624,7 @@
 ||qoijertneio.com^$third-party
 ||qortex.ai^$third-party
 ||qreport.qunar.com^$third-party
+||qri2r94eeajr.innovationcast.com^$third-party
 ||quadran.eu^$third-party
 ||quail.trueglowbylaura.com^$third-party
 ||qualaroo.com^$third-party
@@ -4847,7 +4854,6 @@
 ||s.agava.ru^$third-party
 ||s.ameriprisestats.com^$third-party
 ||s.autopilotapp.com^$third-party
-||s.blinds.com^$third-party
 ||s.gofile.io^$third-party
 ||s.hdsupplysolutions.com^$third-party
 ||s.infogram.com^$third-party
@@ -5132,6 +5138,7 @@
 ||simplereach.com^$third-party
 ||sincerebuffalo.com^$third-party
 ||sinfo.dtcidev.co^$third-party
+||sinmo.chasecenter.com^$third-party
 ||sirdata.eu^$third-party
 ||site24x7rum.com^$third-party
 ||sitebro.com^$third-party
@@ -5160,6 +5167,7 @@
 ||skylightdata.com^$third-party
 ||sl-h-statistics-ch-1.storeland.ru^$third-party
 ||slingpic.com^$third-party
+||sm.edweek.org^$third-party
 ||sm.stjude.org^$third-party
 ||smart-data-systems.com^$third-party
 ||smart-digital-solutions.com^$third-party
@@ -5201,7 +5209,6 @@
 ||smetrics.aia.com^$third-party
 ||smetrics.aida.de^$third-party
 ||smetrics.airmiles.ca^$third-party
-||smetrics.allianz.com.au^$third-party
 ||smetrics.allianzlife.com^$third-party
 ||smetrics.ambetterhealth.com^$third-party
 ||smetrics.americancentury.com^$third-party
@@ -5345,6 +5352,7 @@
 ||smetrics.goindigo.in^$third-party
 ||smetrics.golfgalaxy.com^$third-party
 ||smetrics.grainger.com^$third-party
+||smetrics.grandandtoy.com^$third-party
 ||smetrics.greatsouthernbank.com.au^$third-party
 ||smetrics.greendot.com^$third-party
 ||smetrics.groupama.fr^$third-party
@@ -5499,7 +5507,6 @@
 ||smetrics.rtl.nl^$third-party
 ||smetrics.saksoff5th.com^$third-party
 ||smetrics.salliemae.com^$third-party
-||smetrics.samedelman.com^$third-party
 ||smetrics.samsung.com^$third-party
 ||smetrics.samsung.com.cn^$third-party
 ||smetrics.santander.co.uk^$third-party
@@ -5528,6 +5535,7 @@
 ||smetrics.spdrs.com^$third-party
 ||smetrics.srpnet.com^$third-party
 ||smetrics.ssga.com^$third-party
+||smetrics.stanfordchildrens.org^$third-party
 ||smetrics.stanfordhealthcare.org^$third-party
 ||smetrics.staples.com^$third-party
 ||smetrics.staplesadvantage.com^$third-party
@@ -5741,7 +5749,6 @@
 ||ss.esade.edu^$third-party
 ||ssa.eurosport.com^$third-party
 ||ssa.eurosport.de^$third-party
-||ssa.eurosport.es^$third-party
 ||ssa.eurosport.fr^$third-party
 ||ssa.eurosport.it^$third-party
 ||ssa.eurosport.pl^$third-party
@@ -5771,6 +5778,7 @@
 ||ssl.google-analytics.com^$third-party
 ||ssl.o.medicinenet.com^$third-party
 ||ssl.o.medscape.com^$third-party
+||ssl.o.qxmd.com^$third-party
 ||ssl.o.vitals.com^$third-party
 ||sslstats.canadapost.ca^$third-party
 ||ssp.seznam.cz^$third-party
@@ -5964,7 +5972,6 @@
 ||stats.fairmont.com^$third-party
 ||stats.fifthstarlabs.io^$third-party
 ||stats.firedrive.com^$third-party
-||stats.flixhq.live^$third-party
 ||stats.fluorescent.co^$third-party
 ||stats.fomo.com^$third-party
 ||stats.fr^$third-party
@@ -6213,6 +6220,7 @@
 ||t.91syun.com^$third-party
 ||t.9gag.com^$third-party
 ||t.a3cloud.net^$third-party
+||t.adlpo.com^$third-party
 ||t.arcade.show^$third-party
 ||t.auditedmedia.org.au^$third-party
 ||t.bimvid.com^$third-party
@@ -7185,7 +7193,6 @@
 ||videe.tv^$third-party
 ||video-analytics-api.cloudinary.com^$third-party
 ||videoad.cz^$third-party
-||videobaba.xyz^$third-party
 ||videostat-new.index.hu^$third-party
 ||videostat.com^$third-party
 ||videostat.index.hu^$third-party
