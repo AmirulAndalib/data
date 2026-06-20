@@ -1,10 +1,23 @@
 {
-  "version": "2026-06-19",
-  "generated": "2026-06-19T05:25:42.275Z",
+  "version": "2026-06-20",
+  "generated": "2026-06-20T05:05:14.302Z",
   "type": "tracking_params_sites",
-  "domain_count": 896,
+  "domain_count": 897,
   "param_count": 1848,
   "sites": {
+    "owlclick.com": [
+      "campaign_id",
+      "source"
+    ],
+    "github.com": [
+      "email_source",
+      "email_token",
+      "ref_cta",
+      "ref_loc",
+      "ref_page",
+      "reference_location",
+      "source"
+    ],
     "pages.tmall.com": [
       "tkSid",
       "xMktId"
@@ -1838,15 +1851,6 @@
     ],
     "record.pt": [
       "ref"
-    ],
-    "github.com": [
-      "email_source",
-      "email_token",
-      "ref_cta",
-      "ref_loc",
-      "ref_page",
-      "reference_location",
-      "source"
     ],
     "fon.bet": [
       "affijet-click",
