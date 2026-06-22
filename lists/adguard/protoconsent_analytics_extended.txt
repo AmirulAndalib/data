@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-06-21T06:21:19.803Z
+! Last modified: 2026-06-22T06:45:59.333Z
 ! Format: AdGuard
-! Entries: 74689
+! Entries: 74707
 !
 ||0.myikas.com^$third-party
 ||0.net.easyjet.com^$third-party
@@ -4129,6 +4129,7 @@
 ||analytics.e.sherwin-williams.com^$third-party
 ||analytics.e2estudios.com^$third-party
 ||analytics.eamonlooney.com^$third-party
+||analytics.ean.org^$third-party
 ||analytics.ecitizen.go.ke^$third-party
 ||analytics.eclipso.de^$third-party
 ||analytics.ecosia.org^$third-party
@@ -5439,6 +5440,7 @@
 ||analytics.systemli.org^$third-party
 ||analytics.t-mobile.com^$third-party
 ||analytics.tabichan.jp^$third-party
+||analytics.tabmag.io^$third-party
 ||analytics.tactilews.com^$third-party
 ||analytics.talbots.com^$third-party
 ||analytics.talentegy.com^$third-party
@@ -5655,6 +5657,7 @@
 ||analytics.vdo.ai^$third-party
 ||analytics.vdst.de^$third-party
 ||analytics.vecer.com^$third-party
+||analytics.vecturagames.com^$third-party
 ||analytics.vedantu.com^$third-party
 ||analytics.veganhacktivists.org^$third-party
 ||analytics.velivery.com^$third-party
@@ -7937,7 +7940,6 @@
 ||beacon.klm.com^$third-party
 ||beacon.kmi-us.com^$third-party
 ||beacon.lycos.com^$third-party
-||beacon.my.salesforce.com^$third-party
 ||beacon.nc-net.or.jp^$third-party
 ||beacon.necotracks.jp^$third-party
 ||beacon.nikkansports.com^$third-party
@@ -7948,7 +7950,6 @@
 ||beacon.playback.api.brightcove.com^$third-party
 ||beacon.qq.com^$third-party
 ||beacon.radiko.jp^$third-party
-||beacon.rallydev.com^$third-party
 ||beacon.s.llnwi.net^$third-party
 ||beacon.samsclub.com^$third-party
 ||beacon.searchspring.io^$third-party
@@ -9792,6 +9793,7 @@
 ||click.techtree.jp^$third-party
 ||click.tv.repubblica.it^$third-party
 ||click.uol.com.br^$third-party
+||click1.net^$third-party
 ||click2.email.ticketmaster.com^$third-party
 ||click2.hd.sohu.com^$third-party
 ||click2buy.com^$third-party
@@ -14142,7 +14144,6 @@
 ||datamilk.app^$third-party
 ||datamma.guides.sloanservicing.com^$third-party
 ||datanoticias.prisasd.com^$third-party
-||dataofpages.com^$third-party
 ||dataperforma.com^$third-party
 ||datapickles.com^$third-party
 ||datapulse.app^$third-party
@@ -16808,6 +16809,7 @@
 ||eventgateway.soundcloud.com^$third-party
 ||eventlog.chatlead.com^$third-party
 ||eventlog.gryphline.com^$third-party
+||eventlog.inspsearchapi.com^$third-party
 ||eventlog.jackpot.de^$third-party
 ||eventos.abastur.com^$third-party
 ||eventos.cihac.com^$third-party
@@ -21380,6 +21382,7 @@
 ||hi.koalendar.com^$third-party
 ||hi.streetworkoutlist.com^$third-party
 ||hibar.hellohibar.com^$third-party
+||hibou.telephone.city^$third-party
 ||hiconversion.net^$third-party
 ||hidjoi.perfumesclub.com^$third-party
 ||hif.to^$third-party
@@ -24445,6 +24448,7 @@
 ||kite.zaahir.ca^$third-party
 ||kiteo.grindbasketball.com^$third-party
 ||kitkat.bantengtampan.xyz^$third-party
+||kitvc.net^$third-party
 ||kiuua.cycologygear.com^$third-party
 ||kiwari.com^$third-party
 ||kiwi.coreyodonnell.tech^$third-party
@@ -30087,6 +30091,7 @@
 ||matomo.foolstep.com^$third-party
 ||matomo.formula-agile.com^$third-party
 ||matomo.fornet.de^$third-party
+||matomo.fotball.no^$third-party
 ||matomo.fourchette-et-bikini.fr^$third-party
 ||matomo.fra3.timi.cz^$third-party
 ||matomo.freelock.com^$third-party
@@ -30110,6 +30115,7 @@
 ||matomo.global2000.at^$third-party
 ||matomo.gminvent.fr^$third-party
 ||matomo.gnm.de^$third-party
+||matomo.go-suite.com^$third-party
 ||matomo.golfiv.fr^$third-party
 ||matomo.goteborgco.se^$third-party
 ||matomo.granicus.com^$third-party
@@ -30360,6 +30366,7 @@
 ||matomo.nokportalen.se^$third-party
 ||matomo.noratis.de^$third-party
 ||matomo.nordseite.com^$third-party
+||matomo.novinet.de^$third-party
 ||matomo.now-gmbh.de^$third-party
 ||matomo.nrwision.de^$third-party
 ||matomo.ntl.cloud^$third-party
@@ -30604,6 +30611,7 @@
 ||matomo.tutu.ru^$third-party
 ||matomo.tvokazje.pl^$third-party
 ||matomo.tweddle.com^$third-party
+||matomo.typo-wimmer.at^$third-party
 ||matomo.u-paris2.fr^$third-party
 ||matomo.u.ar24.io^$third-party
 ||matomo.uk-erlangen.de^$third-party
@@ -30744,7 +30752,6 @@
 ||maxyield.ai^$third-party
 ||maz.zba.jp^$third-party
 ||maze.co^$third-party
-||mb-srv.com^$third-party
 ||mb-tracking.com^$third-party
 ||mb.etrackingserver.de^$third-party
 ||mb1-cdn.com^$third-party
@@ -31785,6 +31792,7 @@
 ||metrics.connox.at^$third-party
 ||metrics.connox.de^$third-party
 ||metrics.consumerreports.org^$third-party
+||metrics.consumersadvocate.org^$third-party
 ||metrics.contractingbusiness.com^$third-party
 ||metrics.controlloindiretta.com^$third-party
 ||metrics.conveniencestore.co.uk^$third-party
@@ -33318,6 +33326,7 @@
 ||mff.fairconstruction.com^$third-party
 ||mff.messefrankfurt.com^$third-party
 ||mffjt.nuethix.com^$third-party
+||mfilterit.net^$third-party
 ||mfmkkv.sorgenia.it^$third-party
 ||mfmls.mikesbikes.com^$third-party
 ||mfmqk.redbubble.com^$third-party
@@ -39984,6 +39993,7 @@
 ||piwik.easyhandling.nl^$third-party
 ||piwik.eboxx.at^$third-party
 ||piwik.ecoledirecte.com^$third-party
+||piwik.ecolo.be^$third-party
 ||piwik.ecv.de^$third-party
 ||piwik.edev.at^$third-party
 ||piwik.ekmd-online.de^$third-party
@@ -40005,6 +40015,7 @@
 ||piwik.fala-arbeitsschutz.de^$third-party
 ||piwik.familiennetz-bremen.de^$third-party
 ||piwik.femu.de^$third-party
+||piwik.fox.co.at^$third-party
 ||piwik.freakoutgames.com^$third-party
 ||piwik.freifunk.net^$third-party
 ||piwik.frida-frankfurt.de^$third-party
@@ -40183,6 +40194,7 @@
 ||piwik.secure-primarysite.net^$third-party
 ||piwik.secure.payu.com^$third-party
 ||piwik.selko.de^$third-party
+||piwik.server6.andrehotzler.de^$third-party
 ||piwik.services.amargo.de^$third-party
 ||piwik.services.schroeffu.ch^$third-party
 ||piwik.shc.eu^$third-party
@@ -69059,6 +69071,7 @@
 ||webserviceaward.com^$third-party
 ||webservices.websitepros.com^$third-party
 ||webservis.gen.tr^$third-party
+||website-analytics.net^$third-party
 ||website-analytics.prosigno.de^$third-party
 ||website-hit-counters.com^$third-party
 ||website-security.geotrust.com^$third-party
@@ -70489,6 +70502,7 @@
 ||zoomengage.com^$third-party
 ||zoomino.com^$third-party
 ||zoosnet.net^$third-party
+||zoossoft.net^$third-party
 ||zopqks.kavehome.com^$third-party
 ||zopxzq.premiata.it^$third-party
 ||zottl.ellevetsciences.com^$third-party
@@ -70922,6 +70936,7 @@
 ||api.sovendus.com/js/landing.js^
 ||api.streamelements.com/science/^
 ||api.tacotax.fr/v2/amplitude_trackers^
+||api.tally.so/forms/*/events^
 ||api.thefantazy.com/web-vitals^
 ||api.tsc.ca/Tracking/v1/events/^
 ||api.tv.de/*/tracking/^
@@ -71189,6 +71204,7 @@
 ||bokecc.com/flash/timerecorder?^
 ||bol.com/click/^
 ||bol.com/tracking/^
+||boldin.com/rails/arrival^
 ||bolt.com/v1/log?^
 ||bonmed.se/monitoring?^
 ||booking.com/87sduif98q3rijax^
@@ -72100,6 +72116,7 @@
 ||globalservices.conde.digital/p77xzrbz9z.js^
 ||globo.com/geo?^
 ||glomera.com/stats^
+||glowing.com/unilog^
 ||gmarket.co.kr/js/common/uuid.js^
 ||gmdigital.it/vtrack-staging.js^
 ||gmo-cybersecurity.com/siteseal/^
@@ -74010,6 +74027,7 @@
 ||tahoe.com/imp^
 ||taiwanplus.com/api/video/startVideo^
 ||talkingpointsmemo.com/whoami^
+||tally.so/api/forms/*/events^
 ||tanks.lv/top/stats.php^
 ||tanweb.net/wordpress/?rest_route=/sng/v1/page-count^
 ||taobao.com/tracker.^
