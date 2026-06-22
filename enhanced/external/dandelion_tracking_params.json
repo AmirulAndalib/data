@@ -1,10 +1,14 @@
 {
-  "version": "2026-06-21",
-  "generated": "2026-06-21T05:22:04.189Z",
+  "version": "2026-06-22",
+  "generated": "2026-06-22T05:27:58.537Z",
   "type": "tracking_params_sites",
-  "domain_count": 898,
+  "domain_count": 899,
   "param_count": 1849,
   "sites": {
+    "tally.so": [
+      "device",
+      "version"
+    ],
     "owlclick.com": [
       "campaign_id",
       "source"
