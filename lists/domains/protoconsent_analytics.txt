@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-06-22
-# Last modified: 2026-06-22T06:45:59.333Z
-# Entries: 7448
+# Version: 2026-06-23
+# Last modified: 2026-06-23T05:17:59.449Z
+# Entries: 7445
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -528,6 +528,7 @@ analytics.faceitanalytics.com
 analytics.faprika.net
 analytics.firespring.com
 analytics.flexclip.com
+analytics.football360.ir
 analytics.foresee.com
 analytics.formstack.com
 analytics.freemake.com
@@ -1014,6 +1015,8 @@ axf8.net
 axislogger.appspot.com
 axp.abc27.com
 axp.abc4.com
+axp.fox2now.com
+axp.fox59.com
 axp.fox5sandiego.com
 axp.fox8.com
 axp.keloland.com
@@ -1021,6 +1024,7 @@ axp.kfor.com
 axp.kron4.com
 axp.ksn.com
 axp.ktla.com
+axp.myfox8.com
 axp.nbc4i.com
 axp.newsnationnow.com
 axp.thehill.com
@@ -1251,7 +1255,6 @@ browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
 browser-statistik.de
 browser-updater.yandex.net
-browser.pipe.aria.microsoft.com
 browserguides.net
 brunchforher.com
 brwsrfrm.com
@@ -1835,7 +1838,6 @@ d-log.asahi.co.jp
 d-log.tv-asahi.co.jp
 d-markets.net
 d-stats.com
-d.adlpo.com
 d.email.forbes.com
 d.haberler.com
 d.lilstts.com
@@ -1980,7 +1982,6 @@ data.madridista-free.realmadrid.com
 data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
-data.mmail.northeast.aaa.com
 data.nexxt.com
 data.northeast.aaa.com
 data.pendo.io
@@ -1989,7 +1990,6 @@ data.replo.app
 data.trx.costco.com
 data0.bell.ca
 data2.gosquared.com
-databrain.com
 datacaciques.com
 datacollector-dra.dt.hicloud.com
 datacygnal.io
@@ -3497,7 +3497,6 @@ logs.netflix.com
 logs.openbank.com
 logs.psm.wmcdp.io
 logs.spilgames.com
-logs.viewstats.com
 logsbin.dantri.com.vn
 logsdk.kwai-pro.com
 logservice.hicloud.com
@@ -3554,6 +3553,7 @@ magic.prism.gg
 magpie.onething.org
 mail-count.matsui.co.jp
 mailstat.us
+maling.dn.no
 malog.byapps.co.kr
 manalyticshub.com
 manatee.biodom.bio
@@ -4812,6 +4812,7 @@ rvv.emol.com
 rw.marchex.io
 rybbit.sg-app.com
 s-omniture.yell.com
+s-sitecatalyst.work.shiseido.co.jp
 s.360.cn
 s.agava.ru
 s.ameriprisestats.com
@@ -4878,7 +4879,6 @@ sanalytics.express.de
 sanalytics.hallmark.com
 sanalytics.hottopic.com
 sanalytics.ksta.de
-sanalytics.metro.de
 sanalytics.ncaa.com
 sanalytics.spark.co.nz
 sanalytics.tbs.com
@@ -5138,10 +5138,10 @@ smartology.co
 smashsurprise.com
 smct.co
 smelt.allenpike.com
+smetric.4imprint.com
 smetric.biogen.com
 smetric.olivegarden.com
 smetric.schwab.com
-smetric.schwabinstitutional.com
 smetric.trulia.com
 smetrics-ieeexplore.ieee.org
 smetrics.10daily.com.au
@@ -5383,6 +5383,7 @@ smetrics.nab.com.au
 smetrics.napaonline.com
 smetrics.nascar.com
 smetrics.nationalgeneral.com
+smetrics.nationaltrust.org.uk
 smetrics.nationwide.co.uk
 smetrics.naturalizer.com
 smetrics.newark.com
@@ -5520,6 +5521,7 @@ smetrics.unipolsai.it
 smetrics.ups.com
 smetrics.usbank.com
 smetrics.vanguard.com
+smetrics.velocityfrequentflyer.com
 smetrics.viabcp.com
 smetrics.virginatlantic.com
 smetrics.virginaustralia.com
@@ -5528,6 +5530,7 @@ smetrics.vodafone.co.uk
 smetrics.vodafone.com.tr
 smetrics.vodafone.gr
 smetrics.vodafone.in
+smetrics.vodafone.qa
 smetrics.vogue-eyewear.com
 smetrics.vonage.com
 smetrics.vw.com
@@ -5593,7 +5596,6 @@ somni.accenture.com
 somni.alaskaair.com
 somni.australia.com
 somni.carecredit.com
-somni.carecreditprovidercenter.com
 somni.choicehotels.com
 somni.creditonebank.com
 somni.deere.com
@@ -5660,7 +5662,6 @@ spring-tns.net
 springmetrics.com
 spylog.com
 spylog.ru
-spynetalt.microsoft.com
 squeezely.tech
 squid.antevo.com.au
 squidanalytics.com
@@ -5683,7 +5684,6 @@ ssa.stepstone.com
 ssa.tlc.com
 ssac.suning.com
 ssacdn.com
-ssc.currenttime.tv
 ssc.cvent.com
 ssc.disneylandparis.com
 ssc.hl.co.uk
@@ -6035,6 +6035,7 @@ stattrax.com
 statwup.huya.com
 statystyki.panelek.com
 stbg.standardbank.co.za
+stbg.standardbank.com
 stetic.com
 stg-data-collector.playbuzz.com
 sticketsmetrics.masters.com
@@ -6139,7 +6140,6 @@ t.360playvid.info
 t.91syun.com
 t.9gag.com
 t.a3cloud.net
-t.adlpo.com
 t.arcade.show
 t.auditedmedia.org.au
 t.bimvid.com
@@ -6334,7 +6334,6 @@ telemetry.svc.transifex.net
 telemetry.swe.quicinc.com
 telemetry.tradingview.com
 telemetry.transcend.io
-telemetry.urs.microsoft.com
 telemetry.vtex.com
 telemetrydeck.com
 telize.com
@@ -7155,7 +7154,6 @@ vole.nettskaperne.no
 vole.noteapps.info
 vole.sonicrida.com
 vole.tsttechnology.com
-vortex.data.microsoft.com
 vortex.hulu.com
 voxus.com.br
 vplayeranalytics.vidgyor.com
@@ -7197,7 +7195,6 @@ wass.ihsmarkit.com
 watchtower.graindata.com
 waterboa.midu.dev
 waterboa.nighttrain.co
-watson.microsoft.com
 waudit.cz
 waust.at
 way2traffic.com
