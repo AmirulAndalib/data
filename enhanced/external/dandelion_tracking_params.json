@@ -1,10 +1,15 @@
 {
-  "version": "2026-06-22",
-  "generated": "2026-06-22T09:33:56.908Z",
+  "version": "2026-06-23",
+  "generated": "2026-06-23T07:05:27.451Z",
   "type": "tracking_params_sites",
-  "domain_count": 899,
-  "param_count": 1849,
+  "domain_count": 900,
+  "param_count": 1852,
   "sites": {
+    "cdn.modrinth.com": [
+      "mr_download_reason",
+      "mr_game_version",
+      "mr_loader"
+    ],
     "tally.so": [
       "device",
       "version"
