@@ -1,10 +1,10 @@
 {
-  "version": "2026-06-20",
+  "version": "2026-06-24",
   "type": "cmp_detectors",
-  "generated": "2026-06-20T07:38:31.407Z",
+  "generated": "2026-06-24T07:02:50.819Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "90f6113218549293",
-  "cmp_count": 303,
+  "autoconsent_tree_hash": "c0ac65207e525b3c",
+  "cmp_count": 304,
   "detectors": {
     "abc": {
       "present": [
@@ -804,6 +804,14 @@
       ],
       "showing": [
         "#pg-root-shadow-host"
+      ]
+    },
+    "dreamlabcmp": {
+      "present": [
+        ".cmp-app_gdpr"
+      ],
+      "showing": [
+        ".cmp-popup_popup"
       ]
     },
     "drupal": {

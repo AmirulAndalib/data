@@ -1,10 +1,10 @@
 {
-  "version": "2026-06-20",
+  "version": "2026-06-24",
   "type": "cmp_site",
-  "generated": "2026-06-20T07:38:31.398Z",
+  "generated": "2026-06-24T07:02:50.809Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "90f6113218549293",
-  "cmp_count": 248,
+  "autoconsent_tree_hash": "c0ac65207e525b3c",
+  "cmp_count": 249,
   "signatures": {
     "abconcerts_be": {
       "selector": "dialog.cookie-consent",
@@ -910,6 +910,17 @@
         ],
         "showing": [
           "#pg-root-shadow-host"
+        ]
+      }
+    },
+    "dreamlabcmp": {
+      "selector": ".cmp-popup_popup",
+      "detectors": {
+        "present": [
+          ".cmp-app_gdpr"
+        ],
+        "showing": [
+          ".cmp-popup_popup"
         ]
       }
     },

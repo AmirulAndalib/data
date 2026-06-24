@@ -1,10 +1,26 @@
 {
-  "version": "2026-06-23",
-  "generated": "2026-06-23T07:05:27.451Z",
+  "version": "2026-06-24",
+  "generated": "2026-06-24T07:02:51.083Z",
   "type": "tracking_params_sites",
-  "domain_count": 900,
-  "param_count": 1852,
+  "domain_count": 903,
+  "param_count": 1862,
   "sites": {
+    "livesex.com": [
+      "dpid",
+      "jumpReferrer",
+      "mr",
+      "ms_rnd",
+      "psid",
+      "psprogram",
+      "pstool"
+    ],
+    "onetwotrip.com": [
+      "meta_redirectid",
+      "srcmarker2"
+    ],
+    "ups.com": [
+      "src"
+    ],
     "cdn.modrinth.com": [
       "mr_download_reason",
       "mr_game_version",
@@ -1346,9 +1362,6 @@
     ],
     "avira.com": [
       "track"
-    ],
-    "plusgaming.yandex.ru": [
-      "clckid"
     ],
     "iotransfer.itopvpn.com": [
       "ref"
@@ -2867,6 +2880,11 @@
     ],
     "www.yandex": [
       "clid"
+    ],
+    "alice.yandex.ru": [
+      "device_id",
+      "utm_to",
+      "uuid"
     ],
     "docs.yandex": [
       "uid"
