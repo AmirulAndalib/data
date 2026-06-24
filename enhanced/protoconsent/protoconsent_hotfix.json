@@ -67,6 +67,12 @@
   "revocation_count": 61,
   "path_exceptions": [
     {
+      "urlFilter": "||an-sm.naughtycdn.com/js/lti-analytics-*.min.js",
+      "initiatorDomains": [
+        "members.naughtyamerica.com"
+      ]
+    },
+    {
       "urlFilter": "||blackbaud.net/proxy/api/track/"
     },
     {
@@ -845,5 +851,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 15
+  "path_exception_count": 16
 }
