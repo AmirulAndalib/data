@@ -1,9 +1,9 @@
 {
-  "version": "2026-06-24",
-  "generated": "2026-06-24T07:02:51.083Z",
+  "version": "2026-06-26",
+  "generated": "2026-06-26T07:37:01.005Z",
   "type": "tracking_params_sites",
-  "domain_count": 903,
-  "param_count": 1862,
+  "domain_count": 905,
+  "param_count": 1865,
   "sites": {
     "livesex.com": [
       "dpid",
@@ -4233,6 +4233,13 @@
     ],
     "lseg.com": [
       "referredBy"
+    ],
+    "www.ontario.ca": [
+      "redirect_id",
+      "redirect_year"
+    ],
+    "doctrine.fr": [
+      "sourcePage"
     ],
     "ikea.com": [
       "f"
