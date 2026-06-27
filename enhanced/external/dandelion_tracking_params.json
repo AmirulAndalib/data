@@ -1,9 +1,9 @@
 {
-  "version": "2026-06-26",
-  "generated": "2026-06-26T05:04:50.978Z",
+  "version": "2026-06-27",
+  "generated": "2026-06-27T05:00:50.675Z",
   "type": "tracking_params_sites",
   "domain_count": 905,
-  "param_count": 1865,
+  "param_count": 1864,
   "sites": {
     "livesex.com": [
       "dpid",
@@ -2831,7 +2831,6 @@
       "ref",
       "rf",
       "rp",
-      "state",
       "track",
       "transit_from",
       "transition_id",
@@ -2839,7 +2838,8 @@
       "via"
     ],
     "www.nicovideo.jp": [
-      "at"
+      "at",
+      "state"
     ],
     "live.nicovideo.jp": [
       "ch_anime_ref"
@@ -2882,9 +2882,7 @@
       "clid"
     ],
     "alice.yandex.ru": [
-      "device_id",
-      "utm_to",
-      "uuid"
+      "utm_to"
     ],
     "docs.yandex": [
       "uid"
