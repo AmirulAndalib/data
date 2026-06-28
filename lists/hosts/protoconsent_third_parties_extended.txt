@@ -1,8 +1,8 @@
 # Title: ProtoConsent Third Parties Extended
 # Description: Sharing or combining data with third parties, partners or group companies beyond the core service (extended - all sources)
-# Version: 2026-06-27
-# Last modified: 2026-06-27T05:06:44.395Z
-# Entries: 643
+# Version: 2026-06-28
+# Last modified: 2026-06-28T05:47:44.780Z
+# Entries: 558
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -53,8 +53,6 @@
 0.0.0.0 aajtak.pushwoosh.com
 0.0.0.0 ab-mknodepub.marketo.com
 0.0.0.0 ab023-deb30.api.pushwoosh.com
-0.0.0.0 abrtp1-cdn.marketo.com
-0.0.0.0 abrtp1.marketo.com
 0.0.0.0 act-on.com
 0.0.0.0 activecampaign.com
 0.0.0.0 ad8a8-97460.api.pushwoosh.com
@@ -77,33 +75,8 @@
 0.0.0.0 api.widget.zalo.me
 0.0.0.0 api2.wshareit.com
 0.0.0.0 apollo.io
-0.0.0.0 app-ab01.marketo.com
-0.0.0.0 app-ab02.marketo.com
-0.0.0.0 app-ab03.marketo.com
-0.0.0.0 app-ab04.marketo.com
 0.0.0.0 app-ab05.marketo.com
-0.0.0.0 app-ab06.marketo.com
-0.0.0.0 app-ab07.marketo.com
-0.0.0.0 app-ab08.marketo.com
 0.0.0.0 app-ab09.marketo.com
-0.0.0.0 app-ab10.marketo.com
-0.0.0.0 app-ab11.marketo.com
-0.0.0.0 app-ab12.marketo.com
-0.0.0.0 app-ab13.marketo.com
-0.0.0.0 app-ab14.marketo.com
-0.0.0.0 app-ab15.marketo.com
-0.0.0.0 app-ab16.marketo.com
-0.0.0.0 app-ab17.marketo.com
-0.0.0.0 app-ab18.marketo.com
-0.0.0.0 app-ab19.marketo.com
-0.0.0.0 app-ab20.marketo.com
-0.0.0.0 app-ab21.marketo.com
-0.0.0.0 app-ab22.marketo.com
-0.0.0.0 app-ab23.marketo.com
-0.0.0.0 app-ab24.marketo.com
-0.0.0.0 app-ab25.marketo.com
-0.0.0.0 app-ab26.marketo.com
-0.0.0.0 app-ab27.marketo.com
 0.0.0.0 app-ab28.marketo.com
 0.0.0.0 app-ab29.marketo.com
 0.0.0.0 app-ab30.marketo.com
@@ -111,58 +84,20 @@
 0.0.0.0 app-ab32.marketo.com
 0.0.0.0 app-ab33.marketo.com
 0.0.0.0 app-ab34.marketo.com
-0.0.0.0 app-aba.marketo.com
-0.0.0.0 app-abb.marketo.com
-0.0.0.0 app-abc.marketo.com
-0.0.0.0 app-abd.marketo.com
 0.0.0.0 app-abj.marketo.com
-0.0.0.0 app-abk.marketo.com
 0.0.0.0 app-abm.marketo.com
 0.0.0.0 app-abq.marketo.com
-0.0.0.0 app-e.marketo.com
-0.0.0.0 app-lon02.marketo.com
-0.0.0.0 app-lon03.marketo.com
-0.0.0.0 app-lon04.marketo.com
-0.0.0.0 app-lon05.marketo.com
-0.0.0.0 app-lon06.marketo.com
-0.0.0.0 app-lon07.marketo.com
-0.0.0.0 app-lon08.marketo.com
-0.0.0.0 app-sj01.marketo.com
-0.0.0.0 app-sj02.marketo.com
-0.0.0.0 app-sj03.marketo.com
 0.0.0.0 app-sj04.marketo.com
-0.0.0.0 app-sj05.marketo.com
-0.0.0.0 app-sj06.marketo.com
-0.0.0.0 app-sj07.marketo.com
-0.0.0.0 app-sj08.marketo.com
-0.0.0.0 app-sj09.marketo.com
-0.0.0.0 app-sj10.marketo.com
 0.0.0.0 app-sj11.marketo.com
-0.0.0.0 app-sj13.marketo.com
 0.0.0.0 app-sj14.marketo.com
-0.0.0.0 app-sj15.marketo.com
-0.0.0.0 app-sj16.marketo.com
-0.0.0.0 app-sj17.marketo.com
-0.0.0.0 app-sj19.marketo.com
-0.0.0.0 app-sj20.marketo.com
 0.0.0.0 app-sj21.marketo.com
 0.0.0.0 app-sj22.marketo.com
 0.0.0.0 app-sj24.marketo.com
 0.0.0.0 app-sj25.marketo.com
 0.0.0.0 app-sj28.marketo.com
-0.0.0.0 app-sjf.marketo.com
-0.0.0.0 app-sjg.marketo.com
-0.0.0.0 app-sjh.marketo.com
-0.0.0.0 app-sji.marketo.com
 0.0.0.0 app-sjl.marketo.com
-0.0.0.0 app-sjn.marketo.com
-0.0.0.0 app-sjo.marketo.com
-0.0.0.0 app-sjp.marketo.com
-0.0.0.0 app-sjqe.marketo.com
 0.0.0.0 app-sjst.marketo.com
-0.0.0.0 app-sn01.marketo.com
 0.0.0.0 app.harasocial.com
-0.0.0.0 app.marketo.com
 0.0.0.0 appdev.addthis.com
 0.0.0.0 asia.marketo.com
 0.0.0.0 askfm.pushwoosh.com
@@ -174,7 +109,6 @@
 0.0.0.0 autopilot.io
 0.0.0.0 b.6sc.co
 0.0.0.0 b2c-mlm.marketo.com
-0.0.0.0 b2c-msm.marketo.com
 0.0.0.0 ba.commentcamarche.net
 0.0.0.0 badge.facebook.com
 0.0.0.0 badges.instagram.com
@@ -366,8 +300,6 @@
 0.0.0.0 liveperson.net
 0.0.0.0 log.storelocatorwidgets.com
 0.0.0.0 lon-mknodepub.marketo.com
-0.0.0.0 lonrtp1-cdn.marketo.com
-0.0.0.0 lonrtp1.marketo.com
 0.0.0.0 loox.io
 0.0.0.0 mail.ru
 0.0.0.0 mailerlite.com
@@ -482,7 +414,6 @@
 0.0.0.0 richmedia.pushwoosh.com
 0.0.0.0 rollworks.com
 0.0.0.0 rotanev.iad-03.braze.com
-0.0.0.0 rtp-static.marketo.com
 0.0.0.0 s.sharethis.com
 0.0.0.0 sagan.iad-03.braze.com
 0.0.0.0 salesloft.com
@@ -519,27 +450,11 @@
 0.0.0.0 simplesharebuttons.com
 0.0.0.0 sirius.iad-03.braze.com
 0.0.0.0 sj-mknodepub.marketo.com
-0.0.0.0 sjrtp-cdn.marketo.com
-0.0.0.0 sjrtp1.marketo.com
-0.0.0.0 sjrtp2-cdn.marketo.com
-0.0.0.0 sjrtp2.marketo.com
-0.0.0.0 sjrtp3-cdn.marketo.com
 0.0.0.0 sjrtp3.marketo.com
 0.0.0.0 sjrtp4-cdn.marketo.com
-0.0.0.0 sjrtp4.marketo.com
-0.0.0.0 sjrtp5-cdn.marketo.com
-0.0.0.0 sjrtp5.marketo.com
-0.0.0.0 sjrtp6-cdn.marketo.com
-0.0.0.0 sjrtp6.marketo.com
-0.0.0.0 sjrtp7-cdn.marketo.com
-0.0.0.0 sjrtp7.marketo.com
-0.0.0.0 sjrtp8-cdn.marketo.com
-0.0.0.0 sjrtp8.marketo.com
 0.0.0.0 sleeknote.com
 0.0.0.0 smile.io
 0.0.0.0 snackly.co
-0.0.0.0 snrtp-cdn.marketo.com
-0.0.0.0 snrtp1.marketo.com
 0.0.0.0 social-touch.com
 0.0.0.0 socialloginplus-apps.haravan.com
 0.0.0.0 speedshare.app
