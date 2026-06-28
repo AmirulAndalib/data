@@ -722,6 +722,16 @@
       ]
     },
     {
+      "urlFilter": "||a.run.app/api/stat?",
+      "initiatorDomains": [
+        "cocowa.app"
+      ]
+    },
+    {
+      "urlFilter": "||directg.jp/js/fingerprint2.js",
+      "firstParty": true
+    },
+    {
       "urlFilter": "||chat.dbo-dengi.online/*/track?event=",
       "initiatorDomains": [
         "online.mtsdengi.ru"
@@ -804,6 +814,7 @@
         "pointmall.rakuten.co.jp",
         "realmadrid.com",
         "rfi.fr",
+        "root.cz",
         "rte.ie",
         "rumble.com",
         "s.yimg.jp",
@@ -851,5 +862,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 16
+  "path_exception_count": 18
 }
