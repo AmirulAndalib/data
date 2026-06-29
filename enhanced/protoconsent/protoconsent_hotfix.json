@@ -738,6 +738,12 @@
       ]
     },
     {
+      "urlFilter": "||a.vdo.ai/core/v-m-timesofindia-v3/vdo.ai.js",
+      "initiatorDomains": [
+        "timesofindia.indiatimes.com"
+      ]
+    },
+    {
       "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
       "initiatorDomains": [
         "247sports.com",
@@ -862,5 +868,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 18
+  "path_exception_count": 19
 }
