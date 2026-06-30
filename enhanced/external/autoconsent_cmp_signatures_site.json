@@ -1,9 +1,9 @@
 {
-  "version": "2026-06-24",
+  "version": "2026-06-30",
   "type": "cmp_site",
-  "generated": "2026-06-24T07:02:50.809Z",
+  "generated": "2026-06-30T07:37:45.982Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "c0ac65207e525b3c",
+  "autoconsent_tree_hash": "86fd98fb162bf145",
   "cmp_count": 249,
   "signatures": {
     "abconcerts_be": {
@@ -1600,10 +1600,10 @@
       "selector": "[class*=ConsentManager]",
       "detectors": {
         "present": [
-          "[class*=ConsentManager]"
+          "[class*=ConsentManager_cookieBar]"
         ],
         "showing": [
-          "[class*=ConsentManager]"
+          "[class*=ConsentManager_cookieBar]"
         ]
       }
     },
