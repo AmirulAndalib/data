@@ -559,7 +559,6 @@
         "cram.com",
         "devclass.com",
         "dholic.co.jp",
-        "docs.wps.com",
         "ecmweb.com",
         "ejgiftcards.com",
         "enmotive.com",
@@ -627,6 +626,7 @@
         "webstatus.dev",
         "winefolly.com",
         "winhappy.com",
+        "wps.com",
         "xl-bygg.no",
         "zf1.tohoku-epco.co.jp",
         "zipair.net"
@@ -741,6 +741,13 @@
       "urlFilter": "||a.vdo.ai/core/v-m-timesofindia-v3/vdo.ai.js",
       "initiatorDomains": [
         "timesofindia.indiatimes.com"
+      ]
+    },
+    {
+      "urlFilter": "||pub.doubleverify.com/dvtag/",
+      "initiatorDomains": [
+        "bbc.com",
+        "time.com"
       ]
     },
     {
@@ -868,5 +875,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 19
+  "path_exception_count": 20
 }
