@@ -1,10 +1,10 @@
 {
-  "version": "2026-06-30",
+  "version": "2026-07-01",
   "type": "cmp_detectors",
-  "generated": "2026-06-30T07:37:45.991Z",
+  "generated": "2026-07-01T07:57:58.628Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "86fd98fb162bf145",
-  "cmp_count": 304,
+  "autoconsent_tree_hash": "33aef9e60f19e777",
+  "cmp_count": 303,
   "detectors": {
     "abc": {
       "present": [
@@ -2220,14 +2220,6 @@
       ],
       "showing": [
         "#consent-banner button[data-testid='close-button']"
-      ]
-    },
-    "theverge": {
-      "present": [
-        ".duet--cta--cookie-banner"
-      ],
-      "showing": [
-        ".duet--cta--cookie-banner"
       ]
     },
     "tiktok": {

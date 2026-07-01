@@ -1,10 +1,10 @@
 {
-  "version": "2026-06-30",
+  "version": "2026-07-01",
   "type": "cmp_site",
-  "generated": "2026-06-30T07:37:45.982Z",
+  "generated": "2026-07-01T07:57:58.618Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "86fd98fb162bf145",
-  "cmp_count": 249,
+  "autoconsent_tree_hash": "33aef9e60f19e777",
+  "cmp_count": 248,
   "signatures": {
     "abconcerts_be": {
       "selector": "dialog.cookie-consent",
@@ -2418,17 +2418,6 @@
         ],
         "showing": [
           "#consent-banner button[data-testid='close-button']"
-        ]
-      }
-    },
-    "theverge": {
-      "selector": ".duet--cta--cookie-banner",
-      "detectors": {
-        "present": [
-          ".duet--cta--cookie-banner"
-        ],
-        "showing": [
-          ".duet--cta--cookie-banner"
         ]
       }
     },
