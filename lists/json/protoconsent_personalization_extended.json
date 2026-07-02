@@ -1,7 +1,7 @@
 {
   "name": "ProtoConsent Personalization Extended",
-  "version": "2026-06-13",
-  "generated": "2026-06-13T09:22:39.445Z",
+  "version": "2026-07-02",
+  "generated": "2026-07-02T05:12:54.700Z",
   "description": "Content/UX personalization, recommendations, profiling and behavioural A/B testing (extended - all sources)",
   "homepage": "https://github.com/ProtoConsent/data",
   "license": "GPL-3.0-or-later",
@@ -274,6 +274,7 @@
     "gw-metadata.euc1.dynamicyield.com",
     "hearst.amp.permutive.com",
     "hybrid.ai",
+    "id.crwdcntrl.net",
     "id.rlcdn.com",
     "idg.amp.permutive.com",
     "idio.ai",
@@ -406,7 +407,7 @@
     "xml.audiencedevelopers.com",
     "zeotap.com"
   ],
-  "domain_count": 399,
+  "domain_count": 400,
   "paths": [
     "||ak.sail-horizon.com/",
     "||bcp.crwdcntrl.net/",
@@ -414,6 +415,8 @@
     "||cdn.split.io/sdk/",
     "||crwdcntrl.net/5/c=",
     "||hatarako.net/api/recommend/analyze_logger",
+    "||heise.de/recommendation/m/impression",
+    "||heise.de/recommendation/m/view",
     "||indiatimes.com/personalisation/logdata/",
     "||logx.optimizely.com/",
     "||movableink-cdn.com/",
@@ -422,5 +425,5 @@
     "||suite.emarsys.net/predict/",
     "||tags.crwdcntrl.net/"
   ],
-  "path_count": 13
+  "path_count": 15
 }
