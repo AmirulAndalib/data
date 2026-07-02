@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-01",
+  "version": "2026-07-02",
   "type": "cmp_detectors",
-  "generated": "2026-07-01T05:11:18.610Z",
+  "generated": "2026-07-02T05:02:25.740Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "33aef9e60f19e777",
-  "cmp_count": 303,
+  "autoconsent_tree_hash": "c9aab8d5fe70e86b",
+  "cmp_count": 304,
   "detectors": {
     "abc": {
       "present": [
@@ -1453,6 +1453,14 @@
       ],
       "showing": [
         "#moove_gdpr_cookie_info_bar:not(.moove-gdpr-info-bar-hidden)"
+      ]
+    },
+    "msn": {
+      "present": [
+        "#cmp-banner-sdk"
+      ],
+      "showing": [
+        "#cmp-banner-sdk"
       ]
     },
     "nba_com": {
