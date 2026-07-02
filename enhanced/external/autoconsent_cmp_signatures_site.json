@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-01",
+  "version": "2026-07-02",
   "type": "cmp_site",
-  "generated": "2026-07-01T07:57:58.618Z",
+  "generated": "2026-07-02T06:56:40.084Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "33aef9e60f19e777",
-  "cmp_count": 248,
+  "autoconsent_tree_hash": "c9aab8d5fe70e86b",
+  "cmp_count": 249,
   "signatures": {
     "abconcerts_be": {
       "selector": "dialog.cookie-consent",
@@ -1565,6 +1565,17 @@
         ],
         "showing": [
           "#moove_gdpr_cookie_info_bar:not(.moove-gdpr-info-bar-hidden)"
+        ]
+      }
+    },
+    "msn": {
+      "selector": "#cmp-banner-sdk, .cmp-sdk-container",
+      "detectors": {
+        "present": [
+          "#cmp-banner-sdk"
+        ],
+        "showing": [
+          "#cmp-banner-sdk"
         ]
       }
     },
