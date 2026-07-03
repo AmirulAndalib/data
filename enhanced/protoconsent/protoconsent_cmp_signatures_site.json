@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-02",
+  "version": "2026-07-03",
   "type": "cmp_site",
-  "generated": "2026-07-02T05:02:25.731Z",
+  "generated": "2026-07-03T06:53:33.340Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "c9aab8d5fe70e86b",
-  "cmp_count": 249,
+  "autoconsent_tree_hash": "c250193edc31f42b",
+  "cmp_count": 250,
   "signatures": {
     "abconcerts_be": {
       "selector": "dialog.cookie-consent",
@@ -1831,6 +1831,17 @@
         ],
         "showing": [
           "#ccpaCookieBanner, .privacy-sheet-content"
+        ]
+      }
+    },
+    "pikpak": {
+      "selector": ".cookie-wrapper .cookie-tip",
+      "detectors": {
+        "present": [
+          ".cookie-wrapper .cookie-tip__container"
+        ],
+        "showing": [
+          ".cookie-wrapper .cookie-tip__text"
         ]
       }
     },
