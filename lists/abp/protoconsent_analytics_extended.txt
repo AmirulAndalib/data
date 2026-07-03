@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-07-02
-! Last modified: 2026-07-02T05:12:54.700Z
-! Entries: 74972
+! Version: 2026-07-03
+! Last modified: 2026-07-03T05:03:14.571Z
+! Entries: 74979
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -2379,7 +2379,6 @@
 ||ad1.tone.ne.jp^$third-party
 ||ad1x.com^$third-party
 ||ad5track.com^$third-party
-||ad7.bigmir.net^$third-party
 ||ad7.com^$third-party
 ||ada8-2.ampleur.jp^$third-party
 ||ada8.ampleur.jp^$third-party
@@ -3840,6 +3839,7 @@
 ||analytics.bkmobil.com.tr^$third-party
 ||analytics.blackboard.com^$third-party
 ||analytics.blackvoid.club^$third-party
+||analytics.blatter.tech^$third-party
 ||analytics.blender.org^$third-party
 ||analytics.blocksite.co^$third-party
 ||analytics.bloob.io^$third-party
@@ -4086,6 +4086,7 @@
 ||analytics.decidim.somenergia.coop^$third-party
 ||analytics.defikon.com^$third-party
 ||analytics.degreed.com^$third-party
+||analytics.delennerd.de^$third-party
 ||analytics.deltarune.wiki^$third-party
 ||analytics.demo.plateau.ng.open.law^$third-party
 ||analytics.denimdream.com^$third-party
@@ -4479,6 +4480,7 @@
 ||analytics.hetacv.be^$third-party
 ||analytics.hex.xyz^$third-party
 ||analytics.hiexpress.com^$third-party
+||analytics.hilfeportal-pinneberg.de^$third-party
 ||analytics.hiome.com^$third-party
 ||analytics.histmag.org^$third-party
 ||analytics.hitmaps.com^$third-party
@@ -4521,6 +4523,7 @@
 ||analytics.ibumovement.org^$third-party
 ||analytics.ica.se^$third-party
 ||analytics.icabanken.se^$third-party
+||analytics.icaforsakring.se^$third-party
 ||analytics.icagruppen.se^$third-party
 ||analytics.ics.muni.cz^$third-party
 ||analytics.id.amazongames.com^$third-party
@@ -5776,6 +5779,7 @@
 ||analytics.vivint.com^$third-party
 ||analytics.vixcloud.co^$third-party
 ||analytics.vkdoc.net^$third-party
+||analytics.vmn-diy.de^$third-party
 ||analytics.vnncdn.net^$third-party
 ||analytics.vnpt.vn^$third-party
 ||analytics.voissa.fr^$third-party
@@ -7865,6 +7869,7 @@
 ||baidu.com^$third-party
 ||baifendian.com^$third-party
 ||baikalize.com^$third-party
+||balancenotes.com^$third-party
 ||baldeagle.e-ma.re^$third-party
 ||balloonbit.com^$third-party
 ||ballr.jamesoro.com^$third-party
@@ -8126,6 +8131,7 @@
 ||belze.chromadrum.com^$third-party
 ||bemfc.netconnectdigital.com^$third-party
 ||bemobtracks.com^$third-party
+||benchmarkonline.app^$third-party
 ||benchtag2.co^$third-party
 ||beneficios.davivienda.hn^$third-party
 ||beneficios.davivienda.sv^$third-party
@@ -21863,6 +21869,7 @@
 ||hypers.com.cn^$third-party
 ||hypestat.com^$third-party
 ||hyrankhit.meldingcloud.com^$third-party
+||hytrack.top^$third-party
 ||hyxvec.michaelpage.co.jp^$third-party
 ||hz-telemetry-next.adobe.io^$third-party
 ||hz-telemetry.adobe.io^$third-party
@@ -25037,7 +25044,6 @@
 ||leads.commercial.keurig.com^$third-party
 ||leads.radioedit.iheart.com^$third-party
 ||leads.whatboxdigital.com^$third-party
-||leadsandmore.go2cloud.org^$third-party
 ||leadsius.com^$third-party
 ||leadslabpixels.net^$third-party
 ||leadsleap.com^$third-party
@@ -25061,6 +25067,7 @@
 ||learn.certiport.com^$third-party
 ||learn.corneagen.com^$third-party
 ||learn.creditacceptance.com^$third-party
+||learn.evidenceinmotion.com^$third-party
 ||learn.fhlbny.com^$third-party
 ||learn.huthwaite.com^$third-party
 ||learn.image-iq.com^$third-party
@@ -30357,6 +30364,7 @@
 ||matomo.kein-taeter-werden.de^$third-party
 ||matomo.kelcible.com^$third-party
 ||matomo.kembase.de^$third-party
+||matomo.kera-fliesenshop.de^$third-party
 ||matomo.kinderaerzte-im-netz.de^$third-party
 ||matomo.kinderfreunde.at^$third-party
 ||matomo.kjf-regensburg.de^$third-party
@@ -46968,6 +46976,7 @@
 ||sgtm.ajax.nl^$third-party
 ||sgtm.ajen.care^$third-party
 ||sgtm.akibahouse.com^$third-party
+||sgtm.aktenvernichtung.de^$third-party
 ||sgtm.akuwoodpanel.com^$third-party
 ||sgtm.aldemarolympianvillage.gr^$third-party
 ||sgtm.alekos.dk^$third-party
@@ -48327,7 +48336,6 @@
 ||shakil.per-la.com^$third-party
 ||share.outgrow.biz^$third-party
 ||shareaholic.net^$third-party
-||shareasale-analytics.com^$third-party
 ||shared.65twenty.com^$third-party
 ||sharedid.org^$third-party
 ||shark.getplayback.com^$third-party
@@ -64644,7 +64652,6 @@
 ||traces.youdo.com^$third-party
 ||traceworks.com^$third-party
 ||tracing.yelp.com^$third-party
-||track-api.gamesight.io^$third-party
 ||track-aws.notsy.io^$third-party
 ||track-dark-bz.b-cdn.net^$third-party
 ||track-e.cypress.com^$third-party
@@ -68162,7 +68169,6 @@
 ||v2stats.bio.link^$third-party
 ||v4.inviteeducation.com^$third-party
 ||v476.reporterherald.com^$third-party
-||v6analytics.htmedia.in.edgekey.net^$third-party
 ||va-endpoint.com^$third-party
 ||va6test.va6prodt.test.cjmadobe.com^$third-party
 ||vacationbetter.inspirato.com^$third-party
@@ -72414,6 +72420,7 @@
 ||googletagmanager.com/gtm.js?^
 ||googleusercontent.com/*/wf/open?upn=^
 ||googleusercontent.com/tracker/^
+||gopay.sh/collect^
 ||gotdns.com/track/blank.aspx?^
 ||gotmojo.com/track/^
 ||gotolstoy.com/events/^
