@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-03",
+  "version": "2026-07-04",
   "type": "cmp_detectors",
-  "generated": "2026-07-03T06:50:38.875Z",
+  "generated": "2026-07-04T06:36:55.672Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "c250193edc31f42b",
-  "cmp_count": 305,
+  "autoconsent_tree_hash": "53ba60f77ea736eb",
+  "cmp_count": 306,
   "detectors": {
     "abc": {
       "present": [
@@ -1679,6 +1679,17 @@
       ],
       "showing": [
         "#ccpaCookieBanner, .privacy-sheet-content"
+      ]
+    },
+    "piano_io": {
+      "present": [
+        "#piano-cookie_banner"
+      ],
+      "showing": [
+        "#piano-cookie_banner"
+      ],
+      "domains": [
+        "piano.io"
       ]
     },
     "pikpak": {
