@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics Extended
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-# Version: 2026-07-04
-# Last modified: 2026-07-04T04:58:59.047Z
-# Entries: 136203
+# Version: 2026-07-05
+# Last modified: 2026-07-05T05:13:24.069Z
+# Entries: 136211
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -83,6 +83,7 @@
 0.0.0.0 1269364064.myboxio.com
 0.0.0.0 1281374161.mybacs.com
 0.0.0.0 1281810506.akindstore.com
+0.0.0.0 12915784.care.sanvello.com
 0.0.0.0 12build.actonservice.com
 0.0.0.0 1313799950.metaflow.de
 0.0.0.0 131events.net
@@ -140,6 +141,7 @@
 0.0.0.0 19035955.mktg.tajawal.com
 0.0.0.0 1909a8.satofull.jp
 0.0.0.0 1911810966.gisou.com
+0.0.0.0 1976.hallswindowcenter.com
 0.0.0.0 1981084514.brunobanani.com
 0.0.0.0 1983367838.poramesa.com
 0.0.0.0 1984.b.delire.party
@@ -192,7 +194,10 @@
 0.0.0.0 2-aclk.net
 0.0.0.0 2-instant.okcupid.com
 0.0.0.0 2-lt.com
+0.0.0.0 2.brinkshome.com
+0.0.0.0 2.krayden.com
 0.0.0.0 2.marketline.com
+0.0.0.0 2.worktango.io
 0.0.0.0 2.yuliannas.com
 0.0.0.0 20.edge46.testandtarget.omniture.com
 0.0.0.0 200summit.com
@@ -349,6 +354,7 @@
 0.0.0.0 3146232460.sunday.at
 0.0.0.0 3149749527.ooono.com
 0.0.0.0 3161037243.shavent.store
+0.0.0.0 319dn.dieti-natura.com
 0.0.0.0 3201098576.tactree.co.uk
 0.0.0.0 3229688005.miss-goodlife.com
 0.0.0.0 3243461368.ryzon.net
@@ -4637,6 +4643,7 @@
 0.0.0.0 alcotestspro-ss.offeroshop.com
 0.0.0.0 ald.aldautomotive.be
 0.0.0.0 aldpfk2trk.com
+0.0.0.0 aleloinst.tt.omtrdc.net
 0.0.0.0 alertafterthought.com
 0.0.0.0 alertarithmetic.com
 0.0.0.0 alertbot.co.uk
@@ -20614,7 +20621,6 @@
 0.0.0.0 beacon.kmi-us.com
 0.0.0.0 beacon.lycos.com
 0.0.0.0 beacon.mitremedia.org
-0.0.0.0 beacon.my.salesforce.com
 0.0.0.0 beacon.nc-net.or.jp
 0.0.0.0 beacon.necotracks.jp
 0.0.0.0 beacon.nikkansports.com
@@ -30156,6 +30162,7 @@
 0.0.0.0 data-ff5b197ecc.traceparts.com
 0.0.0.0 data-fh.ext.hpe.com
 0.0.0.0 data-forecast.ru
+0.0.0.0 data-inbank01.wt-eu02.net
 0.0.0.0 data-ingest.xtralife.com
 0.0.0.0 data-insight365.com
 0.0.0.0 data-kinesis.us-west-2.amazonaws.com
@@ -36903,7 +36910,6 @@
 0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 evt-api.ntm.eu
 0.0.0.0 evt-eu.klarnaservices.com
-0.0.0.0 evt.24.com
 0.0.0.0 evt.cameo.com
 0.0.0.0 evt.collarity.com
 0.0.0.0 evt.houzz.com
@@ -38689,6 +38695,7 @@
 0.0.0.0 fsrre.nextiva.com
 0.0.0.0 fss-analytics.fullsailsystems.com
 0.0.0.0 fss.glbank.com
+0.0.0.0 fss.tt.omtrdc.net
 0.0.0.0 fssvv.sienasleep.com
 0.0.0.0 fst-ec.perimeterx.net
 0.0.0.0 fsta.leboncoin.info
@@ -62590,7 +62597,6 @@
 0.0.0.0 mcomint02.com
 0.0.0.0 mcorpcx.com
 0.0.0.0 mcount.easebar.com
-0.0.0.0 mcp.posthog.com
 0.0.0.0 mcp.tvinteractive.tv
 0.0.0.0 mcs-ie.tiktokw.eu
 0.0.0.0 mcs-va-useast2a.tiktokv.com
@@ -72334,6 +72340,7 @@
 0.0.0.0 nationalaustraliaban.tt.omtrdc.net
 0.0.0.0 nationalgeographic.hb-api.omtrdc.net
 0.0.0.0 nationallistservices.com
+0.0.0.0 nationaltrust.tt.omtrdc.net
 0.0.0.0 native-ads-events-api.c4s-rd.services
 0.0.0.0 native-ads-events-api2.c4s-rd.services
 0.0.0.0 native-log-collect.gryphline.com
@@ -124111,6 +124118,7 @@
 0.0.0.0 tkacr443.alphonso.tv
 0.0.0.0 tkacr444.alphonso.tv
 0.0.0.0 tkacr445.alphonso.tv
+0.0.0.0 tkacr446.alphonso.tv
 0.0.0.0 tkacr447.alphonso.tv
 0.0.0.0 tkacr448.alphonso.tv
 0.0.0.0 tkacr449.alphonso.tv
@@ -125166,6 +125174,7 @@
 0.0.0.0 tr.email.thelem-assurances.fr
 0.0.0.0 tr.email.toute-la-franchise.com
 0.0.0.0 tr.email.videofutur.fr
+0.0.0.0 tr.email.virtual-expo.com
 0.0.0.0 tr.email.voyagesleclerc.com
 0.0.0.0 tr.emailatia.fr
 0.0.0.0 tr.emailing-wishesfactory.com
@@ -131766,7 +131775,6 @@
 0.0.0.0 v4gtm.lucascalado.com.br
 0.0.0.0 v4tpxg9m.com
 0.0.0.0 v5fsk8kjd.com
-0.0.0.0 v6analytics.htmedia.in.edgekey.net
 0.0.0.0 v710.newyorkupstate.com
 0.0.0.0 v7fhugd.com
 0.0.0.0 v8hj3d6j.com

@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-07-04T04:58:59.047Z
+! Last modified: 2026-07-05T05:13:24.069Z
 ! Format: AdGuard
-! Entries: 140302
+! Entries: 140316
 !
 ||0.myikas.com^$third-party
 ||0.net.easyjet.com^$third-party
@@ -83,6 +83,7 @@
 ||1269364064.myboxio.com^$third-party
 ||1281374161.mybacs.com^$third-party
 ||1281810506.akindstore.com^$third-party
+||12915784.care.sanvello.com^$third-party
 ||12build.actonservice.com^$third-party
 ||1313799950.metaflow.de^$third-party
 ||131events.net^$third-party
@@ -140,6 +141,7 @@
 ||19035955.mktg.tajawal.com^$third-party
 ||1909a8.satofull.jp^$third-party
 ||1911810966.gisou.com^$third-party
+||1976.hallswindowcenter.com^$third-party
 ||1981084514.brunobanani.com^$third-party
 ||1983367838.poramesa.com^$third-party
 ||1984.b.delire.party^$third-party
@@ -192,7 +194,10 @@
 ||2-aclk.net^$third-party
 ||2-instant.okcupid.com^$third-party
 ||2-lt.com^$third-party
+||2.brinkshome.com^$third-party
+||2.krayden.com^$third-party
 ||2.marketline.com^$third-party
+||2.worktango.io^$third-party
 ||2.yuliannas.com^$third-party
 ||20.edge46.testandtarget.omniture.com^$third-party
 ||200summit.com^$third-party
@@ -349,6 +354,7 @@
 ||3146232460.sunday.at^$third-party
 ||3149749527.ooono.com^$third-party
 ||3161037243.shavent.store^$third-party
+||319dn.dieti-natura.com^$third-party
 ||3201098576.tactree.co.uk^$third-party
 ||3229688005.miss-goodlife.com^$third-party
 ||3243461368.ryzon.net^$third-party
@@ -4637,6 +4643,7 @@
 ||alcotestspro-ss.offeroshop.com^$third-party
 ||ald.aldautomotive.be^$third-party
 ||aldpfk2trk.com^$third-party
+||aleloinst.tt.omtrdc.net^$third-party
 ||alertafterthought.com^$third-party
 ||alertarithmetic.com^$third-party
 ||alertbot.co.uk^$third-party
@@ -20614,7 +20621,6 @@
 ||beacon.kmi-us.com^$third-party
 ||beacon.lycos.com^$third-party
 ||beacon.mitremedia.org^$third-party
-||beacon.my.salesforce.com^$third-party
 ||beacon.nc-net.or.jp^$third-party
 ||beacon.necotracks.jp^$third-party
 ||beacon.nikkansports.com^$third-party
@@ -30156,6 +30162,7 @@
 ||data-ff5b197ecc.traceparts.com^$third-party
 ||data-fh.ext.hpe.com^$third-party
 ||data-forecast.ru^$third-party
+||data-inbank01.wt-eu02.net^$third-party
 ||data-ingest.xtralife.com^$third-party
 ||data-insight365.com^$third-party
 ||data-kinesis.us-west-2.amazonaws.com^$third-party
@@ -36903,7 +36910,6 @@
 ||evs.sgmt.loom.com^$third-party
 ||evt-api.ntm.eu^$third-party
 ||evt-eu.klarnaservices.com^$third-party
-||evt.24.com^$third-party
 ||evt.cameo.com^$third-party
 ||evt.collarity.com^$third-party
 ||evt.houzz.com^$third-party
@@ -38689,6 +38695,7 @@
 ||fsrre.nextiva.com^$third-party
 ||fss-analytics.fullsailsystems.com^$third-party
 ||fss.glbank.com^$third-party
+||fss.tt.omtrdc.net^$third-party
 ||fssvv.sienasleep.com^$third-party
 ||fst-ec.perimeterx.net^$third-party
 ||fsta.leboncoin.info^$third-party
@@ -62590,7 +62597,6 @@
 ||mcomint02.com^$third-party
 ||mcorpcx.com^$third-party
 ||mcount.easebar.com^$third-party
-||mcp.posthog.com^$third-party
 ||mcp.tvinteractive.tv^$third-party
 ||mcs-ie.tiktokw.eu^$third-party
 ||mcs-va-useast2a.tiktokv.com^$third-party
@@ -72334,6 +72340,7 @@
 ||nationalaustraliaban.tt.omtrdc.net^$third-party
 ||nationalgeographic.hb-api.omtrdc.net^$third-party
 ||nationallistservices.com^$third-party
+||nationaltrust.tt.omtrdc.net^$third-party
 ||native-ads-events-api.c4s-rd.services^$third-party
 ||native-ads-events-api2.c4s-rd.services^$third-party
 ||native-log-collect.gryphline.com^$third-party
@@ -124111,6 +124118,7 @@
 ||tkacr443.alphonso.tv^$third-party
 ||tkacr444.alphonso.tv^$third-party
 ||tkacr445.alphonso.tv^$third-party
+||tkacr446.alphonso.tv^$third-party
 ||tkacr447.alphonso.tv^$third-party
 ||tkacr448.alphonso.tv^$third-party
 ||tkacr449.alphonso.tv^$third-party
@@ -125166,6 +125174,7 @@
 ||tr.email.thelem-assurances.fr^$third-party
 ||tr.email.toute-la-franchise.com^$third-party
 ||tr.email.videofutur.fr^$third-party
+||tr.email.virtual-expo.com^$third-party
 ||tr.email.voyagesleclerc.com^$third-party
 ||tr.emailatia.fr^$third-party
 ||tr.emailing-wishesfactory.com^$third-party
@@ -131766,7 +131775,6 @@
 ||v4gtm.lucascalado.com.br^$third-party
 ||v4tpxg9m.com^$third-party
 ||v5fsk8kjd.com^$third-party
-||v6analytics.htmedia.in.edgekey.net^$third-party
 ||v710.newyorkupstate.com^$third-party
 ||v7fhugd.com^$third-party
 ||v8hj3d6j.com^$third-party
@@ -136302,7 +136310,13 @@
 ||adbr.io/log?^
 ||adc-srv.net/retargeting.php^
 ||addtoany.com/menu/transparent.gif^
+||adguard-dns.io/-/event/^
+||adguard-dns.io/-/logs/^
+||adguard-dns.io/-/metrics/^
 ||adguard.com/-/event/^
+||adguardcheckout.com/-/event/^
+||adguardcheckout.com/-/logs/^
+||adguardcheckout.com/-/metrics/^
 ||adimo.co/api/tracking/^
 ||adm24.de/hp_counter/^
 ||adme.media/metric-collector^
