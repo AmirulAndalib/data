@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-04",
+  "version": "2026-07-07",
   "type": "cmp_detectors",
-  "generated": "2026-07-04T06:36:55.672Z",
+  "generated": "2026-07-07T07:03:50.599Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "53ba60f77ea736eb",
-  "cmp_count": 306,
+  "autoconsent_tree_hash": "d82b9801d1f47839",
+  "cmp_count": 307,
   "detectors": {
     "abc": {
       "present": [
@@ -356,6 +356,17 @@
       ],
       "domains": [
         "canyon.com"
+      ]
+    },
+    "carre_nl": {
+      "present": [
+        "#cookie-notification .cookie_pref_wrapper .pref-opt.refuse"
+      ],
+      "showing": [
+        "#cookie-notification"
+      ],
+      "domains": [
+        "carre.nl"
       ]
     },
     "cassie": {
@@ -1360,7 +1371,7 @@
     },
     "lineagrafica": {
       "present": [
-        "#lgcookieslaw_banner,#lgcookieslaw_modal,.lgcookieslaw-overlay"
+        "#lgcookieslaw_banner,#lgcookieslaw_modal,#lgcookieslaw-modal,.lgcookieslaw-overlay,.lgcookieslaw_overlay"
       ],
       "showing": []
     },

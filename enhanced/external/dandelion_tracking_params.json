@@ -1,8 +1,8 @@
 {
-  "version": "2026-07-04",
-  "generated": "2026-07-04T06:36:55.832Z",
+  "version": "2026-07-07",
+  "generated": "2026-07-07T07:03:51.106Z",
   "type": "tracking_params_sites",
-  "domain_count": 907,
+  "domain_count": 908,
   "param_count": 1871,
   "sites": {
     "number.bunshun.jp": [
@@ -3137,7 +3137,6 @@
       "share_session_id",
       "share_source",
       "share_tag",
-      "source",
       "source_id",
       "spm_id_from",
       "spmid",
@@ -3151,6 +3150,9 @@
       "unique_k",
       "up_id",
       "vd_source"
+    ],
+    "www.bilibili.com": [
+      "source"
     ],
     "search.bilibili.com": [
       "from_source"
