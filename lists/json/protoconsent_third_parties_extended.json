@@ -1,7 +1,7 @@
 {
   "name": "ProtoConsent Third Parties Extended",
-  "version": "2026-07-06",
-  "generated": "2026-07-06T05:41:03.994Z",
+  "version": "2026-07-07",
+  "generated": "2026-07-07T05:12:33.914Z",
   "description": "Sharing or combining data with third parties, partners or group companies beyond the core service (extended - all sources)",
   "homepage": "https://github.com/ProtoConsent/data",
   "license": "GPL-3.0-or-later",
@@ -322,6 +322,7 @@
     "metrics-eu.cometchat.io",
     "metrics-fe-ap1.hubspot.com",
     "metrics-fe-na2.hubspot.com",
+    "metrics-fe-na3.hubspot.com",
     "metrics-nobroker.cometchat.io",
     "metrics-us-blue.cometchat.io",
     "metrics.api.drift.com",
@@ -570,7 +571,7 @@
     "yotpo.com",
     "zoominfo.com"
   ],
-  "domain_count": 563,
+  "domain_count": 564,
   "paths": [
     "||4399.com/plugins/tj/event?",
     "||adweek.com/wp-content/plugins/adw-parsley/",

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Third Parties Extended
 ! Description: Sharing or combining data with third parties, partners or group companies beyond the core service (extended - all sources)
-! Version: 2026-07-06
-! Last modified: 2026-07-06T05:41:03.994Z
-! Entries: 759
+! Version: 2026-07-07
+! Last modified: 2026-07-07T05:12:33.914Z
+! Entries: 760
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -323,6 +323,7 @@
 ||metrics-eu.cometchat.io^$third-party
 ||metrics-fe-ap1.hubspot.com^$third-party
 ||metrics-fe-na2.hubspot.com^$third-party
+||metrics-fe-na3.hubspot.com^$third-party
 ||metrics-nobroker.cometchat.io^$third-party
 ||metrics-us-blue.cometchat.io^$third-party
 ||metrics.api.drift.com^$third-party
