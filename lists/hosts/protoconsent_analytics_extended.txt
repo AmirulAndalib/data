@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics Extended
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-# Version: 2026-07-07
-# Last modified: 2026-07-07T05:12:33.914Z
-# Entries: 136250
+# Version: 2026-07-08
+# Last modified: 2026-07-08T04:37:40.834Z
+# Entries: 136292
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -5570,6 +5570,7 @@
 0.0.0.0 analytics-eu.socialhippo.nl
 0.0.0.0 analytics-eu.tactilews.com
 0.0.0.0 analytics-eu.trustyou.com
+0.0.0.0 analytics-events.apple.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics-f1-venues.yinzcam.com
 0.0.0.0 analytics-fe.digital-cloud-prem.medallia.com
@@ -20627,6 +20628,7 @@
 0.0.0.0 beacon.kmi-us.com
 0.0.0.0 beacon.lycos.com
 0.0.0.0 beacon.mitremedia.org
+0.0.0.0 beacon.my.salesforce.com
 0.0.0.0 beacon.nc-net.or.jp
 0.0.0.0 beacon.necotracks.jp
 0.0.0.0 beacon.nikkansports.com
@@ -20639,6 +20641,7 @@
 0.0.0.0 beacon.qa.walmart.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.radiko.jp
+0.0.0.0 beacon.rallydev.com
 0.0.0.0 beacon.s.llnwi.net
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon.searchspring.io
@@ -23075,6 +23078,7 @@
 0.0.0.0 caterpillarsigns.giantmediaonline.com
 0.0.0.0 caterpillarsigns.neonearth.com
 0.0.0.0 caterpillarsigns.tarpsandall.com
+0.0.0.0 caterpillarsigns.tt.omtrdc.net
 0.0.0.0 caterpillarsigns.vivyxprinting.com
 0.0.0.0 catff.drinkmuze.com
 0.0.0.0 catfish.phuclh.com
@@ -32721,6 +32725,7 @@
 0.0.0.0 deruiter.seminis.com
 0.0.0.0 derwebstatistiker.de
 0.0.0.0 design.informabi.com
+0.0.0.0 designdew.com
 0.0.0.0 desiredirt.com
 0.0.0.0 deskbird.ch
 0.0.0.0 deskdecision.com
@@ -33384,6 +33389,7 @@
 0.0.0.0 dit.whatsapp.net.iberostar.com
 0.0.0.0 ditis.marketing
 0.0.0.0 divacro.com
+0.0.0.0 divcom.tt.omtrdc.net
 0.0.0.0 dive.games
 0.0.0.0 divehope.com
 0.0.0.0 divergentoffer.com
@@ -35514,6 +35520,7 @@
 0.0.0.0 embermosaic.com
 0.0.0.0 embknh.perriconemd.com
 0.0.0.0 embluemail.com
+0.0.0.0 embossedpaper.com
 0.0.0.0 embot.takaratomymall.jp
 0.0.0.0 embracecontext.com
 0.0.0.0 embtrk.com
@@ -47364,6 +47371,7 @@
 0.0.0.0 inspectlet.com
 0.0.0.0 inspectlet.io
 0.0.0.0 inspector-collector.m.naver.com
+0.0.0.0 insper.tt.omtrdc.net
 0.0.0.0 inspiration.franklincovey.se
 0.0.0.0 inspire.changehealthcare.com
 0.0.0.0 inspirient.com
@@ -48568,6 +48576,7 @@
 0.0.0.0 js.g001.enterprise.ipost.com
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hubspotfeedback.com
+0.0.0.0 js.jma.go.jp
 0.0.0.0 js.mediams.mb.softbank.jp
 0.0.0.0 js.moengage.com
 0.0.0.0 js.monetize-ssp.com
@@ -48732,6 +48741,7 @@
 0.0.0.0 jzqfac.bestsecret.ch
 0.0.0.0 jzvln.famousfootwear.com
 0.0.0.0 jzvsc.thermoworks.com
+0.0.0.0 jzzuvzq98.alphonso.tv
 0.0.0.0 k-ring-fallback.msedge.net
 0.0.0.0 k-ring.msedge.net
 0.0.0.0 k.brandalley.es
@@ -48977,6 +48987,7 @@
 0.0.0.0 kfuaj.californiacowboy.com
 0.0.0.0 kfvhn.oneractive.com
 0.0.0.0 kg-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 kg-legacy-analytics.servicebus.windows.net
 0.0.0.0 kg-logagent-st.kingsgroupgames.com
 0.0.0.0 kg.lgsmartad.com
 0.0.0.0 kg5rnm9trk.com
@@ -49373,17 +49384,29 @@
 0.0.0.0 krishnaw250.alphonso.tv
 0.0.0.0 krishnaw251.alphonso.tv
 0.0.0.0 krishnaw252.alphonso.tv
+0.0.0.0 krishnaw253.alphonso.tv
 0.0.0.0 krishnaw254.alphonso.tv
 0.0.0.0 krishnaw255.alphonso.tv
 0.0.0.0 krishnaw256.alphonso.tv
 0.0.0.0 krishnaw257.alphonso.tv
 0.0.0.0 krishnaw258.alphonso.tv
+0.0.0.0 krishnaw259.alphonso.tv
+0.0.0.0 krishnaw260.alphonso.tv
 0.0.0.0 krishnaw261.alphonso.tv
 0.0.0.0 krishnaw262.alphonso.tv
 0.0.0.0 krishnaw263.alphonso.tv
+0.0.0.0 krishnaw268.alphonso.tv
+0.0.0.0 krishnaw270.alphonso.tv
 0.0.0.0 krishnaw272.alphonso.tv
+0.0.0.0 krishnaw273.alphonso.tv
+0.0.0.0 krishnaw274.alphonso.tv
 0.0.0.0 krishnaw275.alphonso.tv
 0.0.0.0 krishnaw276.alphonso.tv
+0.0.0.0 krishnaw277.alphonso.tv
+0.0.0.0 krishnaw278.alphonso.tv
+0.0.0.0 krishnaw279.alphonso.tv
+0.0.0.0 krishnaw285.alphonso.tv
+0.0.0.0 krishnaw287.alphonso.tv
 0.0.0.0 krishnaw290.alphonso.tv
 0.0.0.0 krishnaw292.alphonso.tv
 0.0.0.0 krishnaw293.alphonso.tv
@@ -49427,6 +49450,7 @@
 0.0.0.0 krishnaw399.alphonso.tv
 0.0.0.0 krishnaw400.alphonso.tv
 0.0.0.0 krishnaw401.alphonso.tv
+0.0.0.0 krishnaw408.alphonso.tv
 0.0.0.0 krishnaw411.alphonso.tv
 0.0.0.0 krishnaw412.alphonso.tv
 0.0.0.0 krishnaw421.alphonso.tv
@@ -72741,6 +72765,7 @@
 0.0.0.0 newrelic.works
 0.0.0.0 newrelic.wtf
 0.0.0.0 newrrb.bid
+0.0.0.0 news-analytics-events.apple.com
 0.0.0.0 news-app-events.apple.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 news-info.gcgfinancial.com
@@ -73195,6 +73220,7 @@
 0.0.0.0 northeurope-5.in.applicationinsights.azure.com
 0.0.0.0 northeurope-global.in.applicationinsights.azure.com
 0.0.0.0 northstartravelmedia.com
+0.0.0.0 northwesternmutual.tt.omtrdc.net
 0.0.0.0 norwayeast-0.in.applicationinsights.azure.com
 0.0.0.0 norwegiancruiselines.tt.omtrdc.net
 0.0.0.0 nos20trk.com
@@ -82767,6 +82793,7 @@
 0.0.0.0 pocitadlo.nejen.cz
 0.0.0.0 pocitadlo.sk
 0.0.0.0 pocitadlolibise.seznam.cz
+0.0.0.0 podcasts-analytics-events.apple.com
 0.0.0.0 podcorn.com
 0.0.0.0 podiumpresto.com
 0.0.0.0 podph.mielleorganics.com
@@ -92758,6 +92785,7 @@
 0.0.0.0 servidorstp.clubedoagronegocio.com
 0.0.0.0 servidorstp.thaisdiasnutri.com
 0.0.0.0 servmetric.com
+0.0.0.0 servo-report.dvdfab.cn
 0.0.0.0 servo-report.keepstreams.com
 0.0.0.0 servo-report.streamfab.com
 0.0.0.0 servpaulapro.paulacunha.com.br
@@ -124049,20 +124077,31 @@
 0.0.0.0 tkacr308.alphonso.tv
 0.0.0.0 tkacr309.alphonso.tv
 0.0.0.0 tkacr310.alphonso.tv
+0.0.0.0 tkacr311.alphonso.tv
 0.0.0.0 tkacr312.alphonso.tv
 0.0.0.0 tkacr313.alphonso.tv
 0.0.0.0 tkacr314.alphonso.tv
 0.0.0.0 tkacr315.alphonso.tv
 0.0.0.0 tkacr316.alphonso.tv
+0.0.0.0 tkacr317.alphonso.tv
+0.0.0.0 tkacr318.alphonso.tv
 0.0.0.0 tkacr319.alphonso.tv
 0.0.0.0 tkacr320.alphonso.tv
+0.0.0.0 tkacr321.alphonso.tv
 0.0.0.0 tkacr323.alphonso.tv
 0.0.0.0 tkacr324.alphonso.tv
 0.0.0.0 tkacr325.alphonso.tv
 0.0.0.0 tkacr326.alphonso.tv
 0.0.0.0 tkacr327.alphonso.tv
+0.0.0.0 tkacr328.alphonso.tv
 0.0.0.0 tkacr329.alphonso.tv
+0.0.0.0 tkacr330.alphonso.tv
+0.0.0.0 tkacr331.alphonso.tv
+0.0.0.0 tkacr332.alphonso.tv
 0.0.0.0 tkacr336.alphonso.tv
+0.0.0.0 tkacr338.alphonso.tv
+0.0.0.0 tkacr339.alphonso.tv
+0.0.0.0 tkacr340.alphonso.tv
 0.0.0.0 tkacr341.alphonso.tv
 0.0.0.0 tkacr342.alphonso.tv
 0.0.0.0 tkacr343.alphonso.tv
@@ -129924,6 +129963,7 @@
 0.0.0.0 tutta.site
 0.0.0.0 tuutrk.com
 0.0.0.0 tuvevx.agent-sana.com
+0.0.0.0 tv-analytics-events.apple.com
 0.0.0.0 tv-api.blivenyc.com
 0.0.0.0 tv-static.scdn.co
 0.0.0.0 tv-test.esvdigital.com
@@ -130122,6 +130162,7 @@
 0.0.0.0 uaas.yandex.ru
 0.0.0.0 uadx.com
 0.0.0.0 uae.nujum.ae
+0.0.0.0 uaenorth-0.in.applicationinsights.azure.com
 0.0.0.0 uafkj.wondercide.com
 0.0.0.0 uafms.ocbc.com
 0.0.0.0 uagmu.cmkconstructioninc.com
@@ -131809,6 +131850,7 @@
 0.0.0.0 v4gtm.lucascalado.com.br
 0.0.0.0 v4tpxg9m.com
 0.0.0.0 v5fsk8kjd.com
+0.0.0.0 v6analytics.htmedia.in.edgekey.net
 0.0.0.0 v710.newyorkupstate.com
 0.0.0.0 v7fhugd.com
 0.0.0.0 v8hj3d6j.com

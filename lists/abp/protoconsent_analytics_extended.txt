@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-07-07
-! Last modified: 2026-07-07T05:12:33.914Z
-! Entries: 140357
+! Version: 2026-07-08
+! Last modified: 2026-07-08T04:37:40.834Z
+! Entries: 140400
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -5571,6 +5571,7 @@
 ||analytics-eu.socialhippo.nl^$third-party
 ||analytics-eu.tactilews.com^$third-party
 ||analytics-eu.trustyou.com^$third-party
+||analytics-events.apple.com^$third-party
 ||analytics-events.inshorts.com^$third-party
 ||analytics-f1-venues.yinzcam.com^$third-party
 ||analytics-fe.digital-cloud-prem.medallia.com^$third-party
@@ -20628,6 +20629,7 @@
 ||beacon.kmi-us.com^$third-party
 ||beacon.lycos.com^$third-party
 ||beacon.mitremedia.org^$third-party
+||beacon.my.salesforce.com^$third-party
 ||beacon.nc-net.or.jp^$third-party
 ||beacon.necotracks.jp^$third-party
 ||beacon.nikkansports.com^$third-party
@@ -20640,6 +20642,7 @@
 ||beacon.qa.walmart.com^$third-party
 ||beacon.qq.com^$third-party
 ||beacon.radiko.jp^$third-party
+||beacon.rallydev.com^$third-party
 ||beacon.s.llnwi.net^$third-party
 ||beacon.samsclub.com^$third-party
 ||beacon.searchspring.io^$third-party
@@ -23076,6 +23079,7 @@
 ||caterpillarsigns.giantmediaonline.com^$third-party
 ||caterpillarsigns.neonearth.com^$third-party
 ||caterpillarsigns.tarpsandall.com^$third-party
+||caterpillarsigns.tt.omtrdc.net^$third-party
 ||caterpillarsigns.vivyxprinting.com^$third-party
 ||catff.drinkmuze.com^$third-party
 ||catfish.phuclh.com^$third-party
@@ -32722,6 +32726,7 @@
 ||deruiter.seminis.com^$third-party
 ||derwebstatistiker.de^$third-party
 ||design.informabi.com^$third-party
+||designdew.com^$third-party
 ||desiredirt.com^$third-party
 ||deskbird.ch^$third-party
 ||deskdecision.com^$third-party
@@ -33385,6 +33390,7 @@
 ||dit.whatsapp.net.iberostar.com^$third-party
 ||ditis.marketing^$third-party
 ||divacro.com^$third-party
+||divcom.tt.omtrdc.net^$third-party
 ||dive.games^$third-party
 ||divehope.com^$third-party
 ||divergentoffer.com^$third-party
@@ -35515,6 +35521,7 @@
 ||embermosaic.com^$third-party
 ||embknh.perriconemd.com^$third-party
 ||embluemail.com^$third-party
+||embossedpaper.com^$third-party
 ||embot.takaratomymall.jp^$third-party
 ||embracecontext.com^$third-party
 ||embtrk.com^$third-party
@@ -47365,6 +47372,7 @@
 ||inspectlet.com^$third-party
 ||inspectlet.io^$third-party
 ||inspector-collector.m.naver.com^$third-party
+||insper.tt.omtrdc.net^$third-party
 ||inspiration.franklincovey.se^$third-party
 ||inspire.changehealthcare.com^$third-party
 ||inspirient.com^$third-party
@@ -48569,6 +48577,7 @@
 ||js.g001.enterprise.ipost.com^$third-party
 ||js.hs-analytics.net^$third-party
 ||js.hubspotfeedback.com^$third-party
+||js.jma.go.jp^$third-party
 ||js.mediams.mb.softbank.jp^$third-party
 ||js.moengage.com^$third-party
 ||js.monetize-ssp.com^$third-party
@@ -48733,6 +48742,7 @@
 ||jzqfac.bestsecret.ch^$third-party
 ||jzvln.famousfootwear.com^$third-party
 ||jzvsc.thermoworks.com^$third-party
+||jzzuvzq98.alphonso.tv^$third-party
 ||k-ring-fallback.msedge.net^$third-party
 ||k-ring.msedge.net^$third-party
 ||k.brandalley.es^$third-party
@@ -48978,6 +48988,7 @@
 ||kfuaj.californiacowboy.com^$third-party
 ||kfvhn.oneractive.com^$third-party
 ||kg-ad-lgsmartad-com.aws-prd.net^$third-party
+||kg-legacy-analytics.servicebus.windows.net^$third-party
 ||kg-logagent-st.kingsgroupgames.com^$third-party
 ||kg.lgsmartad.com^$third-party
 ||kg5rnm9trk.com^$third-party
@@ -49374,17 +49385,29 @@
 ||krishnaw250.alphonso.tv^$third-party
 ||krishnaw251.alphonso.tv^$third-party
 ||krishnaw252.alphonso.tv^$third-party
+||krishnaw253.alphonso.tv^$third-party
 ||krishnaw254.alphonso.tv^$third-party
 ||krishnaw255.alphonso.tv^$third-party
 ||krishnaw256.alphonso.tv^$third-party
 ||krishnaw257.alphonso.tv^$third-party
 ||krishnaw258.alphonso.tv^$third-party
+||krishnaw259.alphonso.tv^$third-party
+||krishnaw260.alphonso.tv^$third-party
 ||krishnaw261.alphonso.tv^$third-party
 ||krishnaw262.alphonso.tv^$third-party
 ||krishnaw263.alphonso.tv^$third-party
+||krishnaw268.alphonso.tv^$third-party
+||krishnaw270.alphonso.tv^$third-party
 ||krishnaw272.alphonso.tv^$third-party
+||krishnaw273.alphonso.tv^$third-party
+||krishnaw274.alphonso.tv^$third-party
 ||krishnaw275.alphonso.tv^$third-party
 ||krishnaw276.alphonso.tv^$third-party
+||krishnaw277.alphonso.tv^$third-party
+||krishnaw278.alphonso.tv^$third-party
+||krishnaw279.alphonso.tv^$third-party
+||krishnaw285.alphonso.tv^$third-party
+||krishnaw287.alphonso.tv^$third-party
 ||krishnaw290.alphonso.tv^$third-party
 ||krishnaw292.alphonso.tv^$third-party
 ||krishnaw293.alphonso.tv^$third-party
@@ -49428,6 +49451,7 @@
 ||krishnaw399.alphonso.tv^$third-party
 ||krishnaw400.alphonso.tv^$third-party
 ||krishnaw401.alphonso.tv^$third-party
+||krishnaw408.alphonso.tv^$third-party
 ||krishnaw411.alphonso.tv^$third-party
 ||krishnaw412.alphonso.tv^$third-party
 ||krishnaw421.alphonso.tv^$third-party
@@ -72742,6 +72766,7 @@
 ||newrelic.works^$third-party
 ||newrelic.wtf^$third-party
 ||newrrb.bid^$third-party
+||news-analytics-events.apple.com^$third-party
 ||news-app-events.apple.com^$third-party
 ||news-events.apple.com^$third-party
 ||news-info.gcgfinancial.com^$third-party
@@ -73196,6 +73221,7 @@
 ||northeurope-5.in.applicationinsights.azure.com^$third-party
 ||northeurope-global.in.applicationinsights.azure.com^$third-party
 ||northstartravelmedia.com^$third-party
+||northwesternmutual.tt.omtrdc.net^$third-party
 ||norwayeast-0.in.applicationinsights.azure.com^$third-party
 ||norwegiancruiselines.tt.omtrdc.net^$third-party
 ||nos20trk.com^$third-party
@@ -82768,6 +82794,7 @@
 ||pocitadlo.nejen.cz^$third-party
 ||pocitadlo.sk^$third-party
 ||pocitadlolibise.seznam.cz^$third-party
+||podcasts-analytics-events.apple.com^$third-party
 ||podcorn.com^$third-party
 ||podiumpresto.com^$third-party
 ||podph.mielleorganics.com^$third-party
@@ -92759,6 +92786,7 @@
 ||servidorstp.clubedoagronegocio.com^$third-party
 ||servidorstp.thaisdiasnutri.com^$third-party
 ||servmetric.com^$third-party
+||servo-report.dvdfab.cn^$third-party
 ||servo-report.keepstreams.com^$third-party
 ||servo-report.streamfab.com^$third-party
 ||servpaulapro.paulacunha.com.br^$third-party
@@ -124050,20 +124078,31 @@
 ||tkacr308.alphonso.tv^$third-party
 ||tkacr309.alphonso.tv^$third-party
 ||tkacr310.alphonso.tv^$third-party
+||tkacr311.alphonso.tv^$third-party
 ||tkacr312.alphonso.tv^$third-party
 ||tkacr313.alphonso.tv^$third-party
 ||tkacr314.alphonso.tv^$third-party
 ||tkacr315.alphonso.tv^$third-party
 ||tkacr316.alphonso.tv^$third-party
+||tkacr317.alphonso.tv^$third-party
+||tkacr318.alphonso.tv^$third-party
 ||tkacr319.alphonso.tv^$third-party
 ||tkacr320.alphonso.tv^$third-party
+||tkacr321.alphonso.tv^$third-party
 ||tkacr323.alphonso.tv^$third-party
 ||tkacr324.alphonso.tv^$third-party
 ||tkacr325.alphonso.tv^$third-party
 ||tkacr326.alphonso.tv^$third-party
 ||tkacr327.alphonso.tv^$third-party
+||tkacr328.alphonso.tv^$third-party
 ||tkacr329.alphonso.tv^$third-party
+||tkacr330.alphonso.tv^$third-party
+||tkacr331.alphonso.tv^$third-party
+||tkacr332.alphonso.tv^$third-party
 ||tkacr336.alphonso.tv^$third-party
+||tkacr338.alphonso.tv^$third-party
+||tkacr339.alphonso.tv^$third-party
+||tkacr340.alphonso.tv^$third-party
 ||tkacr341.alphonso.tv^$third-party
 ||tkacr342.alphonso.tv^$third-party
 ||tkacr343.alphonso.tv^$third-party
@@ -129925,6 +129964,7 @@
 ||tutta.site^$third-party
 ||tuutrk.com^$third-party
 ||tuvevx.agent-sana.com^$third-party
+||tv-analytics-events.apple.com^$third-party
 ||tv-api.blivenyc.com^$third-party
 ||tv-static.scdn.co^$third-party
 ||tv-test.esvdigital.com^$third-party
@@ -130123,6 +130163,7 @@
 ||uaas.yandex.ru^$third-party
 ||uadx.com^$third-party
 ||uae.nujum.ae^$third-party
+||uaenorth-0.in.applicationinsights.azure.com^$third-party
 ||uafkj.wondercide.com^$third-party
 ||uafms.ocbc.com^$third-party
 ||uagmu.cmkconstructioninc.com^$third-party
@@ -131810,6 +131851,7 @@
 ||v4gtm.lucascalado.com.br^$third-party
 ||v4tpxg9m.com^$third-party
 ||v5fsk8kjd.com^$third-party
+||v6analytics.htmedia.in.edgekey.net^$third-party
 ||v710.newyorkupstate.com^$third-party
 ||v7fhugd.com^$third-party
 ||v8hj3d6j.com^$third-party
@@ -137734,6 +137776,7 @@
 ||giquhome.com/0/sendEventV2^
 ||girlsofdesire.org/images/girlsofdesire.org/analytics.js^
 ||gitbook.com/v1/integrations/googleanalytics/^
+||gitfut.com/*/view^
 ||github.com/_private/browser/stats^
 ||github.dev/diagnostic?^
 ||givefreely.com/ingest/^
