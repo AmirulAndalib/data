@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-07",
+  "version": "2026-07-09",
   "type": "cmp_detectors",
-  "generated": "2026-07-07T07:03:50.599Z",
+  "generated": "2026-07-09T07:04:32.719Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "d82b9801d1f47839",
-  "cmp_count": 307,
+  "autoconsent_tree_hash": "a0da5333267d69fa",
+  "cmp_count": 308,
   "detectors": {
     "abc": {
       "present": [
@@ -741,6 +741,14 @@
       ],
       "showing": [
         ".cookie-banner.show .cookie-banner__content-all-btn"
+      ]
+    },
+    "datagrail": {
+      "present": [
+        ".dg-consent-banner"
+      ],
+      "showing": [
+        ".dg-consent-banner"
       ]
     },
     "deepl_com": {
