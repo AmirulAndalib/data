@@ -100,6 +100,12 @@
       "firstParty": true
     },
     {
+      "urlFilter": "||fastly-analytics.com/debug_resolver",
+      "initiatorDomains": [
+        "fastly-debug.com"
+      ]
+    },
+    {
       "urlFilter": "||googletagmanager.com/gtm.js",
       "initiatorDomains": [
         "3djuegosguias.com",
@@ -875,5 +881,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 20
+  "path_exception_count": 21
 }
