@@ -750,6 +750,12 @@
       ]
     },
     {
+      "urlFilter": "||mail-ads.google.com/mail/*/adsfe/main_jspb?",
+      "initiatorDomains": [
+        "mail.google.com"
+      ]
+    },
+    {
       "urlFilter": "||pub.doubleverify.com/dvtag/",
       "initiatorDomains": [
         "bbc.com",
@@ -881,5 +887,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 21
+  "path_exception_count": 22
 }
