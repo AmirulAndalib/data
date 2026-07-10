@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-07-09
-! Last modified: 2026-07-09T05:22:41.966Z
-! Entries: 140413
+! Version: 2026-07-10
+! Last modified: 2026-07-10T05:12:55.970Z
+! Entries: 140420
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -7187,7 +7187,6 @@
 ||analytics.bruehweiler-treuhand.ch^$third-party
 ||analytics.bruker.com^$third-party
 ||analytics.brunangomesimoveis.com.br^$third-party
-||analytics.brunch.co.kr^$third-party
 ||analytics.brunn.kutschera.at^$third-party
 ||analytics.brunner.io^$third-party
 ||analytics.brunosutic.com^$third-party
@@ -27452,7 +27451,6 @@
 ||cp.deltadentalwa.com^$third-party
 ||cp.filext.com^$third-party
 ||cp.ir-central.irco.com^$third-party
-||cp.official-coupons.com^$third-party
 ||cp.official-deals.co.uk^$third-party
 ||cp.pcworld.com^$third-party
 ||cp.sobhatrivandrum.in^$third-party
@@ -32637,6 +32635,7 @@
 ||deer-bed-wind.com^$third-party
 ||deer.m1x.co^$third-party
 ||deer.ray.io^$third-party
+||deere.tt.omtrdc.net^$third-party
 ||def.bayer04.de^$third-party
 ||def.jeniestetica.com.br^$third-party
 ||default.exp-tas.com^$third-party
@@ -34504,10 +34503,7 @@
 ||ea.tool-fitness.com^$third-party
 ||ea.topsante.com^$third-party
 ||ea.venta-del-diablo.com^$third-party
-||ea.venta-unica.com^$third-party
 ||ea.vente-unique.be^$third-party
-||ea.vente-unique.ch^$third-party
-||ea.vente-unique.com^$third-party
 ||ea.vente-unique.lu^$third-party
 ||ea.vivus.es^$third-party
 ||ea.voyage-prive.co.uk^$third-party
@@ -38288,6 +38284,7 @@
 ||forpci11.actonsoftware.com^$third-party
 ||forpci3.siege-corp.com^$third-party
 ||forpcid2.actonsoftware.com^$third-party
+||fortbeach.com^$third-party
 ||forter.com^$third-party
 ||forthea.com^$third-party
 ||fortinet.tt.omtrdc.net^$third-party
@@ -44608,6 +44605,7 @@
 ||hnpgjp.cyclemarket.jp^$third-party
 ||hntnca.petpetgo.com^$third-party
 ||hnytrd.ssfshop.com^$third-party
+||hockeyfool.com^$third-party
 ||hockeystack.com^$third-party
 ||hod.asphalte.com^$third-party
 ||hodes.com^$third-party
@@ -47344,6 +47342,7 @@
 ||insights.ojoho.org^$third-party
 ||insights.openfieldx.com^$third-party
 ||insights.partnerwithfacet.com^$third-party
+||insights.playpilot.net^$third-party
 ||insights.posel.one^$third-party
 ||insights.production.p.gcp.ostro.site^$third-party
 ||insights.prophet.com^$third-party
@@ -49416,6 +49415,7 @@
 ||krishnaw281.alphonso.tv^$third-party
 ||krishnaw285.alphonso.tv^$third-party
 ||krishnaw287.alphonso.tv^$third-party
+||krishnaw288.alphonso.tv^$third-party
 ||krishnaw290.alphonso.tv^$third-party
 ||krishnaw292.alphonso.tv^$third-party
 ||krishnaw293.alphonso.tv^$third-party
@@ -50368,6 +50368,7 @@
 ||link.tempo.fit^$third-party
 ||link.testbook.com^$third-party
 ||link.wacom.com^$third-party
+||link2.strawberrynet.com^$third-party
 ||linkado-plausible.282pdi.easypanel.host^$third-party
 ||linkback.itworld.co.kr^$third-party
 ||linkback.khan.co.kr^$third-party
@@ -73187,6 +73188,7 @@
 ||node.zerotoccna.com^$third-party
 ||node.zerotolinux.com^$third-party
 ||node41.aizhantj.com^$third-party
+||node93.aizhantj.com^$third-party
 ||nodetime.com^$third-party
 ||noflake-aggregator-http.narvar.com^$third-party
 ||nogin.com^$third-party
@@ -75620,6 +75622,7 @@
 ||people.spaciousskiescampgrounds.com^$third-party
 ||peopleanalytics.org^$third-party
 ||peopleaps.com^$third-party
+||peoplebrain.net^$third-party
 ||peoplecounting.co.uk^$third-party
 ||peoplepulse.com^$third-party
 ||peoplepulse.com.au^$third-party
@@ -124218,6 +124221,7 @@
 ||tkacr464.alphonso.tv^$third-party
 ||tkacr465.alphonso.tv^$third-party
 ||tkacr466.alphonso.tv^$third-party
+||tkacr468.alphonso.tv^$third-party
 ||tkacr470.alphonso.tv^$third-party
 ||tkacr472.alphonso.tv^$third-party
 ||tkacr473.alphonso.tv^$third-party
@@ -127054,7 +127058,6 @@
 ||track.ugamezone.com^$third-party
 ||track.ultimate-guitar.com^$third-party
 ||track.undefeatedtribe.com^$third-party
-||track.unidata.ai^$third-party
 ||track.uniquebumblebee.com^$third-party
 ||track.untd.com^$third-party
 ||track.uppromote.com^$third-party
@@ -136572,6 +136575,7 @@
 ||apester.com/event^
 ||api-iam.intercom.io/messenger/web/metrics^
 ||api-pf.nw18.com/cdp-api/api/data^
+||api-rengine-stg.viva.id/hit^
 ||api-router.kaspersky-labs.com/logger2/metrics/^
 ||api-staging.sitelytics.tech/pixel/core/api/send-event^
 ||api-v3.findify.io/v3/feedback^
@@ -137006,6 +137010,7 @@
 ||cdn.brevo.com/js/sdk-loader.js^
 ||cdn.clkmc.com/cmc.js^
 ||cdn.cuty.io/fps.js^
+||cdn.fonts.net/t/1.css?^
 ||cdn.gov.cfigroup.com/webmon/s/source/webmon/^
 ||cdn.jp1media.com/js/v1/dmp.min.js^
 ||cdn.logrocket.io/LogRocket.min.js^
@@ -139191,6 +139196,8 @@
 ||reichelt.com/setsid.php?^
 ||rejoiner.com/tracker/^
 ||reklama.lv/services/espy.php^
+||relay-prod.typeracer.com/e/^
+||relay-prod.typeracer.com/flags/^
 ||relaymedia.com/ping?^
 ||remarkable.com/api/proxy/marker^
 ||replayapp.io/collect/^
