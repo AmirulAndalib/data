@@ -244,6 +244,7 @@
         "gamespark.jp",
         "genbeta.com",
         "glamusha.ru",
+        "globalblue.com",
         "globo.com",
         "gorillamind.com",
         "grandhood.dk",
@@ -750,12 +751,6 @@
       ]
     },
     {
-      "urlFilter": "||mail-ads.google.com/mail/*/adsfe/main_jspb?",
-      "initiatorDomains": [
-        "mail.google.com"
-      ]
-    },
-    {
       "urlFilter": "||pub.doubleverify.com/dvtag/",
       "initiatorDomains": [
         "bbc.com",
@@ -847,6 +842,7 @@
         "sonyliv.com",
         "southpark.lat",
         "southparkstudios.com",
+        "sp.nicovideo.jp",
         "spiele.heise.de",
         "sportsbull.jp",
         "sportsport.ba",
@@ -887,5 +883,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 22
+  "path_exception_count": 21
 }

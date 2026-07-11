@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-09",
+  "version": "2026-07-11",
   "type": "cmp_site",
-  "generated": "2026-07-09T07:15:14.453Z",
+  "generated": "2026-07-11T05:59:48.543Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "a0da5333267d69fa",
-  "cmp_count": 251,
+  "autoconsent_tree_hash": "77e5091535720991",
+  "cmp_count": 252,
   "signatures": {
     "abconcerts_be": {
       "selector": "dialog.cookie-consent",
@@ -692,6 +692,17 @@
       "domains": [
         "cookiefirst.com"
       ]
+    },
+    "cookiehub": {
+      "selector": ".ch2-container",
+      "detectors": {
+        "present": [
+          ".ch2-dialog"
+        ],
+        "showing": [
+          ".ch2-dialog"
+        ]
+      }
     },
     "cookiejsbanner": {
       "selector": ".cookiejs-banner-wrapper",
