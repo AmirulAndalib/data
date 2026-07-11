@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-07-10
-! Last modified: 2026-07-10T05:12:55.970Z
-! Entries: 140420
+! Version: 2026-07-11
+! Last modified: 2026-07-11T04:33:57.876Z
+! Entries: 140426
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -6996,6 +6996,7 @@
 ||analytics.blazoen.be^$third-party
 ||analytics.bldmdv02.com^$third-party
 ||analytics.bldwebagency.fr^$third-party
+||analytics.bleacherreport.com^$third-party
 ||analytics.blebli.de^$third-party
 ||analytics.blender.org^$third-party
 ||analytics.blennd.com^$third-party
@@ -17130,7 +17131,6 @@
 ||analytics.zap-nussloch.de^$third-party
 ||analytics.zapps.me^$third-party
 ||analytics.zapps.vn^$third-party
-||analytics.zatomac.vn^$third-party
 ||analytics.zauberware.dev^$third-party
 ||analytics.zazimoveis.com.br^$third-party
 ||analytics.zdassets.com^$third-party
@@ -22907,6 +22907,7 @@
 ||capiss.nyralondon.com^$third-party
 ||capitalgroupcompanie.tt.omtrdc.net^$third-party
 ||capitaloneservices.tt.omtrdc.net^$third-party
+||capitalopera.com^$third-party
 ||capiteste.r4assessoria.com.br^$third-party
 ||capitolamercantile.com^$third-party
 ||capitoldataanalytics.com^$third-party
@@ -27451,6 +27452,7 @@
 ||cp.deltadentalwa.com^$third-party
 ||cp.filext.com^$third-party
 ||cp.ir-central.irco.com^$third-party
+||cp.official-coupons.com^$third-party
 ||cp.official-deals.co.uk^$third-party
 ||cp.pcworld.com^$third-party
 ||cp.sobhatrivandrum.in^$third-party
@@ -63681,6 +63683,7 @@
 ||metrics.ambetterofarkansas.com^$third-party
 ||metrics.ambetterofillinois.com^$third-party
 ||metrics.ambetterofnorthcarolina.com^$third-party
+||metrics.amd.com^$third-party
 ||metrics.ameise-shop.at^$third-party
 ||metrics.ameise.ch^$third-party
 ||metrics.ameise.de^$third-party
@@ -66174,6 +66177,7 @@
 ||metrics.urbanarts.com.br^$third-party
 ||metrics.urbandaddy.com^$third-party
 ||metrics.us.dockers.com^$third-party
+||metrics.us.playstation.com^$third-party
 ||metrics.usana.com^$third-party
 ||metrics.usbank.com^$third-party
 ||metrics.userguiding.com^$third-party
@@ -74341,6 +74345,7 @@
 ||onefurther.com^$third-party
 ||oneid.mmstat.com^$third-party
 ||oneilluminate.com^$third-party
+||onekindmarket.com^$third-party
 ||onelink.me^$third-party
 ||onelinksmartscript.appsflyer.com^$third-party
 ||onelinksmartscript.appsflyersdk.com^$third-party
@@ -74368,6 +74373,7 @@
 ||onigh.colorwowhair.com^$third-party
 ||onimgs.com^$third-party
 ||onionanalytics.com^$third-party
+||onioncomic.com^$third-party
 ||onjjbn.koffiemarkt.be^$third-party
 ||onjmsj.sumai-surfin.com^$third-party
 ||online-arzt.kry.de^$third-party
