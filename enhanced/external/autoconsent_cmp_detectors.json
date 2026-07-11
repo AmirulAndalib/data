@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-09",
+  "version": "2026-07-11",
   "type": "cmp_detectors",
-  "generated": "2026-07-09T07:04:32.719Z",
+  "generated": "2026-07-11T06:00:48.344Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "a0da5333267d69fa",
-  "cmp_count": 308,
+  "autoconsent_tree_hash": "77e5091535720991",
+  "cmp_count": 309,
   "detectors": {
     "abc": {
       "present": [
@@ -23,6 +23,14 @@
       ],
       "domains": [
         "abconcerts.be"
+      ]
+    },
+    "abetterrouteplanner": {
+      "present": [
+        "[data-testid=\"cookies_reject\"]"
+      ],
+      "showing": [
+        "[data-testid=\"cookies_reject\"]"
       ]
     },
     "acris": {
