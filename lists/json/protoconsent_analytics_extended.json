@@ -1,7 +1,7 @@
 {
   "name": "ProtoConsent Analytics Extended",
-  "version": "2026-07-11",
-  "generated": "2026-07-11T04:33:57.876Z",
+  "version": "2026-07-12",
+  "generated": "2026-07-12T04:45:56.998Z",
   "description": "Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)",
   "homepage": "https://github.com/ProtoConsent/data",
   "license": "GPL-3.0-or-later",
@@ -18614,6 +18614,7 @@
     "app-link.republik.gg",
     "app-performance.music.amazon.dev",
     "app-qa.moengage.com",
+    "app-static-prod.posthog.com",
     "app-statistics.puzzel.com",
     "app-stats.supernotes.app",
     "app-tracking-gfa-collector.naver.com",
@@ -36670,7 +36671,6 @@
     "eventinggateway-pre-auth.api.intuit.com",
     "eventlog.chatlead.com",
     "eventlog.gryphline.com",
-    "eventlog.inspsearchapi.com",
     "eventlog.jackpot.de",
     "eventlogs.octillionmedia.com",
     "eventos.abastur.com",
@@ -83558,6 +83558,7 @@
     "provo1.eway.ca",
     "proxcactus.com",
     "proxem.com",
+    "proxima.ai",
     "proxima.midjourney.com",
     "proxnodded.com",
     "proxomnibusborn.com",
@@ -86694,6 +86695,7 @@
     "robin.shopanaya.com",
     "robin.techteambd.com",
     "robotflowermobile.com",
+    "robotrefinery.com",
     "robotsrefinery.com",
     "rocket-analytics.nothing.ch",
     "rocket.bubble.dk",
@@ -131871,7 +131873,6 @@
     "v4gtm.lucascalado.com.br",
     "v4tpxg9m.com",
     "v5fsk8kjd.com",
-    "v6analytics.htmedia.in.edgekey.net",
     "v710.newyorkupstate.com",
     "v7fhugd.com",
     "v8hj3d6j.com",
@@ -136320,7 +136321,7 @@
     "zzz.capraprod.com",
     "zzzfba.thecolvinco.com"
   ],
-  "domain_count": 136313,
+  "domain_count": 136314,
   "paths": [
     "||01net.com/track/",
     "||1024tera.com/api/analytics?",
@@ -136380,6 +136381,7 @@
     "||abc.es/pixel/",
     "||abema-tv.com/v1/stats/",
     "||about.me/track?",
+    "||abs.twimg.com/responsive-web/client-web/main.",
     "||ac.dun.163yun.com/v2/collect?",
     "||academia.edu/record_hit?",
     "||acast.com/api/stats",
@@ -140436,5 +140438,5 @@
     "||zumper.com/events",
     "||zynga.com/track/"
   ],
-  "path_count": 4113
+  "path_count": 4114
 }

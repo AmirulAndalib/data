@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-07-11
-! Last modified: 2026-07-11T04:33:57.876Z
-! Entries: 140426
+! Version: 2026-07-12
+! Last modified: 2026-07-12T04:45:56.998Z
+! Entries: 140428
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -18615,6 +18615,7 @@
 ||app-link.republik.gg^$third-party
 ||app-performance.music.amazon.dev^$third-party
 ||app-qa.moengage.com^$third-party
+||app-static-prod.posthog.com^$third-party
 ||app-statistics.puzzel.com^$third-party
 ||app-stats.supernotes.app^$third-party
 ||app-tracking-gfa-collector.naver.com^$third-party
@@ -36671,7 +36672,6 @@
 ||eventinggateway-pre-auth.api.intuit.com^$third-party
 ||eventlog.chatlead.com^$third-party
 ||eventlog.gryphline.com^$third-party
-||eventlog.inspsearchapi.com^$third-party
 ||eventlog.jackpot.de^$third-party
 ||eventlogs.octillionmedia.com^$third-party
 ||eventos.abastur.com^$third-party
@@ -83559,6 +83559,7 @@
 ||provo1.eway.ca^$third-party
 ||proxcactus.com^$third-party
 ||proxem.com^$third-party
+||proxima.ai^$third-party
 ||proxima.midjourney.com^$third-party
 ||proxnodded.com^$third-party
 ||proxomnibusborn.com^$third-party
@@ -86695,6 +86696,7 @@
 ||robin.shopanaya.com^$third-party
 ||robin.techteambd.com^$third-party
 ||robotflowermobile.com^$third-party
+||robotrefinery.com^$third-party
 ||robotsrefinery.com^$third-party
 ||rocket-analytics.nothing.ch^$third-party
 ||rocket.bubble.dk^$third-party
@@ -131872,7 +131874,6 @@
 ||v4gtm.lucascalado.com.br^$third-party
 ||v4tpxg9m.com^$third-party
 ||v5fsk8kjd.com^$third-party
-||v6analytics.htmedia.in.edgekey.net^$third-party
 ||v710.newyorkupstate.com^$third-party
 ||v7fhugd.com^$third-party
 ||v8hj3d6j.com^$third-party
@@ -136378,6 +136379,7 @@
 ||abc.es/pixel/^
 ||abema-tv.com/v1/stats/^
 ||about.me/track?^
+||abs.twimg.com/responsive-web/client-web/main.^
 ||ac.dun.163yun.com/v2/collect?^
 ||academia.edu/record_hit?^
 ||acast.com/api/stats^
