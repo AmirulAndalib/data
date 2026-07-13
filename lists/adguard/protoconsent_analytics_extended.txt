@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-07-12T04:45:56.998Z
+! Last modified: 2026-07-13T04:52:14.809Z
 ! Format: AdGuard
-! Entries: 140428
+! Entries: 140437
 !
 ||0.myikas.com^$third-party
 ||0.net.easyjet.com^$third-party
@@ -10526,6 +10526,7 @@
 ||analytics.infosysprize.org^$third-party
 ||analytics.infosyspublicservices.com^$third-party
 ||analytics.infra.laprimaire.org^$third-party
+||analytics.infraloods.nl^$third-party
 ||analytics.infuse.ch^$third-party
 ||analytics.ingewikkeld.net^$third-party
 ||analytics.ingos.com^$third-party
@@ -17263,6 +17264,7 @@
 ||analytics2.star-traffic.com^$third-party
 ||analytics2.thisfro.ch^$third-party
 ||analytics2.uros.icu^$third-party
+||analytics2.vidzflow.com^$third-party
 ||analytics23.net^$third-party
 ||analytics3.dacadoo.com^$third-party
 ||analytics3.ricu.it^$third-party
@@ -20629,7 +20631,6 @@
 ||beacon.kmi-us.com^$third-party
 ||beacon.lycos.com^$third-party
 ||beacon.mitremedia.org^$third-party
-||beacon.my.salesforce.com^$third-party
 ||beacon.nc-net.or.jp^$third-party
 ||beacon.necotracks.jp^$third-party
 ||beacon.nikkansports.com^$third-party
@@ -20642,7 +20643,6 @@
 ||beacon.qa.walmart.com^$third-party
 ||beacon.qq.com^$third-party
 ||beacon.radiko.jp^$third-party
-||beacon.rallydev.com^$third-party
 ||beacon.s.llnwi.net^$third-party
 ||beacon.samsclub.com^$third-party
 ||beacon.searchspring.io^$third-party
@@ -36671,6 +36671,7 @@
 ||eventinggateway-pre-auth.api.intuit.com^$third-party
 ||eventlog.chatlead.com^$third-party
 ||eventlog.gryphline.com^$third-party
+||eventlog.inspsearchapi.com^$third-party
 ||eventlog.jackpot.de^$third-party
 ||eventlogs.octillionmedia.com^$third-party
 ||eventos.abastur.com^$third-party
@@ -49417,6 +49418,7 @@
 ||krishnaw285.alphonso.tv^$third-party
 ||krishnaw287.alphonso.tv^$third-party
 ||krishnaw288.alphonso.tv^$third-party
+||krishnaw289.alphonso.tv^$third-party
 ||krishnaw290.alphonso.tv^$third-party
 ||krishnaw292.alphonso.tv^$third-party
 ||krishnaw293.alphonso.tv^$third-party
@@ -49469,6 +49471,7 @@
 ||krishnaw447.alphonso.tv^$third-party
 ||krishnaw451.alphonso.tv^$third-party
 ||krishnaw452.alphonso.tv^$third-party
+||krishnaw453.alphonso.tv^$third-party
 ||krishnaw456.alphonso.tv^$third-party
 ||krishnaw457.alphonso.tv^$third-party
 ||krishnaw459.alphonso.tv^$third-party
@@ -64417,6 +64420,7 @@
 ||metrics.etihad.com^$third-party
 ||metrics.etihadairways.com^$third-party
 ||metrics.etihadholidays.com^$third-party
+||metrics.etrailer.com^$third-party
 ||metrics.eu.playstation.com^$third-party
 ||metrics.eurobet.it^$third-party
 ||metrics.eurocard.com^$third-party
@@ -80916,6 +80920,7 @@
 ||pixel.alexandrelevangelista.com.br^$third-party
 ||pixel.alimentanutricion.com^$third-party
 ||pixel.alinevenditti.com^$third-party
+||pixel.amplifieddigitalagency.com^$third-party
 ||pixel.ampry.com^$third-party
 ||pixel.anapaulabedin.com.br^$third-party
 ||pixel.andymorais.com.br^$third-party
@@ -85462,6 +85467,7 @@
 ||raju.halalebazaar.com^$third-party
 ||rakam.io^$third-party
 ||rakan.rqgstore.com^$third-party
+||rakanto.com^$third-party
 ||rake.11st.co.kr^$third-party
 ||rakesh.csatmantra.com^$third-party
 ||rakesh.yogicshaadi.com^$third-party
@@ -124133,6 +124139,7 @@
 ||tkacr348.alphonso.tv^$third-party
 ||tkacr349.alphonso.tv^$third-party
 ||tkacr352.alphonso.tv^$third-party
+||tkacr354.alphonso.tv^$third-party
 ||tkacr355.alphonso.tv^$third-party
 ||tkacr356.alphonso.tv^$third-party
 ||tkacr357.alphonso.tv^$third-party
@@ -136605,6 +136612,7 @@
 ||api.gist.ai/v1/analytics/track^
 ||api.gleap.io/sessions/ping^
 ||api.headliner.link/api/v1/b/receive^
+||api.intelligems.io/v3/track^
 ||api.invideo.io/v3/send_analytics_event^
 ||api.ipgeolocation.io/getip^
 ||api.iris.tv/update^
@@ -139912,6 +139920,7 @@
 ||traders.co.kr/common/js/makePCookie.js^
 ||tradingview.com/ping^
 ||trafficmanager.net/uet/tracking_script?^
+||transcend.io/collect^
 ||traq.li/tracker/^
 ||travel.co.jp/js/analysis.js^
 ||travel.co.jp/tracking.asp^
