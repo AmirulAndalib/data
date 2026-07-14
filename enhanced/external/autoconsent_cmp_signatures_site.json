@@ -1,11 +1,22 @@
 {
-  "version": "2026-07-11",
+  "version": "2026-07-14",
   "type": "cmp_site",
-  "generated": "2026-07-11T06:00:48.335Z",
+  "generated": "2026-07-14T05:56:09.605Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "77e5091535720991",
-  "cmp_count": 252,
+  "autoconsent_tree_hash": "b3d60f1858970027",
+  "cmp_count": 253,
   "signatures": {
+    "aacookiebanner": {
+      "selector": "adc-cookie-banner",
+      "detectors": {
+        "present": [
+          "adc-cookie-banner"
+        ],
+        "showing": [
+          "adc-cookie-banner"
+        ]
+      }
+    },
     "abconcerts_be": {
       "selector": "dialog.cookie-consent",
       "detectors": {
