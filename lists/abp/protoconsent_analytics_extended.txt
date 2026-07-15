@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-07-14
-! Last modified: 2026-07-14T04:20:57.943Z
-! Entries: 140454
+! Version: 2026-07-15
+! Last modified: 2026-07-15T04:21:18.381Z
+! Entries: 140453
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -16411,7 +16411,6 @@
 ||analytics.victorymetroeast.org^$third-party
 ||analytics.vidanyx.com^$third-party
 ||analytics.video-unified.com^$third-party
-||analytics.videocloud.top^$third-party
 ||analytics.videonale.org^$third-party
 ||analytics.videoprotects.com^$third-party
 ||analytics.vidiogeram.ir^$third-party
@@ -20633,6 +20632,7 @@
 ||beacon.kmi-us.com^$third-party
 ||beacon.lycos.com^$third-party
 ||beacon.mitremedia.org^$third-party
+||beacon.my.salesforce.com^$third-party
 ||beacon.nc-net.or.jp^$third-party
 ||beacon.necotracks.jp^$third-party
 ||beacon.nikkansports.com^$third-party
@@ -20645,6 +20645,7 @@
 ||beacon.qa.walmart.com^$third-party
 ||beacon.qq.com^$third-party
 ||beacon.radiko.jp^$third-party
+||beacon.rallydev.com^$third-party
 ||beacon.s.llnwi.net^$third-party
 ||beacon.samsclub.com^$third-party
 ||beacon.searchspring.io^$third-party
@@ -24086,7 +24087,6 @@
 ||click-ext.anxa.com^$third-party
 ||click-performance.assets.rndtech.de^$third-party
 ||click-pursuit.com^$third-party
-||click-url.com^$third-party
 ||click.aabacosmallbusiness.com^$third-party
 ||click.aaptiv.com^$third-party
 ||click.alexabyte.site^$third-party
@@ -36674,7 +36674,6 @@
 ||eventinggateway-pre-auth.api.intuit.com^$third-party
 ||eventlog.chatlead.com^$third-party
 ||eventlog.gryphline.com^$third-party
-||eventlog.inspsearchapi.com^$third-party
 ||eventlog.jackpot.de^$third-party
 ||eventlogs.octillionmedia.com^$third-party
 ||eventos.abastur.com^$third-party
@@ -40564,7 +40563,6 @@
 ||goodolddaysmagazine-news.com^$third-party
 ||goods.accessoriesbd.com^$third-party
 ||google-analyticals.com^$third-party
-||google-analytics-cn.com^$third-party
 ||google-analytics.bi.owox.com^$third-party
 ||google-analytics.com^$third-party
 ||google-cloud-api.com^$third-party
@@ -40572,10 +40570,8 @@
 ||google.yescolours.com^$third-party
 ||googleanalytics.erocms.net^$third-party
 ||googlecommerce.com^$third-party
-||googleoptimize-cn.com^$third-party
 ||googleoptimize.com^$third-party
 ||googlerank.info^$third-party
-||googletagmanager-cn.com^$third-party
 ||googletagservices-cn.com^$third-party
 ||googleusaanalytics.com^$third-party
 ||gooo.al^$third-party
@@ -44641,6 +44637,7 @@
 ||homeip.vn^$third-party
 ||homelycrown.com^$third-party
 ||homeprv.lgtvcommon.com^$third-party
+||homerunfood.com^$third-party
 ||homes.activa.ca^$third-party
 ||homexa.org^$third-party
 ||honest-metrics.com^$third-party
@@ -47265,6 +47262,7 @@
 ||insights-collector.newrelic.com^$third-party
 ||insights-mxp-cdn.coursecareers.com^$third-party
 ||insights-r.webex.com^$third-party
+||insights-tag.convertkit.com^$third-party
 ||insights.1688.com^$third-party
 ||insights.ably.com^$third-party
 ||insights.academy.com^$third-party
@@ -48389,7 +48387,6 @@
 ||jineu.goddessall.com^$third-party
 ||jinx.skullctf.com^$third-party
 ||jirafe.com^$third-party
-||jivosite.com^$third-party
 ||jixie.io^$third-party
 ||jj6r6jzp.com^$third-party
 ||jjcypx.vrai.com^$third-party
@@ -83312,6 +83309,7 @@
 ||privacymps.merchantprocessorsolutions.com^$third-party
 ||privacysafe.click^$third-party
 ||privacystats.com^$third-party
+||privaliabrasil.tt.omtrdc.net^$third-party
 ||privat-medisin-forsyninger.over-blog.com^$third-party
 ||private.cervicalcancer-risk.com^$third-party
 ||private.roche.com^$third-party
@@ -88847,7 +88845,6 @@
 ||sbcmt.curlmix.com^$third-party
 ||sbdhdq.zeeman.com^$third-party
 ||sbeacon.sina.com.cn^$third-party
-||sbermarketing.ru^$third-party
 ||sbfrnq.naturalforme.fr^$third-party
 ||sbgsodufuosmmvsdf.info^$third-party
 ||sbi-push.com^$third-party
@@ -89039,6 +89036,7 @@
 ||science.ygoprint.org^$third-party
 ||science.zusor.io^$third-party
 ||sciencerevenue.com^$third-party
+||sciencevault.net^$third-party
 ||sciencex.com^$third-party
 ||scientificsneeze.com^$third-party
 ||sciera.com^$third-party
@@ -89383,6 +89381,7 @@
 ||seamless.wtaxattorney.com^$third-party
 ||seamless.wtaxgroup.co^$third-party
 ||seao.business.samsung.com^$third-party
+||seaotterplay.com^$third-party
 ||search.anonymous.ads.brave.com^$third-party
 ||search.graffittibooks.com^$third-party
 ||search.kpmginstitutes.com^$third-party
@@ -90118,6 +90117,7 @@
 ||send.merit.me^$third-party
 ||sendergen.com^$third-party
 ||sendgrid.me^$third-party
+||sendinblast.com^$third-party
 ||sendmoney.americanexpress.co.uk^$third-party
 ||sendnoteview-log.myportfolio.com^$third-party
 ||sendpulse.thestartupweekly.com^$third-party
@@ -114157,7 +114157,6 @@
 ||stats.flight13.com^$third-party
 ||stats.flightsphere.com^$third-party
 ||stats.flirtirc.co.za^$third-party
-||stats.flixhq.live^$third-party
 ||stats.flo210500.com^$third-party
 ||stats.flomine.fr^$third-party
 ||stats.florent-torregrosa.fr^$third-party
@@ -128196,7 +128195,6 @@
 ||tracking.lead-plus.jp^$third-party
 ||tracking.leadingauthorities.com^$third-party
 ||tracking.leadlander.com^$third-party
-||tracking.leadspark.io^$third-party
 ||tracking.learn.oakstreethealth.com^$third-party
 ||tracking.leeep.jp^$third-party
 ||tracking.leighton.com^$third-party
@@ -131897,6 +131895,7 @@
 ||v4gtm.lucascalado.com.br^$third-party
 ||v4tpxg9m.com^$third-party
 ||v5fsk8kjd.com^$third-party
+||v6analytics.htmedia.in.edgekey.net^$third-party
 ||v710.newyorkupstate.com^$third-party
 ||v7fhugd.com^$third-party
 ||v8hj3d6j.com^$third-party
