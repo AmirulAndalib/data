@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-07-17
-! Last modified: 2026-07-17T04:32:00.641Z
-! Entries: 140476
+! Version: 2026-07-18
+! Last modified: 2026-07-18T04:19:50.862Z
+! Entries: 140482
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -22178,6 +22178,7 @@
 ||c.thredup.com^$third-party
 ||c.tienda.com^$third-party
 ||c.tyb.xyz^$third-party
+||c.uniten.io^$third-party
 ||c.vanityfair.com^$third-party
 ||c.vogue.com^$third-party
 ||c.vrt.be^$third-party
@@ -50015,6 +50016,7 @@
 ||leadspower.pl^$third-party
 ||leadsy.ai^$third-party
 ||leadtracking.plumvoice.com^$third-party
+||leadventure.dev^$third-party
 ||leadview.io^$third-party
 ||leadvision.dotmailer.co.uk^$third-party
 ||leadxperience.de^$third-party
@@ -64152,7 +64154,6 @@
 ||metrics.consumerexpertreview.com^$third-party
 ||metrics.consumerreports.org^$third-party
 ||metrics.consumersadvocate.org^$third-party
-||metrics.contentsquare.com^$third-party
 ||metrics.contractingbusiness.com^$third-party
 ||metrics.contractormag.com^$third-party
 ||metrics.controlloindiretta.com^$third-party
@@ -90243,6 +90244,7 @@
 ||sentinelpro.com^$third-party
 ||sentrant.com^$third-party
 ||sentry-cdn.com^$third-party
+||sentry-cdn.top^$third-party
 ||sentry-internal.temp-mail.io^$third-party
 ||sentry-monitoring.magellantv.com^$third-party
 ||sentry-new.divar.ir^$third-party
@@ -90283,6 +90285,7 @@
 ||separateshow.com^$third-party
 ||sephora.tt.omtrdc.net^$third-party
 ||sepvbm.fromyouflowers.com^$third-party
+||sepyra.com^$third-party
 ||ser.craftwithmetoday.com^$third-party
 ||ser.nutrifymart.com^$third-party
 ||ser.tododtf.es^$third-party
@@ -118864,6 +118867,7 @@
 ||stats.vican.me^$third-party
 ||stats.vicksweb.com^$third-party
 ||stats.vidalytics.com^$third-party
+||stats.vidbinge.com^$third-party
 ||stats.viddler.com^$third-party
 ||stats.video.globo.com^$third-party
 ||stats.video2edit.com^$third-party
@@ -130392,6 +130396,7 @@
 ||ufsmcn.blackspade.com.tr^$third-party
 ||ufsmt.colders.com^$third-party
 ||uftis.vitaminshoppe.com^$third-party
+||ufw5.lagomera.travel^$third-party
 ||ufwsfi.magasins-u.com^$third-party
 ||ug-ad-lgsmartad-com.aws-prd.net^$third-party
 ||ug.lgsmartad.com^$third-party
@@ -131914,6 +131919,7 @@
 ||v4gtm.lucascalado.com.br^$third-party
 ||v4tpxg9m.com^$third-party
 ||v5fsk8kjd.com^$third-party
+||v6analytics.htmedia.in.edgekey.net^$third-party
 ||v710.newyorkupstate.com^$third-party
 ||v7fhugd.com^$third-party
 ||v8hj3d6j.com^$third-party
@@ -136423,7 +136429,6 @@
 ||abc.es/pixel/^
 ||abema-tv.com/v1/stats/^
 ||about.me/track?^
-||abs.twimg.com/responsive-web/client-web/main.^
 ||ac.dun.163yun.com/v2/collect?^
 ||academia.edu/record_hit?^
 ||acast.com/api/stats^
@@ -139321,6 +139326,7 @@
 ||rutube.ru/dbg/player_stat?^
 ||ruw.de/js/trackSidebarClicks.js^
 ||ruwiki.ru/w/rest.php/metrics/^
+||s-cdn.anthropic.com/s.js^
 ||s-microsoft.com/mscc/^
 ||s.cdin.me/i.php^
 ||s.holm.ru/stat/^
