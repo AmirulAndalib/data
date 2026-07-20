@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-07-19
-! Last modified: 2026-07-19T04:42:53.705Z
-! Entries: 140470
+! Version: 2026-07-20
+! Last modified: 2026-07-20T04:59:02.744Z
+! Entries: 140474
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -20633,7 +20633,6 @@
 ||beacon.kmi-us.com^$third-party
 ||beacon.lycos.com^$third-party
 ||beacon.mitremedia.org^$third-party
-||beacon.my.salesforce.com^$third-party
 ||beacon.nc-net.or.jp^$third-party
 ||beacon.necotracks.jp^$third-party
 ||beacon.nikkansports.com^$third-party
@@ -20646,7 +20645,6 @@
 ||beacon.qa.walmart.com^$third-party
 ||beacon.qq.com^$third-party
 ||beacon.radiko.jp^$third-party
-||beacon.rallydev.com^$third-party
 ||beacon.s.llnwi.net^$third-party
 ||beacon.samsclub.com^$third-party
 ||beacon.searchspring.io^$third-party
@@ -34040,6 +34038,7 @@
 ||dustywave.com^$third-party
 ||duu8lzqdm8tsz.cloudfront.net^$third-party
 ||duuytoqss3gu4.cloudfront.net^$third-party
+||dv-c3e594c6d429469e90b54478358619c3.ecs.us-east-1.on.aws^$third-party
 ||dv.chemie.de^$third-party
 ||dv0d04gzgrqd1.cloudfront.net^$third-party
 ||dv59b.montecarlomeeting.com^$third-party
@@ -39032,6 +39031,7 @@
 ||g1782759015.co^$third-party
 ||g1782759016.co^$third-party
 ||g1980843350.co^$third-party
+||g1980843351.co^$third-party
 ||g1be.swisslife-direct.fr^$third-party
 ||g1zqn8trk.com^$third-party
 ||g2575096355.co^$third-party
@@ -47481,6 +47481,7 @@
 ||intentlens.com^$third-party
 ||intentpath.com^$third-party
 ||intentsify.io^$third-party
+||intentwave.com^$third-party
 ||interactive-circle.jp^$third-party
 ||interactivity-collector.metric.brightcove.com^$third-party
 ||interactupfluence.com^$third-party
@@ -49471,6 +49472,7 @@
 ||krishnaw399.alphonso.tv^$third-party
 ||krishnaw400.alphonso.tv^$third-party
 ||krishnaw401.alphonso.tv^$third-party
+||krishnaw405.alphonso.tv^$third-party
 ||krishnaw408.alphonso.tv^$third-party
 ||krishnaw411.alphonso.tv^$third-party
 ||krishnaw412.alphonso.tv^$third-party
@@ -72826,6 +72828,7 @@
 ||news.forddirectdealers.com^$third-party
 ||news.idahobusinessreview.com^$third-party
 ||news.journalrecord.com^$third-party
+||news.juventus.com^$third-party
 ||news.la-z-boy.com^$third-party
 ||news.lens.com^$third-party
 ||news.libn.com^$third-party
@@ -124424,6 +124427,7 @@
 ||tkacr683.alphonso.tv^$third-party
 ||tkacr685.alphonso.tv^$third-party
 ||tkacr687.alphonso.tv^$third-party
+||tkacr690.alphonso.tv^$third-party
 ||tkacr691.alphonso.tv^$third-party
 ||tkacr692.alphonso.tv^$third-party
 ||tkacr693.alphonso.tv^$third-party
@@ -131907,7 +131911,6 @@
 ||v4gtm.lucascalado.com.br^$third-party
 ||v4tpxg9m.com^$third-party
 ||v5fsk8kjd.com^$third-party
-||v6analytics.htmedia.in.edgekey.net^$third-party
 ||v710.newyorkupstate.com^$third-party
 ||v7fhugd.com^$third-party
 ||v8hj3d6j.com^$third-party
@@ -136416,7 +136419,6 @@
 ||abc.es/pixel/^
 ||abema-tv.com/v1/stats/^
 ||about.me/track?^
-||abs.twimg.com/responsive-web/client-web/main.^
 ||ac.dun.163yun.com/v2/collect?^
 ||academia.edu/record_hit?^
 ||acast.com/api/stats^
@@ -138343,6 +138345,7 @@
 ||ldlc.com/V4px/js/ldlcmachine.js^
 ||ldoverseas.com/public-gateway/*/activity^
 ||le.com/op/^
+||leadconnectorhq.com/stats/event^
 ||leadliaison.com/tracking_engine/^
 ||leadplan.ru/api/pageview/^
 ||leadplan.ru/api/session/^
@@ -138974,6 +138977,7 @@
 ||performgroup.com/metrics/^
 ||perimeterx.net/api/v1/collector/^
 ||perplexity.ai/rest/event/analytics^
+||personalize-edge.contentstack.com/events^
 ||petametrics.com/*/activity^
 ||petametrics.com/*/modal^
 ||pg.totaaltv.nl/api/metrics^
