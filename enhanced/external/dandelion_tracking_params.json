@@ -1,8 +1,8 @@
 {
-  "version": "2026-07-15",
-  "generated": "2026-07-15T05:57:42.856Z",
+  "version": "2026-07-21",
+  "generated": "2026-07-21T06:16:07.822Z",
   "type": "tracking_params_sites",
-  "domain_count": 913,
+  "domain_count": 904,
   "param_count": 1877,
   "sites": {
     "steuer.check24.de": [
@@ -1386,14 +1386,12 @@
       "aff_id",
       "aff_sub",
       "exchange",
-      "feature",
       "source"
     ],
     "tmz.com": [
       "adid"
     ],
     "substack.com": [
-      "r",
       "sd",
       "triedRedirect"
     ],
@@ -2820,7 +2818,6 @@
       "prdPV"
     ],
     "instagram.com": [
-      "entry_point",
       "ig_rid",
       "igsh",
       "short_redirect"
@@ -3488,9 +3485,6 @@
     "hp.com": [
       "jumpid"
     ],
-    "hinta.fi": [
-      "v"
-    ],
     "roblox.com": [
       "refPageId"
     ],
@@ -3593,9 +3587,6 @@
     ],
     "nerdrooted.com": [
       "sfw"
-    ],
-    "mozilla.org": [
-      "redirect_source"
     ],
     "hpi.de": [
       "tracking_id"
@@ -3781,8 +3772,7 @@
       "zsrc"
     ],
     "lookmovie211.xyz": [
-      "sec",
-      "sid"
+      "sec"
     ],
     "nortonsafe.search.ask.com": [
       "chn",
@@ -3860,11 +3850,6 @@
       "grp",
       "msr",
       "oper"
-    ],
-    "notion.so": [
-      "gspk",
-      "gsxid",
-      "pscd"
     ],
     "apnews.com": [
       "user_email"
@@ -3944,9 +3929,6 @@
     ],
     "kahoot.it": [
       "refer_method"
-    ],
-    "open.substack.com": [
-      "r"
     ],
     "euromaidanpress.com": [
       "swcfpc"
@@ -4098,9 +4080,6 @@
     "zoominfo.com": [
       "ch_source"
     ],
-    "landevei.no": [
-      "email"
-    ],
     "hotels.com": [
       "latLong",
       "pwa_ts",
@@ -4132,7 +4111,6 @@
       "stored-id"
     ],
     "thehill.com": [
-      "email",
       "emaila",
       "emailb"
     ],
@@ -4145,12 +4123,10 @@
       "rsplus"
     ],
     "l.clips4sale.com": [
-      "a",
       "o"
     ],
     "vitusapotek.no": [
-      "device",
-      "keyword"
+      "device"
     ],
     "aoc.com": [
       "slug"
@@ -4159,20 +4135,11 @@
       "copy",
       "share_location"
     ],
-    "downloads.sourceforge.net": [
-      "r"
-    ],
     "snapchat.com": [
       "share_id"
     ],
-    "carrefoursa.com": [
-      "v"
-    ],
     "cloud.microsoft": [
       "origindomain"
-    ],
-    "tubebuddy.com": [
-      "a"
     ],
     "twitch.tv": [
       "device-metadata"
@@ -4209,9 +4176,6 @@
       "_plt",
       "_scr"
     ],
-    "www.reddit.com": [
-      "entry_point"
-    ],
     "email-marriott.com": [
       "__dU__"
     ],
@@ -4236,9 +4200,6 @@
     ],
     "userbenchmark.com": [
       "redirFrom"
-    ],
-    "atnsoft.com": [
-      "e"
     ],
     "www.dropbox.com": [
       "_ad",
@@ -4271,6 +4232,9 @@
     ],
     "app.netsuite.com": [
       "_xt"
+    ],
+    "learn.microsoft.com": [
+      "redirectedfrom"
     ],
     "ikea.com": [
       "f"
