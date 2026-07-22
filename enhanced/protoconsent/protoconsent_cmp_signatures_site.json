@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-18",
+  "version": "2026-07-22",
   "type": "cmp_site",
-  "generated": "2026-07-18T05:51:11.786Z",
+  "generated": "2026-07-22T06:16:34.701Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "8057ef1ce9d92ee9",
-  "cmp_count": 253,
+  "autoconsent_tree_hash": "bc60b7c6a8b09a87",
+  "cmp_count": 254,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -2665,6 +2665,17 @@
         ],
         "showing": [
           ".cookie-banner"
+        ]
+      }
+    },
+    "univenl": {
+      "selector": "#__tealiumGDPRcpPrefs #consent-container",
+      "detectors": {
+        "present": [
+          "#__tealiumGDPRcpPrefs #consent-container #consent-modal-settings"
+        ],
+        "showing": [
+          "#__tealiumGDPRcpPrefs #consent-container"
         ]
       }
     },
