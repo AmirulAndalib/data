@@ -1,10 +1,17 @@
 {
-  "version": "2026-07-22",
-  "generated": "2026-07-22T06:16:34.938Z",
+  "version": "2026-07-23",
+  "generated": "2026-07-23T06:17:25.744Z",
   "type": "tracking_params_sites",
-  "domain_count": 904,
-  "param_count": 1877,
+  "domain_count": 906,
+  "param_count": 1880,
   "sites": {
+    "fairstone.ca": [
+      "adplacementid"
+    ],
+    "loan.fairstone.ca": [
+      "jumpsource",
+      "priority"
+    ],
     "steuer.check24.de": [
       "tc",
       "wpset"

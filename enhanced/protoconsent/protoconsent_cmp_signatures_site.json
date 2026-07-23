@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-22",
+  "version": "2026-07-23",
   "type": "cmp_site",
-  "generated": "2026-07-22T06:16:34.701Z",
+  "generated": "2026-07-23T06:17:25.563Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "bc60b7c6a8b09a87",
-  "cmp_count": 254,
+  "autoconsent_tree_hash": "c4f2cef93bd7e139",
+  "cmp_count": 255,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -1335,6 +1335,17 @@
         ],
         "showing": [
           ".accept-cookie > .accept-cookie-inner"
+        ]
+      }
+    },
+    "interia": {
+      "selector": "form.rodo-popup",
+      "detectors": {
+        "present": [
+          "form.rodo-popup"
+        ],
+        "showing": [
+          "form.rodo-popup"
         ]
       }
     },
@@ -2841,15 +2852,7 @@
       }
     },
     "xnxxcom": {
-      "selector": "#cookies-use-alert",
-      "detectors": {
-        "present": [
-          "#cookies-use-alert"
-        ],
-        "showing": [
-          "#cookies-use-alert"
-        ]
-      }
+      "selector": "#cookies-use-alert"
     },
     "yachtclubgames_com": {
       "selector": "div.cookie.flex.flex-wrap",
