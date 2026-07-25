@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-07-24
-! Last modified: 2026-07-24T04:39:01.697Z
-! Entries: 140556
+! Version: 2026-07-25
+! Last modified: 2026-07-25T04:35:03.116Z
+! Entries: 140616
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -1188,14 +1188,19 @@
 ||a2zdtrk.com^$third-party
 ||a30667.actonservice.com^$third-party
 ||a30668.actonservice.com^$third-party
+||a32124.actonsoftware.com^$third-party
+||a32609.actonsoftware.com^$third-party
 ||a34436.actonservice.com^$third-party
 ||a34938.actonservice.com^$third-party
 ||a35415.actonservice.com^$third-party
 ||a35827.actonservice.com^$third-party
+||a37064.actonsoftware.com^$third-party
 ||a38820.actonservice.com^$third-party
 ||a39176.actonservice.com^$third-party
 ||a4.bing.com^$third-party
+||a41765.actonsoftware.com^$third-party
 ||a42220.actonsoftware.com^$third-party
+||a43125.actonsoftware.com^$third-party
 ||a433.dailypress.com^$third-party
 ||a43317.actonservice.com^$third-party
 ||a43354.actonservice.com^$third-party
@@ -1206,8 +1211,10 @@
 ||a44370.actonservice.com^$third-party
 ||a45230.actonservice.com^$third-party
 ||a45656.actonservice.com^$third-party
+||a4712.actonsoftware.com^$third-party
 ||a47b.com^$third-party
 ||a483k.badsectorlabs.com^$third-party
+||a4952.actonsoftware.com^$third-party
 ||a4b-tracking.com^$third-party
 ||a4hyd98h.com^$third-party
 ||a592.lehighvalleylive.com^$third-party
@@ -2661,6 +2668,7 @@
 ||a8ww.net^$third-party
 ||a8x.piece-kaitori.jp^$third-party
 ||a9643.actonservice.com^$third-party
+||a9883.actonsoftware.com^$third-party
 ||a9d8e7b6i5s.andgino.jp^$third-party
 ||a9s.nuqayah.com^$third-party
 ||aa-aem.hamamatsu.com^$third-party
@@ -18805,6 +18813,7 @@
 ||app.insider.cavs.net^$third-party
 ||app.insight.cision.com^$third-party
 ||app.insight.dnb.com^$third-party
+||app.insight.heidrick.com^$third-party
 ||app.insight.thompson.com^$third-party
 ||app.iowaeventscenter.com^$third-party
 ||app.iowawild.com^$third-party
@@ -20600,6 +20609,7 @@
 ||beacon-1.newrelic.com^$third-party
 ||beacon-2.newrelic.com^$third-party
 ||beacon-3.newrelic.com^$third-party
+||beacon-6.newrelic.com^$third-party
 ||beacon-api.aliyuncs.com^$third-party
 ||beacon-cdn-custom.walmart.com.akadns.net^$third-party
 ||beacon-cdn.walmart.ca.akadns.net^$third-party
@@ -23891,11 +23901,13 @@
 ||ci.intuit.com^$third-party
 ||ci.lgsmartad.com^$third-party
 ||ci.quickbooks.com^$third-party
+||ci203.actonsoftware.com^$third-party
 ||ci42.rgp.com^$third-party
 ||cibaimo.lanciaumo.com^$third-party
 ||cicada.wordvested.org^$third-party
 ||cid.segment.com^$third-party
 ||cid11.actonsoftware.com^$third-party
+||cid6.actonsoftware.com^$third-party
 ||ciduq.proboostnow.com^$third-party
 ||cidvz.clearstemskincare.com^$third-party
 ||ciehv.shopboldr.com^$third-party
@@ -25442,6 +25454,7 @@
 ||collector-hpn.ghostery.net^$third-party
 ||collector-hpn.privacy.ghostery.net^$third-party
 ||collector-ovp.streamcloud.it^$third-party
+||collector-pool.newrelic.com^$third-party
 ||collector-px0py5pczn.octopart.com^$third-party
 ||collector-px8fcgygk4.px-cloud.net^$third-party
 ||collector-pxebumdlwe.px-cdn.net^$third-party
@@ -38312,9 +38325,45 @@
 ||forms.xtralis.com^$third-party
 ||formulawire.com^$third-party
 ||formyip.com^$third-party
+||forpci1.actonsoftware.com^$third-party
 ||forpci11.actonsoftware.com^$third-party
+||forpci22.actonsoftware.com^$third-party
+||forpci24.actonsoftware.com^$third-party
+||forpci25.actonsoftware.com^$third-party
+||forpci27.actonsoftware.com^$third-party
+||forpci28.actonsoftware.com^$third-party
 ||forpci3.siege-corp.com^$third-party
+||forpci31.actonsoftware.com^$third-party
+||forpci33.actonsoftware.com^$third-party
+||forpci35.actonsoftware.com^$third-party
+||forpci36.actonsoftware.com^$third-party
+||forpci37.actonsoftware.com^$third-party
+||forpci42.actonsoftware.com^$third-party
+||forpci43.actonsoftware.com^$third-party
+||forpci44.actonsoftware.com^$third-party
+||forpci45.actonsoftware.com^$third-party
+||forpci51.actonsoftware.com^$third-party
+||forpci54.actonsoftware.com^$third-party
+||forpci56.actonsoftware.com^$third-party
+||forpci57.actonsoftware.com^$third-party
+||forpci58.actonsoftware.com^$third-party
+||forpci60.actonsoftware.com^$third-party
+||forpci61.actonsoftware.com^$third-party
+||forpci63.actonsoftware.com^$third-party
+||forpci64.actonsoftware.com^$third-party
+||forpci69.actonsoftware.com^$third-party
+||forpci70.actonsoftware.com^$third-party
+||forpci73.actonsoftware.com^$third-party
+||forpci75.actonsoftware.com^$third-party
+||forpci77.actonsoftware.com^$third-party
+||forpci85.actonsoftware.com^$third-party
+||forpci87.actonsoftware.com^$third-party
+||forpci89.actonsoftware.com^$third-party
+||forpci90.actonsoftware.com^$third-party
+||forpci97.actonsoftware.com^$third-party
+||forpcid1.actonsoftware.com^$third-party
 ||forpcid2.actonsoftware.com^$third-party
+||forpcid6.actonsoftware.com^$third-party
 ||fortbeach.com^$third-party
 ||forter.com^$third-party
 ||forthea.com^$third-party
@@ -40460,6 +40509,7 @@
 ||go.ustruckbody.com^$third-party
 ||go.verifiedfirst.com^$third-party
 ||go.viridiengroup.com^$third-party
+||go.visma.com^$third-party
 ||go.vitalitybrasil.com^$third-party
 ||go.wacom.com^$third-party
 ||go.wireco.com^$third-party
@@ -48631,6 +48681,7 @@
 ||jscrambler.com^$third-party
 ||jsdh23trk.com^$third-party
 ||jsemg.dandelionchocolate.com^$third-party
+||jserror.newrelic.com^$third-party
 ||jserrors.dev.onshape.com^$third-party
 ||jserrors.meetyoo.com^$third-party
 ||jsflkjkgv.com^$third-party
@@ -71339,6 +71390,7 @@
 ||mobalyzer.net^$third-party
 ||mobildev.in^$third-party
 ||mobile-collector.newrelic.com^$third-party
+||mobile-crash-origin.newrelic.com^$third-party
 ||mobile-crash.newrelic.com^$third-party
 ||mobile-electronics.edm.globalsources.com^$third-party
 ||mobile-event-development.cvent.me^$third-party
@@ -82735,6 +82787,7 @@
 ||player.log.kukuplay.com^$third-party
 ||playererror.zype.com^$third-party
 ||playerhappy.com^$third-party
+||playerscache.com^$third-party
 ||playfishemail.com^$third-party
 ||playfoursquare.com^$third-party
 ||playmob.com^$third-party
@@ -83609,6 +83662,7 @@
 ||prov-lb.alphonso.tv^$third-party
 ||provesrc.com^$third-party
 ||providercall.com^$third-party
+||provingmagic.com^$third-party
 ||provo.staples.ca^$third-party
 ||provo1.eway.ca^$third-party
 ||proxcactus.com^$third-party
@@ -85462,6 +85516,7 @@
 ||rabbit.radicalxchange.org^$third-party
 ||rabbit.slashequip.com^$third-party
 ||rabbit.upwardhomes.net^$third-party
+||rabbitboots.com^$third-party
 ||rac.ruutu.fi^$third-party
 ||raccoon.alexanderssonlaw.com^$third-party
 ||raccoon.jaronheard.com^$third-party
@@ -88504,6 +88559,7 @@
 ||samsungseao.tt.omtrdc.net^$third-party
 ||samsungseda.api.useinsider.com^$third-party
 ||samsungsem.api.useinsider.com^$third-party
+||samsungth.api.useinsider.com^$third-party
 ||samsungturkey.api.useinsider.com^$third-party
 ||samsungturkey.tt.omtrdc.net^$third-party
 ||samsungus.tt.omtrdc.net^$third-party
@@ -95609,6 +95665,7 @@
 ||silentcredit.com^$third-party
 ||silentjourneyemail.com^$third-party
 ||silentlypostmodernbuilding.com^$third-party
+||silentsingle.com^$third-party
 ||silentwrench.com^$third-party
 ||silkworm.bobsmechanicalrepairs.co.uk^$third-party
 ||silkworm.boxmood.be^$third-party
@@ -106916,6 +106973,7 @@
 ||stagfox.com^$third-party
 ||staging-analyze.pt.xiaomi.com^$third-party
 ||staging-counter.snackly.co^$third-party
+||staging-insights-collector.newrelic.com^$third-party
 ||staging-pt.ispot.tv^$third-party
 ||staging.api.zhuti.n.xiaomi.com^$third-party
 ||staging.appapi.n.xiaomi.com^$third-party
@@ -137470,6 +137528,7 @@
 ||delta.com/datacollect^
 ||delvenetworks.com/player/plugins/analytics/^
 ||demandmedia.com/wm.js^
+||dengarden.com/.api/admiral^
 ||deno.com/i/^
 ||deovr.com/api_logs/^
 ||deporvillage.com/tracking-library/^
@@ -138525,6 +138584,7 @@
 ||liveperson.net/hc/*/?visitor=^
 ||liverail.com/?metric=^
 ||liverail.com/track/?^
+||livescore.com/external/media/analytics_config/^
 ||livestory.io/*/collect^
 ||llama.fi/script.js^
 ||lmtonline.com/413gkwMT/init.js^

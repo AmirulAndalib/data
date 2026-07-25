@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics Extended
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-# Version: 2026-07-24
-# Last modified: 2026-07-24T04:39:01.697Z
-# Entries: 136429
+# Version: 2026-07-25
+# Last modified: 2026-07-25T04:35:03.116Z
+# Entries: 136487
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -1187,14 +1187,19 @@
 0.0.0.0 a2zdtrk.com
 0.0.0.0 a30667.actonservice.com
 0.0.0.0 a30668.actonservice.com
+0.0.0.0 a32124.actonsoftware.com
+0.0.0.0 a32609.actonsoftware.com
 0.0.0.0 a34436.actonservice.com
 0.0.0.0 a34938.actonservice.com
 0.0.0.0 a35415.actonservice.com
 0.0.0.0 a35827.actonservice.com
+0.0.0.0 a37064.actonsoftware.com
 0.0.0.0 a38820.actonservice.com
 0.0.0.0 a39176.actonservice.com
 0.0.0.0 a4.bing.com
+0.0.0.0 a41765.actonsoftware.com
 0.0.0.0 a42220.actonsoftware.com
+0.0.0.0 a43125.actonsoftware.com
 0.0.0.0 a433.dailypress.com
 0.0.0.0 a43317.actonservice.com
 0.0.0.0 a43354.actonservice.com
@@ -1205,8 +1210,10 @@
 0.0.0.0 a44370.actonservice.com
 0.0.0.0 a45230.actonservice.com
 0.0.0.0 a45656.actonservice.com
+0.0.0.0 a4712.actonsoftware.com
 0.0.0.0 a47b.com
 0.0.0.0 a483k.badsectorlabs.com
+0.0.0.0 a4952.actonsoftware.com
 0.0.0.0 a4b-tracking.com
 0.0.0.0 a4hyd98h.com
 0.0.0.0 a592.lehighvalleylive.com
@@ -2660,6 +2667,7 @@
 0.0.0.0 a8ww.net
 0.0.0.0 a8x.piece-kaitori.jp
 0.0.0.0 a9643.actonservice.com
+0.0.0.0 a9883.actonsoftware.com
 0.0.0.0 a9d8e7b6i5s.andgino.jp
 0.0.0.0 a9s.nuqayah.com
 0.0.0.0 aa-aem.hamamatsu.com
@@ -18804,6 +18812,7 @@
 0.0.0.0 app.insider.cavs.net
 0.0.0.0 app.insight.cision.com
 0.0.0.0 app.insight.dnb.com
+0.0.0.0 app.insight.heidrick.com
 0.0.0.0 app.insight.thompson.com
 0.0.0.0 app.iowaeventscenter.com
 0.0.0.0 app.iowawild.com
@@ -20599,6 +20608,7 @@
 0.0.0.0 beacon-1.newrelic.com
 0.0.0.0 beacon-2.newrelic.com
 0.0.0.0 beacon-3.newrelic.com
+0.0.0.0 beacon-6.newrelic.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon-cdn-custom.walmart.com.akadns.net
 0.0.0.0 beacon-cdn.walmart.ca.akadns.net
@@ -23890,11 +23900,13 @@
 0.0.0.0 ci.intuit.com
 0.0.0.0 ci.lgsmartad.com
 0.0.0.0 ci.quickbooks.com
+0.0.0.0 ci203.actonsoftware.com
 0.0.0.0 ci42.rgp.com
 0.0.0.0 cibaimo.lanciaumo.com
 0.0.0.0 cicada.wordvested.org
 0.0.0.0 cid.segment.com
 0.0.0.0 cid11.actonsoftware.com
+0.0.0.0 cid6.actonsoftware.com
 0.0.0.0 ciduq.proboostnow.com
 0.0.0.0 cidvz.clearstemskincare.com
 0.0.0.0 ciehv.shopboldr.com
@@ -25441,6 +25453,7 @@
 0.0.0.0 collector-hpn.ghostery.net
 0.0.0.0 collector-hpn.privacy.ghostery.net
 0.0.0.0 collector-ovp.streamcloud.it
+0.0.0.0 collector-pool.newrelic.com
 0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector-px8fcgygk4.px-cloud.net
 0.0.0.0 collector-pxebumdlwe.px-cdn.net
@@ -38311,9 +38324,45 @@
 0.0.0.0 forms.xtralis.com
 0.0.0.0 formulawire.com
 0.0.0.0 formyip.com
+0.0.0.0 forpci1.actonsoftware.com
 0.0.0.0 forpci11.actonsoftware.com
+0.0.0.0 forpci22.actonsoftware.com
+0.0.0.0 forpci24.actonsoftware.com
+0.0.0.0 forpci25.actonsoftware.com
+0.0.0.0 forpci27.actonsoftware.com
+0.0.0.0 forpci28.actonsoftware.com
 0.0.0.0 forpci3.siege-corp.com
+0.0.0.0 forpci31.actonsoftware.com
+0.0.0.0 forpci33.actonsoftware.com
+0.0.0.0 forpci35.actonsoftware.com
+0.0.0.0 forpci36.actonsoftware.com
+0.0.0.0 forpci37.actonsoftware.com
+0.0.0.0 forpci42.actonsoftware.com
+0.0.0.0 forpci43.actonsoftware.com
+0.0.0.0 forpci44.actonsoftware.com
+0.0.0.0 forpci45.actonsoftware.com
+0.0.0.0 forpci51.actonsoftware.com
+0.0.0.0 forpci54.actonsoftware.com
+0.0.0.0 forpci56.actonsoftware.com
+0.0.0.0 forpci57.actonsoftware.com
+0.0.0.0 forpci58.actonsoftware.com
+0.0.0.0 forpci60.actonsoftware.com
+0.0.0.0 forpci61.actonsoftware.com
+0.0.0.0 forpci63.actonsoftware.com
+0.0.0.0 forpci64.actonsoftware.com
+0.0.0.0 forpci69.actonsoftware.com
+0.0.0.0 forpci70.actonsoftware.com
+0.0.0.0 forpci73.actonsoftware.com
+0.0.0.0 forpci75.actonsoftware.com
+0.0.0.0 forpci77.actonsoftware.com
+0.0.0.0 forpci85.actonsoftware.com
+0.0.0.0 forpci87.actonsoftware.com
+0.0.0.0 forpci89.actonsoftware.com
+0.0.0.0 forpci90.actonsoftware.com
+0.0.0.0 forpci97.actonsoftware.com
+0.0.0.0 forpcid1.actonsoftware.com
 0.0.0.0 forpcid2.actonsoftware.com
+0.0.0.0 forpcid6.actonsoftware.com
 0.0.0.0 fortbeach.com
 0.0.0.0 forter.com
 0.0.0.0 forthea.com
@@ -40459,6 +40508,7 @@
 0.0.0.0 go.ustruckbody.com
 0.0.0.0 go.verifiedfirst.com
 0.0.0.0 go.viridiengroup.com
+0.0.0.0 go.visma.com
 0.0.0.0 go.vitalitybrasil.com
 0.0.0.0 go.wacom.com
 0.0.0.0 go.wireco.com
@@ -48630,6 +48680,7 @@
 0.0.0.0 jscrambler.com
 0.0.0.0 jsdh23trk.com
 0.0.0.0 jsemg.dandelionchocolate.com
+0.0.0.0 jserror.newrelic.com
 0.0.0.0 jserrors.dev.onshape.com
 0.0.0.0 jserrors.meetyoo.com
 0.0.0.0 jsflkjkgv.com
@@ -71338,6 +71389,7 @@
 0.0.0.0 mobalyzer.net
 0.0.0.0 mobildev.in
 0.0.0.0 mobile-collector.newrelic.com
+0.0.0.0 mobile-crash-origin.newrelic.com
 0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 mobile-electronics.edm.globalsources.com
 0.0.0.0 mobile-event-development.cvent.me
@@ -82734,6 +82786,7 @@
 0.0.0.0 player.log.kukuplay.com
 0.0.0.0 playererror.zype.com
 0.0.0.0 playerhappy.com
+0.0.0.0 playerscache.com
 0.0.0.0 playfishemail.com
 0.0.0.0 playfoursquare.com
 0.0.0.0 playmob.com
@@ -83608,6 +83661,7 @@
 0.0.0.0 prov-lb.alphonso.tv
 0.0.0.0 provesrc.com
 0.0.0.0 providercall.com
+0.0.0.0 provingmagic.com
 0.0.0.0 provo.staples.ca
 0.0.0.0 provo1.eway.ca
 0.0.0.0 proxcactus.com
@@ -85461,6 +85515,7 @@
 0.0.0.0 rabbit.radicalxchange.org
 0.0.0.0 rabbit.slashequip.com
 0.0.0.0 rabbit.upwardhomes.net
+0.0.0.0 rabbitboots.com
 0.0.0.0 rac.ruutu.fi
 0.0.0.0 raccoon.alexanderssonlaw.com
 0.0.0.0 raccoon.jaronheard.com
@@ -88503,6 +88558,7 @@
 0.0.0.0 samsungseao.tt.omtrdc.net
 0.0.0.0 samsungseda.api.useinsider.com
 0.0.0.0 samsungsem.api.useinsider.com
+0.0.0.0 samsungth.api.useinsider.com
 0.0.0.0 samsungturkey.api.useinsider.com
 0.0.0.0 samsungturkey.tt.omtrdc.net
 0.0.0.0 samsungus.tt.omtrdc.net
@@ -95608,6 +95664,7 @@
 0.0.0.0 silentcredit.com
 0.0.0.0 silentjourneyemail.com
 0.0.0.0 silentlypostmodernbuilding.com
+0.0.0.0 silentsingle.com
 0.0.0.0 silentwrench.com
 0.0.0.0 silkworm.bobsmechanicalrepairs.co.uk
 0.0.0.0 silkworm.boxmood.be
@@ -106915,6 +106972,7 @@
 0.0.0.0 stagfox.com
 0.0.0.0 staging-analyze.pt.xiaomi.com
 0.0.0.0 staging-counter.snackly.co
+0.0.0.0 staging-insights-collector.newrelic.com
 0.0.0.0 staging-pt.ispot.tv
 0.0.0.0 staging.api.zhuti.n.xiaomi.com
 0.0.0.0 staging.appapi.n.xiaomi.com
