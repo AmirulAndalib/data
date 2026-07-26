@@ -106,6 +106,13 @@
       ]
     },
     {
+      "urlFilter": "||martech.condenastdigital.com/lib/martech.js",
+      "initiatorDomains": [
+        "cntraveler.com",
+        "wired.com"
+      ]
+    },
+    {
       "urlFilter": "||googletagmanager.com/gtm.js",
       "initiatorDomains": [
         "3djuegosguias.com",
@@ -885,5 +892,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 21
+  "path_exception_count": 22
 }
