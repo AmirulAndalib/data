@@ -749,6 +749,10 @@
       "firstParty": true
     },
     {
+      "urlFilter": "||fate-go.jp/anniv_11th_sns/assets/js/services/gtm.js",
+      "firstParty": true
+    },
+    {
       "urlFilter": "||chat.dbo-dengi.online/*/track?event=",
       "initiatorDomains": [
         "online.mtsdengi.ru"
@@ -892,5 +896,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 22
+  "path_exception_count": 23
 }
