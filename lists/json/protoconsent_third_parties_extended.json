@@ -1,7 +1,7 @@
 {
   "name": "ProtoConsent Third Parties Extended",
-  "version": "2026-07-27",
-  "generated": "2026-07-27T04:58:47.828Z",
+  "version": "2026-07-28",
+  "generated": "2026-07-28T04:34:15.634Z",
   "description": "Sharing or combining data with third parties, partners or group companies beyond the core service (extended - all sources)",
   "homepage": "https://github.com/ProtoConsent/data",
   "license": "GPL-3.0-or-later",
@@ -544,6 +544,7 @@
     "smile.io",
     "snackly.co",
     "snrtp-cdn.marketo.com",
+    "snrtp1.marketo.com",
     "social-touch.com",
     "socialloginplus-apps.haravan.com",
     "speedshare.app",
@@ -654,7 +655,7 @@
     "yotpo.com",
     "zoominfo.com"
   ],
-  "domain_count": 647,
+  "domain_count": 648,
   "paths": [
     "||4399.com/plugins/tj/event?",
     "||adweek.com/wp-content/plugins/adw-parsley/",

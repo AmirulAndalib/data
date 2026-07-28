@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-! Version: 2026-07-27
-! Last modified: 2026-07-27T04:58:47.828Z
-! Entries: 14137
+! Version: 2026-07-28
+! Last modified: 2026-07-28T04:34:15.634Z
+! Entries: 14132
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -73,7 +73,6 @@
 ||a.hcaptcha.com^$third-party
 ||a.hellowork.com^$third-party
 ||a.hrewards.com^$third-party
-||a.imgvc.com^$third-party
 ||a.ladipage.com^$third-party
 ||a.market.xiaomi.com^$third-party
 ||a.mercuriurval.com^$third-party
@@ -297,6 +296,7 @@
 ||adobemetrics.yellohvillage.com^$third-party
 ||adobemetrics.yellohvillage.de^$third-party
 ||adobemetrics.yellohvillage.es^$third-party
+||adobemetrics.yellohvillage.fr^$third-party
 ||adobemetrics.yellohvillage.nl^$third-party
 ||adobes.pmi.org^$third-party
 ||adobetag.com^$third-party
@@ -950,6 +950,7 @@
 ||analytics.styria.hr^$third-party
 ||analytics.superstructure.ai^$third-party
 ||analytics.supplyframe.com^$third-party
+||analytics.sutochno.ru^$third-party
 ||analytics.sve.cc^$third-party
 ||analytics.svt.se^$third-party
 ||analytics.synchrony.com^$third-party
@@ -1345,7 +1346,6 @@
 ||axp.wavy.com^$third-party
 ||axp.wcia.com^$third-party
 ||axp.wfla.com^$third-party
-||axp.wgnradio.com^$third-party
 ||axp.wgntv.com^$third-party
 ||axp.whnt.com^$third-party
 ||axp.who13.com^$third-party
@@ -1498,6 +1498,7 @@
 ||bento.agoda.com^$third-party
 ||best-top.ro^$third-party
 ||bestboundary.com^$third-party
+||bestclimbers.net^$third-party
 ||bestfreecounterstat.com^$third-party
 ||besucherstatistiken.com^$third-party
 ||besucherzaehler-zugriffszaehler.de^$third-party
@@ -2496,8 +2497,6 @@
 ||data.inbank.it^$third-party
 ||data.info.avianca.com^$third-party
 ||data.info.consumercellular.com^$third-party
-||data.info.infomoney.com.br^$third-party
-||data.info.lifemiles.com^$third-party
 ||data.info.xpi.com.br^$third-party
 ||data.inswa.coca-cola.com^$third-party
 ||data.jaytuckwell.com^$third-party
@@ -2507,7 +2506,6 @@
 ||data.librairieclub.be^$third-party
 ||data.m.shop.nhl.com^$third-party
 ||data.m.starbucks.com^$third-party
-||data.m.store.nba.com^$third-party
 ||data.madridista-free.realmadrid.com^$third-party
 ||data.marketing.nascar.com^$third-party
 ||data.mediaworld.it^$third-party
@@ -2891,7 +2889,6 @@
 ||ens.luzernerzeitung.ch^$third-party
 ||ens.tagblatt.ch^$third-party
 ||ensighten.bhphoto.com^$third-party
-||ensighten.distrelec.com^$third-party
 ||ensighten.huntingtonbank.com^$third-party
 ||ensighten.maurices.com^$third-party
 ||ensighten.norton.com^$third-party
@@ -2909,6 +2906,7 @@
 ||epsilon.6sense.com^$third-party
 ||eq-beacon.stream.co.jp^$third-party
 ||eq-player-log.cdnext.stream.ne.jp^$third-party
+||eqcpn.semcostura.com^$third-party
 ||eqy.link^$third-party
 ||era.easyvoyage.com^$third-party
 ||erate.co.il^$third-party
@@ -3531,7 +3529,6 @@
 ||gtm.humann.com^$third-party
 ||gtm.lercio.it^$third-party
 ||gtm.mandesager.dk^$third-party
-||gtm.marjosports.com.br^$third-party
 ||gtm.taginstall.com^$third-party
 ||gtm.tipranks.com^$third-party
 ||gtm.udemy.com^$third-party
@@ -3677,7 +3674,6 @@
 ||horse.vesuvius-publishing.com^$third-party
 ||horse.zwei-bags.com^$third-party
 ||host-tracker.com^$third-party
-||hostanalytics.com^$third-party
 ||hostcontent.live^$third-party
 ||hostip.info^$third-party
 ||hotjar.com^$third-party
@@ -5871,6 +5867,7 @@
 ||px.staticfiles.at^$third-party
 ||px.wp.pl^$third-party
 ||pxaction.com^$third-party
+||pxbnou.ig.com.br^$third-party
 ||pxc.otto.de^$third-party
 ||pxi.pub^$third-party
 ||pxl.host^$third-party
@@ -5891,6 +5888,7 @@
 ||qbop.com^$third-party
 ||qbrth.ezcontacts.com^$third-party
 ||qchannel03.cn^$third-party
+||qeigr.luluandgeorgia.com^$third-party
 ||qfp.intuit.com^$third-party
 ||qhtqr.mindbodygreen.com^$third-party
 ||qhupdate.com^$third-party
@@ -6231,6 +6229,7 @@
 ||sadbmetrics.canarias7.es^$third-party
 ||sadbmetrics.diariosur.es^$third-party
 ||sadbmetrics.diariovasco.com^$third-party
+||sadbmetrics.elbierzonoticias.com^$third-party
 ||sadbmetrics.elcomercio.es^$third-party
 ||sadbmetrics.elcorreo.com^$third-party
 ||sadbmetrics.elnortedecastilla.es^$third-party
@@ -6586,6 +6585,7 @@
 ||sgtm.blume2000.de^$third-party
 ||sgtm.buildyourstore.ai^$third-party
 ||sgtm.casamundo.de^$third-party
+||sgtm.cirashop.net^$third-party
 ||sgtm.classicfootballshirts.co.uk^$third-party
 ||sgtm.classicfootballshirts.com^$third-party
 ||sgtm.cmoa.jp^$third-party
@@ -6702,7 +6702,6 @@
 ||slingpic.com^$third-party
 ||sm.edweek.org^$third-party
 ||sm.stjude.org^$third-party
-||smart-bdash.com^$third-party
 ||smart-data-systems.com^$third-party
 ||smart-digital-solutions.com^$third-party
 ||smart-ip.net^$third-party
@@ -6877,7 +6876,6 @@
 ||smetrics.celebritycruises.com^$third-party
 ||smetrics.census.gov^$third-party
 ||smetrics.centene.com^$third-party
-||smetrics.centerpointenergy.com^$third-party
 ||smetrics.centurylink.com^$third-party
 ||smetrics.ceratizit.com^$third-party
 ||smetrics.cfainstitute.org^$third-party
@@ -6927,7 +6925,6 @@
 ||smetrics.crystalski.co.uk^$third-party
 ||smetrics.csmonitor.com^$third-party
 ||smetrics.css.ch^$third-party
-||smetrics.csu.edu.au^$third-party
 ||smetrics.ctshirts.com^$third-party
 ||smetrics.cultura.com^$third-party
 ||smetrics.cupraofficial.de^$third-party
@@ -8157,7 +8154,6 @@
 ||stats.persgroep.nl^$third-party
 ||stats.petrotimes.vn^$third-party
 ||stats.piaggio.com^$third-party
-||stats.pilz.com^$third-party
 ||stats.pixeldrain.com^$third-party
 ||stats.playrix.com^$third-party
 ||stats.polldaddy.com^$third-party
@@ -9085,6 +9081,7 @@
 ||tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com^$third-party
 ||tracker-dot-optimeeze.appspot.com^$third-party
 ||tracker-mw-zlivestream.zapps.vn^$third-party
+||tracker-rec.smart-bdash.com^$third-party
 ||tracker-remp.active.radio^$third-party
 ||tracker-server.high-cdn.com^$third-party
 ||tracker-v4.gamedock.io^$third-party
@@ -9300,7 +9297,6 @@
 ||tracking.minitool.com^$third-party
 ||tracking.musixmatch.com^$third-party
 ||tracking.mycapture.com^$third-party
-||tracking.netsuite.com^$third-party
 ||tracking.netvigie.com^$third-party
 ||tracking.nextdoor.com^$third-party
 ||tracking.noen.at^$third-party
@@ -9544,7 +9540,6 @@
 ||ucounter.ucoz.net^$third-party
 ||udgrbq.malwarebytes.com^$third-party
 ||udkcrj.com^$third-party
-||udrvvx.kabum.com.br^$third-party
 ||uedkm.therange.co.uk^$third-party
 ||ufkiz.jenny-bird.com^$third-party
 ||uftis.vitaminshoppe.com^$third-party
