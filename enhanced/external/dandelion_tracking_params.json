@@ -1,6 +1,6 @@
 {
-  "version": "2026-07-23",
-  "generated": "2026-07-23T06:18:33.800Z",
+  "version": "2026-07-29",
+  "generated": "2026-07-29T06:17:55.037Z",
   "type": "tracking_params_sites",
   "domain_count": 906,
   "param_count": 1880,
@@ -991,12 +991,6 @@
       "pr",
       "sr"
     ],
-    "fanatical.com": [
-      "CJEVENT",
-      "aff_track",
-      "cj_aid",
-      "cj_pid"
-    ],
     "ca.indeed.com": [
       "acatk",
       "ad",
@@ -1085,6 +1079,12 @@
       "mod",
       "reflink",
       "trackingCode"
+    ],
+    "fanatical.com": [
+      "CJEVENT",
+      "aff_track",
+      "cj_aid",
+      "cj_pid"
     ],
     "tagomago.pl": [
       "subid",
@@ -1505,9 +1505,6 @@
     "allabout.co.jp": [
       "FM"
     ],
-    "mora.jp": [
-      "fmid"
-    ],
     "dvdfab.org": [
       "ad",
       "c_ad",
@@ -1892,6 +1889,9 @@
     "orbis.co.jp": [
       "adid"
     ],
+    "mora.jp": [
+      "fmid"
+    ],
     "record.pt": [
       "ref"
     ],
@@ -2193,9 +2193,6 @@
     "event.hoken-mammoth.jp": [
       "s_mf"
     ],
-    "cinematoday.jp": [
-      "g_clk"
-    ],
     "basketballking.jp": [
       "cx_art"
     ],
@@ -2451,6 +2448,9 @@
       "cid",
       "ct",
       "rid"
+    ],
+    "cinematoday.jp": [
+      "g_clk"
     ],
     "xxvidsx.com": [
       "ad",

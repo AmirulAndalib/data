@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-28",
+  "version": "2026-07-29",
   "type": "cmp_site",
-  "generated": "2026-07-28T06:13:22.067Z",
+  "generated": "2026-07-29T06:17:54.884Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "afb23eaeb12e2f92",
-  "cmp_count": 258,
+  "autoconsent_tree_hash": "7d39d9e87d00b899",
+  "cmp_count": 254,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -575,17 +575,6 @@
         ]
       }
     },
-    "complianz_opt_both": {
-      "selector": "[aria-describedby=\"cookieconsent:desc\"] .cc-type-opt-both",
-      "detectors": {
-        "present": [
-          "[aria-describedby=\"cookieconsent:desc\"] .cc-type-opt-both"
-        ],
-        "showing": [
-          "[aria-describedby=\"cookieconsent:desc\"] .cc-type-opt-both"
-        ]
-      }
-    },
     "complianz_opt_out": {
       "selector": "[aria-describedby=\"cookieconsent:desc\"].cc-type-opt-out",
       "detectors": {
@@ -871,20 +860,6 @@
           ".dg-consent-banner"
         ]
       }
-    },
-    "deepl_com": {
-      "selector": "*[data-testid='dl-cookieBanner']",
-      "detectors": {
-        "present": [
-          "[data-testid='dl-cookieBanner']"
-        ],
-        "showing": [
-          "[data-testid='dl-cookieBanner']"
-        ]
-      },
-      "domains": [
-        "deepl.com"
-      ]
     },
     "delta_com": {
       "selector": "ngc-cookie-banner",
@@ -1382,17 +1357,6 @@
         ],
         "showing": [
           "body.cookies-request #cookie-bar"
-        ]
-      }
-    },
-    "jdsports": {
-      "selector": ".miniConsent,#PrivacyPolicyBanner",
-      "detectors": {
-        "present": [
-          ".miniConsent,#PrivacyPolicyBanner"
-        ],
-        "showing": [
-          ".miniConsent,#PrivacyPolicyBanner"
         ]
       }
     },
@@ -1959,29 +1923,18 @@
       }
     },
     "pornhub_com": {
-      "selector": "#cookieBanner #cookieBannerContent",
+      "selector": "#cookieBanner #cookieBannerContent, #cookieBanner.cbShort",
       "detectors": {
         "present": [
-          "#cookieBanner #cookieBannerContent, #globalCookieBanner"
+          "#cookieBanner #cookieBannerContent, #globalCookieBanner, #cookieBanner.cbShort"
         ],
         "showing": [
-          "#cookieBanner #cookieBannerContent, #globalCookieBanner"
+          "#cookieBanner #cookieBannerContent, #globalCookieBanner, #cookieBanner.cbShort .cbCloseButton"
         ]
       },
       "domains": [
         "pornhub.com"
       ]
-    },
-    "pornhubcompactcookiebanner": {
-      "selector": "#cookieBanner.cbShort",
-      "detectors": {
-        "present": [
-          "#cookieBanner.cbShort .cbCloseButton"
-        ],
-        "showing": [
-          "#cookieBanner.cbShort .cbCloseButton"
-        ]
-      }
     },
     "postnl": {
       "selector": "pnl-cookie-wall-widget",
