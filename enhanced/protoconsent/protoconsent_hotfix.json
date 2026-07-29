@@ -765,6 +765,14 @@
       ]
     },
     {
+      "urlFilter": "||client.aps.amazon-adsystem.com/publisher.js",
+      "initiatorDomains": [
+        "foxnews.com",
+        "newsweek.com",
+        "thestreet.com"
+      ]
+    },
+    {
       "urlFilter": "||pub.doubleverify.com/dvtag/",
       "initiatorDomains": [
         "bbc.com",
@@ -896,5 +904,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 23
+  "path_exception_count": 24
 }
