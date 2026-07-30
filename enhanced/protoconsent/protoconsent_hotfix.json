@@ -113,6 +113,12 @@
       ]
     },
     {
+      "urlFilter": "||play.fyi.tv/vendor/VisitorAPI.js"
+    },
+    {
+      "urlFilter": "||play.history.com/vendor/VisitorAPI.js"
+    },
+    {
       "urlFilter": "||googletagmanager.com/gtm.js",
       "initiatorDomains": [
         "3djuegosguias.com",
@@ -904,5 +910,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 24
+  "path_exception_count": 26
 }
