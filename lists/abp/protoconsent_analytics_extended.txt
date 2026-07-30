@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-07-29
-! Last modified: 2026-07-29T04:37:34.831Z
-! Entries: 140652
+! Version: 2026-07-30
+! Last modified: 2026-07-30T04:27:43.386Z
+! Entries: 140659
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -2910,7 +2910,6 @@
 ||abcompteur.com^$third-party
 ||abcotv.hb-api.omtrdc.net^$third-party
 ||abcsinsights.com^$third-party
-||abcstats.com^$third-party
 ||abdpac.williamsshoes.com.au^$third-party
 ||abdrjm.eurostarshotels.de^$third-party
 ||abelha.abelharainha.com.br^$third-party
@@ -22199,6 +22198,7 @@
 ||c.thelevelgroup.co.uk^$third-party
 ||c.thredup.com^$third-party
 ||c.tienda.com^$third-party
+||c.trkn.it^$third-party
 ||c.tyb.xyz^$third-party
 ||c.uniten.io^$third-party
 ||c.vanityfair.com^$third-party
@@ -25440,7 +25440,6 @@
 ||collectcdn.com^$third-party
 ||collectfront.nector.io^$third-party
 ||collecting.click^$third-party
-||collection.e-satisfaction.com^$third-party
 ||collection.mola.tv^$third-party
 ||collection.rong-edge.com^$third-party
 ||collection.saga.co.uk^$third-party
@@ -36015,6 +36014,7 @@
 ||eou.andresalata.com^$third-party
 ||eou.andresalata.com.br^$third-party
 ||eozwcp.jetex.com^$third-party
+||ep.jamx.ai^$third-party
 ||ep.regis.edu^$third-party
 ||ep.vystarcu.org^$third-party
 ||ep20trk.com^$third-party
@@ -81317,7 +81317,6 @@
 ||pixeleze.com^$third-party
 ||pixelguild.com^$third-party
 ||pixelinstall.xyz^$third-party
-||pixelinteractivemedia.com^$third-party
 ||pixellot.tv^$third-party
 ||pixelpluses.com^$third-party
 ||pixelpop.co^$third-party
@@ -82808,6 +82807,7 @@
 ||player-telemetry.vimeo.com^$third-party
 ||player.collectiveaudience.co^$third-party
 ||player.log.kukuplay.com^$third-party
+||player.pepsia.com^$third-party
 ||playererror.zype.com^$third-party
 ||playerhappy.com^$third-party
 ||playerscache.com^$third-party
@@ -83004,6 +83004,7 @@
 ||pooir.myquietfuel.com^$third-party
 ||pool1.i-am.io^$third-party
 ||poolcushions.com^$third-party
+||poolprochem.com^$third-party
 ||poool.fr^$third-party
 ||pop.deinkinderdoc.de^$third-party
 ||pop.unitedgate.co.jp^$third-party
@@ -89146,6 +89147,7 @@
 ||schema-creator.org^$third-party
 ||schinnerer.actonservice.com^$third-party
 ||school.benesse.co.jp^$third-party
+||schoolpaws.com^$third-party
 ||schouder.somt.nl^$third-party
 ||schrl.nkuku.com^$third-party
 ||schulhomepages-tracking.hamburg.de^$third-party
@@ -95784,6 +95786,7 @@
 ||simplycast.us^$third-party
 ||simplyinsight.co^$third-party
 ||simplymeasured.com^$third-party
+||simplyradon.com^$third-party
 ||simularweb.com^$third-party
 ||simule.ademiconbr.com^$third-party
 ||sinaapp.com^$third-party
@@ -101106,6 +101109,7 @@
 ||sol-data.com^$third-party
 ||solar.bostonsolar.us^$third-party
 ||solarleadfactory.com^$third-party
+||solarrecharge.net^$third-party
 ||solarwinds.com^$third-party
 ||sole.bkosmetik.com^$third-party
 ||sole.pretto.fr^$third-party
@@ -101170,7 +101174,6 @@
 ||solutions.visaacceptance.com^$third-party
 ||solutions.wellspring.com^$third-party
 ||solutions2.risk.lexisnexis.com^$third-party
-||solutionshindsight.net^$third-party
 ||solutionswithtechnologies.com^$third-party
 ||soluz.luxskin.co^$third-party
 ||solvusoft.com^$third-party
@@ -134763,6 +134766,7 @@
 ||wvrukp.globalcyclingnetwork.com^$third-party
 ||wvvw.france24.com^$third-party
 ||wvvw.francemediasmonde.com^$third-party
+||wvvw.infomigrants.net^$third-party
 ||wvvw.rfi.fr^$third-party
 ||wvw.7summitsagency.com^$third-party
 ||wvw.newclassrooms.org^$third-party
@@ -137756,6 +137760,7 @@
 ||estrelaapps.com/collect^
 ||eternalmangas.com/api/analytics/^
 ||eternalmangas.com/api/track-visit^
+||etfstream.com/api/active-campaign/track-events^
 ||etfstream.com/api/analytics/^
 ||etfstream.com/api/proxy/get-search-sponsor^
 ||eticaret.pro/pixel/^
@@ -138478,6 +138483,7 @@
 ||kontur.ru/abtests/^
 ||kontur.ru/stats/^
 ||konturnovosti.com/packs/js/opm.js^
+||koreatimes.co.kr/api/log^
 ||korewaeroi.com/fukugan_^
 ||kour.io/api/track^
 ||kroger.com/clickstream/^
@@ -139208,6 +139214,7 @@
 ||pmo.ee/stats/^
 ||pn.ybp.yahoo.com/ab/secure/true/imp/^
 ||poder360.com.br/_tracker^
+||podiums.link/event^
 ||poki.com/observer/^
 ||polarbyte.com/scripts/latest/reach/pb-reach.iife.min.js^
 ||polarbyte.com/scripts/latest/survey/pb-survey.iife.min.js^
