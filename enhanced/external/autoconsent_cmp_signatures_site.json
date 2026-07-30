@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-29",
+  "version": "2026-07-30",
   "type": "cmp_site",
-  "generated": "2026-07-29T06:17:54.884Z",
+  "generated": "2026-07-30T06:11:43.066Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "7d39d9e87d00b899",
-  "cmp_count": 254,
+  "autoconsent_tree_hash": "8b8fa791baa21e5f",
+  "cmp_count": 255,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -1923,18 +1923,29 @@
       }
     },
     "pornhub_com": {
-      "selector": "#cookieBanner #cookieBannerContent, #cookieBanner.cbShort",
+      "selector": "#cookieBanner #cookieBannerContent",
       "detectors": {
         "present": [
-          "#cookieBanner #cookieBannerContent, #globalCookieBanner, #cookieBanner.cbShort"
+          "#cookieBanner #cookieBannerContent, #globalCookieBanner"
         ],
         "showing": [
-          "#cookieBanner #cookieBannerContent, #globalCookieBanner, #cookieBanner.cbShort .cbCloseButton"
+          "#cookieBanner #cookieBannerContent, #globalCookieBanner"
         ]
       },
       "domains": [
         "pornhub.com"
       ]
+    },
+    "pornhubcompactcookiebanner": {
+      "selector": "#cookieBanner.cbShort",
+      "detectors": {
+        "present": [
+          "#cookieBanner.cbShort .cbCloseButton"
+        ],
+        "showing": [
+          "#cookieBanner.cbShort .cbCloseButton"
+        ]
+      }
     },
     "postnl": {
       "selector": "pnl-cookie-wall-widget",
