@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-30",
+  "version": "2026-08-01",
   "type": "cmp_detectors",
-  "generated": "2026-07-30T06:11:43.075Z",
+  "generated": "2026-08-01T06:16:40.800Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "8b8fa791baa21e5f",
-  "cmp_count": 311,
+  "autoconsent_tree_hash": "91e6d2621ee86d50",
+  "cmp_count": 313,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -269,10 +269,10 @@
     },
     "bbb_org": {
       "present": [
-        ".cookies-message"
+        "iabbb-cookies-message"
       ],
       "showing": [
-        ".cookies-message [name='allow-all']"
+        "iabbb-cookies-message > section [name='allow-all']"
       ],
       "domains": [
         "bbb.org"
@@ -1087,6 +1087,14 @@
       ],
       "showing": [
         ".show-cookies-modal .cookies-modal #cookies-accept"
+      ]
+    },
+    "gmxpermission": {
+      "present": [
+        "#overlay.cmp"
+      ],
+      "showing": [
+        "#overlay[role=dialog]"
       ]
     },
     "google_com": {
@@ -2008,6 +2016,14 @@
       ],
       "showing": [
         "#rejectAllMain"
+      ]
+    },
+    "simyonl": {
+      "present": [
+        "[data-testid=\"cookie-wall\"]"
+      ],
+      "showing": [
+        "[data-testid=\"cookie-wall\"]"
       ]
     },
     "sirdata": {
