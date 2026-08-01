@@ -1,10 +1,10 @@
 {
-  "version": "2026-07-30",
+  "version": "2026-08-01",
   "type": "cmp_site",
-  "generated": "2026-07-30T06:11:01.131Z",
+  "generated": "2026-08-01T06:16:09.031Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "8b8fa791baa21e5f",
-  "cmp_count": 255,
+  "autoconsent_tree_hash": "91e6d2621ee86d50",
+  "cmp_count": 257,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -255,13 +255,13 @@
       ]
     },
     "bbb_org": {
-      "selector": ".cookies-message",
+      "selector": "iabbb-cookies-message > section",
       "detectors": {
         "present": [
-          ".cookies-message"
+          "iabbb-cookies-message"
         ],
         "showing": [
-          ".cookies-message [name='allow-all']"
+          "iabbb-cookies-message > section [name='allow-all']"
         ]
       },
       "domains": [
@@ -1186,6 +1186,17 @@
         ],
         "showing": [
           ".show-cookies-modal .cookies-modal #cookies-accept"
+        ]
+      }
+    },
+    "gmxpermission": {
+      "selector": "#overlay.cmp",
+      "detectors": {
+        "present": [
+          "#overlay.cmp"
+        ],
+        "showing": [
+          "#overlay[role=dialog]"
         ]
       }
     },
@@ -2191,6 +2202,17 @@
         ],
         "showing": [
           "#rejectAllMain"
+        ]
+      }
+    },
+    "simyonl": {
+      "selector": "[data-testid=\"cookie-wall\"]",
+      "detectors": {
+        "present": [
+          "[data-testid=\"cookie-wall\"]"
+        ],
+        "showing": [
+          "[data-testid=\"cookie-wall\"]"
         ]
       }
     },
