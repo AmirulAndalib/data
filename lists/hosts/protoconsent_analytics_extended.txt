@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics Extended
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-# Version: 2026-08-01
-# Last modified: 2026-08-01T04:43:48.138Z
-# Entries: 136536
+# Version: 2026-08-03
+# Last modified: 2026-08-03T04:55:08.291Z
+# Entries: 136538
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -660,6 +660,7 @@
 0.0.0.0 97660ccadcc445599a18731f44643af0.apm.us-east-1.aws.cloud.es.io
 0.0.0.0 977393705048-logs.s3.us-east-1.amazonaws.com
 0.0.0.0 98pso.r.a.d.sendibm1.com
+0.0.0.0 9955951.pillar.app
 0.0.0.0 99counters.com
 0.0.0.0 99stats.com
 0.0.0.0 9b583af3.b-cdn.net
@@ -722,7 +723,6 @@
 0.0.0.0 a.amw.com
 0.0.0.0 a.angelo.fyi
 0.0.0.0 a.answersincme.com
-0.0.0.0 a.apkeditor.io
 0.0.0.0 a.apkpure.com
 0.0.0.0 a.apmapi.com
 0.0.0.0 a.articangel.com
@@ -1913,6 +1913,7 @@
 0.0.0.0 a8clk.smile-zemi.jp
 0.0.0.0 a8clk.sougi.294p.com
 0.0.0.0 a8clk.sp.move-ebike.co.jp
+0.0.0.0 a8clk.speedcoaching.co.jp
 0.0.0.0 a8clk.staff.mynavi.jp
 0.0.0.0 a8clk.star-mall.net
 0.0.0.0 a8clk.starwifi.jp
@@ -4598,7 +4599,6 @@
 0.0.0.0 akamai.tiqcdn.com
 0.0.0.0 akanoo.com
 0.0.0.0 akathistoscomunicacao-com.rds.land
-0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 akbksaude.dgt.srv.br
 0.0.0.0 akcze.dysoncanada.ca
 0.0.0.0 akgnwd.tocris.com
@@ -8538,6 +8538,7 @@
 0.0.0.0 analytics.dq.is
 0.0.0.0 analytics.dr-langer.at
 0.0.0.0 analytics.dr-schneiderbanger.de
+0.0.0.0 analytics.draftsharks.com
 0.0.0.0 analytics.dragonflagon.cafe
 0.0.0.0 analytics.drakvuf.hu
 0.0.0.0 analytics.dranrab.net
@@ -20594,6 +20595,7 @@
 0.0.0.0 bdt.alhydran.nl
 0.0.0.0 bdt.dermatologie-winkel.nl
 0.0.0.0 bdt.kno-winkel.nl
+0.0.0.0 bdtelemetry.amazon
 0.0.0.0 bdtheque.net.jumia.com.gh
 0.0.0.0 bdtrckwz.com
 0.0.0.0 bduhb.audienhearing.com
@@ -20651,7 +20653,6 @@
 0.0.0.0 beacon.kmi-us.com
 0.0.0.0 beacon.lycos.com
 0.0.0.0 beacon.mitremedia.org
-0.0.0.0 beacon.my.salesforce.com
 0.0.0.0 beacon.nc-net.or.jp
 0.0.0.0 beacon.necotracks.jp
 0.0.0.0 beacon.nikkansports.com
@@ -20664,7 +20665,6 @@
 0.0.0.0 beacon.qa.walmart.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.radiko.jp
-0.0.0.0 beacon.rallydev.com
 0.0.0.0 beacon.s.llnwi.net
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon.searchspring.io
@@ -21535,6 +21535,7 @@
 0.0.0.0 bokbk.apothekary.co
 0.0.0.0 bokzv.spanx.com
 0.0.0.0 boldem.cz
+0.0.0.0 boldmetrics.io
 0.0.0.0 boldsmtrk.com
 0.0.0.0 bolt-gcdn.sc-cdn.net.iberostar.com
 0.0.0.0 bombrw.netshoes.com.br
@@ -21671,6 +21672,7 @@
 0.0.0.0 branch.chelseafc.com
 0.0.0.0 branch.rocks
 0.0.0.0 branch.verintsystemsinc.com
+0.0.0.0 branch.wallet.bitcoin.com
 0.0.0.0 branch.wawa.com
 0.0.0.0 branchlink.adobespark.com
 0.0.0.0 branchout.pegs.com
@@ -21906,6 +21908,7 @@
 0.0.0.0 bugsnag.8x8.com.cdn.cloudflare.net
 0.0.0.0 bugsnag.appstore.a2z.com
 0.0.0.0 bugsnag.com
+0.0.0.0 bugsnag.kindle.amazon.dev
 0.0.0.0 bugsnag.shopbop.amazon.dev
 0.0.0.0 bugtags.com
 0.0.0.0 buh9j3kd.com
@@ -37326,6 +37329,7 @@
 0.0.0.0 fabcourses.iapcollege.com
 0.0.0.0 fabio.ilydecor.com
 0.0.0.0 fabledsoul.com
+0.0.0.0 fabric-analytics.com
 0.0.0.0 fabricww.com
 0.0.0.0 fabryczna.viessmann.pl
 0.0.0.0 fabsd.trupeer.ai
@@ -37375,7 +37379,6 @@
 0.0.0.0 falcon.executeprogram.com
 0.0.0.0 falcon.rowanmanning.com
 0.0.0.0 fallback.attntags.com
-0.0.0.0 fallback.emtag.net
 0.0.0.0 falsefeet.com
 0.0.0.0 falt925.ferticare.eu
 0.0.0.0 famalytics.fokus.fraunhofer.de
@@ -37408,6 +37411,7 @@
 0.0.0.0 farmhousestylemag-news.com
 0.0.0.0 faro-collector-prod-eu-west-2.grafana.net
 0.0.0.0 faro-collector-prod-us-central-0.grafana.net
+0.0.0.0 faro-collector-prod-us-west-0.grafana.net
 0.0.0.0 fartu.healthvape.com
 0.0.0.0 farukkeyshop.thekeyshopbd.com
 0.0.0.0 fas.chicos.com
@@ -49554,6 +49558,7 @@
 0.0.0.0 krishnaw329.alphonso.tv
 0.0.0.0 krishnaw330.alphonso.tv
 0.0.0.0 krishnaw331.alphonso.tv
+0.0.0.0 krishnaw335.alphonso.tv
 0.0.0.0 krishnaw336.alphonso.tv
 0.0.0.0 krishnaw338.alphonso.tv
 0.0.0.0 krishnaw340.alphonso.tv
@@ -55311,7 +55316,6 @@
 0.0.0.0 log.arkansasonline.com
 0.0.0.0 log.ato.santander.co.uk
 0.0.0.0 log.automotor.vn
-0.0.0.0 log.avlyun.com
 0.0.0.0 log.babytree.com
 0.0.0.0 log.bandi.so
 0.0.0.0 log.baocaobang.vn
@@ -66297,7 +66301,6 @@
 0.0.0.0 metrics.unionbankph.com
 0.0.0.0 metrics.unipolsai.it
 0.0.0.0 metrics.united-internet.de
-0.0.0.0 metrics.uol.com.br
 0.0.0.0 metrics.upload-test.carnival.com
 0.0.0.0 metrics.ups.com
 0.0.0.0 metrics.urbanarts.com.br
@@ -119844,7 +119847,6 @@
 0.0.0.0 stliom.vidaxl.cz
 0.0.0.0 stlkh.janeiredale.com
 0.0.0.0 stlog.d.dmkt-sp.jp
-0.0.0.0 stlog.dmarket.docomo.ne.jp
 0.0.0.0 stm.aboutnet.gr
 0.0.0.0 stm.caesegatos.com.br
 0.0.0.0 stm.constellatio.de
@@ -129832,6 +129834,7 @@
 0.0.0.0 trk2.publicaster.com
 0.0.0.0 trk2afse.com
 0.0.0.0 trkapi.impact.com
+0.0.0.0 trkcliq.com
 0.0.0.0 trkcmi.informaconnect.com
 0.0.0.0 trkemail.luisaviaroma.com
 0.0.0.0 trkingad.com
@@ -132088,7 +132091,6 @@
 0.0.0.0 v4gtm.lucascalado.com.br
 0.0.0.0 v4tpxg9m.com
 0.0.0.0 v5fsk8kjd.com
-0.0.0.0 v6analytics.htmedia.in.edgekey.net
 0.0.0.0 v710.newyorkupstate.com
 0.0.0.0 v7fhugd.com
 0.0.0.0 v8hj3d6j.com

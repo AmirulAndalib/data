@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-08-01T04:43:48.138Z
+! Last modified: 2026-08-03T04:55:08.291Z
 ! Format: AdGuard
-! Entries: 140675
+! Entries: 140680
 !
 ||0.myikas.com^$third-party
 ||0.net.easyjet.com^$third-party
@@ -660,6 +660,7 @@
 ||97660ccadcc445599a18731f44643af0.apm.us-east-1.aws.cloud.es.io^$third-party
 ||977393705048-logs.s3.us-east-1.amazonaws.com^$third-party
 ||98pso.r.a.d.sendibm1.com^$third-party
+||9955951.pillar.app^$third-party
 ||99counters.com^$third-party
 ||99stats.com^$third-party
 ||9b583af3.b-cdn.net^$third-party
@@ -722,7 +723,6 @@
 ||a.amw.com^$third-party
 ||a.angelo.fyi^$third-party
 ||a.answersincme.com^$third-party
-||a.apkeditor.io^$third-party
 ||a.apkpure.com^$third-party
 ||a.apmapi.com^$third-party
 ||a.articangel.com^$third-party
@@ -1913,6 +1913,7 @@
 ||a8clk.smile-zemi.jp^$third-party
 ||a8clk.sougi.294p.com^$third-party
 ||a8clk.sp.move-ebike.co.jp^$third-party
+||a8clk.speedcoaching.co.jp^$third-party
 ||a8clk.staff.mynavi.jp^$third-party
 ||a8clk.star-mall.net^$third-party
 ||a8clk.starwifi.jp^$third-party
@@ -4598,7 +4599,6 @@
 ||akamai.tiqcdn.com^$third-party
 ||akanoo.com^$third-party
 ||akathistoscomunicacao-com.rds.land^$third-party
-||akatracking.esearchvision.com^$third-party
 ||akbksaude.dgt.srv.br^$third-party
 ||akcze.dysoncanada.ca^$third-party
 ||akgnwd.tocris.com^$third-party
@@ -8538,6 +8538,7 @@
 ||analytics.dq.is^$third-party
 ||analytics.dr-langer.at^$third-party
 ||analytics.dr-schneiderbanger.de^$third-party
+||analytics.draftsharks.com^$third-party
 ||analytics.dragonflagon.cafe^$third-party
 ||analytics.drakvuf.hu^$third-party
 ||analytics.dranrab.net^$third-party
@@ -20594,6 +20595,7 @@
 ||bdt.alhydran.nl^$third-party
 ||bdt.dermatologie-winkel.nl^$third-party
 ||bdt.kno-winkel.nl^$third-party
+||bdtelemetry.amazon^$third-party
 ||bdtheque.net.jumia.com.gh^$third-party
 ||bdtrckwz.com^$third-party
 ||bduhb.audienhearing.com^$third-party
@@ -20651,7 +20653,6 @@
 ||beacon.kmi-us.com^$third-party
 ||beacon.lycos.com^$third-party
 ||beacon.mitremedia.org^$third-party
-||beacon.my.salesforce.com^$third-party
 ||beacon.nc-net.or.jp^$third-party
 ||beacon.necotracks.jp^$third-party
 ||beacon.nikkansports.com^$third-party
@@ -20664,7 +20665,6 @@
 ||beacon.qa.walmart.com^$third-party
 ||beacon.qq.com^$third-party
 ||beacon.radiko.jp^$third-party
-||beacon.rallydev.com^$third-party
 ||beacon.s.llnwi.net^$third-party
 ||beacon.samsclub.com^$third-party
 ||beacon.searchspring.io^$third-party
@@ -21535,6 +21535,7 @@
 ||bokbk.apothekary.co^$third-party
 ||bokzv.spanx.com^$third-party
 ||boldem.cz^$third-party
+||boldmetrics.io^$third-party
 ||boldsmtrk.com^$third-party
 ||bolt-gcdn.sc-cdn.net.iberostar.com^$third-party
 ||bombrw.netshoes.com.br^$third-party
@@ -21671,6 +21672,7 @@
 ||branch.chelseafc.com^$third-party
 ||branch.rocks^$third-party
 ||branch.verintsystemsinc.com^$third-party
+||branch.wallet.bitcoin.com^$third-party
 ||branch.wawa.com^$third-party
 ||branchlink.adobespark.com^$third-party
 ||branchout.pegs.com^$third-party
@@ -21906,6 +21908,7 @@
 ||bugsnag.8x8.com.cdn.cloudflare.net^$third-party
 ||bugsnag.appstore.a2z.com^$third-party
 ||bugsnag.com^$third-party
+||bugsnag.kindle.amazon.dev^$third-party
 ||bugsnag.shopbop.amazon.dev^$third-party
 ||bugtags.com^$third-party
 ||buh9j3kd.com^$third-party
@@ -37326,6 +37329,7 @@
 ||fabcourses.iapcollege.com^$third-party
 ||fabio.ilydecor.com^$third-party
 ||fabledsoul.com^$third-party
+||fabric-analytics.com^$third-party
 ||fabricww.com^$third-party
 ||fabryczna.viessmann.pl^$third-party
 ||fabsd.trupeer.ai^$third-party
@@ -37375,7 +37379,6 @@
 ||falcon.executeprogram.com^$third-party
 ||falcon.rowanmanning.com^$third-party
 ||fallback.attntags.com^$third-party
-||fallback.emtag.net^$third-party
 ||falsefeet.com^$third-party
 ||falt925.ferticare.eu^$third-party
 ||famalytics.fokus.fraunhofer.de^$third-party
@@ -37408,6 +37411,7 @@
 ||farmhousestylemag-news.com^$third-party
 ||faro-collector-prod-eu-west-2.grafana.net^$third-party
 ||faro-collector-prod-us-central-0.grafana.net^$third-party
+||faro-collector-prod-us-west-0.grafana.net^$third-party
 ||fartu.healthvape.com^$third-party
 ||farukkeyshop.thekeyshopbd.com^$third-party
 ||fas.chicos.com^$third-party
@@ -49554,6 +49558,7 @@
 ||krishnaw329.alphonso.tv^$third-party
 ||krishnaw330.alphonso.tv^$third-party
 ||krishnaw331.alphonso.tv^$third-party
+||krishnaw335.alphonso.tv^$third-party
 ||krishnaw336.alphonso.tv^$third-party
 ||krishnaw338.alphonso.tv^$third-party
 ||krishnaw340.alphonso.tv^$third-party
@@ -55311,7 +55316,6 @@
 ||log.arkansasonline.com^$third-party
 ||log.ato.santander.co.uk^$third-party
 ||log.automotor.vn^$third-party
-||log.avlyun.com^$third-party
 ||log.babytree.com^$third-party
 ||log.bandi.so^$third-party
 ||log.baocaobang.vn^$third-party
@@ -66297,7 +66301,6 @@
 ||metrics.unionbankph.com^$third-party
 ||metrics.unipolsai.it^$third-party
 ||metrics.united-internet.de^$third-party
-||metrics.uol.com.br^$third-party
 ||metrics.upload-test.carnival.com^$third-party
 ||metrics.ups.com^$third-party
 ||metrics.urbanarts.com.br^$third-party
@@ -119844,7 +119847,6 @@
 ||stliom.vidaxl.cz^$third-party
 ||stlkh.janeiredale.com^$third-party
 ||stlog.d.dmkt-sp.jp^$third-party
-||stlog.dmarket.docomo.ne.jp^$third-party
 ||stm.aboutnet.gr^$third-party
 ||stm.caesegatos.com.br^$third-party
 ||stm.constellatio.de^$third-party
@@ -129832,6 +129834,7 @@
 ||trk2.publicaster.com^$third-party
 ||trk2afse.com^$third-party
 ||trkapi.impact.com^$third-party
+||trkcliq.com^$third-party
 ||trkcmi.informaconnect.com^$third-party
 ||trkemail.luisaviaroma.com^$third-party
 ||trkingad.com^$third-party
@@ -132088,7 +132091,6 @@
 ||v4gtm.lucascalado.com.br^$third-party
 ||v4tpxg9m.com^$third-party
 ||v5fsk8kjd.com^$third-party
-||v6analytics.htmedia.in.edgekey.net^$third-party
 ||v710.newyorkupstate.com^$third-party
 ||v7fhugd.com^$third-party
 ||v8hj3d6j.com^$third-party
@@ -137287,6 +137289,8 @@
 ||channelexco.com/ppx/^
 ||chaport.com/api/public/v1/stats/^
 ||chargebee.com/api/internal/track_info_error^
+||chartkidmatt.com/nectar_analytics^
+||chartkidmatt.com/page_view^
 ||chartsurfer.de/js/mtm.js^
 ||chartsurfer.de/uscoll.php?^
 ||chat.groq.com/global_stats^
@@ -137304,6 +137308,7 @@
 ||chickadvisor.com/js/detect.min.js^
 ||choosefi.com/api/site/track^
 ||choosefi.com/block-event^
+||choosefi.com/conversion-event^
 ||chosun.com/hitlog/^
 ||chron.com/413gkwMT/init.js^
 ||chuzushijian.cn/c.php^
