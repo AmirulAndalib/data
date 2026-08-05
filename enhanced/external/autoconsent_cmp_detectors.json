@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-01",
+  "version": "2026-08-05",
   "type": "cmp_detectors",
-  "generated": "2026-08-01T06:16:40.800Z",
+  "generated": "2026-08-05T06:11:29.323Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "91e6d2621ee86d50",
-  "cmp_count": 313,
+  "autoconsent_tree_hash": "8864c5b1b95c4d1d",
+  "cmp_count": 314,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -1989,6 +1989,14 @@
       ],
       "showing": [
         "body > div#__next > div#app > div:nth-child(7):not([id])"
+      ]
+    },
+    "scmp": {
+      "present": [
+        "[data-qa=\"GDPRBanner-Container\"] [data-qa=\"GDPRBanner-Button\"]"
+      ],
+      "showing": [
+        "[data-qa=\"GDPRBanner-Container\"] [data-qa=\"GDPRBanner-Button\"]"
       ]
     },
     "shein_com": {

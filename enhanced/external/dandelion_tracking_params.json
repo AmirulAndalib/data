@@ -1,10 +1,13 @@
 {
-  "version": "2026-08-01",
-  "generated": "2026-08-01T06:16:41.769Z",
+  "version": "2026-08-05",
+  "generated": "2026-08-05T06:11:29.811Z",
   "type": "tracking_params_sites",
-  "domain_count": 908,
-  "param_count": 1880,
+  "domain_count": 910,
+  "param_count": 1882,
   "sites": {
+    "erkekadam.org": [
+      "kaynak"
+    ],
     "supply.amazon.com": [
       "ref_"
     ],
@@ -4249,6 +4252,9 @@
     ],
     "learn.microsoft.com": [
       "redirectedfrom"
+    ],
+    "sonarsource.com": [
+      "tidelift"
     ],
     "ikea.com": [
       "f"
