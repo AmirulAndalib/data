@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-08-05T04:34:44.976Z
+! Last modified: 2026-08-06T04:36:10.886Z
 ! Format: AdGuard
-! Entries: 140718
+! Entries: 140729
 !
 ||0.myikas.com^$third-party
 ||0.net.easyjet.com^$third-party
@@ -36867,6 +36867,7 @@
 ||events.intuit.launchdarkly.com^$third-party
 ||events.iwin.com^$third-party
 ||events.jotform.com^$third-party
+||events.julephosting.de^$third-party
 ||events.just-eat.co.uk^$third-party
 ||events.justeat.it^$third-party
 ||events.kangan.edu.au^$third-party
@@ -82391,6 +82392,7 @@
 ||plausible.onsilla.net^$third-party
 ||plausible.openanything.xyz^$third-party
 ||plausible.opendatabot.ua^$third-party
+||plausible.openhomefoundation.org^$third-party
 ||plausible.openhostify.com^$third-party
 ||plausible.openig.org^$third-party
 ||plausible.opentech.eco^$third-party
@@ -102240,6 +102242,7 @@
 ||ss.abrahamrubio.org^$third-party
 ||ss.acceptedx.com^$third-party
 ||ss.accesstouniversity.com^$third-party
+||ss.ad-ops.hu^$third-party
 ||ss.adeliom.com^$third-party
 ||ss.adioni.com^$third-party
 ||ss.advantageheatingllc.com^$third-party
@@ -102258,6 +102261,7 @@
 ||ss.airlandline.co.uk^$third-party
 ||ss.aitanatour.com^$third-party
 ||ss.aiviq.dk^$third-party
+||ss.aiviq.se^$third-party
 ||ss.aktivsupp.ca^$third-party
 ||ss.akturum.dk^$third-party
 ||ss.akupunktur-smertefri.dk^$third-party
@@ -103096,6 +103100,7 @@
 ||ss.leathermadness.com^$third-party
 ||ss.lebsashop.com^$third-party
 ||ss.legat.com.uy^$third-party
+||ss.legoglektie.dk^$third-party
 ||ss.leica-geosystems.com^$third-party
 ||ss.lejetelt.dk^$third-party
 ||ss.liberfly.com.br^$third-party
@@ -120313,6 +120318,7 @@
 ||subscribe.test.novonordiskajotest.com^$third-party
 ||subscriber.franchiseinsights.com^$third-party
 ||subscriber.smallbusinessstartup.com^$third-party
+||subscriberlists.com^$third-party
 ||subscribers.com^$third-party
 ||subscribers.safeway.com^$third-party
 ||subscription.accenturejo.adobesandbox.com^$third-party
@@ -120361,6 +120367,7 @@
 ||successanalytica.com^$third-party
 ||successandintelligence.com^$third-party
 ||successfulscent.com^$third-party
+||successmenu.com^$third-party
 ||suchanalytik.hideandsec.sh^$third-party
 ||sucmetrics.hypovereinsbank.de^$third-party
 ||sucmetrics.unicredit.de^$third-party
@@ -121439,6 +121446,7 @@
 ||t.journity.com^$third-party
 ||t.jucebox.com^$third-party
 ||t.juskys.de^$third-party
+||t.juskys.fr^$third-party
 ||t.juwelo.es^$third-party
 ||t.kadcyla.com^$third-party
 ||t.kaleanders.com^$third-party
@@ -123991,6 +123999,7 @@
 ||ticvui.alexandani.com^$third-party
 ||tid.al^$third-party
 ||tidal-cdn.s3.amazonaws.com^$third-party
+||tidaldrops.com^$third-party
 ||tidningsnatet.se^$third-party
 ||tif.webjavaskript.net^$third-party
 ||tiger.aofinance.com.au^$third-party
@@ -128387,6 +128396,7 @@
 ||tracking.lead-plus.jp^$third-party
 ||tracking.leadingauthorities.com^$third-party
 ||tracking.leadlander.com^$third-party
+||tracking.leadspark.io^$third-party
 ||tracking.learn.oakstreethealth.com^$third-party
 ||tracking.leeep.jp^$third-party
 ||tracking.leighton.com^$third-party
@@ -138280,6 +138290,7 @@
 ||hyvyd.com/count^
 ||i-cable.com/ci/tracking/^
 ||i-tm.com.tw/api/itm-tracker.js^
+||i.posthog.com/*&ip=^
 ||i.posthog.com/*/?ip=^
 ||i.s-microsoft.com/wedcs/ms.js^
 ||i2i.jp/bin/^
