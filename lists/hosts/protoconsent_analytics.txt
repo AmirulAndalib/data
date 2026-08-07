@@ -1,7 +1,7 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-08-06
-# Last modified: 2026-08-06T04:36:10.886Z
+# Version: 2026-08-07
+# Last modified: 2026-08-07T04:08:50.324Z
 # Entries: 10169
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
@@ -587,7 +587,6 @@
 0.0.0.0 analytics.airindia.com
 0.0.0.0 analytics.algolia.com
 0.0.0.0 analytics.amakings.com
-0.0.0.0 analytics.amica.com
 0.0.0.0 analytics.amig.com
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.api.justeattakeaway.com
@@ -1426,6 +1425,7 @@
 0.0.0.0 bdaqs.soma.com
 0.0.0.0 bdash-cloud.com
 0.0.0.0 bdg-analytics.appspot.com
+0.0.0.0 bdoaustralia.bdo.com.au
 0.0.0.0 bdvmetricas.banvenez.com.ve
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon-cdn-custom.walmart.com.akadns.net
@@ -1700,7 +1700,6 @@
 0.0.0.0 camelsfestival.com
 0.0.0.0 camelspark.com
 0.0.0.0 campaign.fbot.me
-0.0.0.0 campaignresources.motorolasolutions.com
 0.0.0.0 canddi.com
 0.0.0.0 candid.zone
 0.0.0.0 canid.20inchlabs.com
@@ -2276,7 +2275,6 @@
 0.0.0.0 ctags.cn
 0.0.0.0 ctd.quattroruote.it
 0.0.0.0 ctdfm.ilgiornale.it
-0.0.0.0 ctlayn.talbots.com
 0.0.0.0 ctr-iwb.nmg.de
 0.0.0.0 ctr-opc.nmg.de
 0.0.0.0 ctr.nmg.de
@@ -2453,7 +2451,6 @@
 0.0.0.0 data.a.fanaticscommerce.com
 0.0.0.0 data.a.lids.com
 0.0.0.0 data.a.mlbshop.com
-0.0.0.0 data.a.nflshop.com
 0.0.0.0 data.a.santanderopenacademy.com
 0.0.0.0 data.abc.es
 0.0.0.0 data.accountsemea.coca-cola.com
@@ -2515,7 +2512,6 @@
 0.0.0.0 data.loyalty.timhortons.ca
 0.0.0.0 data.m.shop.nhl.com
 0.0.0.0 data.m.starbucks.com
-0.0.0.0 data.m.store.nba.com
 0.0.0.0 data.madridista-free.realmadrid.com
 0.0.0.0 data.marketing.nascar.com
 0.0.0.0 data.mediaworld.it
@@ -2649,11 +2645,13 @@
 0.0.0.0 dii2.bitiba.de
 0.0.0.0 dii2.bitiba.fr
 0.0.0.0 dii2.bitiba.nl
+0.0.0.0 dii2.bitiba.pl
 0.0.0.0 dii2.zoohit.si
 0.0.0.0 dii3.bitiba.be
 0.0.0.0 dii3.bitiba.de
 0.0.0.0 dii3.bitiba.fr
 0.0.0.0 dii3.bitiba.nl
+0.0.0.0 dii3.bitiba.pl
 0.0.0.0 dii3.zoohit.si
 0.0.0.0 dimensions.mappy.com
 0.0.0.0 dimml.io
@@ -2901,7 +2899,6 @@
 0.0.0.0 engagement.coremedia.cloud
 0.0.0.0 engagemetrics.cisco.com
 0.0.0.0 engagetosell.com
-0.0.0.0 engine.instaheadshots.com
 0.0.0.0 engine.traceparts.com
 0.0.0.0 ens.luzernerzeitung.ch
 0.0.0.0 ens.tagblatt.ch
@@ -3051,6 +3048,7 @@
 0.0.0.0 events.ifunny.co
 0.0.0.0 events.il.fi
 0.0.0.0 events.jotform.com
+0.0.0.0 events.julephosting.de
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.matterport.com
 0.0.0.0 events.mercadolibre.com
@@ -3224,7 +3222,6 @@
 0.0.0.0 flyflightstar.com
 0.0.0.0 flyingfish.whoisrepresented.org
 0.0.0.0 fm-analytics.cloudbees.io
-0.0.0.0 fmnoa.rarecarat.com
 0.0.0.0 fmqidg.letras.com
 0.0.0.0 fmqidg.letras.mus.br
 0.0.0.0 fn-pz.com
@@ -3763,7 +3760,6 @@
 0.0.0.0 idntfy.ru
 0.0.0.0 idot.cz
 0.0.0.0 idsmodules.com
-0.0.0.0 idsod.catholic.com
 0.0.0.0 idstatus.sky.com
 0.0.0.0 ifnyop.priceline.com
 0.0.0.0 ig.nadex.com
@@ -4428,6 +4424,7 @@
 0.0.0.0 logging.pw.adn.cloud
 0.0.0.0 loggly.com
 0.0.0.0 logicanalytics.io
+0.0.0.0 logistics.osmworldwide.com
 0.0.0.0 loglady.kiwi.com
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 logmatic.io
@@ -4682,7 +4679,6 @@
 0.0.0.0 metrics-prod.suno.com
 0.0.0.0 metrics-target.siriusxm.com
 0.0.0.0 metrics-us.cometchat.io
-0.0.0.0 metrics.aa.com
 0.0.0.0 metrics.academy.com
 0.0.0.0 metrics.accuweather.com
 0.0.0.0 metrics.adelaidenow.com.au
@@ -4786,7 +4782,6 @@
 0.0.0.0 metrics.hbogo.com
 0.0.0.0 metrics.health.com
 0.0.0.0 metrics.heraldsun.com.au
-0.0.0.0 metrics.hkexpress.com
 0.0.0.0 metrics.hrblock.com
 0.0.0.0 metrics.hydraulicspneumatics.com
 0.0.0.0 metrics.icloud.com
@@ -5882,6 +5877,7 @@
 0.0.0.0 purpose.maxizoo.be
 0.0.0.0 purpose.maxizoo.fr
 0.0.0.0 push-api.topaz-analytics.com
+0.0.0.0 push-free.com
 0.0.0.0 push4site.com
 0.0.0.0 push7.jp
 0.0.0.0 pushalert.co
@@ -6041,6 +6037,7 @@
 0.0.0.0 redstatcounter.com
 0.0.0.0 ref.dealerinspire.com
 0.0.0.0 refer.wordpress.com
+0.0.0.0 referforex.com
 0.0.0.0 refericon.pl
 0.0.0.0 refinedads.com
 0.0.0.0 refundradar.com
@@ -6472,7 +6469,6 @@
 0.0.0.0 secure.insightful-cloud-365.com
 0.0.0.0 secure.insightfulcloudintuition.com
 0.0.0.0 secure.intelligent-company-365.com
-0.0.0.0 secure.intuitive-intuition.com
 0.0.0.0 secure.jaup0lake.com
 0.0.0.0 secure.keet1liod.com
 0.0.0.0 secure.kilo6alga.com
@@ -6504,7 +6500,6 @@
 0.0.0.0 secure.ryke4peep.com
 0.0.0.0 secure.shoo5woop.com
 0.0.0.0 secure.skye6oner.com
-0.0.0.0 secure.smart-business-intuition.com
 0.0.0.0 secure.smart-enterprise-52.com
 0.0.0.0 secure.smartenterprisewisdom.com
 0.0.0.0 secure.sour1bare.com
@@ -6947,6 +6942,7 @@
 0.0.0.0 smetrics.costco.com
 0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 smetrics.cox.com
+0.0.0.0 smetrics.cpaaustralia.com.au
 0.0.0.0 smetrics.cpsenergy.com
 0.0.0.0 smetrics.crainsnewyork.com
 0.0.0.0 smetrics.creditscore.com
@@ -7188,7 +7184,6 @@
 0.0.0.0 smetrics.los40.com
 0.0.0.0 smetrics.los40.com.mx
 0.0.0.0 smetrics.lpl.com
-0.0.0.0 smetrics.lululemon.co.nz
 0.0.0.0 smetrics.lululemon.co.uk
 0.0.0.0 smetrics.lululemon.com
 0.0.0.0 smetrics.lululemon.com.au
@@ -7790,6 +7785,7 @@
 0.0.0.0 ss.cazoo.co.uk
 0.0.0.0 ss.esade.edu
 0.0.0.0 ss.espares.co.uk
+0.0.0.0 ss.espares.fr
 0.0.0.0 ss.humanappeal.org.uk
 0.0.0.0 ss.paylogic.com
 0.0.0.0 ss.therawolf.com
@@ -7847,6 +7843,7 @@
 0.0.0.0 ssl-metrics.tim.it
 0.0.0.0 ssl.aafp.org
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 ssl.o.additudemag.com
 0.0.0.0 ssl.o.coliquio.de
 0.0.0.0 ssl.o.emedicinehealth.com
 0.0.0.0 ssl.o.mdedge.com
@@ -7865,6 +7862,7 @@
 0.0.0.0 ssmjs.rimowa.com
 0.0.0.0 ssmr.nuro.jp
 0.0.0.0 ssmr.so-net.ne.jp
+0.0.0.0 ssp.betou.bet.br
 0.0.0.0 ssp.seznam.cz
 0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 sssjp.la-z-boy.com
@@ -7883,7 +7881,6 @@
 0.0.0.0 sst.marshalls.com
 0.0.0.0 sst.mob.co.uk
 0.0.0.0 sst.modo.us
-0.0.0.0 sst.morenutrition.de
 0.0.0.0 sst.nobleknight.com
 0.0.0.0 sst.octopus.energy
 0.0.0.0 sst.raneystruckparts.com
@@ -8354,13 +8351,16 @@
 0.0.0.0 streamsend.com
 0.0.0.0 stroeerdigitalmedia.de
 0.0.0.0 sts.marketingsuite.jp
+0.0.0.0 stt.cpaaustralia.com.au
 0.0.0.0 stt.dell.com
 0.0.0.0 studioalkaline.com
 0.0.0.0 stupendoussleet.com
 0.0.0.0 sturgeon.patentfamily.com
 0.0.0.0 sub2tech.com
+0.0.0.0 subscriberlists.com
 0.0.0.0 subscribers.com
 0.0.0.0 success.act-on.com
+0.0.0.0 successmenu.com
 0.0.0.0 suchanalytik.hideandsec.sh
 0.0.0.0 sucmetrics.hypovereinsbank.de
 0.0.0.0 sucmetrics.unicredit.it
@@ -8865,6 +8865,7 @@
 0.0.0.0 tick.sculch.app
 0.0.0.0 ticklesign.com
 0.0.0.0 tics.techdirt.com
+0.0.0.0 tidaldrops.com
 0.0.0.0 tiger.melissajclark.ca
 0.0.0.0 tigershark.hasanahmad.ca
 0.0.0.0 tigershark.integratecolumbus.org
@@ -9692,7 +9693,6 @@
 0.0.0.0 v.ipinfo.io
 0.0.0.0 v.oui.sncf
 0.0.0.0 v476.reporterherald.com
-0.0.0.0 v6analytics.htmedia.in.edgekey.net
 0.0.0.0 va-endpoint.com
 0.0.0.0 valencia-beacons.xumo.com
 0.0.0.0 valuedopinions.co.uk
@@ -9915,7 +9915,6 @@
 0.0.0.0 webprospector.de
 0.0.0.0 webpushs.com
 0.0.0.0 webpushstat-sgp.engagelab.com
-0.0.0.0 websdk.admiral.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 websdk.appsflyersdk.com
 0.0.0.0 websdk.moengage.com
@@ -10174,4 +10173,5 @@
 0.0.0.0 ztoch.cozyearth.com
 0.0.0.0 ztqnls.lojasrenner.com.br
 0.0.0.0 zursq.everlane.com
+0.0.0.0 zxrrop.musely.com
 0.0.0.0 zz.bdstatic.com
