@@ -772,6 +772,25 @@
       ]
     },
     {
+      "urlFilter": "||api.adinplay.com/libs/aiptag/",
+      "initiatorDomains": [
+        "2v2.io",
+        "bigescapegames.com",
+        "brofist.io",
+        "cuberealm.io",
+        "findcat.io",
+        "geotastic.net",
+        "lordz.io"
+      ]
+    },
+    {
+      "urlFilter": "||api.adinplay.com/v4/live/aip/ad-manager.js",
+      "initiatorDomains": [
+        "2v2.io",
+        "cuberealm.io"
+      ]
+    },
+    {
       "urlFilter": "||client.aps.amazon-adsystem.com/publisher.js",
       "initiatorDomains": [
         "foxnews.com",
@@ -911,5 +930,5 @@
       "firstParty": true
     }
   ],
-  "path_exception_count": 26
+  "path_exception_count": 28
 }
