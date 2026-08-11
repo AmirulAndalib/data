@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-08-10
-# Last modified: 2026-08-10T03:22:01.414Z
-# Entries: 6853
+# Version: 2026-08-11
+# Last modified: 2026-08-11T03:15:15.390Z
+# Entries: 6849
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -60,6 +60,7 @@
 0.0.0.0 a.rohde-schwarz.com
 0.0.0.0 a.tampermonkey.net
 0.0.0.0 a.vturb.net
+0.0.0.0 a.wb.ru
 0.0.0.0 a1.api.bbc.co.uk
 0.0.0.0 a433.dailypress.com
 0.0.0.0 a47b.com
@@ -1221,7 +1222,6 @@
 0.0.0.0 capture-api.ap3prod.com
 0.0.0.0 capybara.civicsoftwarefoundation.org
 0.0.0.0 capybara.randyhamiltonelectric.com
-0.0.0.0 cardinal.businessfirstonline.co.uk
 0.0.0.0 cardinal.genx.be
 0.0.0.0 cardinal.krisenchat.de
 0.0.0.0 cardinal.newman.is
@@ -1236,7 +1236,6 @@
 0.0.0.0 cat.gfx.io
 0.0.0.0 cat.laravel-news.com
 0.0.0.0 cat.mattr.global
-0.0.0.0 cat.sprucely.net
 0.0.0.0 catfish.phuclh.com
 0.0.0.0 catfish.pressure.cooking
 0.0.0.0 catfish.sofatido.ch
@@ -2232,11 +2231,9 @@
 0.0.0.0 firefly.jamesbrowne.me
 0.0.0.0 fireworkanalytics.com
 0.0.0.0 fish.muted.io
-0.0.0.0 fish.trampoline.cx
 0.0.0.0 fishersfinds.com
 0.0.0.0 fishingtoolsbox.com
 0.0.0.0 fitanalytics.com
-0.0.0.0 fitmessage.com
 0.0.0.0 fitnessmapper.com
 0.0.0.0 fjikgr.dennmart.com
 0.0.0.0 fjordsand.com
@@ -2293,6 +2290,7 @@
 0.0.0.0 frog.borgs.app
 0.0.0.0 frog.editorx.com
 0.0.0.0 frog.yuanfudao.com
+0.0.0.0 frogator.com
 0.0.0.0 frontend-logger.flippback.com
 0.0.0.0 fruitflan.com
 0.0.0.0 fs-client-logger.herokuapp.com
@@ -2807,7 +2805,6 @@
 0.0.0.0 kite.zaahir.ca
 0.0.0.0 kiwi.coreyodonnell.tech
 0.0.0.0 kiwi.emilkowal.ski
-0.0.0.0 kiwi.halostats.app
 0.0.0.0 kiwi.mcan.sh
 0.0.0.0 kiwi.mdldb.net
 0.0.0.0 kiwi.railway.app
@@ -2839,7 +2836,6 @@
 0.0.0.0 la2.vnecdn.net
 0.0.0.0 ladybug.ficabo.com
 0.0.0.0 ladybug.paulstovell.com
-0.0.0.0 lamprey.carolcassar.com
 0.0.0.0 lamprey.seagyndavis.com
 0.0.0.0 landfowl.agoredbuild.com
 0.0.0.0 landfowl.typegang.com
@@ -3022,6 +3018,7 @@
 0.0.0.0 log.snow.me
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.strawpoll.com
+0.0.0.0 log.strm.yandex.ru
 0.0.0.0 log.talkie-ai.com
 0.0.0.0 log.tapchimattran.vn
 0.0.0.0 log.tbs.qq.com
@@ -3685,7 +3682,6 @@
 0.0.0.0 orion.bendingspoons.com
 0.0.0.0 os.fandango.com
 0.0.0.0 os.shutterfly.com
-0.0.0.0 osd.oxygem.it
 0.0.0.0 osimg.nbcuni.com
 0.0.0.0 osimg.universalorlando.com
 0.0.0.0 osimg.universalparks.com
@@ -3947,6 +3943,7 @@
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 prd-collector-platform.ex.co
 0.0.0.0 prdwebcollector.ruetracking.com
+0.0.0.0 prebid.loopmertb.com
 0.0.0.0 precisioncounter.com
 0.0.0.0 preciso.net
 0.0.0.0 prefixpatriot.com
@@ -5585,7 +5582,6 @@
 0.0.0.0 stats.sa-as.com
 0.0.0.0 stats.safeway.com
 0.0.0.0 stats.samsungpass.com
-0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.senty.com.au
 0.0.0.0 stats.seotraff.team
 0.0.0.0 stats.shopify.com
@@ -5739,7 +5735,6 @@
 0.0.0.0 sync.tidaltv.com.akadns.net
 0.0.0.0 synergy-e.com
 0.0.0.0 synerise.com
-0.0.0.0 system-notify.app
 0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 t.360.audion.fm
 0.0.0.0 t.360playvid.info
@@ -5751,6 +5746,7 @@
 0.0.0.0 t.castle.io
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.channeladvisor.com
+0.0.0.0 t.commandbar.com
 0.0.0.0 t.cpurls.net
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.elitedomains.de

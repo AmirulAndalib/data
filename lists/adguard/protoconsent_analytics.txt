@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-08-10T03:22:01.414Z
+! Last modified: 2026-08-11T03:15:15.390Z
 ! Format: AdGuard
-! Entries: 10867
+! Entries: 10863
 !
 ||0stats.com^$third-party
 ||103bees.com^$third-party
@@ -60,6 +60,7 @@
 ||a.rohde-schwarz.com^$third-party
 ||a.tampermonkey.net^$third-party
 ||a.vturb.net^$third-party
+||a.wb.ru^$third-party
 ||a1.api.bbc.co.uk^$third-party
 ||a433.dailypress.com^$third-party
 ||a47b.com^$third-party
@@ -1221,7 +1222,6 @@
 ||capture-api.ap3prod.com^$third-party
 ||capybara.civicsoftwarefoundation.org^$third-party
 ||capybara.randyhamiltonelectric.com^$third-party
-||cardinal.businessfirstonline.co.uk^$third-party
 ||cardinal.genx.be^$third-party
 ||cardinal.krisenchat.de^$third-party
 ||cardinal.newman.is^$third-party
@@ -1236,7 +1236,6 @@
 ||cat.gfx.io^$third-party
 ||cat.laravel-news.com^$third-party
 ||cat.mattr.global^$third-party
-||cat.sprucely.net^$third-party
 ||catfish.phuclh.com^$third-party
 ||catfish.pressure.cooking^$third-party
 ||catfish.sofatido.ch^$third-party
@@ -2232,11 +2231,9 @@
 ||firefly.jamesbrowne.me^$third-party
 ||fireworkanalytics.com^$third-party
 ||fish.muted.io^$third-party
-||fish.trampoline.cx^$third-party
 ||fishersfinds.com^$third-party
 ||fishingtoolsbox.com^$third-party
 ||fitanalytics.com^$third-party
-||fitmessage.com^$third-party
 ||fitnessmapper.com^$third-party
 ||fjikgr.dennmart.com^$third-party
 ||fjordsand.com^$third-party
@@ -2293,6 +2290,7 @@
 ||frog.borgs.app^$third-party
 ||frog.editorx.com^$third-party
 ||frog.yuanfudao.com^$third-party
+||frogator.com^$third-party
 ||frontend-logger.flippback.com^$third-party
 ||fruitflan.com^$third-party
 ||fs-client-logger.herokuapp.com^$third-party
@@ -2807,7 +2805,6 @@
 ||kite.zaahir.ca^$third-party
 ||kiwi.coreyodonnell.tech^$third-party
 ||kiwi.emilkowal.ski^$third-party
-||kiwi.halostats.app^$third-party
 ||kiwi.mcan.sh^$third-party
 ||kiwi.mdldb.net^$third-party
 ||kiwi.railway.app^$third-party
@@ -2839,7 +2836,6 @@
 ||la2.vnecdn.net^$third-party
 ||ladybug.ficabo.com^$third-party
 ||ladybug.paulstovell.com^$third-party
-||lamprey.carolcassar.com^$third-party
 ||lamprey.seagyndavis.com^$third-party
 ||landfowl.agoredbuild.com^$third-party
 ||landfowl.typegang.com^$third-party
@@ -3022,6 +3018,7 @@
 ||log.snow.me^$third-party
 ||log.snssdk.com^$third-party
 ||log.strawpoll.com^$third-party
+||log.strm.yandex.ru^$third-party
 ||log.talkie-ai.com^$third-party
 ||log.tapchimattran.vn^$third-party
 ||log.tbs.qq.com^$third-party
@@ -3685,7 +3682,6 @@
 ||orion.bendingspoons.com^$third-party
 ||os.fandango.com^$third-party
 ||os.shutterfly.com^$third-party
-||osd.oxygem.it^$third-party
 ||osimg.nbcuni.com^$third-party
 ||osimg.universalorlando.com^$third-party
 ||osimg.universalparks.com^$third-party
@@ -3947,6 +3943,7 @@
 ||prd-collector-anon.playbuzz.com^$third-party
 ||prd-collector-platform.ex.co^$third-party
 ||prdwebcollector.ruetracking.com^$third-party
+||prebid.loopmertb.com^$third-party
 ||precisioncounter.com^$third-party
 ||preciso.net^$third-party
 ||prefixpatriot.com^$third-party
@@ -5585,7 +5582,6 @@
 ||stats.sa-as.com^$third-party
 ||stats.safeway.com^$third-party
 ||stats.samsungpass.com^$third-party
-||stats.searchftps.net^$third-party
 ||stats.senty.com.au^$third-party
 ||stats.seotraff.team^$third-party
 ||stats.shopify.com^$third-party
@@ -5739,7 +5735,6 @@
 ||sync.tidaltv.com.akadns.net^$third-party
 ||synergy-e.com^$third-party
 ||synerise.com^$third-party
-||system-notify.app^$third-party
 ||t-odx.op-mobile.opera.com^$third-party
 ||t.360.audion.fm^$third-party
 ||t.360playvid.info^$third-party
@@ -5751,6 +5746,7 @@
 ||t.castle.io^$third-party
 ||t.cfjump.com^$third-party
 ||t.channeladvisor.com^$third-party
+||t.commandbar.com^$third-party
 ||t.cpurls.net^$third-party
 ||t.dailymail.co.uk^$third-party
 ||t.elitedomains.de^$third-party
