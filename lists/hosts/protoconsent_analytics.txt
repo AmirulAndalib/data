@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-08-11
-# Last modified: 2026-08-11T03:15:15.390Z
-# Entries: 6849
+# Version: 2026-08-12
+# Last modified: 2026-08-12T03:33:28.948Z
+# Entries: 6848
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -323,6 +323,7 @@
 0.0.0.0 amphibian.studionimbus.nl
 0.0.0.0 amplitude.com
 0.0.0.0 ampltd2.medal.tv
+0.0.0.0 ampscamp.net
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
 0.0.0.0 amung.us
 0.0.0.0 amunx.de
@@ -772,6 +773,7 @@
 0.0.0.0 anglerfish.pfolios.net
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 anonym.data.funkedigital.de
+0.0.0.0 anonymized-metrics.rmbl.ws
 0.0.0.0 anormal-tracker.de
 0.0.0.0 anrdoezrs.net
 0.0.0.0 ans.milb.com
@@ -806,7 +808,6 @@
 0.0.0.0 aphid.polarcop.com
 0.0.0.0 aphid.smartjournal.no
 0.0.0.0 aphid.thyself.me
-0.0.0.0 api-analytics-prd.pelcro.com
 0.0.0.0 api-analytics.pelikan.sk
 0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api-exponea.o2.cz
@@ -1363,6 +1364,7 @@
 0.0.0.0 client-log.karte.io
 0.0.0.0 client-logger.beta.salemove.com
 0.0.0.0 client-logger.salemove.com
+0.0.0.0 client-logs-a.wbx2.com
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 client-telemetry-preauth.hingeprod.net
 0.0.0.0 client-telemetry.hingeprod.net
@@ -3915,6 +3917,7 @@
 0.0.0.0 pnstat.com
 0.0.0.0 po.ponant.com
 0.0.0.0 pocitadlo.cz
+0.0.0.0 pocustrack.com
 0.0.0.0 pointillist.com
 0.0.0.0 pointmediatracker.com
 0.0.0.0 poisedpig.com
@@ -4314,7 +4317,6 @@
 0.0.0.0 sanalytics.spark.co.nz
 0.0.0.0 sanalytics.tbs.com
 0.0.0.0 sanalytics.tntdrama.com
-0.0.0.0 sanalytics.tntsports.com.ar
 0.0.0.0 sanalytics.tntsports.com.br
 0.0.0.0 sanalytics.verizon.com
 0.0.0.0 sanalytics.verizonenterprise.com
@@ -4563,7 +4565,6 @@
 0.0.0.0 smetrics.abercrombie.com
 0.0.0.0 smetrics.accaglobal.com
 0.0.0.0 smetrics.accredo.com
-0.0.0.0 smetrics.activecommunities.com
 0.0.0.0 smetrics.adnradio.cl
 0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 smetrics.aetn.com
@@ -4587,7 +4588,6 @@
 0.0.0.0 smetrics.angara.com
 0.0.0.0 smetrics.anixter.com
 0.0.0.0 smetrics.anntaylor.com
-0.0.0.0 smetrics.ansible.com
 0.0.0.0 smetrics.antena3.com
 0.0.0.0 smetrics.anthem.com
 0.0.0.0 smetrics.apia.com.au
@@ -4645,11 +4645,9 @@
 0.0.0.0 smetrics.britishgas.co.uk
 0.0.0.0 smetrics.brookdale.com
 0.0.0.0 smetrics.bt.com
-0.0.0.0 smetrics.buffalotracedistillery.com
 0.0.0.0 smetrics.bupa.com.au
 0.0.0.0 smetrics.cadenaser.com
 0.0.0.0 smetrics.caesars.com
-0.0.0.0 smetrics.caleres.com
 0.0.0.0 smetrics.calvinklein.us
 0.0.0.0 smetrics.capitalone.com
 0.0.0.0 smetrics.caracol.com.co
@@ -5419,7 +5417,6 @@
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 stat.eagleplatform.com
 0.0.0.0 stat.fengniao.com
-0.0.0.0 stat.fly.codes
 0.0.0.0 stat.gc.my.games
 0.0.0.0 stat.glaze.ai
 0.0.0.0 stat.headlines.pw
@@ -6240,6 +6237,7 @@
 0.0.0.0 tracking.bloomberg.com
 0.0.0.0 tracking.brandmentions.com
 0.0.0.0 tracking.buygoods.com
+0.0.0.0 tracking.carbonatixaudio.com
 0.0.0.0 tracking.carsales.com.au
 0.0.0.0 tracking.cat898.com
 0.0.0.0 tracking.cdiscount.com
@@ -6318,7 +6316,6 @@
 0.0.0.0 tracking.sezzle.com
 0.0.0.0 tracking.sharplink.us
 0.0.0.0 tracking.shopstyle.co.uk
-0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.skyword.com
 0.0.0.0 tracking.smartmeapp.com
 0.0.0.0 tracking.softwareprojects.com
@@ -6435,6 +6432,8 @@
 0.0.0.0 ts-analysis.shoalter.com
 0.0.0.0 ts.delfi.lt
 0.0.0.0 ts.tradetracker.net
+0.0.0.0 tsa-f.webex.com
+0.0.0.0 tsa.webex.com
 0.0.0.0 tt.ubs.com
 0.0.0.0 ttmetrics.faz.net
 0.0.0.0 ttmetrics.jcpenney.com

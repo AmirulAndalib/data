@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-08-11
-! Last modified: 2026-08-11T03:15:15.390Z
-! Entries: 139670
+! Version: 2026-08-12
+! Last modified: 2026-08-12T03:33:28.948Z
+! Entries: 139686
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -17512,7 +17512,6 @@
 ||api-analytics-cn.huami.com^$third-party
 ||api-analytics-cn3.zepp.com^$third-party
 ||api-analytics-de.zepp.com^$third-party
-||api-analytics-prd.pelcro.com^$third-party
 ||api-analytics-qa.samsungknox.com^$third-party
 ||api-analytics-us.huami.com^$third-party
 ||api-analytics-us.zepp.com^$third-party
@@ -22911,6 +22910,7 @@
 ||catfish.pressure.cooking^$third-party
 ||catfish.sofatido.ch^$third-party
 ||catfood.mikipetstore.com^$third-party
+||catfront.dianping.com^$third-party
 ||catholicguilt.blogsport.at^$third-party
 ||catlanguage.net^$third-party
 ||catng.crateandbarrel.com^$third-party
@@ -26266,6 +26266,7 @@
 ||consistentsetup.com^$third-party
 ||consistpotato.com^$third-party
 ||console-analytics.ucloud.cn^$third-party
+||console-telemetry.oci.oraclecloud.com^$third-party
 ||console.admin.xmpush.xiaomi.com^$third-party
 ||console.trackandfieldnews.com^$third-party
 ||const.uno^$third-party
@@ -49084,7 +49085,10 @@
 ||krishnaw279.alphonso.tv^$third-party
 ||krishnaw280.alphonso.tv^$third-party
 ||krishnaw281.alphonso.tv^$third-party
+||krishnaw283.alphonso.tv^$third-party
+||krishnaw284.alphonso.tv^$third-party
 ||krishnaw285.alphonso.tv^$third-party
+||krishnaw286.alphonso.tv^$third-party
 ||krishnaw287.alphonso.tv^$third-party
 ||krishnaw288.alphonso.tv^$third-party
 ||krishnaw289.alphonso.tv^$third-party
@@ -49100,7 +49104,9 @@
 ||krishnaw299.alphonso.tv^$third-party
 ||krishnaw300.alphonso.tv^$third-party
 ||krishnaw301.alphonso.tv^$third-party
+||krishnaw302.alphonso.tv^$third-party
 ||krishnaw303.alphonso.tv^$third-party
+||krishnaw304.alphonso.tv^$third-party
 ||krishnaw305.alphonso.tv^$third-party
 ||krishnaw306.alphonso.tv^$third-party
 ||krishnaw307.alphonso.tv^$third-party
@@ -100358,6 +100364,7 @@
 ||softdrinks.euvou.events^$third-party
 ||softlysyntheticsemiconductor.com^$third-party
 ||softonic-analytics.net^$third-party
+||softscales.com^$third-party
 ||softtrack08.com^$third-party
 ||softwaredefined.guru^$third-party
 ||softwaredefined.us^$third-party
@@ -101109,6 +101116,7 @@
 ||spork.pro^$third-party
 ||sporlabanalytics.pikapod.net^$third-party
 ||sport.stimium.com^$third-party
+||sportsclubstat.com^$third-party
 ||sportsmans-pixel.netlify.app^$third-party
 ||spot-pa.googleapis.com^$third-party
 ||spotad.co^$third-party
@@ -109236,7 +109244,6 @@
 ||stat.flozz.org^$third-party
 ||stat.flutterawesome.com^$third-party
 ||stat.fly-str.com^$third-party
-||stat.fly.codes^$third-party
 ||stat.foerschner-osteopathie.de^$third-party
 ||stat.fondatum.fi^$third-party
 ||stat.forret.com^$third-party
@@ -115093,6 +115100,7 @@
 ||stats.leseclaireurs.com^$third-party
 ||stats.leseclaireurs.fr^$third-party
 ||stats.lesfortichesdulauragais.com^$third-party
+||stats.less.gg^$third-party
 ||stats.lestrike.fr^$third-party
 ||stats.lesviallon.fr^$third-party
 ||stats.lesznolokalnie.pl^$third-party
@@ -123451,7 +123459,10 @@
 ||tkacr330.alphonso.tv^$third-party
 ||tkacr331.alphonso.tv^$third-party
 ||tkacr332.alphonso.tv^$third-party
+||tkacr334.alphonso.tv^$third-party
+||tkacr335.alphonso.tv^$third-party
 ||tkacr336.alphonso.tv^$third-party
+||tkacr337.alphonso.tv^$third-party
 ||tkacr338.alphonso.tv^$third-party
 ||tkacr339.alphonso.tv^$third-party
 ||tkacr340.alphonso.tv^$third-party
@@ -123467,6 +123478,7 @@
 ||tkacr350.alphonso.tv^$third-party
 ||tkacr351.alphonso.tv^$third-party
 ||tkacr352.alphonso.tv^$third-party
+||tkacr353.alphonso.tv^$third-party
 ||tkacr354.alphonso.tv^$third-party
 ||tkacr355.alphonso.tv^$third-party
 ||tkacr356.alphonso.tv^$third-party
@@ -127007,6 +127019,7 @@
 ||tracking.campaigns.drax.com^$third-party
 ||tracking.capitalbank.jo^$third-party
 ||tracking.capterra.com^$third-party
+||tracking.carbonatixaudio.com^$third-party
 ||tracking.care.essentiahealth.org^$third-party
 ||tracking.care.muschealth.org^$third-party
 ||tracking.care.salinasvalleyhealth.com^$third-party
@@ -127776,7 +127789,6 @@
 ||tracking.shopee.co.id^$third-party
 ||tracking.shopping-flux.com^$third-party
 ||tracking.shopstyle.co.uk^$third-party
-||tracking.shopstyle.com^$third-party
 ||tracking.shopstylecollective.com^$third-party
 ||tracking.signature-safes.de^$third-party
 ||tracking.silvanerhof.de^$third-party
@@ -128396,6 +128408,7 @@
 ||tre5y9ba.com^$third-party
 ||tread.firestonecompleteautocare.com^$third-party
 ||treatment.grammarly.com^$third-party
+||treatmentforgout.com^$third-party
 ||trecker.aklamio.com^$third-party
 ||trecktr.com^$third-party
 ||treconeanalytics.com^$third-party
@@ -128967,6 +128980,7 @@
 ||trustinsights.ai^$third-party
 ||trustiseverything.de^$third-party
 ||trustisimportant.fun^$third-party
+||trustmodule.com^$third-party
 ||trustservicedomain.com^$third-party
 ||trusttrk1.com^$third-party
 ||trusttrk2.com^$third-party
@@ -135668,6 +135682,7 @@
 ||agrointel.ro/ga.js^
 ||agrointel.ro/track.js^
 ||agroserver.ru/ct/^
+||aichaoxing.com/res/cx_stat.js^
 ||airgreenland.com/tracking/^
 ||airtable.com/internal/^
 ||airtel.in/analytics/pixel?^
@@ -135858,6 +135873,7 @@
 ||apibaza.com/pixel/^
 ||apigw.scmp.com/metrics/monitoring^
 ||apigw.scmp.com/pwa-v2-unleash-proxy/proxy/client/metrics^
+||aplus.qwen.ai/aplus.monitor.load_cna_success?^
 ||aplus.qwen.ai/aplus.monitor.log_arrival_rate^
 ||app-bnkr.b-cdn.net/js/lv.js^
 ||app.abralytics.com/assets/tracker/index.js^

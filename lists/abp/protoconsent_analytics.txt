@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-! Version: 2026-08-11
-! Last modified: 2026-08-11T03:15:15.390Z
-! Entries: 10863
+! Version: 2026-08-12
+! Last modified: 2026-08-12T03:33:28.948Z
+! Entries: 10862
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -324,6 +324,7 @@
 ||amphibian.studionimbus.nl^$third-party
 ||amplitude.com^$third-party
 ||ampltd2.medal.tv^$third-party
+||ampscamp.net^$third-party
 ||ams-pageview-public.s3.amazonaws.com^$third-party
 ||amung.us^$third-party
 ||amunx.de^$third-party
@@ -773,6 +774,7 @@
 ||anglerfish.pfolios.net^$third-party
 ||anon-stats.eff.org^$third-party
 ||anonym.data.funkedigital.de^$third-party
+||anonymized-metrics.rmbl.ws^$third-party
 ||anormal-tracker.de^$third-party
 ||anrdoezrs.net^$third-party
 ||ans.milb.com^$third-party
@@ -807,7 +809,6 @@
 ||aphid.polarcop.com^$third-party
 ||aphid.smartjournal.no^$third-party
 ||aphid.thyself.me^$third-party
-||api-analytics-prd.pelcro.com^$third-party
 ||api-analytics.pelikan.sk^$third-party
 ||api-analytics.rozetka.com.ua^$third-party
 ||api-exponea.o2.cz^$third-party
@@ -1364,6 +1365,7 @@
 ||client-log.karte.io^$third-party
 ||client-logger.beta.salemove.com^$third-party
 ||client-logger.salemove.com^$third-party
+||client-logs-a.wbx2.com^$third-party
 ||client-metrics.chess.com^$third-party
 ||client-telemetry-preauth.hingeprod.net^$third-party
 ||client-telemetry.hingeprod.net^$third-party
@@ -3916,6 +3918,7 @@
 ||pnstat.com^$third-party
 ||po.ponant.com^$third-party
 ||pocitadlo.cz^$third-party
+||pocustrack.com^$third-party
 ||pointillist.com^$third-party
 ||pointmediatracker.com^$third-party
 ||poisedpig.com^$third-party
@@ -4315,7 +4318,6 @@
 ||sanalytics.spark.co.nz^$third-party
 ||sanalytics.tbs.com^$third-party
 ||sanalytics.tntdrama.com^$third-party
-||sanalytics.tntsports.com.ar^$third-party
 ||sanalytics.tntsports.com.br^$third-party
 ||sanalytics.verizon.com^$third-party
 ||sanalytics.verizonenterprise.com^$third-party
@@ -4564,7 +4566,6 @@
 ||smetrics.abercrombie.com^$third-party
 ||smetrics.accaglobal.com^$third-party
 ||smetrics.accredo.com^$third-party
-||smetrics.activecommunities.com^$third-party
 ||smetrics.adnradio.cl^$third-party
 ||smetrics.aem.playstation.com^$third-party
 ||smetrics.aetn.com^$third-party
@@ -4588,7 +4589,6 @@
 ||smetrics.angara.com^$third-party
 ||smetrics.anixter.com^$third-party
 ||smetrics.anntaylor.com^$third-party
-||smetrics.ansible.com^$third-party
 ||smetrics.antena3.com^$third-party
 ||smetrics.anthem.com^$third-party
 ||smetrics.apia.com.au^$third-party
@@ -4646,11 +4646,9 @@
 ||smetrics.britishgas.co.uk^$third-party
 ||smetrics.brookdale.com^$third-party
 ||smetrics.bt.com^$third-party
-||smetrics.buffalotracedistillery.com^$third-party
 ||smetrics.bupa.com.au^$third-party
 ||smetrics.cadenaser.com^$third-party
 ||smetrics.caesars.com^$third-party
-||smetrics.caleres.com^$third-party
 ||smetrics.calvinklein.us^$third-party
 ||smetrics.capitalone.com^$third-party
 ||smetrics.caracol.com.co^$third-party
@@ -5420,7 +5418,6 @@
 ||stat.duokanbox.com^$third-party
 ||stat.eagleplatform.com^$third-party
 ||stat.fengniao.com^$third-party
-||stat.fly.codes^$third-party
 ||stat.gc.my.games^$third-party
 ||stat.glaze.ai^$third-party
 ||stat.headlines.pw^$third-party
@@ -6241,6 +6238,7 @@
 ||tracking.bloomberg.com^$third-party
 ||tracking.brandmentions.com^$third-party
 ||tracking.buygoods.com^$third-party
+||tracking.carbonatixaudio.com^$third-party
 ||tracking.carsales.com.au^$third-party
 ||tracking.cat898.com^$third-party
 ||tracking.cdiscount.com^$third-party
@@ -6319,7 +6317,6 @@
 ||tracking.sezzle.com^$third-party
 ||tracking.sharplink.us^$third-party
 ||tracking.shopstyle.co.uk^$third-party
-||tracking.shopstyle.com^$third-party
 ||tracking.skyword.com^$third-party
 ||tracking.smartmeapp.com^$third-party
 ||tracking.softwareprojects.com^$third-party
@@ -6436,6 +6433,8 @@
 ||ts-analysis.shoalter.com^$third-party
 ||ts.delfi.lt^$third-party
 ||ts.tradetracker.net^$third-party
+||tsa-f.webex.com^$third-party
+||tsa.webex.com^$third-party
 ||tt.ubs.com^$third-party
 ||ttmetrics.faz.net^$third-party
 ||ttmetrics.jcpenney.com^$third-party
