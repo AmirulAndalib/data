@@ -92,6 +92,10 @@
       ]
     },
     {
+      "urlFilter": "||dekra-akademie.de/resource/*/eCom_FrontendV3/assets/js/gtm.js",
+      "firstParty": true
+    },
+    {
       "urlFilter": "||dishtv.in/scripts/adobeAnalytics.js",
       "firstParty": true
     },
@@ -933,5 +937,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 29
+  "path_exception_count": 30
 }
