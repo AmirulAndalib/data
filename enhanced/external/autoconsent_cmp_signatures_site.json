@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-06",
+  "version": "2026-08-14",
   "type": "cmp_site",
-  "generated": "2026-08-06T06:14:38.778Z",
+  "generated": "2026-08-14T05:18:26.206Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "2a22eb4c18800793",
-  "cmp_count": 258,
+  "autoconsent_tree_hash": "794d6fa054d1d796",
+  "cmp_count": 264,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -638,6 +638,17 @@
         ]
       }
     },
+    "cookiebannerelement": {
+      "selector": "cookie-banner-element#ckb",
+      "detectors": {
+        "present": [
+          "cookie-banner-element#ckb"
+        ],
+        "showing": [
+          "cookie-banner-element#ckb"
+        ]
+      }
+    },
     "cookieconsent2": {
       "selector": "#cc--main",
       "detectors": {
@@ -811,6 +822,17 @@
       "detectors": {
         "present": [
           "#ct-ultimate-gdpr-cookie-popup"
+        ]
+      }
+    },
+    "ctvdisneyonice": {
+      "selector": ".box-cookie",
+      "detectors": {
+        "present": [
+          ".box-cookie .box-cookie__inner"
+        ],
+        "showing": [
+          ".box-cookie .box-cookie__inner"
         ]
       }
     },
@@ -1101,6 +1123,17 @@
         ]
       }
     },
+    "fever": {
+      "selector": "astro-island[component-url*=\"CookiesBanner\"] .cookies",
+      "detectors": {
+        "present": [
+          "astro-island[component-url*=\"CookiesBanner\"] .cookies button.cookies__buttons--settings"
+        ],
+        "showing": [
+          "astro-island[component-url*=\"CookiesBanner\"] .cookies"
+        ]
+      }
+    },
     "financestrategists_com": {
       "selector": "#gdrp",
       "detectors": {
@@ -1307,6 +1340,17 @@
         ],
         "showing": [
           "#hu.hu-visible"
+        ]
+      }
+    },
+    "ibanez": {
+      "selector": "#header-gdpr",
+      "detectors": {
+        "present": [
+          "#header-gdpr #header-gdpr-in-btn button"
+        ],
+        "showing": [
+          "#header-gdpr.is-active"
         ]
       }
     },
@@ -2216,6 +2260,17 @@
         ]
       }
     },
+    "simplehumancom": {
+      "selector": "custom-cookie-consent#cookieBubble.banner-show",
+      "detectors": {
+        "present": [
+          "custom-cookie-consent#cookieBubble #configureBtn"
+        ],
+        "showing": [
+          "custom-cookie-consent#cookieBubble.banner-show #configureBtn"
+        ]
+      }
+    },
     "simyonl": {
       "selector": "[data-testid=\"cookie-wall\"]",
       "detectors": {
@@ -2531,6 +2586,17 @@
         ],
         "showing": [
           "[data-test-id=cookies_section]"
+        ]
+      }
+    },
+    "tohotheaterjp": {
+      "selector": ".optIn",
+      "detectors": {
+        "present": [
+          ".optIn .js-optin-cookie-settings"
+        ],
+        "showing": [
+          ".optIn"
         ]
       }
     },

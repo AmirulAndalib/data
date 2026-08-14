@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-06",
+  "version": "2026-08-14",
   "type": "cmp_detectors",
-  "generated": "2026-08-06T06:14:38.785Z",
+  "generated": "2026-08-14T05:18:26.216Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "2a22eb4c18800793",
-  "cmp_count": 314,
+  "autoconsent_tree_hash": "794d6fa054d1d796",
+  "cmp_count": 321,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -586,6 +586,14 @@
         ".cookie-alert-extended-modal"
       ]
     },
+    "cookiebannerelement": {
+      "present": [
+        "cookie-banner-element#ckb"
+      ],
+      "showing": [
+        "cookie-banner-element#ckb"
+      ]
+    },
     "cookieconsent2": {
       "present": [
         "#cc--main"
@@ -723,6 +731,14 @@
         "#ct-ultimate-gdpr-cookie-popup"
       ],
       "showing": []
+    },
+    "ctvdisneyonice": {
+      "present": [
+        ".box-cookie .box-cookie__inner"
+      ],
+      "showing": [
+        ".box-cookie .box-cookie__inner"
+      ]
     },
     "curseforge": {
       "present": [
@@ -1004,6 +1020,14 @@
         "fedex-gdpr div"
       ]
     },
+    "fever": {
+      "present": [
+        "astro-island[component-url*=\"CookiesBanner\"] .cookies button.cookies__buttons--settings"
+      ],
+      "showing": [
+        "astro-island[component-url*=\"CookiesBanner\"] .cookies"
+      ]
+    },
     "fides": {
       "present": [
         "#fides-overlay-wrapper #fides-banner"
@@ -1222,6 +1246,14 @@
       ],
       "showing": [
         "#hu.hu-visible"
+      ]
+    },
+    "ibanez": {
+      "present": [
+        "#header-gdpr #header-gdpr-in-btn button"
+      ],
+      "showing": [
+        "#header-gdpr.is-active"
       ]
     },
     "imdb": {
@@ -2026,6 +2058,14 @@
         "#rejectAllMain"
       ]
     },
+    "simplehumancom": {
+      "present": [
+        "custom-cookie-consent#cookieBubble #configureBtn"
+      ],
+      "showing": [
+        "custom-cookie-consent#cookieBubble.banner-show #configureBtn"
+      ]
+    },
     "simyonl": {
       "present": [
         "[data-testid=\"cookie-wall\"]"
@@ -2328,6 +2368,25 @@
       ],
       "showing": [
         "[data-test-id=cookies_section]"
+      ]
+    },
+    "tohoone_com": {
+      "present": [
+        "xpath///div[contains(@class, 'fixed') and contains(., 'Cookieをブロック') and .//button[normalize-space()='Cookieの設定']]"
+      ],
+      "showing": [
+        "xpath///div[contains(@class, 'fixed') and contains(., 'Cookieをブロック') and .//button[normalize-space()='Cookieの設定']]"
+      ],
+      "domains": [
+        "tohoone.com"
+      ]
+    },
+    "tohotheaterjp": {
+      "present": [
+        ".optIn .js-optin-cookie-settings"
+      ],
+      "showing": [
+        ".optIn"
       ]
     },
     "toyota": {
