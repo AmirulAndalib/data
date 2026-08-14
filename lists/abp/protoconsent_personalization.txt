@@ -1,22 +1,27 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Personalization
 ! Description: Content/UX personalization, recommendations, profiling and behavioural A/B testing (curated - high-confidence sources)
-! Version: 2026-08-10
-! Last modified: 2026-08-10T03:22:01.414Z
-! Entries: 98
+! Version: 2026-08-14
+! Last modified: 2026-08-14T03:33:31.584Z
+! Entries: 112
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
 ||1plusx.com^$third-party
 ||acxiom.com^$third-party
 ||ad.crwdcntrl.net^$third-party
+||an.reflektion.com^$third-party
 ||api.rlcdn.com^$third-party
 ||api.sail-personalize.com^$third-party
+||api.trueaudience.io^$third-party
 ||appcues.com^$third-party
 ||apptegic.com^$third-party
 ||async-px-eu.dynamicyield.com^$third-party
 ||async-px.dynamicyield.com^$third-party
 ||ats.rlcdn.com^$third-party
+||audience-pccw.viu.com^$third-party
+||audience.acpm.fr^$third-party
+||audienceye.com^$third-party
 ||audigent.com^$third-party
 ||barilliance.com^$third-party
 ||barilliance.net^$third-party
@@ -31,6 +36,7 @@
 ||crwdcntrl.net^$third-party
 ||cuebiq.com^$third-party
 ||di.rlcdn.com^$third-party
+||dmp.brand-display.com^$third-party
 ||dmp.sbermarketing.ru^$third-party
 ||dstillery.com^$third-party
 ||dynamicyield.com^$third-party
@@ -38,9 +44,11 @@
 ||emarsys.net^$third-party
 ||epoq.de^$third-party
 ||events.launchdarkly.com^$third-party
+||events.split.io^$third-party
 ||eyeota-sync.dotomi.com^$third-party
 ||eyeota.com^$third-party
 ||eyeota.net^$third-party
+||falcon.useinsider.com^$third-party
 ||findologic.com^$third-party
 ||freshrelevance.com^$third-party
 ||getblueshift.com^$third-party
@@ -53,6 +61,7 @@
 ||lotame.com^$third-party
 ||maxymiser.net^$third-party
 ||mediarithmics.com^$third-party
+||mobile-events.eservice.emarsys.net^$third-party
 ||monetate.com^$third-party
 ||monetate.net^$third-party
 ||movableink.com^$third-party
@@ -67,9 +76,12 @@
 ||personyze.com^$third-party
 ||px.dynamicyield.com^$third-party
 ||rc.rlcdn.com^$third-party
+||rcom-eu.dynamicyield.com^$third-party
+||rcom.dynamicyield.com^$third-party
 ||recombee.com^$third-party
 ||reflektion.com^$third-party
 ||relay42.com^$third-party
+||rest.dynamicyield.com^$third-party
 ||richrelevance.com^$third-party
 ||rlcdn.com^$third-party
 ||sail-personalize.com^$third-party
@@ -85,10 +97,12 @@
 ||ssd-bluekai-lon5.everesttech.net^$third-party
 ||ssd-bluekai-or1.everesttech.net^$third-party
 ||ssd-bluekai-va5.everesttech.net^$third-party
+||st-eu.dynamicyield.com^$third-party
 ||st.dynamicyield.com^$third-party
 ||tags.bluekai.com.edgekey.net^$third-party
 ||tags.cmp.tail.digital^$third-party
 ||tail.digital^$third-party
+||telemetry.split.io^$third-party
 ||tv.rlcdn.com^$third-party
 ||useinsider.com^$third-party
 ||zeotap.com^$third-party
