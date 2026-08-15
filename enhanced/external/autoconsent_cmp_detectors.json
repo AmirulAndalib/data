@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-14",
+  "version": "2026-08-15",
   "type": "cmp_detectors",
-  "generated": "2026-08-14T05:18:26.216Z",
+  "generated": "2026-08-15T04:07:17.207Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "794d6fa054d1d796",
-  "cmp_count": 321,
+  "autoconsent_tree_hash": "a3bac4ced36f8466",
+  "cmp_count": 326,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -169,6 +169,22 @@
       ],
       "domains": [
         "app.discuss.io"
+      ]
+    },
+    "appconsent": {
+      "present": [
+        "script[src*='cdn.appconsent.io/tcf2-clear/'][src*='core.bundle.js']"
+      ],
+      "showing": [
+        "iframe[title='Consent window']"
+      ]
+    },
+    "appconsent_legacy": {
+      "present": [
+        "script[src*='cdn.appconsent.io/tcf2/'][src*='core.bundle.js']"
+      ],
+      "showing": [
+        "iframe[srcdoc*='frame-root']"
       ]
     },
     "aquasana_com": {
@@ -547,6 +563,14 @@
         "#cmpbox"
       ],
       "showing": []
+    },
+    "consentmanagerncmp": {
+      "present": [
+        "#ncmp__tool .ncmp__banner.ncmp__active"
+      ],
+      "showing": [
+        "#ncmp__tool .ncmp__banner.ncmp__active"
+      ]
     },
     "consentmo": {
       "present": [
@@ -1406,6 +1430,14 @@
         "#gdpr-banner-container #gdpr-banner [data-testid=gdpr-banner-decline-button]"
       ]
     },
+    "krowncookiebanner": {
+      "present": [
+        ".modal-object--cookie [data-js-cookies-decline]"
+      ],
+      "showing": [
+        ".modal-object--cookie [data-js-cookies-decline]"
+      ]
+    },
     "lia": {
       "present": [
         ".lia-cookie-banner-alert"
@@ -1821,6 +1853,17 @@
       ],
       "showing": [
         "#cookieBanner.cbShort .cbCloseButton"
+      ]
+    },
+    "pornpics_de": {
+      "present": [
+        "#cookie-form"
+      ],
+      "showing": [
+        "#cookie-form"
+      ],
+      "domains": [
+        "pornpics.de"
       ]
     },
     "postnl": {
