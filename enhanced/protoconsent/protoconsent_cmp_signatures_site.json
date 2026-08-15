@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-13",
+  "version": "2026-08-15",
   "type": "cmp_site",
-  "generated": "2026-08-13T14:11:08.035Z",
+  "generated": "2026-08-15T02:13:24.471Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "794d6fa054d1d796",
-  "cmp_count": 264,
+  "autoconsent_tree_hash": "a3bac4ced36f8466",
+  "cmp_count": 268,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -147,6 +147,28 @@
         ],
         "showing": [
           "#user-consent-management-granular-banner-overlay"
+        ]
+      }
+    },
+    "appconsent": {
+      "selector": "iframe[title='Consent window']",
+      "detectors": {
+        "present": [
+          "script[src*='cdn.appconsent.io/tcf2-clear/'][src*='core.bundle.js']"
+        ],
+        "showing": [
+          "iframe[title='Consent window']"
+        ]
+      }
+    },
+    "appconsent_legacy": {
+      "selector": "iframe[srcdoc*='frame-root']",
+      "detectors": {
+        "present": [
+          "script[src*='cdn.appconsent.io/tcf2/'][src*='core.bundle.js']"
+        ],
+        "showing": [
+          "iframe[srcdoc*='frame-root']"
         ]
       }
     },
@@ -594,6 +616,17 @@
         ],
         "showing": [
           ".cc-type-opt-in[aria-describedby=\"cookieconsent:desc\"]"
+        ]
+      }
+    },
+    "consentmanagerncmp": {
+      "selector": "#ncmp__tool .ncmp__banner",
+      "detectors": {
+        "present": [
+          "#ncmp__tool .ncmp__banner.ncmp__active"
+        ],
+        "showing": [
+          "#ncmp__tool .ncmp__banner.ncmp__active"
         ]
       }
     },
@@ -1518,6 +1551,17 @@
         ],
         "showing": [
           "#gdpr-banner-container #gdpr-banner [data-testid=gdpr-banner-decline-button]"
+        ]
+      }
+    },
+    "krowncookiebanner": {
+      "selector": "modal-box[data-options*=\"cookies\"] .modal-object--cookie",
+      "detectors": {
+        "present": [
+          ".modal-object--cookie [data-js-cookies-decline]"
+        ],
+        "showing": [
+          ".modal-object--cookie [data-js-cookies-decline]"
         ]
       }
     },

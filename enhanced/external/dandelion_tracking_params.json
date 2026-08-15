@@ -1,10 +1,19 @@
 {
-  "version": "2026-08-13",
-  "generated": "2026-08-13T14:11:08.755Z",
+  "version": "2026-08-15",
+  "generated": "2026-08-15T02:13:24.797Z",
   "type": "tracking_params_sites",
-  "domain_count": 911,
-  "param_count": 1887,
+  "domain_count": 913,
+  "param_count": 1895,
   "sites": {
+    "bandsintown.com": [
+      "actor_id",
+      "affil_code",
+      "app_id",
+      "came_from",
+      "signature",
+      "spn",
+      "start_date_time"
+    ],
     "peepshow.com": [
       "affS1",
       "affS4",
@@ -2848,6 +2857,7 @@
     "instagram.com": [
       "ig_rid",
       "igsh",
+      "igsi",
       "short_redirect"
     ],
     "mediamarkt.com.tr": [
@@ -4266,6 +4276,9 @@
     ],
     "sonarsource.com": [
       "tidelift"
+    ],
+    "store.epicgames.com": [
+      "epic_creator_id"
     ],
     "ikea.com": [
       "f"
