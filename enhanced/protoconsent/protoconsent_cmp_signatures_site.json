@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-15",
+  "version": "2026-08-17",
   "type": "cmp_site",
-  "generated": "2026-08-15T02:13:24.471Z",
+  "generated": "2026-08-17T15:11:16.593Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "a3bac4ced36f8466",
-  "cmp_count": 268,
+  "autoconsent_tree_hash": "434cfcfa3004ad10",
+  "cmp_count": 269,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -465,6 +465,17 @@
       "domains": [
         "channel4.com"
       ]
+    },
+    "check24": {
+      "selector": ".c24-cookie-consent-wrapper",
+      "detectors": {
+        "present": [
+          ".c24-cookie-consent-wrapper .c24-cookie-consent-functional"
+        ],
+        "showing": [
+          ".c24-cookie-consent-notice"
+        ]
+      }
     },
     "check24partnerprogrammde": {
       "selector": "[data-modal-content]:has([data-toggle-target^='cookie'])",
@@ -1180,17 +1191,6 @@
       "domains": [
         "financestrategists.com"
       ]
-    },
-    "finsweet": {
-      "selector": "[fs-consent-element=banner]",
-      "detectors": {
-        "present": [
-          "[fs-consent-element=banner]"
-        ],
-        "showing": [
-          "[fs-consent-element=banner] [fs-consent-element=allow]"
-        ]
-      }
     },
     "fundingchoices": {
       "selector": ".fc-consent-root,.fc-dialog-container,.fc-dialog-overlay,.fc-dialog-content",
@@ -1945,13 +1945,13 @@
       ]
     },
     "paypalus": {
-      "selector": "#ccpaCookieContent_wrapper, article.ppvx_modal--overpanel",
+      "selector": "#ccpaCookieContent_wrapper, article.ppvx_modal--overpanel, #cookiePrefsModal",
       "detectors": {
         "present": [
-          "#ccpaCookieBanner, .privacy-sheet-content"
+          "#ccpaCookieBanner, .privacy-sheet-content, #cookiePrefsModal"
         ],
         "showing": [
-          "#ccpaCookieBanner, .privacy-sheet-content"
+          "#ccpaCookieBanner, .privacy-sheet-content, #cookiePrefsModal"
         ]
       }
     },
@@ -2846,6 +2846,17 @@
       "domains": [
         "uswitch.com"
       ]
+    },
+    "uwvnl": {
+      "selector": "#js-pw-consent-wrapper bgl-modal[test-id='cookie-modal']",
+      "detectors": {
+        "present": [
+          "#js-pw-consent-wrapper bgl-modal[test-id='cookie-modal']"
+        ],
+        "showing": [
+          "#js-pw-consent-wrapper [data-ta-id='pw-consent-rejectAllButton']"
+        ]
+      }
     },
     "vodafone_de": {
       "selector": ".dip-consent,.dip-consent-container",

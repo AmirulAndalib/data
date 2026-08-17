@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-15",
+  "version": "2026-08-17",
   "type": "cmp_detectors",
-  "generated": "2026-08-15T02:13:24.479Z",
+  "generated": "2026-08-17T15:11:16.603Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "a3bac4ced36f8466",
-  "cmp_count": 326,
+  "autoconsent_tree_hash": "434cfcfa3004ad10",
+  "cmp_count": 327,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -434,6 +434,14 @@
       ],
       "domains": [
         "channel4.com"
+      ]
+    },
+    "check24": {
+      "present": [
+        ".c24-cookie-consent-wrapper .c24-cookie-consent-functional"
+      ],
+      "showing": [
+        ".c24-cookie-consent-notice"
       ]
     },
     "check24partnerprogrammde": {
@@ -1069,14 +1077,6 @@
       ],
       "domains": [
         "financestrategists.com"
-      ]
-    },
-    "finsweet": {
-      "present": [
-        "[fs-consent-element=banner]"
-      ],
-      "showing": [
-        "[fs-consent-element=banner] [fs-consent-element=allow]"
       ]
     },
     "fullertonhotels_com": {
@@ -1771,10 +1771,10 @@
     },
     "paypalus": {
       "present": [
-        "#ccpaCookieBanner, .privacy-sheet-content"
+        "#ccpaCookieBanner, .privacy-sheet-content, #cookiePrefsModal"
       ],
       "showing": [
-        "#ccpaCookieBanner, .privacy-sheet-content"
+        "#ccpaCookieBanner, .privacy-sheet-content, #cookiePrefsModal"
       ]
     },
     "piano_io": {
@@ -2613,6 +2613,14 @@
       ],
       "domains": [
         "uswitch.com"
+      ]
+    },
+    "uwvnl": {
+      "present": [
+        "#js-pw-consent-wrapper bgl-modal[test-id='cookie-modal']"
+      ],
+      "showing": [
+        "#js-pw-consent-wrapper [data-ta-id='pw-consent-rejectAllButton']"
       ]
     },
     "vivenu": {
