@@ -2,9 +2,9 @@
 ! Description: Advanced or non-cookie techniques to identify or track devices across sites or sessions (extended - all sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-08-16T02:38:44.316Z
+! Last modified: 2026-08-17T02:38:05.449Z
 ! Format: AdGuard
-! Entries: 14294
+! Entries: 14324
 !
 ||0000a.net^$third-party
 ||000nethost.com^$third-party
@@ -1351,6 +1351,7 @@
 ||alternatelicking.com^$third-party
 ||alternativefoul.com^$third-party
 ||altgamesy.store^$third-party
+||altminer.net^$third-party
 ||altoequity.com^$third-party
 ||altpool.eu^$third-party
 ||altpools.com^$third-party
@@ -1662,6 +1663,7 @@
 ||ashtart.io^$third-party
 ||ashwayinvers.com^$third-party
 ||ashysoftball.com^$third-party
+||asia01.hxx.chainsilo.com^$third-party
 ||asian-bitcoin.com^$third-party
 ||asiansgetnaughty.com^$third-party
 ||asiapool.io^$third-party
@@ -1802,6 +1804,7 @@
 ||authedmine.com^$third-party
 ||authedwebmine.cz^$third-party
 ||authorsradius.com^$third-party
+||autobit.cl^$third-party
 ||automaticside.com^$third-party
 ||automaticturkey.com^$third-party
 ||automizely-analytics.com^$third-party
@@ -1861,6 +1864,7 @@
 ||azureus.es^$third-party
 ||b-7.jp^$third-party
 ||b-withyou.com^$third-party
+||b.santananb.info^$third-party
 ||b2bcoin.xyz^$third-party
 ||b2c.com^$third-party
 ||b3kyo0de1fr0.com^$third-party
@@ -2035,6 +2039,7 @@
 ||belongingsdecency.com^$third-party
 ||belongnorth.com^$third-party
 ||belorosenl.com^$third-party
+||belscan.io^$third-party
 ||belvadoris-group.pro^$third-party
 ||benbbs.net^$third-party
 ||benchraspberry.com^$third-party
@@ -2319,6 +2324,7 @@
 ||bllsteringdates.com^$third-party
 ||bllsteringdates.net^$third-party
 ||bloblohub.com^$third-party
+||bloc-developer.com^$third-party
 ||bloc-explorer.com^$third-party
 ||bloc.money^$third-party
 ||block.io^$third-party
@@ -2430,6 +2436,7 @@
 ||bot-protect.net^$third-party
 ||bot.tips^$third-party
 ||bothpersonality.com^$third-party
+||botpool.net^$third-party
 ||bottleapply.com^$third-party
 ||bottledrecreate.com^$third-party
 ||bouglema.net^$third-party
@@ -2455,6 +2462,7 @@
 ||bowserlab.ddns.net^$third-party
 ||boxingtreaty.com^$third-party
 ||bp.cryptolions.io^$third-party
+||bp.libertyblock.io^$third-party
 ||bpce.demdex.net^$third-party
 ||bqstreamer.com^$third-party
 ||br-ikeaonline.shop^$third-party
@@ -2629,6 +2637,7 @@
 ||burstcoin.ro^$third-party
 ||burstcoin.website^$third-party
 ||burstl.net^$third-party
+||burstpool.de^$third-party
 ||bursztynhome.com^$third-party
 ||bushpoutquest.com^$third-party
 ||buskerudtracker.info^$third-party
@@ -2901,6 +2910,7 @@
 ||cbpheback.com^$third-party
 ||cbsi.demdex.net^$third-party
 ||cbtoken.me^$third-party
+||cc-poolz.com^$third-party
 ||ccappu-ccinno.com^$third-party
 ||ccappuccinno.com^$third-party
 ||ccc-eu.co^$third-party
@@ -3146,6 +3156,7 @@
 ||chyperrhox.com^$third-party
 ||cibago.com^$third-party
 ||cicdserver.com^$third-party
+||cicx.io^$third-party
 ||ciderfeast.com^$third-party
 ||cif.su^$third-party
 ||cigna.demdex.net^$third-party
@@ -3255,6 +3266,7 @@
 ||cloudera.demdex.net^$third-party
 ||cloudfluxxz.top^$third-party
 ||cloudguppy.com^$third-party
+||cloudhash.eu^$third-party
 ||cloudhustles.com^$third-party
 ||cloudjumbo.com^$third-party
 ||cloudmatrixax.xyz^$third-party
@@ -3512,6 +3524,7 @@
 ||coolpool.top^$third-party
 ||coop.pop.baofeng.com^$third-party
 ||coordinatedcoat.com^$third-party
+||coorp.io^$third-party
 ||copiergift.com^$third-party
 ||copool.co^$third-party
 ||copool.com^$third-party
@@ -3588,6 +3601,7 @@
 ||cpu-pool.net^$third-party
 ||cpuchain.org^$third-party
 ||cpufan.club^$third-party
+||cpuminingpool.com^$third-party
 ||cqalfilkltypnld.com^$third-party
 ||cr.m.liebao.cn^$third-party
 ||cra-ttine.site^$third-party
@@ -3713,19 +3727,23 @@
 ||cryptodig.ru^$third-party
 ||cryptoescudo.com^$third-party
 ||cryptogreek.cafe^$third-party
+||cryptogrinder.com^$third-party
 ||cryptogrot.io^$third-party
 ||cryptoguru.org^$third-party
 ||cryptohamstr.com^$third-party
 ||cryptohispano.net^$third-party
 ||cryptohosting.eu^$third-party
+||cryptoisme.com^$third-party
 ||cryptokitties.co.herokudns.com^$third-party
 ||cryptoloot.pro^$third-party
 ||cryptominers.xyz^$third-party
+||cryptominingpool.xyz^$third-party
 ||cryptonote.club^$third-party
 ||cryptonotepool.org.uk^$third-party
 ||cryptonoter.com^$third-party
 ||cryptonova.eu^$third-party
 ||cryptonovaworks.com^$third-party
+||cryptonpool.com^$third-party
 ||cryptopay.org.za^$third-party
 ||cryptopia.co.nz^$third-party
 ||cryptopine.xyz^$third-party
@@ -3736,6 +3754,7 @@
 ||cryptopool.net^$third-party
 ||cryptopool.one^$third-party
 ||cryptopool.online^$third-party
+||cryptopool.org^$third-party
 ||cryptopool.pro^$third-party
 ||cryptopool.ru^$third-party
 ||cryptopoolmining.com^$third-party
@@ -3892,6 +3911,7 @@
 ||dacllads.com^$third-party
 ||daddyclub.net^$third-party
 ||dadsims.com^$third-party
+||daefrom.com^$third-party
 ||daefrom.io^$third-party
 ||daemoncoins.com^$third-party
 ||daepool.com^$third-party
@@ -3951,6 +3971,7 @@
 ||darwmaas.com^$third-party
 ||dascrypto.farm^$third-party
 ||dash-lotemax-lab-ai.com^$third-party
+||dash88.club^$third-party
 ||dashaloxi200-it.com^$third-party
 ||dashboardproducts.info^$third-party
 ||dashlotemaxlab-nl.com^$third-party
@@ -3989,6 +4010,7 @@
 ||ddenkno.xyz^$third-party
 ||ddkkrrla.m.qxs.la^$third-party
 ||ddrrccck.m.qxs.la^$third-party
+||de-mining.com^$third-party
 ||de.demdex.net^$third-party
 ||de9a16fesnda8m2ntsulph40uurstre1namp.com^$third-party
 ||deadcoin.club^$third-party
@@ -4677,6 +4699,7 @@
 ||elns12.com^$third-party
 ||elnz02.com^$third-party
 ||elooksjustli.one^$third-party
+||elphyrecoin.xyz^$third-party
 ||elucublank.cyou^$third-party
 ||elusivebreeze.com^$third-party
 ||elusivecascade.com^$third-party
@@ -4773,6 +4796,7 @@
 ||eos-seed-de.privex.io^$third-party
 ||eos.csx.io^$third-party
 ||eos.staked.us^$third-party
+||eosboot.chainrift.com^$third-party
 ||eosbp-0.atticlab.net^$third-party
 ||epiblcingu.rest^$third-party
 ||epic-manerix-xp.com^$third-party
@@ -4783,6 +4807,7 @@
 ||epicswimming.com^$third-party
 ||epilreoffer.com^$third-party
 ||eplproseason25.com^$third-party
+||epool.eu^$third-party
 ||epsonamerica.demdex.net^$third-party
 ||eqawqkgu.shop^$third-party
 ||equablekettle.com^$third-party
@@ -4864,10 +4889,12 @@
 ||etherzero.org^$third-party
 ||ethmedialab.info^$third-party
 ||ethmining.live^$third-party
+||etho.club^$third-party
 ||ethpool.net^$third-party
 ||ethpool.org^$third-party
 ||ethtrader.de^$third-party
 ||ethwmine.com^$third-party
+||eticapool.com^$third-party
 ||eticascan.org^$third-party
 ||etisalat-amazonprime.com^$third-party
 ||etitanium.net^$third-party
@@ -5143,6 +5170,7 @@
 ||fasterjson.com^$third-party
 ||fastidiousenvoy.com^$third-party
 ||fastinfovup.info^$third-party
+||fastmine.xyz^$third-party
 ||fastpool.xyz^$third-party
 ||fastslots1.fr^$third-party
 ||faststyle.club^$third-party
@@ -5261,6 +5289,7 @@
 ||finalizeforce.com^$third-party
 ||finallytrained.com^$third-party
 ||finanalysishubx.pro^$third-party
+||financasfacil.online^$third-party
 ||finance-clarity.online^$third-party
 ||finance-step.site^$third-party
 ||finance-superchain.net^$third-party
@@ -5426,6 +5455,7 @@
 ||flystranger.com^$third-party
 ||fm120.com^$third-party
 ||fmpride.com^$third-party
+||fn001.eossv.org^$third-party
 ||fnac-spectacle.fr^$third-party
 ||fo320odk.com^$third-party
 ||foalbasement.com^$third-party
@@ -6170,7 +6200,6 @@
 ||handsomelyhealth.com^$third-party
 ||handsomeyam.com^$third-party
 ||handwritingnomad.com^$third-party
-||handyfield.com^$third-party
 ||handyincrease.com^$third-party
 ||hanfinvest.at^$third-party
 ||hangarlastik.com^$third-party
@@ -6961,6 +6990,7 @@
 ||italianlottery.com^$third-party
 ||italocoin.com^$third-party
 ||itemslice.com^$third-party
+||iteratehq.com^$third-party
 ||itgpll.com^$third-party
 ||itleadz.com^$third-party
 ||itquant-app.com^$third-party
