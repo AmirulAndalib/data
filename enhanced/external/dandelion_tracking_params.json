@@ -1,10 +1,16 @@
 {
-  "version": "2026-08-14",
-  "generated": "2026-08-14T05:18:26.571Z",
+  "version": "2026-08-18",
+  "generated": "2026-08-18T04:19:41.117Z",
   "type": "tracking_params_sites",
-  "domain_count": 913,
-  "param_count": 1895,
+  "domain_count": 914,
+  "param_count": 1898,
   "sites": {
+    "adesampa.com.br": [
+      "cp_smn_content",
+      "cp_smn_source",
+      "cp_smn_term",
+      "suid"
+    ],
     "bandsintown.com": [
       "actor_id",
       "affil_code",

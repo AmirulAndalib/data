@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-15",
+  "version": "2026-08-18",
   "type": "cmp_site",
-  "generated": "2026-08-15T04:07:17.197Z",
+  "generated": "2026-08-18T04:19:39.218Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "a3bac4ced36f8466",
-  "cmp_count": 268,
+  "autoconsent_tree_hash": "434cfcfa3004ad10",
+  "cmp_count": 270,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -465,6 +465,17 @@
       "domains": [
         "channel4.com"
       ]
+    },
+    "check24": {
+      "selector": ".c24-cookie-consent-wrapper",
+      "detectors": {
+        "present": [
+          ".c24-cookie-consent-wrapper .c24-cookie-consent-functional"
+        ],
+        "showing": [
+          ".c24-cookie-consent-notice"
+        ]
+      }
     },
     "check24partnerprogrammde": {
       "selector": "[data-modal-content]:has([data-toggle-target^='cookie'])",
@@ -1945,13 +1956,13 @@
       ]
     },
     "paypalus": {
-      "selector": "#ccpaCookieContent_wrapper, article.ppvx_modal--overpanel",
+      "selector": "#ccpaCookieContent_wrapper, article.ppvx_modal--overpanel, #cookiePrefsModal",
       "detectors": {
         "present": [
-          "#ccpaCookieBanner, .privacy-sheet-content"
+          "#ccpaCookieBanner, .privacy-sheet-content, #cookiePrefsModal"
         ],
         "showing": [
-          "#ccpaCookieBanner, .privacy-sheet-content"
+          "#ccpaCookieBanner, .privacy-sheet-content, #cookiePrefsModal"
         ]
       }
     },
@@ -2846,6 +2857,17 @@
       "domains": [
         "uswitch.com"
       ]
+    },
+    "uwvnl": {
+      "selector": "#js-pw-consent-wrapper bgl-modal[test-id='cookie-modal']",
+      "detectors": {
+        "present": [
+          "#js-pw-consent-wrapper bgl-modal[test-id='cookie-modal']"
+        ],
+        "showing": [
+          "#js-pw-consent-wrapper [data-ta-id='pw-consent-rejectAllButton']"
+        ]
+      }
     },
     "vodafone_de": {
       "selector": ".dip-consent,.dip-consent-container",

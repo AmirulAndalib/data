@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-15",
+  "version": "2026-08-18",
   "type": "cmp_detectors",
-  "generated": "2026-08-15T04:07:17.207Z",
+  "generated": "2026-08-18T04:19:39.228Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "a3bac4ced36f8466",
-  "cmp_count": 326,
+  "autoconsent_tree_hash": "434cfcfa3004ad10",
+  "cmp_count": 328,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -434,6 +434,14 @@
       ],
       "domains": [
         "channel4.com"
+      ]
+    },
+    "check24": {
+      "present": [
+        ".c24-cookie-consent-wrapper .c24-cookie-consent-functional"
+      ],
+      "showing": [
+        ".c24-cookie-consent-notice"
       ]
     },
     "check24partnerprogrammde": {
@@ -1771,10 +1779,10 @@
     },
     "paypalus": {
       "present": [
-        "#ccpaCookieBanner, .privacy-sheet-content"
+        "#ccpaCookieBanner, .privacy-sheet-content, #cookiePrefsModal"
       ],
       "showing": [
-        "#ccpaCookieBanner, .privacy-sheet-content"
+        "#ccpaCookieBanner, .privacy-sheet-content, #cookiePrefsModal"
       ]
     },
     "piano_io": {
@@ -2613,6 +2621,14 @@
       ],
       "domains": [
         "uswitch.com"
+      ]
+    },
+    "uwvnl": {
+      "present": [
+        "#js-pw-consent-wrapper bgl-modal[test-id='cookie-modal']"
+      ],
+      "showing": [
+        "#js-pw-consent-wrapper [data-ta-id='pw-consent-rejectAllButton']"
       ]
     },
     "vivenu": {
