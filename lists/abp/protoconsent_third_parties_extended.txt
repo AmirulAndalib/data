@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Third Parties Extended
 ! Description: Sharing or combining data with third parties, partners or group companies beyond the core service (extended - all sources)
-! Version: 2026-08-14
-! Last modified: 2026-08-14T03:33:31.584Z
+! Version: 2026-08-18
+! Last modified: 2026-08-18T02:34:21.972Z
 ! Entries: 843
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
@@ -216,7 +216,6 @@
 ||cdn.bizible.com^$third-party
 ||cdn.branch.io^$third-party
 ||cdn.braze.eu^$third-party
-||cdn.onesignal.com^$third-party
 ||cdn.pardot.com^$third-party
 ||cdn.pushwoosh.com^$third-party
 ||cdn.socialannex.com^$third-party
@@ -330,6 +329,7 @@
 ||ibilisk.iad-01.braze.com^$third-party
 ||ibis.iad-03.braze.com^$third-party
 ||igsonar.com^$third-party
+||images.mkt.zoominfo.com^$third-party
 ||images.response.demandbase.com^$third-party
 ||inari.iad-03.braze.com^$third-party
 ||indus.iad-01.braze.com^$third-party

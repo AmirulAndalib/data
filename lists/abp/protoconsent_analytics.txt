@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-! Version: 2026-08-17
-! Last modified: 2026-08-17T02:38:05.449Z
-! Entries: 13954
+! Version: 2026-08-18
+! Last modified: 2026-08-18T02:34:21.972Z
+! Entries: 13988
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -210,16 +210,21 @@
 ||adat.mindmegette.hu^$third-party
 ||adat.origo.hu^$third-party
 ||adat.videa.hu^$third-party
+||adb-analytics.live-now.com^$third-party
 ||adbedgeexp.aircanada.com^$third-party
 ||adblockrelief.com^$third-party
 ||adbmetrics.canarias7.es^$third-party
+||adbmetrics.elcomercio.es^$third-party
 ||adbmetrics.eldiariomontanes.es^$third-party
 ||adbmetrics.elnortedecastilla.es^$third-party
 ||adbmetrics.hyundai.com^$third-party
+||adbmetrics.ideal.es^$third-party
 ||adbmetrics.larioja.com^$third-party
+||adbmetrics.laverdad.es^$third-party
 ||adbmetrics.masterelcorreo.com^$third-party
 ||adbmetrics.miperiodicodigital.com^$third-party
 ||adbmetrics.vehiculosdeocasion.eus^$third-party
+||adbmetrics.womennow.es^$third-party
 ||adbmetrics.xn--futuroenespaol-1nb.es^$third-party
 ||adbrix.io^$third-party
 ||adbsmetrics.ep.hmc.co.kr^$third-party
@@ -334,6 +339,7 @@
 ||adtd.douglas.pl^$third-party
 ||adtd.douglas.ro^$third-party
 ||adtd.niche-beauty.com^$third-party
+||adtd.parfumdreams.ch^$third-party
 ||adtd.parfumdreams.de^$third-party
 ||adtd.parfumdreams.fr^$third-party
 ||adten.eu^$third-party
@@ -430,6 +436,7 @@
 ||alongwindedguy.com^$third-party
 ||alpaca.hans-hornberger.com^$third-party
 ||alpaca.miidbaby.com^$third-party
+||alpaca.pkandc.com^$third-party
 ||alpaca.wingmantracker.com^$third-party
 ||alpixtrack.com^$third-party
 ||altema-log.com^$third-party
@@ -575,6 +582,7 @@
 ||analytics.airindia.com^$third-party
 ||analytics.algolia.com^$third-party
 ||analytics.amakings.com^$third-party
+||analytics.amig.com^$third-party
 ||analytics.any.do^$third-party
 ||analytics.api.justeattakeaway.com^$third-party
 ||analytics.apis.mcafee.com^$third-party
@@ -625,7 +633,6 @@
 ||analytics.changiairport.com^$third-party
 ||analytics.chase.com^$third-party
 ||analytics.chegg.com^$third-party
-||analytics.chilevision.cl^$third-party
 ||analytics.churnzero.net^$third-party
 ||analytics.cibc.com^$third-party
 ||analytics.cibcrewards.com^$third-party
@@ -730,6 +737,7 @@
 ||analytics.haworth.com^$third-party
 ||analytics.hebela.vn^$third-party
 ||analytics.helpukrainewinwidget.org^$third-party
+||analytics.hiexpress.com^$third-party
 ||analytics.histmag.org^$third-party
 ||analytics.homebank.ro^$third-party
 ||analytics.hostiran.net^$third-party
@@ -909,6 +917,10 @@
 ||analytics.simplii.com^$third-party
 ||analytics.simplyhealth.co.uk^$third-party
 ||analytics.sitewit.com^$third-party
+||analytics.sixt.cn^$third-party
+||analytics.sixt.es^$third-party
+||analytics.sixt.fr^$third-party
+||analytics.sixt.jp^$third-party
 ||analytics.sixtmiddleeast.com^$third-party
 ||analytics.skroutz.gr^$third-party
 ||analytics.skyscanner.net^$third-party
@@ -948,7 +960,6 @@
 ||analytics.teknikveckan.se^$third-party
 ||analytics.teko.vn^$third-party
 ||analytics.tempmail100.com^$third-party
-||analytics.tempy.email^$third-party
 ||analytics.test.cheggnet.com^$third-party
 ||analytics.thekrazycouponlady.com^$third-party
 ||analytics.themarketiq.com^$third-party
@@ -965,6 +976,7 @@
 ||analytics.tnt-tv.pl^$third-party
 ||analytics.tnt.africa^$third-party
 ||analytics.tntdramma.com^$third-party
+||analytics.tntsports.cl^$third-party
 ||analytics.topseotoolkit.com^$third-party
 ||analytics.totalprosports.com^$third-party
 ||analytics.toyotaforklift.com^$third-party
@@ -1122,16 +1134,13 @@
 ||api.collect.data.intl.miui.com^$third-party
 ||api.croct.io^$third-party
 ||api.data-analytics.pokemon.com^$third-party
-||api.eu.amplitude.com^$third-party
 ||api.fouanalytics.com^$third-party
 ||api.installer.xiaomi.com^$third-party
-||api.lab.amplitude.com^$third-party
 ||api.mixpanel.com^$third-party
 ||api.sae.systems^$third-party
 ||api.segment.io^$third-party
 ||api.us-east-1.aiv-delivery.net^$third-party
 ||api.wipmania.com^$third-party
-||api2.amplitude.com^$third-party
 ||apilog.mytvnet.vn^$third-party
 ||apishowstats.babybus.com^$third-party
 ||apistats.rg.ru^$third-party
@@ -1282,7 +1291,6 @@
 ||awin.com^$third-party
 ||awin1.com^$third-party
 ||aws-analytics.nmg.com.hk^$third-party
-||awstrack.me^$third-party
 ||awzbijw.com^$third-party
 ||ax.amnezia.org^$third-party
 ||axf8.net^$third-party
@@ -1460,6 +1468,7 @@
 ||beat.yourtv.jp^$third-party
 ||beautifulrope.com^$third-party
 ||beaver.bluebunnypaper.com^$third-party
+||beaver.livechatlabs.com^$third-party
 ||bee.andreawhitmer.com^$third-party
 ||bee.jbkmobiledj.com^$third-party
 ||bee.shelveholidays.co.uk^$third-party
@@ -1650,6 +1659,7 @@
 ||c.pandorashop.ma^$third-party
 ||c.seznam.cz^$third-party
 ||c.sibnet.ru^$third-party
+||c.snow.com^$third-party
 ||c.statcounter.com^$third-party
 ||c.thredup.com^$third-party
 ||c.trkn.it^$third-party
@@ -1688,6 +1698,7 @@
 ||canidae.collectingsocialphoto.org^$third-party
 ||canidae.fidum.uk^$third-party
 ||canyonpizza.net^$third-party
+||capi.4wdsupacentre.com.au^$third-party
 ||capig.noiza.com^$third-party
 ||capig.twentytwowords.com^$third-party
 ||capitalopera.com^$third-party
@@ -1724,6 +1735,7 @@
 ||catlanguage.net^$third-party
 ||catng.crateandbarrel.com^$third-party
 ||catshark.janetalexandersson.com^$third-party
+||catshark.paullacey.digital^$third-party
 ||cattle.apisyouwonthate.com^$third-party
 ||cattle.driftbot.io^$third-party
 ||cattle.elitecanines.com.au^$third-party
@@ -1752,11 +1764,11 @@
 ||cdn.dsspn.com^$third-party
 ||cdn.logrocket.com^$third-party
 ||cdn.moengage.com^$third-party
+||cdn.plausible.poweredby.soy^$third-party
 ||cdn.polarbyte.com^$third-party
 ||cdn.pranmcpkx.com^$third-party
 ||cdn.prod.euid.eu^$third-party
 ||cdn.ravm.tv^$third-party
-||cdn.segment.com^$third-party
 ||cdn.usefathom.com^$third-party
 ||cdn.watchingthat.net^$third-party
 ||cdn1.skrill.com^$third-party
@@ -1905,6 +1917,7 @@
 ||cloudfront-labs.amazonaws.com^$third-party
 ||cloudmetrics.xenforo.com^$third-party
 ||cloverkeys.com^$third-party
+||clownfish.elihorne.com^$third-party
 ||clownfish.onvard.de^$third-party
 ||clownfish.philipkiely.com^$third-party
 ||clownfish.wrestlingiq.com^$third-party
@@ -2212,6 +2225,7 @@
 ||craterbox.com^$third-party
 ||crawdad.craiga.id.au^$third-party
 ||crawdad.dillonerhardt.com^$third-party
+||crawdad.impacttk.com^$third-party
 ||crayfish.fansubbing.com^$third-party
 ||crayfish.portbanecottagelochtay.co.uk^$third-party
 ||crayfish.spotlessconcepts.com^$third-party
@@ -2223,6 +2237,7 @@
 ||crocodile.rapid-sale.co.uk^$third-party
 ||croomaingly.com^$third-party
 ||crossengage.io^$third-party
+||crow.centresustains.com^$third-party
 ||crow.claudiakeil.de^$third-party
 ||crow.gim.technology^$third-party
 ||crow.themarbleking.com^$third-party
@@ -2254,7 +2269,6 @@
 ||ctags.cn^$third-party
 ||ctd.quattroruote.it^$third-party
 ||ctdfm.ilgiornale.it^$third-party
-||ctlayn.talbots.com^$third-party
 ||ctr-iwb.nmg.de^$third-party
 ||ctr-opc.nmg.de^$third-party
 ||ctr.nmg.de^$third-party
@@ -2482,7 +2496,6 @@
 ||data.inbank.it^$third-party
 ||data.info.avianca.com^$third-party
 ||data.info.consumercellular.com^$third-party
-||data.info.lifemiles.com^$third-party
 ||data.info.xpi.com.br^$third-party
 ||data.inswa.coca-cola.com^$third-party
 ||data.jaytuckwell.com^$third-party
@@ -3118,6 +3131,7 @@
 ||fastcounter.de^$third-party
 ||fastly-insights.com^$third-party
 ||faststart.ru^$third-party
+||fazphz.theiconic.com.au^$third-party
 ||fbebz.comfrt.com^$third-party
 ||fbtracking.extraspace.com^$third-party
 ||fclog.baidu.com^$third-party
@@ -3135,7 +3149,9 @@
 ||felidae.top10partnersuche.ch^$third-party
 ||femalecook.com^$third-party
 ||femetrics.grammarly.io^$third-party
+||ferret.3tech.no^$third-party
 ||ferret.ecvan.io^$third-party
+||ferret.emilkowal.ski^$third-party
 ||ferret.firstprogressivechurch.org^$third-party
 ||ferret.helpspace.com^$third-party
 ||ferret.jesper.hk^$third-party
@@ -3366,7 +3382,6 @@
 ||geolocation.forbes.com^$third-party
 ||geolocation.outreach.com^$third-party
 ||geoplugin.net^$third-party
-||georiot.com^$third-party
 ||geoservice.curse.com^$third-party
 ||geotags.refinery89.com^$third-party
 ||geotargetly-1a441.appspot.com^$third-party
@@ -3447,6 +3462,7 @@
 ||godpvqnszo.com^$third-party
 ||godvd.cleansimpleeats.com^$third-party
 ||goingup.com^$third-party
+||goldfish.attachmentrepair.com^$third-party
 ||goldfish.shingle.fi^$third-party
 ||goldfish.untitledspreadsheet.com^$third-party
 ||gollum.monotote.com^$third-party
@@ -3537,6 +3553,7 @@
 ||guineapig.espressive.com^$third-party
 ||guineapig.themenaffin.de^$third-party
 ||guppy.ausowned.com.au^$third-party
+||guppy.drvictorarai.com^$third-party
 ||guppy.ironmic.fm^$third-party
 ||guppy.omana.me^$third-party
 ||gurgle.pcmag.com^$third-party
@@ -3551,6 +3568,7 @@
 ||h562.pasadenastarnews.com^$third-party
 ||h689.nydailynews.com^$third-party
 ||hacx60.com^$third-party
+||haddock.jeffreyknox.dev^$third-party
 ||halibut.codehooks.io^$third-party
 ||halibut.jimruegolfinstruction.com^$third-party
 ||halibut.phytype.com^$third-party
@@ -3558,6 +3576,7 @@
 ||hammerhearing.com^$third-party
 ||hamster.consentkit.io^$third-party
 ||hamster.darstellendekuenste.de^$third-party
+||handshake.gravito.net^$third-party
 ||haostat.qihoo.com^$third-party
 ||happen.spkt.io^$third-party
 ||hare.felix-schmid.de^$third-party
@@ -3570,7 +3589,6 @@
 ||hb.vhsrv.com^$third-party
 ||hbrt.adobe.com^$third-party
 ||hc-analytics.idp.clogin.att.com^$third-party
-||hcjpbc.mensjournal.com^$third-party
 ||hcjpbc.usmagazine.com^$third-party
 ||hdjoi.omniluxled.com^$third-party
 ||healte.de^$third-party
@@ -3692,6 +3710,7 @@
 ||huq.io^$third-party
 ||hvrhgt.the-sun.com^$third-party
 ||hvrhgt.thesun.co.uk^$third-party
+||hyena.baseline.is^$third-party
 ||hyena.fershad.com^$third-party
 ||hyena.kitafund.com^$third-party
 ||hyena.wearegray.co^$third-party
@@ -3752,6 +3771,7 @@
 ||immanalytics.com^$third-party
 ||imp.go.sohu.com^$third-party
 ||imp.pvnsolutions.com^$third-party
+||impala.kenleyar.ai^$third-party
 ||impala.vnv.nl^$third-party
 ||impress.vcita.com^$third-party
 ||impression-tracker-service-5eimuebuhq-lz.a.run.app^$third-party
@@ -3941,7 +3961,6 @@
 ||joshpaintings.com^$third-party
 ||jrqet.catholiccompany.com^$third-party
 ||jrucbb.guestreservations.com^$third-party
-||js-agent.newrelic.com^$third-party
 ||js.hs-analytics.net^$third-party
 ||js.verisoul.ai^$third-party
 ||jscdndel.com^$third-party
@@ -4012,6 +4031,7 @@
 ||koala.hicks.house^$third-party
 ||koala.mynestbox.co.uk^$third-party
 ||koala.readyfive.io^$third-party
+||koala.spectrum-therapeutics.de^$third-party
 ||kohlermetricssecure.kohler.com^$third-party
 ||koi.artsvp.co^$third-party
 ||koi.fftf.cat^$third-party
@@ -4047,6 +4067,7 @@
 ||ladybug.paulstovell.com^$third-party
 ||laferia.cr^$third-party
 ||lakeofficepros.com^$third-party
+||lamprey.discoform.com^$third-party
 ||lamprey.seagyndavis.com^$third-party
 ||landfowl.agoredbuild.com^$third-party
 ||landfowl.typegang.com^$third-party
@@ -4059,7 +4080,6 @@
 ||launch-analytics-plugin.launchpotato.com^$third-party
 ||laurel.macrovision.com^$third-party
 ||laurel.rovicorp.com^$third-party
-||lbdqs.yankeecandle.com^$third-party
 ||lc-event.pixiv.net^$third-party
 ||lcdsyj.daily.co.jp^$third-party
 ||lciapi.ninthdecimal.com^$third-party
@@ -4094,6 +4114,7 @@
 ||leech.stargate-project.de^$third-party
 ||legenhit.com^$third-party
 ||legolas.monotote.com^$third-party
+||leiki.com^$third-party
 ||lemming.nicolasmenard.com^$third-party
 ||lemming.vivian.do^$third-party
 ||lemonpi.io^$third-party
@@ -4311,7 +4332,6 @@
 ||log.spotify.com^$third-party
 ||log.strawpoll.com^$third-party
 ||log.strm.yandex.ru^$third-party
-||log.sweepycleanplus.com^$third-party
 ||log.talkie-ai.com^$third-party
 ||log.tapatalk.com^$third-party
 ||log.tapchimattran.vn^$third-party
@@ -4463,7 +4483,9 @@
 ||malog.byapps.co.kr^$third-party
 ||manalyticshub.com^$third-party
 ||manatee.biodom.bio^$third-party
+||manatee.wemaketechsimple.com^$third-party
 ||mandrill.castingcollective.net^$third-party
+||mandrill.hamptonbeach.live^$third-party
 ||mandrill.yellowfruit.co^$third-party
 ||mantis-intelligence.com^$third-party
 ||maploco.com^$third-party
@@ -4474,10 +4496,8 @@
 ||marketing.latourism.org^$third-party
 ||marketing.modalife.com^$third-party
 ||marketing.nada.org^$third-party
-||marketing.net.occhiali24.it^$third-party
 ||marketing.sedgwick.com^$third-party
 ||marketing.sentinelgroup.com^$third-party
-||marketing.tr.netsalesmedia.pl^$third-party
 ||marketing.washington.org^$third-party
 ||marketizator.com^$third-party
 ||marktest.pt^$third-party
@@ -4602,7 +4622,6 @@
 ||metric.nwsource.com^$third-party
 ||metric.olivegarden.com^$third-party
 ||metric.rent.com^$third-party
-||metric.starz.com^$third-party
 ||metric.timewarnercable.com^$third-party
 ||metric.trulia.com^$third-party
 ||metric.vodacom.co.za^$third-party
@@ -4723,6 +4742,7 @@
 ||metrics.ktvb.com^$third-party
 ||metrics.labcorp.com^$third-party
 ||metrics.landolakes.com^$third-party
+||metrics.ma500.co.uk^$third-party
 ||metrics.makemytrip.com^$third-party
 ||metrics.marriott.com^$third-party
 ||metrics.maxizoo.fr^$third-party
@@ -4760,6 +4780,7 @@
 ||metrics.post-gazette.com^$third-party
 ||metrics.postoffice.co.uk^$third-party
 ||metrics.prom.third-party-app.sberdevices.ru^$third-party
+||metrics.qatarairways.com^$third-party
 ||metrics.quillbot.com^$third-party
 ||metrics.radissonhotels.com^$third-party
 ||metrics.rapidedge.io^$third-party
@@ -4802,6 +4823,7 @@
 ||metrics.tlc.com^$third-party
 ||metrics.tmz.com^$third-party
 ||metrics.topshop.com^$third-party
+||metrics.toptenreviews.com^$third-party
 ||metrics.toyota.com^$third-party
 ||metrics.toysrus.com^$third-party
 ||metrics.tsb.co.uk^$third-party
@@ -4897,6 +4919,7 @@
 ||mole.dansksejlunion.dk^$third-party
 ||mole.getfamealy.com^$third-party
 ||mole.gostartupco.com^$third-party
+||mole.venturini.dev^$third-party
 ||mollnia.com^$third-party
 ||momently.com^$third-party
 ||mon.capcutapi.us^$third-party
@@ -5214,6 +5237,7 @@
 ||omniture-ssl.walmart.ca^$third-party
 ||omniture-ssl.walmart.com^$third-party
 ||omniture.kennametal.com^$third-party
+||omniture.theglobeandmail.com^$third-party
 ||omns.americanexpress.com^$third-party
 ||omns.murdoch.edu.au^$third-party
 ||oms.avast.com^$third-party
@@ -5354,9 +5378,11 @@
 ||panda.teraskolmio.fi^$third-party
 ||panda.unpublished.app^$third-party
 ||panorama.wixapps.net^$third-party
+||panther.codyhatfield.me^$third-party
 ||panther.familytools.app^$third-party
 ||panther.thestocks.im^$third-party
 ||panther.tigil.rs^$third-party
+||panther.uchijapan.com^$third-party
 ||papoto.com^$third-party
 ||pappagallu.onefootball.com^$third-party
 ||parakeet.jorenvanhocht.be^$third-party
@@ -5373,6 +5399,7 @@
 ||particularaudience.com^$third-party
 ||partnersuccessmetrics.cisco.com^$third-party
 ||partplanes.com^$third-party
+||partridge.antonius.me^$third-party
 ||partycharge.com^$third-party
 ||passwordbyte.com^$third-party
 ||pbc.nypost.com^$third-party
@@ -5442,6 +5469,7 @@
 ||pig.civicplatform.org^$third-party
 ||pig.curtisherbert.com^$third-party
 ||pig.nigano.com^$third-party
+||pigeon.ashlean.com^$third-party
 ||pigeon.thankyuu.com^$third-party
 ||ping-fast.com^$third-party
 ||ping.dozuki.com^$third-party
@@ -5465,6 +5493,7 @@
 ||piper.amocrm.ru^$third-party
 ||piquantpigs.com^$third-party
 ||piranha.jsmobiledev.com^$third-party
+||piranha.keenanpayne.com^$third-party
 ||piranha.mediumsuite.co.uk^$third-party
 ||piranha.minnmyatsoe.com^$third-party
 ||pirsch.io^$third-party
@@ -5740,7 +5769,6 @@
 ||puffypurpose.com^$third-party
 ||puls.lv^$third-party
 ||pulse.delta.com^$third-party
-||pulse.genki.world^$third-party
 ||pulse.perfmetrics.netflix.com^$third-party
 ||pulse.shopflo.com^$third-party
 ||pulsemaps.com^$third-party
@@ -5792,6 +5820,7 @@
 ||qbop.com^$third-party
 ||qbrth.ezcontacts.com^$third-party
 ||qchannel03.cn^$third-party
+||qeigr.luluandgeorgia.com^$third-party
 ||qfp.intuit.com^$third-party
 ||qhtqr.mindbodygreen.com^$third-party
 ||qhupdate.com^$third-party
@@ -5843,6 +5872,8 @@
 ||rabbit.upwardhomes.net^$third-party
 ||rabbitboots.com^$third-party
 ||rac.ruutu.fi^$third-party
+||raccoon.alexanderssonlaw.com^$third-party
+||raccoon.jaronheard.com^$third-party
 ||radar.bayan.ir^$third-party
 ||radar.imgsmail.ru^$third-party
 ||radarurl.com^$third-party
@@ -5946,6 +5977,7 @@
 ||reports.tunein.com^$third-party
 ||reportwest-midas.codmwest.com^$third-party
 ||reproio.com^$third-party
+||reptile.delopoulos.gr^$third-party
 ||reptile.o-lit.fr^$third-party
 ||requestmetrics.com^$third-party
 ||res.rbl.ms^$third-party
@@ -6047,7 +6079,6 @@
 ||rum-ingress-coralogix.com^$third-party
 ||rum-metrics.bunny.net^$third-party
 ||rum-openway.guance.com^$third-party
-||rum.aliyuncs.com^$third-party
 ||rum.azion.com^$third-party
 ||rum.azioncdn.net^$third-party
 ||rum.condenastdigital.com^$third-party
@@ -6192,7 +6223,6 @@
 ||sanalytics.cartoonnetworkasia.com^$third-party
 ||sanalytics.cartoonnetworkhq.com^$third-party
 ||sanalytics.cartoonnetworkla.com^$third-party
-||sanalytics.chilevision.cl^$third-party
 ||sanalytics.cnnchile.com^$third-party
 ||sanalytics.enterprise.spectrum.com^$third-party
 ||sanalytics.ewz.ch^$third-party
@@ -6210,6 +6240,7 @@
 ||sanalytics.radioleverkusen.de^$third-party
 ||sanalytics.radiorur.de^$third-party
 ||sanalytics.rundschau-online.de^$third-party
+||sanalytics.securebanklogin.com^$third-party
 ||sanalytics.spark.co.nz^$third-party
 ||sanalytics.sydney.edu.au^$third-party
 ||sanalytics.tbs.com^$third-party
@@ -6249,6 +6280,7 @@
 ||sc.natwest.com^$third-party
 ||sc.rbs.co.uk^$third-party
 ||sc.sc-analytics.jp^$third-party
+||sc.unitymedia.de^$third-party
 ||sc.vmware.com^$third-party
 ||scalemonk.com^$third-party
 ||scallop.vav.link^$third-party
@@ -6261,6 +6293,7 @@
 ||sciencevault.net^$third-party
 ||scjlpq.navitime.co.jp^$third-party
 ||scmetrics.shell.com^$third-party
+||scmetrics.vodafone.it^$third-party
 ||scnd.landsend.de^$third-party
 ||scnt.rambler.ru^$third-party
 ||scode.randomhouse.com^$third-party
@@ -6488,6 +6521,7 @@
 ||sharpspring.com^$third-party
 ||shdid.me^$third-party
 ||sheep.littleboat.digital^$third-party
+||sheep.macka.com.au^$third-party
 ||sheep.peterfowler.com^$third-party
 ||sheep.pixair-survey.com^$third-party
 ||sheep.vaxstandby.com^$third-party
@@ -6512,6 +6546,7 @@
 ||silentcredit.com^$third-party
 ||silentsingle.com^$third-party
 ||silkworm.boxmood.be^$third-party
+||silkworm.margrietprinssen.nl^$third-party
 ||silkworm.waspexpert.com^$third-party
 ||silkworm.westwoodmbc.org^$third-party
 ||sillyscrew.com^$third-party
@@ -6541,7 +6576,6 @@
 ||siteimproveanalytics.com^$third-party
 ||siteimproveanalytics.io^$third-party
 ||siteintercept.allegiancetech.com^$third-party
-||siteintercept.qualtrics.com^$third-party
 ||sitelabweb.com^$third-party
 ||sitelytics.tech^$third-party
 ||siteperformancetest.net^$third-party
@@ -6559,6 +6593,7 @@
 ||skcrtxr.com^$third-party
 ||skillpuppy.com^$third-party
 ||skink.asorman.io^$third-party
+||skink.magnastar.net^$third-party
 ||skunk.gameworkersolidarity.com^$third-party
 ||skyglue.com^$third-party
 ||skylightdata.com^$third-party
@@ -6617,6 +6652,7 @@
 ||smetrics.abercrombie.com^$third-party
 ||smetrics.accaglobal.com^$third-party
 ||smetrics.accredo.com^$third-party
+||smetrics.aclu.org^$third-party
 ||smetrics.acs.org.au^$third-party
 ||smetrics.adnradio.cl^$third-party
 ||smetrics.aem.playstation.com^$third-party
@@ -6643,6 +6679,7 @@
 ||smetrics.angi.com^$third-party
 ||smetrics.anixter.com^$third-party
 ||smetrics.anntaylor.com^$third-party
+||smetrics.ansible.com^$third-party
 ||smetrics.ansys.com^$third-party
 ||smetrics.antena3.com^$third-party
 ||smetrics.anthem.com^$third-party
@@ -6678,7 +6715,6 @@
 ||smetrics.bankinter.com^$third-party
 ||smetrics.bankofamerica.com^$third-party
 ||smetrics.bankofmelbourne.com.au^$third-party
-||smetrics.banksa.com.au^$third-party
 ||smetrics.bankwest.com.au^$third-party
 ||smetrics.banquemondiale.org^$third-party
 ||smetrics.banter.com^$third-party
@@ -6708,6 +6744,7 @@
 ||smetrics.bmo.com^$third-party
 ||smetrics.bmspaf.org^$third-party
 ||smetrics.bncollege.com^$third-party
+||smetrics.boehringer-ingelheim.com^$third-party
 ||smetrics.boostmobile.com^$third-party
 ||smetrics.boss.info^$third-party
 ||smetrics.boston.com^$third-party
@@ -6779,6 +6816,8 @@
 ||smetrics.crocs.de^$third-party
 ||smetrics.crocs.eu^$third-party
 ||smetrics.crocs.fi^$third-party
+||smetrics.crocs.fr^$third-party
+||smetrics.crocs.se^$third-party
 ||smetrics.croma.com^$third-party
 ||smetrics.crystalski.co.uk^$third-party
 ||smetrics.csmonitor.com^$third-party
@@ -6930,7 +6969,6 @@
 ||smetrics.hypedc.com^$third-party
 ||smetrics.hyundaiusa.com^$third-party
 ||smetrics.i-law.com^$third-party
-||smetrics.i22.nadro.mx^$third-party
 ||smetrics.icici.bank.in^$third-party
 ||smetrics.icicibank.com^$third-party
 ||smetrics.ifc.org^$third-party
@@ -6993,10 +7031,7 @@
 ||smetrics.los40.com^$third-party
 ||smetrics.los40.com.mx^$third-party
 ||smetrics.lpl.com^$third-party
-||smetrics.lululemon.co.uk^$third-party
 ||smetrics.lululemon.com^$third-party
-||smetrics.lululemon.com.au^$third-party
-||smetrics.lululemon.com.hk^$third-party
 ||smetrics.lululemon.es^$third-party
 ||smetrics.lww.com^$third-party
 ||smetrics.m1.com.sg^$third-party
@@ -7025,6 +7060,7 @@
 ||smetrics.maurices.com^$third-party
 ||smetrics.maxicoffee.com^$third-party
 ||smetrics.maxicoffee.de^$third-party
+||smetrics.maximintegrated.com^$third-party
 ||smetrics.mcafee.com^$third-party
 ||smetrics.mdlive.com^$third-party
 ||smetrics.medstarhealth.org^$third-party
@@ -7044,7 +7080,6 @@
 ||smetrics.michaelkors.uk^$third-party
 ||smetrics.miga.org^$third-party
 ||smetrics.miles-and-more.com^$third-party
-||smetrics.misrp.com^$third-party
 ||smetrics.misumi-ec.com^$third-party
 ||smetrics.mitsubishi-motors.co.jp^$third-party
 ||smetrics.mitsubishi-motors.com.au^$third-party
@@ -7069,11 +7104,11 @@
 ||smetrics.murata.com^$third-party
 ||smetrics.mutua.es^$third-party
 ||smetrics.myhealthtoolkit.com^$third-party
+||smetrics.mysleepyhead.com^$third-party
 ||smetrics.myspringfield.com^$third-party
 ||smetrics.myspringfield.mx^$third-party
 ||smetrics.nab.com.au^$third-party
 ||smetrics.nabtrade.com.au^$third-party
-||smetrics.nadro.mx^$third-party
 ||smetrics.napaonline.com^$third-party
 ||smetrics.napaprolink.ca^$third-party
 ||smetrics.napaprolink.com^$third-party
@@ -7086,7 +7121,6 @@
 ||smetrics.nesn.com^$third-party
 ||smetrics.newark.com^$third-party
 ||smetrics.newbalance.com^$third-party
-||smetrics.newport.com^$third-party
 ||smetrics.nexmo.com^$third-party
 ||smetrics.nfl.com^$third-party
 ||smetrics.ni.com^$third-party
@@ -7239,7 +7273,7 @@
 ||smetrics.sharecare.com^$third-party
 ||smetrics.shinseibank.com^$third-party
 ||smetrics.shopjapan.co.jp^$third-party
-||smetrics.shopmyexchange.com^$third-party
+||smetrics.shopnbc.com^$third-party
 ||smetrics.shoppremiumoutlets.com^$third-party
 ||smetrics.sierra.com^$third-party
 ||smetrics.singlife.com^$third-party
@@ -7309,7 +7343,6 @@
 ||smetrics.telustvplus.com^$third-party
 ||smetrics.tesco.com^$third-party
 ||smetrics.tetrapak.com^$third-party
-||smetrics.textbooks.com^$third-party
 ||smetrics.tfl.gov.uk^$third-party
 ||smetrics.tgw.com^$third-party
 ||smetrics.theathletesfoot.com.au^$third-party
@@ -7374,7 +7407,6 @@
 ||smetrics.vodafone.al^$third-party
 ||smetrics.vodafone.co.uk^$third-party
 ||smetrics.vodafone.com.tr^$third-party
-||smetrics.vodafone.es^$third-party
 ||smetrics.vodafone.gr^$third-party
 ||smetrics.vodafone.in^$third-party
 ||smetrics.vodafone.qa^$third-party
@@ -7411,7 +7443,6 @@
 ||smetrics.worldmarket.com^$third-party
 ||smetrics.wradio.com.co^$third-party
 ||smetrics.wradio.com.mx^$third-party
-||smetrics.wyndham.com^$third-party
 ||smetrics.wyndhamhotels.com^$third-party
 ||smetrics.yaencontre.com^$third-party
 ||smetrics.ybs.co.uk^$third-party
@@ -7673,7 +7704,6 @@
 ||sst.chatbot.app^$third-party
 ||sst.cleansimpleeats.com^$third-party
 ||sst.colemanfurniture.com^$third-party
-||sst.eraldo.com^$third-party
 ||sst.esn.com^$third-party
 ||sst.hrw.org^$third-party
 ||sst.johnlewis.com^$third-party
@@ -7745,6 +7775,7 @@
 ||stapecdn.com^$third-party
 ||starfish.taskflow.io^$third-party
 ||starfurniture.net^$third-party
+||starget.beneplace.com^$third-party
 ||starget.huntington.com^$third-party
 ||starget.mathworks.com^$third-party
 ||starget.morganstanley.com^$third-party
@@ -8153,6 +8184,7 @@
 ||studioalkaline.com^$third-party
 ||stupendoussleet.com^$third-party
 ||sturgeon.patentfamily.com^$third-party
+||sturgeon.petjeaf.net^$third-party
 ||sub2tech.com^$third-party
 ||subscriberlists.com^$third-party
 ||subscribers.com^$third-party
@@ -8434,6 +8466,7 @@
 ||tags.pw.adn.cloud^$third-party
 ||tags.radiofarda.com^$third-party
 ||tags.reagroupdata.com.au^$third-party
+||tags.rfa.org^$third-party
 ||tags.roberthalf.com^$third-party
 ||tags.santanderbank.com^$third-party
 ||tags.soloway.ru^$third-party
@@ -8528,7 +8561,6 @@
 ||tccd.douglas.es^$third-party
 ||tccd.douglas.it^$third-party
 ||tccd.douglas.nl^$third-party
-||tccd.douglas.sk^$third-party
 ||tcimg.com^$third-party
 ||tctm.co^$third-party
 ||td.caranddriver.com^$third-party
@@ -8638,16 +8670,18 @@
 ||thoughtmetric.io^$third-party
 ||threechurch.com^$third-party
 ||thtk.temu.com^$third-party
+||tick.builtnoble.dev^$third-party
 ||tick.sculch.app^$third-party
 ||ticklesign.com^$third-party
-||tics.techdirt.com^$third-party
 ||tidaldrops.com^$third-party
+||tiger.aofinance.com.au^$third-party
 ||tiger.melissajclark.ca^$third-party
 ||tigershark.hasanahmad.ca^$third-party
 ||tigershark.integratecolumbus.org^$third-party
 ||tigershark.moonpot.com^$third-party
 ||tigershark.paavanmagic.com^$third-party
 ||tigershark.samwaymire.com^$third-party
+||tigershark.vandevliet.me^$third-party
 ||tiglon.beyondco.de^$third-party
 ||tiglon.davidroessli.com^$third-party
 ||tiktok.tray.com.br^$third-party
@@ -8992,7 +9026,6 @@
 ||tracker.xgen.dev^$third-party
 ||tracker.zmaticoo.com^$third-party
 ||trackerads.com^$third-party
-||trackerapi.ebxcdn.com^$third-party
 ||trackerapi.service.echobox.com^$third-party
 ||trackerapi.truste.com^$third-party
 ||trackerhqu.com^$third-party
@@ -9123,7 +9156,6 @@
 ||tracking.minitool.com^$third-party
 ||tracking.musixmatch.com^$third-party
 ||tracking.mycapture.com^$third-party
-||tracking.netsuite.com^$third-party
 ||tracking.netvigie.com^$third-party
 ||tracking.nextdoor.com^$third-party
 ||tracking.noen.at^$third-party
@@ -9273,7 +9305,6 @@
 ||trk-maiorum.com^$third-party
 ||trk.a-dsp.com^$third-party
 ||trk.adbutter.net^$third-party
-||trk.bc.shutterfly.com^$third-party
 ||trk.clinch.co^$third-party
 ||trk.decido.io^$third-party
 ||trk.edf.fr^$third-party
@@ -9342,6 +9373,7 @@
 ||twisty.net^$third-party
 ||txfryh.terra.com.br^$third-party
 ||txt.eu^$third-party
+||tybfxw.puma.com^$third-party
 ||tycollectproxy.tiyalive.com^$third-party
 ||typicalteeth.com^$third-party
 ||tyxo.bg^$third-party
@@ -9744,6 +9776,7 @@
 ||whiteclick.biz^$third-party
 ||whitefish.antonopoulos-stores.gr^$third-party
 ||whitefish.autharmor.com^$third-party
+||whitefish.johnsandtaylor.com^$third-party
 ||whitefish.kenku.fm^$third-party
 ||who.nie.easebar.com^$third-party
 ||whoaremyfriends.com^$third-party
@@ -9825,6 +9858,7 @@
 ||wundercounter.com^$third-party
 ||wup-185a61e7.bendigobank.com.au^$third-party
 ||wurfl.io^$third-party
+||wurflcloud.com^$third-party
 ||ww11.kohls.com^$third-party
 ||ww8.kohls.com^$third-party
 ||wwgate.ru^$third-party
@@ -9873,6 +9907,7 @@
 ||yachtloft.com^$third-party
 ||yak.auclantis.com^$third-party
 ||yak.gregsullivan.com^$third-party
+||yak.juicydevils.gr^$third-party
 ||yandexadexchange.net^$third-party
 ||yandexmetric.com^$third-party
 ||yast.rutube.ru^$third-party
@@ -9938,7 +9973,6 @@
 ||zoosnet.net^$third-party
 ||zpmbz.coach.com^$third-party
 ||zprk.io^$third-party
-||zqlgc.facethefuture.co.uk^$third-party
 ||zqtk.net^$third-party
 ||zs.dhl.de^$third-party
 ||ztevents.zaloapp.com^$third-party
