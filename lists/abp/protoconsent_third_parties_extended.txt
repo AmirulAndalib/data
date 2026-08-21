@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Third Parties Extended
 ! Description: Sharing or combining data with third parties, partners or group companies beyond the core service (extended - all sources)
-! Version: 2026-08-19
-! Last modified: 2026-08-19T02:36:02.505Z
-! Entries: 845
+! Version: 2026-08-21
+! Last modified: 2026-08-21T02:41:30.955Z
+! Entries: 848
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -640,6 +640,7 @@
 ||wisepops.com^$third-party
 ||wistia.net^$third-party
 ||wonderpush.com^$third-party
+||ws-assets.zoominfo.com^$third-party
 ||ws.sharethis.com^$third-party
 ||ws.zoominfo.com^$third-party
 ||wshareit.com^$third-party
@@ -694,6 +695,7 @@
 ||crazygolfdeals.com.au/widget^
 ||creative.myasian.live/widgets/^
 ||d12wqas8hfs5t3.cloudfront.net/embed/^
+||dailydevstatus.com/embed/script.js^
 ||dailymotion.com/badge/user/^
 ||datafeedfile.com/widget/readywidget/^
 ||dawanda.com/widget/^
@@ -817,6 +819,7 @@
 ||sportrecs.com/redirect/embed/^
 ||spotify.com/follow/^
 ||static.getdrip.com/assets/^
+||statuspage.io/embed/frame^
 ||stjegypt.com/uploads/stjnew.jpg^
 ||storeya.com/externalscript/^
 ||taishurx.jp/js/web/sns_header.js^

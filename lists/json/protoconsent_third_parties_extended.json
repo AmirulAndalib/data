@@ -1,7 +1,7 @@
 {
   "name": "ProtoConsent Third Parties Extended",
-  "version": "2026-08-19",
-  "generated": "2026-08-19T02:36:02.505Z",
+  "version": "2026-08-21",
+  "generated": "2026-08-21T02:41:30.955Z",
   "description": "Sharing or combining data with third parties, partners or group companies beyond the core service (extended - all sources)",
   "homepage": "https://github.com/ProtoConsent/data",
   "license": "GPL-3.0-or-later",
@@ -639,6 +639,7 @@
     "wisepops.com",
     "wistia.net",
     "wonderpush.com",
+    "ws-assets.zoominfo.com",
     "ws.sharethis.com",
     "ws.zoominfo.com",
     "wshareit.com",
@@ -656,7 +657,7 @@
     "yotpo.com",
     "zoominfo.com"
   ],
-  "domain_count": 649,
+  "domain_count": 650,
   "paths": [
     "||4399.com/plugins/tj/event?",
     "||adweek.com/wp-content/plugins/adw-parsley/",
@@ -696,6 +697,7 @@
     "||crazygolfdeals.com.au/widget",
     "||creative.myasian.live/widgets/",
     "||d12wqas8hfs5t3.cloudfront.net/embed/",
+    "||dailydevstatus.com/embed/script.js",
     "||dailymotion.com/badge/user/",
     "||datafeedfile.com/widget/readywidget/",
     "||dawanda.com/widget/",
@@ -819,6 +821,7 @@
     "||sportrecs.com/redirect/embed/",
     "||spotify.com/follow/",
     "||static.getdrip.com/assets/",
+    "||statuspage.io/embed/frame",
     "||stjegypt.com/uploads/stjnew.jpg",
     "||storeya.com/externalscript/",
     "||taishurx.jp/js/web/sns_header.js",
@@ -855,5 +858,5 @@
     "||youtube.com/subscribe_widget",
     "||zextit.com/partners/"
   ],
-  "path_count": 196
+  "path_count": 198
 }
