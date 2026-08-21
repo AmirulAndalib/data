@@ -86,6 +86,10 @@
       ]
     },
     {
+      "urlFilter": "||cloudimanage.com/admin/api/audithub/v1/customers/*/analytics/events/crawl",
+      "firstParty": true
+    },
+    {
       "urlFilter": "||dc.services.visualstudio.com/v2/track",
       "initiatorDomains": [
         "aiskillsnavigator.microsoft.com"
@@ -937,5 +941,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 30
+  "path_exception_count": 31
 }
