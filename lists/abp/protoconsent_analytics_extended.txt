@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-08-21
-! Last modified: 2026-08-21T02:41:30.955Z
-! Entries: 141824
+! Version: 2026-08-22
+! Last modified: 2026-08-22T02:33:25.846Z
+! Entries: 141836
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -5147,6 +5147,7 @@
 ||amusinggirls.com^$third-party
 ||amvtwk.thebottleclub.com^$third-party
 ||amvvbn9trk.com^$third-party
+||an-identity.website^$third-party
 ||an.adminit.cz^$third-party
 ||an.avast.com^$third-party
 ||an.avast.ru^$third-party
@@ -20810,6 +20811,7 @@
 ||bearsmyip.com^$third-party
 ||beasleyemailstats.com^$third-party
 ||beastbeef.com^$third-party
+||beastbook.net^$third-party
 ||beastdatab.com^$third-party
 ||beat.thedrum.com^$third-party
 ||beat.yourtv.jp^$third-party
@@ -28069,6 +28071,7 @@
 ||cuarb.cartersoshkosh.ca^$third-party
 ||cubeanalytics.com^$third-party
 ||cubed.ai^$third-party
+||cubeface.com^$third-party
 ||cubeglobal.net^$third-party
 ||cuberoot.co^$third-party
 ||cubic.ca^$third-party
@@ -32849,6 +32852,7 @@
 ||definition6.com^$third-party
 ||definitivehc.com^$third-party
 ||defygravity.convio.com^$third-party
+||defyingbelief.com^$third-party
 ||degree.insead.edu^$third-party
 ||degree.mses.northwestern.edu^$third-party
 ||deipar.com^$third-party
@@ -33869,6 +33873,7 @@
 ||dokangcc.com^$third-party
 ||dokkga.osakichair.com^$third-party
 ||dolej.beyondriders.com^$third-party
+||dollarpuzzle.com^$third-party
 ||dolldetail.com^$third-party
 ||dolphin.brandname.tech^$third-party
 ||dolphin.deliver.ifeng.com^$third-party
@@ -34036,6 +34041,7 @@
 ||druid.apache.org^$third-party
 ||druid.io^$third-party
 ||drumcircleanalytics.com^$third-party
+||drumfills.com^$third-party
 ||drupalcms-sgtm.1800gotjunk.com^$third-party
 ||drupalmetrics.ppg.apple.com^$third-party
 ||druzja.canmart.co.kr^$third-party
@@ -40952,6 +40958,7 @@
 ||goldfish.shingle.fi^$third-party
 ||goldfish.untitledspreadsheet.com^$third-party
 ||goldothers.com^$third-party
+||golfinglounge.com^$third-party
 ||goliath.nl^$third-party
 ||golimetree.com^$third-party
 ||gollum.monotote.com^$third-party
@@ -45070,6 +45077,7 @@
 ||hollister-email.com^$third-party
 ||holoway.io^$third-party
 ||holug.com^$third-party
+||home.aqr.com^$third-party
 ||home.edm.globalsources.com^$third-party
 ||home.slehenbauer.com^$third-party
 ||home.usg.com^$third-party
@@ -48136,6 +48144,7 @@
 ||io.nodar.sa^$third-party
 ||io.placement-intelligent.com^$third-party
 ||io.vtex.com.br^$third-party
+||io1.eulerian.net^$third-party
 ||ioam.de^$third-party
 ||ioaoyyl3.alphonso.tv^$third-party
 ||iobyeq.dallmayr-versand.de^$third-party
@@ -75226,6 +75235,7 @@
 ||online.yodle.com^$third-party
 ||onlineapplications.anz.com^$third-party
 ||onlinekey.biz^$third-party
+||onlinemediahelper.com^$third-party
 ||onlinepbx.ru^$third-party
 ||onlinesales.ai^$third-party
 ||onlinesalespro.com^$third-party
@@ -84289,6 +84299,7 @@
 ||proditor.sparda.de^$third-party
 ||prodixapp.com^$third-party
 ||prodperfect.com^$third-party
+||prodregistryv2.org^$third-party
 ||prodsight.ai^$third-party
 ||prodsight.com^$third-party
 ||produban.tt.omtrdc.net^$third-party
@@ -122983,6 +122994,7 @@
 ||tag.measured.com^$third-party
 ||tag.medexperts.com.br^$third-party
 ||tag.minimaid.co.jp^$third-party
+||tag.minty.com^$third-party
 ||tag.mtrcs.samba.tv^$third-party
 ||tag.myaspectra.ch^$third-party
 ||tag.myplay.com^$third-party
@@ -133101,7 +133113,6 @@
 ||v4gtm.lucascalado.com.br^$third-party
 ||v4tpxg9m.com^$third-party
 ||v5fsk8kjd.com^$third-party
-||v6analytics.htmedia.in.edgekey.net^$third-party
 ||v710.newyorkupstate.com^$third-party
 ||v7fhugd.com^$third-party
 ||v8hj3d6j.com^$third-party
@@ -141726,6 +141737,7 @@
 ||yahoo.com/beacon?^
 ||yahoo.com/pageview?^
 ||yahoo.com/sync/casale/^
+||yahoo.com/xhr/beacon/batch/^
 ||yahoo.net/pixel.gif^
 ||yandeg.ru/count/^
 ||yandex.com/clck/^
