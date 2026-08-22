@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-17",
+  "version": "2026-08-22",
   "type": "cmp_detectors",
-  "generated": "2026-08-17T15:11:16.603Z",
+  "generated": "2026-08-22T02:13:30.538Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "434cfcfa3004ad10",
-  "cmp_count": 327,
+  "autoconsent_tree_hash": "3951932b985ecc9a",
+  "cmp_count": 329,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -434,6 +434,14 @@
       ],
       "domains": [
         "channel4.com"
+      ]
+    },
+    "chatgpt": {
+      "present": [
+        "dialog[data-cookie-consent] form[data-privacy-consent-form] input[name=\"action\"][value=\"reject\"]"
+      ],
+      "showing": [
+        "dialog[data-cookie-consent]:has(form[data-privacy-consent-form])"
       ]
     },
     "check24": {
@@ -1079,6 +1087,14 @@
         "financestrategists.com"
       ]
     },
+    "finsweet": {
+      "present": [
+        "[fs-consent-element=banner]"
+      ],
+      "showing": [
+        "[fs-consent-element=banner] [fs-consent-element=allow]"
+      ]
+    },
     "fullertonhotels_com": {
       "present": [
         "#ifrmCookieBanner"
@@ -1250,10 +1266,10 @@
     },
     "holidaymedia": {
       "present": [
-        "dialog[data-cookie-consent]"
+        "dialog[data-cookie-consent] [data-cookie-accept]"
       ],
       "showing": [
-        "dialog[data-cookie-consent]"
+        "dialog[data-cookie-consent]:has([data-cookie-accept])"
       ]
     },
     "hubspot": {
