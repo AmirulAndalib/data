@@ -1,10 +1,13 @@
 {
-  "version": "2026-08-20",
-  "generated": "2026-08-20T04:19:34.260Z",
+  "version": "2026-08-22",
+  "generated": "2026-08-22T04:16:20.565Z",
   "type": "tracking_params_sites",
-  "domain_count": 915,
-  "param_count": 1899,
+  "domain_count": 916,
+  "param_count": 1900,
   "sites": {
+    "j-cast.com": [
+      "in"
+    ],
     "hanasone.mainichi.jp": [
       "inb"
     ],
@@ -2530,6 +2533,7 @@
       "feed_id"
     ],
     "netkeiba.com": [
+      "ref",
       "rf"
     ],
     "services.addons.mozilla.org": [

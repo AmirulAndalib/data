@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-18",
+  "version": "2026-08-22",
   "type": "cmp_site",
-  "generated": "2026-08-18T04:19:39.218Z",
+  "generated": "2026-08-22T04:16:20.145Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "434cfcfa3004ad10",
-  "cmp_count": 270,
+  "autoconsent_tree_hash": "3951932b985ecc9a",
+  "cmp_count": 271,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -465,6 +465,17 @@
       "domains": [
         "channel4.com"
       ]
+    },
+    "chatgpt": {
+      "selector": "dialog[data-cookie-consent]:has(form[data-privacy-consent-form])",
+      "detectors": {
+        "present": [
+          "dialog[data-cookie-consent] form[data-privacy-consent-form] input[name=\"action\"][value=\"reject\"]"
+        ],
+        "showing": [
+          "dialog[data-cookie-consent]:has(form[data-privacy-consent-form])"
+        ]
+      }
     },
     "check24": {
       "selector": ".c24-cookie-consent-wrapper",
@@ -1366,13 +1377,13 @@
       ]
     },
     "holidaymedia": {
-      "selector": "dialog[data-cookie-consent]",
+      "selector": "dialog[data-cookie-consent]:has([data-cookie-accept])",
       "detectors": {
         "present": [
-          "dialog[data-cookie-consent]"
+          "dialog[data-cookie-consent] [data-cookie-accept]"
         ],
         "showing": [
-          "dialog[data-cookie-consent]"
+          "dialog[data-cookie-consent]:has([data-cookie-accept])"
         ]
       }
     },
