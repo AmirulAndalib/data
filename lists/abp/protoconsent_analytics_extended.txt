@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-08-22
-! Last modified: 2026-08-22T02:33:25.846Z
-! Entries: 141836
+! Version: 2026-08-23
+! Last modified: 2026-08-23T02:41:31.864Z
+! Entries: 141850
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -3282,6 +3282,7 @@
 ||activity-flow.vtex.com^$third-party
 ||activity.bigo.tv^$third-party
 ||activity.fiverr.com^$third-party
+||activity.hybrid.xiaomi.com^$third-party
 ||activity.marketivia.com^$third-party
 ||activity.newlook.com^$third-party
 ||activity.sanmin.com.tw^$third-party
@@ -3411,6 +3412,7 @@
 ||ad.ordersuit.info^$third-party
 ||ad.prod.rpay.int.roku.com^$third-party
 ||ad.qa.ap.int.roku.com^$third-party
+||ad.quickapp.hybrid.xiaomi.com^$third-party
 ||ad.rejichoice.jp^$third-party
 ||ad.rus.xiaomi.com^$third-party
 ||ad.shinjuku-mens-chuoh.com^$third-party
@@ -18199,6 +18201,7 @@
 ||api.horizonedge.com.br^$third-party
 ||api.horizontesfinanceira.com.br^$third-party
 ||api.hugopimentel.com.br^$third-party
+||api.hybrid.xiaomi.com^$third-party
 ||api.hypeinfluency.com.br^$third-party
 ||api.hyundaiopen.com.br^$third-party
 ||api.igrovers.com^$third-party
@@ -21544,6 +21547,7 @@
 ||bmailer.link^$third-party
 ||bmailer.net^$third-party
 ||bmbzt.smashcreate.com^$third-party
+||bmccfortress.com^$third-party
 ||bmcm.pw^$third-party
 ||bmcui.crocs.nl^$third-party
 ||bmesl.convertcake.com^$third-party
@@ -25606,6 +25610,7 @@
 ||collector.alienxh.site^$third-party
 ||collector.alixh.site^$third-party
 ||collector.api.video^$third-party
+||collector.appconsent.io^$third-party
 ||collector.articerrahi.com^$third-party
 ||collector.assetxh.world^$third-party
 ||collector.automote.co.nz^$third-party
@@ -44461,6 +44466,7 @@
 ||haccz.moonglow.com^$third-party
 ||hache.lesfreresjacks.fr^$third-party
 ||hackers.lv^$third-party
+||hackle.io^$third-party
 ||hacx60.com^$third-party
 ||haddock.jeffreyknox.dev^$third-party
 ||haensel-ams.com^$third-party
@@ -51077,6 +51083,7 @@
 ||links.marketamerica.com^$third-party
 ||links.marketmovingtrends.com^$third-party
 ||links.marymorrissey.com^$third-party
+||links.mgmresorts.com^$third-party
 ||links.mkt2383.com^$third-party
 ||links.mkt563.com^$third-party
 ||links.nbcnews.com^$third-party
@@ -59548,6 +59555,7 @@
 ||matomo.bietigheim-bissingen.de^$third-party
 ||matomo.big.at^$third-party
 ||matomo.bigbangboom.biz^$third-party
+||matomo.bigbox.lt^$third-party
 ||matomo.bihk.de^$third-party
 ||matomo.bike-x.de^$third-party
 ||matomo.bilaal.co.uk^$third-party
@@ -64059,6 +64067,7 @@
 ||metaps.com^$third-party
 ||metarouter.io^$third-party
 ||metaserver.echowkbd.com^$third-party
+||metashop.dolphinsuite.com^$third-party
 ||metc.banfield.com^$third-party
 ||metcon.hulu.com^$third-party
 ||meteachugood.holdmybeerconsulting.com^$third-party
@@ -87049,6 +87058,7 @@
 ||reporting.wd40.asia^$third-party
 ||reporting.wd40company.eu^$third-party
 ||reportms.singaporepaya.com^$third-party
+||reportmyads.com^$third-party
 ||reportna1.centauriglobal.com^$third-party
 ||reports-api.sqreen.io^$third-party
 ||reports-tsi.tangerine.io^$third-party
@@ -88131,6 +88141,7 @@
 ||ry0.rythmefm.com^$third-party
 ||ry289qrj.vasafitness.com^$third-party
 ||rybbit.com^$third-party
+||rybbit.io^$third-party
 ||rybbit.sg-app.com^$third-party
 ||rybbit.xzist.org^$third-party
 ||rybihvlqs.rbh-logistics.com^$third-party
@@ -133810,6 +133821,7 @@
 ||voicefive.com^$third-party
 ||voices-api.themighty.com^$third-party
 ||voicesense.com^$third-party
+||voicewinds.com^$third-party
 ||voidanalytics.com^$third-party
 ||voipmessage.info^$third-party
 ||voiqe.nursinghomeabusecenter.com^$third-party
@@ -138555,6 +138567,7 @@
 ||coca-cola.com.br/synerise/tracker.js^
 ||coccoc.com/log^
 ||codecademy.com/analytics/^
+||codedrink.com/api/inbound^
 ||codefa.st/js/script.js^
 ||codemarketing.cloud/rest/^
 ||coefficy.com/ip/^
@@ -141714,6 +141727,7 @@
 ||xiaomi.com/js/mstr.js?^
 ||xing.com/logjam/^
 ||xl.pt/api/stats.ashx?^
+||xn--pckua2a7gp15o89zb.com/api/am/v1/t^
 ||xnewsletter.de/count/counter.php?^
 ||xnxx.com/picserror/^
 ||xnxx.tv/picserror/^
