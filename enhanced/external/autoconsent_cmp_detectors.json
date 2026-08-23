@@ -1,9 +1,9 @@
 {
-  "version": "2026-08-22",
+  "version": "2026-08-23",
   "type": "cmp_detectors",
-  "generated": "2026-08-22T04:16:20.151Z",
+  "generated": "2026-08-23T04:20:58.778Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "3951932b985ecc9a",
+  "autoconsent_tree_hash": "3cfe43815eaf2cbd",
   "cmp_count": 329,
   "detectors": {
     "aacookiebanner": {
@@ -249,8 +249,7 @@
         "#cookie_consent_wrapper #consent_accept_essential, #manage_cookie_consent_modal #modal_consent_accept_essential"
       ],
       "showing": [
-        "#cookie_consent_wrapper:not(.hideConsent)",
-        "#age_disclaimer_window,#ageDisclaimerWrapper"
+        "#cookie_consent_wrapper:not(.hideConsent)"
       ]
     },
     "aytm": {
