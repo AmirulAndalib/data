@@ -1,9 +1,9 @@
 {
-  "version": "2026-08-23",
+  "version": "2026-08-24",
   "type": "cmp_detectors",
-  "generated": "2026-08-23T04:20:58.778Z",
+  "generated": "2026-08-24T04:26:09.485Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "3cfe43815eaf2cbd",
+  "autoconsent_tree_hash": "7412126049315d9e",
   "cmp_count": 329,
   "detectors": {
     "aacookiebanner": {
@@ -668,7 +668,7 @@
         "#cookiefirst-root,.cookiefirst-root"
       ],
       "showing": [
-        "#cookiefirst-root,.cookiefirst-root"
+        "#cookiefirst-root button[data-cookiefirst-action],.cookiefirst-root button[data-cookiefirst-action],#btnAcceptAllCookies,#btnRejectAllCookies,#btnAdjustSettings,[aria-labelledby=cookie-preference-panel-title] button"
       ],
       "domains": [
         "cookiefirst.com"
