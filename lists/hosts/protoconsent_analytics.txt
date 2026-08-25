@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-08-24
-# Last modified: 2026-08-24T02:42:31.048Z
-# Entries: 10273
+# Version: 2026-08-25
+# Last modified: 2026-08-25T02:36:10.415Z
+# Entries: 10280
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -14,6 +14,7 @@
 0.0.0.0 123count.com
 0.0.0.0 123stat.com
 0.0.0.0 15gifts.com
+0.0.0.0 1annuaire.com
 0.0.0.0 1freecounter.com
 0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1to1.bbva.com
@@ -274,6 +275,7 @@
 0.0.0.0 admetrics.events
 0.0.0.0 admile.ru
 0.0.0.0 admo.tv
+0.0.0.0 adnlb.sprayground.com
 0.0.0.0 adnxtr.com
 0.0.0.0 adobe-analytics-dc.belastingdienst.nl
 0.0.0.0 adobe-metrics.zionsbank.com
@@ -451,7 +453,6 @@
 0.0.0.0 alzns.carters.com
 0.0.0.0 amadesa.com
 0.0.0.0 amarfa.ir
-0.0.0.0 amavalet.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amc.yandex.ru
 0.0.0.0 amcdn.vn
@@ -560,7 +561,6 @@
 0.0.0.0 analytics-log.withhive.com
 0.0.0.0 analytics-logger.service.junctiontv.net
 0.0.0.0 analytics-nssl.bradyid.com
-0.0.0.0 analytics-pit-nfl.yinzcam.com
 0.0.0.0 analytics-prd.aws.wehaa.net
 0.0.0.0 analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 0.0.0.0 analytics-prod.readtheory.org
@@ -1446,6 +1446,7 @@
 0.0.0.0 bbc-reporting-api.app
 0.0.0.0 bc.nhk.jp
 0.0.0.0 bcanl.bca-autoveiling.nl
+0.0.0.0 bcdn-16c9d93d.bankofscotland.co.uk
 0.0.0.0 bdaqs.soma.com
 0.0.0.0 bdash-cloud.com
 0.0.0.0 bdg-analytics.appspot.com
@@ -2369,6 +2370,7 @@
 0.0.0.0 d1get58iwmjrxx.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
 0.0.0.0 d1hyarjnwqrenh.cloudfront.net
+0.0.0.0 d1jbmblqtpfad4.cloudfront.net
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1l6p2sc9645hc.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
@@ -2489,12 +2491,12 @@
 0.0.0.0 data.a.fanaticscommerce.com
 0.0.0.0 data.a.lids.com
 0.0.0.0 data.a.mlbshop.com
-0.0.0.0 data.a.nflshop.com
 0.0.0.0 data.a.santanderopenacademy.com
 0.0.0.0 data.abc.es
 0.0.0.0 data.accountsemea.coca-cola.com
 0.0.0.0 data.americas.coca-cola.com
 0.0.0.0 data.autocasion.com
+0.0.0.0 data.babista.de
 0.0.0.0 data.brasil.santander.com.br
 0.0.0.0 data.campaign.toyscenter.it
 0.0.0.0 data.campaigns.cineplex.com
@@ -2895,12 +2897,10 @@
 0.0.0.0 effirst.com
 0.0.0.0 efreecode.com
 0.0.0.0 eggrecipe.com
-0.0.0.0 egkdj.skinnydiplondon.com
 0.0.0.0 egret.chankaryik.com
 0.0.0.0 egret.hairproject.ch
 0.0.0.0 ei.monday.com
 0.0.0.0 eicyds.qoo10.jp
-0.0.0.0 eipqr.rythmhealth.com
 0.0.0.0 ejbbcf.finishline.com
 0.0.0.0 ek-tracker.ekitan.com
 0.0.0.0 ekmpinpoint.com
@@ -3025,7 +3025,6 @@
 0.0.0.0 ev.moneymade.io
 0.0.0.0 ev.stellarlabs.ai
 0.0.0.0 ev.tpocdm.com
-0.0.0.0 evdni.littlesleepies.com
 0.0.0.0 event-api.rdstation.com.br
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-collector.prd.data.s.joyn.de
@@ -3193,6 +3192,7 @@
 0.0.0.0 fastcounter.de
 0.0.0.0 fastly-insights.com
 0.0.0.0 faststart.ru
+0.0.0.0 faxcoupons.com
 0.0.0.0 fbebz.comfrt.com
 0.0.0.0 fbtracking.extraspace.com
 0.0.0.0 fclog.baidu.com
@@ -3600,6 +3600,7 @@
 0.0.0.0 gtm.humann.com
 0.0.0.0 gtm.lercio.it
 0.0.0.0 gtm.mandesager.dk
+0.0.0.0 gtm.marjosports.com.br
 0.0.0.0 gtm.taginstall.com
 0.0.0.0 gtm.tipranks.com
 0.0.0.0 gtm.udemy.com
@@ -4106,7 +4107,6 @@
 0.0.0.0 klangoo.com
 0.0.0.0 klickly.com
 0.0.0.0 kloggyr-service.kyruus.com
-0.0.0.0 kmkfk.gld.com
 0.0.0.0 knfkd.revzilla.com
 0.0.0.0 knorzj.wearfigs.com
 0.0.0.0 knotch-cdn.com
@@ -5542,6 +5542,7 @@
 0.0.0.0 p.placed.com
 0.0.0.0 p.raasnet.com
 0.0.0.0 p.skimresources.com
+0.0.0.0 p.softmedia.cz
 0.0.0.0 p.tryretool.com
 0.0.0.0 p0.raasnet.com
 0.0.0.0 p030.courant.com
@@ -6313,6 +6314,7 @@
 0.0.0.0 s.insidehalton.com
 0.0.0.0 s.lenovo.com
 0.0.0.0 s.pixsrvcs.com
+0.0.0.0 s.smoothspine.com
 0.0.0.0 s.sofoot.com
 0.0.0.0 s.thestar.com
 0.0.0.0 s.toyotafinancial.com
@@ -6493,6 +6495,7 @@
 0.0.0.0 scjlpq.navitime.co.jp
 0.0.0.0 scmetrics.shell.com
 0.0.0.0 scmetrics.vodafone.it
+0.0.0.0 scnd.landsend.co.uk
 0.0.0.0 scnd.landsend.de
 0.0.0.0 scnt.rambler.ru
 0.0.0.0 scode.randomhouse.com
@@ -6715,6 +6718,7 @@
 0.0.0.0 sgtm.comprend.com
 0.0.0.0 sgtm.csas.cz
 0.0.0.0 sgtm.fewoferien.de
+0.0.0.0 sgtm.his.ua
 0.0.0.0 sgtm.holidayhomes.com
 0.0.0.0 sgtm.hometogo.pt
 0.0.0.0 sgtm.iu-fernstudium.de
@@ -6976,6 +6980,7 @@
 0.0.0.0 smetrics.bmo.com
 0.0.0.0 smetrics.bmspaf.org
 0.0.0.0 smetrics.bncollege.com
+0.0.0.0 smetrics.bncvirtual.com
 0.0.0.0 smetrics.boehringer-ingelheim.com
 0.0.0.0 smetrics.boostmobile.com
 0.0.0.0 smetrics.boss.info
@@ -8846,11 +8851,13 @@
 0.0.0.0 tccd.douglas.es
 0.0.0.0 tccd.douglas.it
 0.0.0.0 tccd.douglas.nl
+0.0.0.0 tccd.douglas.sk
 0.0.0.0 tcimg.com
 0.0.0.0 tctm.co
 0.0.0.0 td.caranddriver.com
 0.0.0.0 td.cosmopolitan.com
 0.0.0.0 td.countryliving.com
+0.0.0.0 td.deepsync.com
 0.0.0.0 td.delish.com
 0.0.0.0 td.elle.com
 0.0.0.0 td.esquire.com
@@ -9446,7 +9453,6 @@
 0.0.0.0 tracking.minitool.com
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.mycapture.com
-0.0.0.0 tracking.netsuite.com
 0.0.0.0 tracking.netvigie.com
 0.0.0.0 tracking.nextdoor.com
 0.0.0.0 tracking.noen.at
@@ -9846,6 +9852,7 @@
 0.0.0.0 vision.fn-pz.com
 0.0.0.0 visioncriticalpanels.com
 0.0.0.0 visit-prod-us.occa.ocs.oraclecloud.com
+0.0.0.0 visit-server.inmobi-choice.io
 0.0.0.0 visit.asb.co.nz
 0.0.0.0 visitanalytics.userreport.com
 0.0.0.0 visitor-analytics.io

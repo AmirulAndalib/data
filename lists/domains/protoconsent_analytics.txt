@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-08-24
-# Last modified: 2026-08-24T02:42:31.048Z
-# Entries: 10273
+# Version: 2026-08-25
+# Last modified: 2026-08-25T02:36:10.415Z
+# Entries: 10280
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -14,6 +14,7 @@
 123count.com
 123stat.com
 15gifts.com
+1annuaire.com
 1freecounter.com
 1l-hit.mail.ru
 1to1.bbva.com
@@ -274,6 +275,7 @@ admetric.io
 admetrics.events
 admile.ru
 admo.tv
+adnlb.sprayground.com
 adnxtr.com
 adobe-analytics-dc.belastingdienst.nl
 adobe-metrics.zionsbank.com
@@ -451,7 +453,6 @@ altpool.pro
 alzns.carters.com
 amadesa.com
 amarfa.ir
-amavalet.com
 amazingcounters.com
 amc.yandex.ru
 amcdn.vn
@@ -560,7 +561,6 @@ analytics-listener.trafficmanager.net
 analytics-log.withhive.com
 analytics-logger.service.junctiontv.net
 analytics-nssl.bradyid.com
-analytics-pit-nfl.yinzcam.com
 analytics-prd.aws.wehaa.net
 analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 analytics-prod.readtheory.org
@@ -1446,6 +1446,7 @@ baynote.net
 bbc-reporting-api.app
 bc.nhk.jp
 bcanl.bca-autoveiling.nl
+bcdn-16c9d93d.bankofscotland.co.uk
 bdaqs.soma.com
 bdash-cloud.com
 bdg-analytics.appspot.com
@@ -2369,6 +2370,7 @@ d1f0tbk1v3e25u.cloudfront.net
 d1get58iwmjrxx.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
 d1hyarjnwqrenh.cloudfront.net
+d1jbmblqtpfad4.cloudfront.net
 d1k8sb4xbepqao.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
@@ -2489,12 +2491,12 @@ data.a.fanatics.com
 data.a.fanaticscommerce.com
 data.a.lids.com
 data.a.mlbshop.com
-data.a.nflshop.com
 data.a.santanderopenacademy.com
 data.abc.es
 data.accountsemea.coca-cola.com
 data.americas.coca-cola.com
 data.autocasion.com
+data.babista.de
 data.brasil.santander.com.br
 data.campaign.toyscenter.it
 data.campaigns.cineplex.com
@@ -2895,12 +2897,10 @@ effectivemeasure.net
 effirst.com
 efreecode.com
 eggrecipe.com
-egkdj.skinnydiplondon.com
 egret.chankaryik.com
 egret.hairproject.ch
 ei.monday.com
 eicyds.qoo10.jp
-eipqr.rythmhealth.com
 ejbbcf.finishline.com
 ek-tracker.ekitan.com
 ekmpinpoint.com
@@ -3025,7 +3025,6 @@ europuls.eu
 ev.moneymade.io
 ev.stellarlabs.ai
 ev.tpocdm.com
-evdni.littlesleepies.com
 event-api.rdstation.com.br
 event-collector.moviesanywhere.com
 event-collector.prd.data.s.joyn.de
@@ -3193,6 +3192,7 @@ fast-counter.net
 fastcounter.de
 fastly-insights.com
 faststart.ru
+faxcoupons.com
 fbebz.comfrt.com
 fbtracking.extraspace.com
 fclog.baidu.com
@@ -3600,6 +3600,7 @@ gtm.heritagepartscentre.com
 gtm.humann.com
 gtm.lercio.it
 gtm.mandesager.dk
+gtm.marjosports.com.br
 gtm.taginstall.com
 gtm.tipranks.com
 gtm.udemy.com
@@ -4106,7 +4107,6 @@ kkltl.cb2.com
 klangoo.com
 klickly.com
 kloggyr-service.kyruus.com
-kmkfk.gld.com
 knfkd.revzilla.com
 knorzj.wearfigs.com
 knotch-cdn.com
@@ -5542,6 +5542,7 @@ p.minds.com
 p.placed.com
 p.raasnet.com
 p.skimresources.com
+p.softmedia.cz
 p.tryretool.com
 p0.raasnet.com
 p030.courant.com
@@ -6313,6 +6314,7 @@ s.infogram.com
 s.insidehalton.com
 s.lenovo.com
 s.pixsrvcs.com
+s.smoothspine.com
 s.sofoot.com
 s.thestar.com
 s.toyotafinancial.com
@@ -6493,6 +6495,7 @@ sciencevault.net
 scjlpq.navitime.co.jp
 scmetrics.shell.com
 scmetrics.vodafone.it
+scnd.landsend.co.uk
 scnd.landsend.de
 scnt.rambler.ru
 scode.randomhouse.com
@@ -6715,6 +6718,7 @@ sgtm.cmoa.jp
 sgtm.comprend.com
 sgtm.csas.cz
 sgtm.fewoferien.de
+sgtm.his.ua
 sgtm.holidayhomes.com
 sgtm.hometogo.pt
 sgtm.iu-fernstudium.de
@@ -6976,6 +6980,7 @@ smetrics.bmc.com
 smetrics.bmo.com
 smetrics.bmspaf.org
 smetrics.bncollege.com
+smetrics.bncvirtual.com
 smetrics.boehringer-ingelheim.com
 smetrics.boostmobile.com
 smetrics.boss.info
@@ -8846,11 +8851,13 @@ tccd.douglas.de
 tccd.douglas.es
 tccd.douglas.it
 tccd.douglas.nl
+tccd.douglas.sk
 tcimg.com
 tctm.co
 td.caranddriver.com
 td.cosmopolitan.com
 td.countryliving.com
+td.deepsync.com
 td.delish.com
 td.elle.com
 td.esquire.com
@@ -9446,7 +9453,6 @@ tracking.military.com
 tracking.minitool.com
 tracking.musixmatch.com
 tracking.mycapture.com
-tracking.netsuite.com
 tracking.netvigie.com
 tracking.nextdoor.com
 tracking.noen.at
@@ -9846,6 +9852,7 @@ visilabs.net
 vision.fn-pz.com
 visioncriticalpanels.com
 visit-prod-us.occa.ocs.oraclecloud.com
+visit-server.inmobi-choice.io
 visit.asb.co.nz
 visitanalytics.userreport.com
 visitor-analytics.io
