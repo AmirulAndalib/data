@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-24",
+  "version": "2026-08-25",
   "type": "cmp_detectors",
-  "generated": "2026-08-24T04:26:09.485Z",
+  "generated": "2026-08-25T04:21:35.333Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "7412126049315d9e",
-  "cmp_count": 329,
+  "autoconsent_tree_hash": "f5e6751a426ac392",
+  "cmp_count": 333,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -1133,6 +1133,17 @@
         ".cookie-consent"
       ]
     },
+    "gemini_google_com": {
+      "present": [
+        "cookie-banner [data-test-id=\"cookie-banner-body\"] [data-test-id=\"reject-button\"]"
+      ],
+      "showing": [
+        "[data-test-id=\"cookie-banner-body\"]"
+      ],
+      "domains": [
+        "gemini.google.com"
+      ]
+    },
     "geni_com": {
       "present": [
         ".modal-cookie"
@@ -1428,6 +1439,14 @@
       ],
       "domains": [
         "kickstarter.com"
+      ]
+    },
+    "kingrecordscojp": {
+      "present": [
+        ".cookie > .cookie__inner > .cookie__button > a"
+      ],
+      "showing": [
+        ".cookie > .cookie__inner > .cookie__button > a"
       ]
     },
     "klaro": {
@@ -2038,6 +2057,14 @@
         ".cookies-banner-shown"
       ]
     },
+    "rule34xxx": {
+      "present": [
+        "#gdprconsent.gdprcontainer"
+      ],
+      "showing": [
+        "#gdprconsent.gdprcontainer"
+      ]
+    },
     "ryanair": {
       "present": [
         "#cookie-popup-with-overlay"
@@ -2087,6 +2114,17 @@
       ],
       "showing": [
         "[data-qa=\"GDPRBanner-Container\"] [data-qa=\"GDPRBanner-Button\"]"
+      ]
+    },
+    "sex_com": {
+      "present": [
+        "html[data-cookie-consent-required] [data-testid=\"accept-all-cookie-button\"]"
+      ],
+      "showing": [
+        "[data-testid=\"accept-all-cookie-button\"]"
+      ],
+      "domains": [
+        "sex.com"
       ]
     },
     "shein_com": {
@@ -2542,10 +2580,10 @@
     },
     "twitch_tv": {
       "present": [
-        ".consent-banner .consent-banner__content--gdpr-v2"
+        "[data-a-target=\"consent-banner\"]"
       ],
       "showing": [
-        ".consent-banner .consent-banner__content--gdpr-v2"
+        "[data-a-target=\"consent-banner\"]"
       ]
     },
     "twitter": {
