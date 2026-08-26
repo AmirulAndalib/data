@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-23",
+  "version": "2026-08-26",
   "type": "cmp_site",
-  "generated": "2026-08-23T01:11:49.120Z",
+  "generated": "2026-08-26T03:25:23.284Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "3cfe43815eaf2cbd",
-  "cmp_count": 271,
+  "autoconsent_tree_hash": "ce05b3b1e01533de",
+  "cmp_count": 279,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -138,6 +138,17 @@
       "domains": [
         "amazon.com"
       ]
+    },
+    "amazonpay": {
+      "selector": ".cookie-menu.js-cookie-banner",
+      "detectors": {
+        "present": [
+          ".cookie-menu.js-cookie-banner .js-cookie-banner-close"
+        ],
+        "showing": [
+          ".cookie-menu.js-cookie-banner"
+        ]
+      }
     },
     "amex": {
       "selector": "#user-consent-management-granular-banner-overlay",
@@ -302,6 +313,17 @@
       "domains": [
         "bbc.com"
       ]
+    },
+    "bbva": {
+      "selector": ".cookiesgdpr__base:has(.cookiesgdpr__rejectbtn)",
+      "detectors": {
+        "present": [
+          ".cookiesgdpr__base .cookiesgdpr__rejectbtn"
+        ],
+        "showing": [
+          ".cookiesgdpr__base .cookiesgdpr__rejectbtn"
+        ]
+      }
     },
     "bcookie": {
       "selector": ".b-cookie.is-open",
@@ -751,7 +773,7 @@
           "#cookiefirst-root,.cookiefirst-root"
         ],
         "showing": [
-          "#cookiefirst-root,.cookiefirst-root"
+          "#cookiefirst-root button[data-cookiefirst-action],.cookiefirst-root button[data-cookiefirst-action],#btnAcceptAllCookies,#btnRejectAllCookies,#btnAdjustSettings,[aria-labelledby=cookie-preference-panel-title] button"
         ]
       },
       "domains": [
@@ -934,6 +956,17 @@
         ],
         "showing": [
           ".dg-consent-banner"
+        ]
+      }
+    },
+    "deliveroo": {
+      "selector": "div[role=\"dialog\"][class*=\"CustomCookieBanner\"]",
+      "detectors": {
+        "present": [
+          "div[role=\"dialog\"][class*=\"CustomCookieBanner\"]"
+        ],
+        "showing": [
+          "div[role=\"dialog\"][class*=\"CustomCookieBanner\"]"
         ]
       }
     },
@@ -1251,6 +1284,20 @@
         ]
       }
     },
+    "gemini_google_com": {
+      "selector": "[data-test-id=\"cookie-banner-body\"]",
+      "detectors": {
+        "present": [
+          "cookie-banner [data-test-id=\"cookie-banner-body\"] [data-test-id=\"reject-button\"]"
+        ],
+        "showing": [
+          "[data-test-id=\"cookie-banner-body\"]"
+        ]
+      },
+      "domains": [
+        "gemini.google.com"
+      ]
+    },
     "geni_com": {
       "selector": ".modal-cookie",
       "detectors": {
@@ -1554,6 +1601,17 @@
       "domains": [
         "kickstarter.com"
       ]
+    },
+    "kingrecordscojp": {
+      "selector": ".cookie:has(.cookie__inner .cookie__button)",
+      "detectors": {
+        "present": [
+          ".cookie > .cookie__inner > .cookie__button > a"
+        ],
+        "showing": [
+          ".cookie > .cookie__inner > .cookie__button > a"
+        ]
+      }
     },
     "klaro": {
       "selector": ".klaro",
@@ -2220,6 +2278,17 @@
         ]
       }
     },
+    "rule34xxx": {
+      "selector": "#gdprconsent.gdprcontainer",
+      "detectors": {
+        "present": [
+          "#gdprconsent.gdprcontainer"
+        ],
+        "showing": [
+          "#gdprconsent.gdprcontainer"
+        ]
+      }
+    },
     "ryanair": {
       "selector": "#cookie-popup-with-overlay",
       "detectors": {
@@ -2288,6 +2357,20 @@
           "[data-qa=\"GDPRBanner-Container\"] [data-qa=\"GDPRBanner-Button\"]"
         ]
       }
+    },
+    "sex_com": {
+      "selector": "[class*=\"cookie-consent-required\"]",
+      "detectors": {
+        "present": [
+          "html[data-cookie-consent-required] [data-testid=\"accept-all-cookie-button\"]"
+        ],
+        "showing": [
+          "[data-testid=\"accept-all-cookie-button\"]"
+        ]
+      },
+      "domains": [
+        "sex.com"
+      ]
     },
     "shein_com": {
       "selector": "body > div[class*=_shein_privacy]",
@@ -2623,9 +2706,6 @@
       "detectors": {
         "present": [
           "div[id='sp_message_container_1482251'],div[id='sp_message_container_1482252']"
-        ],
-        "showing": [
-          "div[id='sp_message_container_1482251'],div[id='sp_message_container_1482252']"
         ]
       },
       "domains": [
@@ -2787,13 +2867,13 @@
       }
     },
     "twitch_tv": {
-      "selector": "div:has(> .consent-banner .consent-banner__content--gdpr-v2),.ReactModalPortal:has([data-a-target=consent-modal-save])",
+      "selector": "[data-a-target=\"consent-banner\"],.ReactModalPortal:has([data-a-target=consent-modal-save])",
       "detectors": {
         "present": [
-          ".consent-banner .consent-banner__content--gdpr-v2"
+          "[data-a-target=\"consent-banner\"]"
         ],
         "showing": [
-          ".consent-banner .consent-banner__content--gdpr-v2"
+          "[data-a-target=\"consent-banner\"]"
         ]
       }
     },
@@ -2987,6 +3067,17 @@
       "detectors": {
         "present": [
           ".wpcc-container"
+        ]
+      }
+    },
+    "wpconsent": {
+      "selector": "#wpconsent-root",
+      "detectors": {
+        "present": [
+          "#wpconsent-container"
+        ],
+        "showing": [
+          "#wpconsent-container"
         ]
       }
     },
