@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-25",
+  "version": "2026-08-26",
   "type": "cmp_detectors",
-  "generated": "2026-08-25T04:21:35.333Z",
+  "generated": "2026-08-26T04:21:26.006Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "f5e6751a426ac392",
-  "cmp_count": 333,
+  "autoconsent_tree_hash": "ce05b3b1e01533de",
+  "cmp_count": 337,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -142,6 +142,14 @@
       ],
       "domains": [
         "amazon.com"
+      ]
+    },
+    "amazonpay": {
+      "present": [
+        ".cookie-menu.js-cookie-banner .js-cookie-banner-close"
+      ],
+      "showing": [
+        ".cookie-menu.js-cookie-banner"
       ]
     },
     "amex": {
@@ -302,6 +310,14 @@
       ],
       "domains": [
         "bbc.com"
+      ]
+    },
+    "bbva": {
+      "present": [
+        ".cookiesgdpr__base .cookiesgdpr__rejectbtn"
+      ],
+      "showing": [
+        ".cookiesgdpr__base .cookiesgdpr__rejectbtn"
       ]
     },
     "bcookie": {
@@ -820,6 +836,14 @@
       ],
       "showing": [
         ".dg-consent-banner"
+      ]
+    },
+    "deliveroo": {
+      "present": [
+        "div[role=\"dialog\"][class*=\"CustomCookieBanner\"]"
+      ],
+      "showing": [
+        "div[role=\"dialog\"][class*=\"CustomCookieBanner\"]"
       ]
     },
     "delta_com": {
@@ -2437,9 +2461,7 @@
       "present": [
         "div[id='sp_message_container_1482251'],div[id='sp_message_container_1482252']"
       ],
-      "showing": [
-        "div[id='sp_message_container_1482251'],div[id='sp_message_container_1482252']"
-      ],
+      "showing": [],
       "domains": [
         "theguardian.com"
       ]
@@ -2786,6 +2808,14 @@
         ".wpcc-container"
       ],
       "showing": []
+    },
+    "wpconsent": {
+      "present": [
+        "#wpconsent-container"
+      ],
+      "showing": [
+        "#wpconsent-container"
+      ]
     },
     "xe_com": {
       "present": [

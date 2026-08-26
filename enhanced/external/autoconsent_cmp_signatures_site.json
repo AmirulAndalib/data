@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-25",
+  "version": "2026-08-26",
   "type": "cmp_site",
-  "generated": "2026-08-25T04:21:35.323Z",
+  "generated": "2026-08-26T04:21:25.996Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "f5e6751a426ac392",
-  "cmp_count": 275,
+  "autoconsent_tree_hash": "ce05b3b1e01533de",
+  "cmp_count": 279,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -138,6 +138,17 @@
       "domains": [
         "amazon.com"
       ]
+    },
+    "amazonpay": {
+      "selector": ".cookie-menu.js-cookie-banner",
+      "detectors": {
+        "present": [
+          ".cookie-menu.js-cookie-banner .js-cookie-banner-close"
+        ],
+        "showing": [
+          ".cookie-menu.js-cookie-banner"
+        ]
+      }
     },
     "amex": {
       "selector": "#user-consent-management-granular-banner-overlay",
@@ -302,6 +313,17 @@
       "domains": [
         "bbc.com"
       ]
+    },
+    "bbva": {
+      "selector": ".cookiesgdpr__base:has(.cookiesgdpr__rejectbtn)",
+      "detectors": {
+        "present": [
+          ".cookiesgdpr__base .cookiesgdpr__rejectbtn"
+        ],
+        "showing": [
+          ".cookiesgdpr__base .cookiesgdpr__rejectbtn"
+        ]
+      }
     },
     "bcookie": {
       "selector": ".b-cookie.is-open",
@@ -934,6 +956,17 @@
         ],
         "showing": [
           ".dg-consent-banner"
+        ]
+      }
+    },
+    "deliveroo": {
+      "selector": "div[role=\"dialog\"][class*=\"CustomCookieBanner\"]",
+      "detectors": {
+        "present": [
+          "div[role=\"dialog\"][class*=\"CustomCookieBanner\"]"
+        ],
+        "showing": [
+          "div[role=\"dialog\"][class*=\"CustomCookieBanner\"]"
         ]
       }
     },
@@ -2673,9 +2706,6 @@
       "detectors": {
         "present": [
           "div[id='sp_message_container_1482251'],div[id='sp_message_container_1482252']"
-        ],
-        "showing": [
-          "div[id='sp_message_container_1482251'],div[id='sp_message_container_1482252']"
         ]
       },
       "domains": [
@@ -3037,6 +3067,17 @@
       "detectors": {
         "present": [
           ".wpcc-container"
+        ]
+      }
+    },
+    "wpconsent": {
+      "selector": "#wpconsent-root",
+      "detectors": {
+        "present": [
+          "#wpconsent-container"
+        ],
+        "showing": [
+          "#wpconsent-container"
         ]
       }
     },
