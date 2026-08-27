@@ -1,10 +1,21 @@
 {
-  "version": "2026-08-26",
-  "generated": "2026-08-26T04:21:26.197Z",
+  "version": "2026-08-27",
+  "generated": "2026-08-27T14:37:52.643Z",
   "type": "tracking_params_sites",
-  "domain_count": 918,
-  "param_count": 1901,
+  "domain_count": 921,
+  "param_count": 1904,
   "sites": {
+    "deview.co.jp": [
+      "am_ko",
+      "anc"
+    ],
+    "weathernews.jp": [
+      "fm",
+      "media"
+    ],
+    "nna.jp": [
+      "media"
+    ],
     "mantan-web.jp": [
       "ext_m"
     ],
@@ -711,9 +722,6 @@
     "provereno.media": [
       "tg_rhash"
     ],
-    "weathernews.jp": [
-      "fm"
-    ],
     "grok.com": [
       "referrer"
     ],
@@ -957,6 +965,9 @@
     "expressvpn.com": [
       "shareid",
       "xvcid"
+    ],
+    "news.golfdigest.co.jp": [
+      "ctid"
     ],
     "golfdigest.co.jp": [
       "car"
