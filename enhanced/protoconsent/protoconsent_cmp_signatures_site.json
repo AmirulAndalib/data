@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-26",
+  "version": "2026-08-27",
   "type": "cmp_site",
-  "generated": "2026-08-26T03:25:23.284Z",
+  "generated": "2026-08-27T03:04:16.968Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "ce05b3b1e01533de",
-  "cmp_count": 279,
+  "autoconsent_tree_hash": "890a7efbd74d898c",
+  "cmp_count": 284,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -286,6 +286,20 @@
         "badenwuerttemberg.de"
       ]
     },
+    "bankmillennium_pl": {
+      "selector": "#cookie_modal_placeholder dialog.bm-modal--cookie",
+      "detectors": {
+        "present": [
+          "#cookie_modal_placeholder dialog.bm-modal--cookie"
+        ],
+        "showing": [
+          "#cookie_modal_placeholder dialog.bm-modal--cookie"
+        ]
+      },
+      "domains": [
+        "bankmillennium.pl"
+      ]
+    },
     "bbb_org": {
       "selector": "iabbb-cookies-message > section",
       "detectors": {
@@ -333,6 +347,17 @@
         ],
         "showing": [
           ".b-cookie.is-open"
+        ]
+      }
+    },
+    "bibliotheeknl": {
+      "selector": ".modalwindow-container.bar .modalwindow",
+      "detectors": {
+        "present": [
+          "#bibliotheek-nl-page"
+        ],
+        "showing": [
+          ".modalwindow-container.bar .modalwindow"
         ]
       }
     },
@@ -1068,6 +1093,17 @@
       "domains": [
         "dunelm.com"
       ]
+    },
+    "ecbeing": {
+      "selector": "#cookieBox .block-cookie-consent",
+      "detectors": {
+        "present": [
+          "#cookieBox #consentButton.block-cookie-consent--btn"
+        ],
+        "showing": [
+          "#cookieBox"
+        ]
+      }
     },
     "ecosia": {
       "selector": ".cookie-wrapper",
@@ -2189,6 +2225,17 @@
         ]
       }
     },
+    "r42cookiebar": {
+      "selector": "#r42CookieBar",
+      "detectors": {
+        "present": [
+          "#r42CookieBar .cw-deny"
+        ],
+        "showing": [
+          "#r42CookieBar[open] .cw-deny"
+        ]
+      }
+    },
     "readly": {
       "selector": ".DialogHandlerContainer.visible:has(.cookie-dialog)",
       "detectors": {
@@ -2490,6 +2537,17 @@
       "domains": [
         "strato.de"
       ]
+    },
+    "stright": {
+      "selector": "#controlled_banner-cookie_consent-consent_banner, #controlled_banner-cookie_consent-privacy_setting_banner",
+      "detectors": {
+        "present": [
+          "#controlled_banner-cookie_consent-consent_banner"
+        ],
+        "showing": [
+          "#controlled_banner-cookie_consent-consent_banner"
+        ]
+      }
     },
     "stripchat_com": {
       "selector": ".cookies-reminder",

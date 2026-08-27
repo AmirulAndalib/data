@@ -127,6 +127,10 @@
       "urlFilter": "||play.history.com/vendor/VisitorAPI.js"
     },
     {
+      "urlFilter": "||speed.cloudflare.com/__log",
+      "firstParty": true
+    },
+    {
       "urlFilter": "||googletagmanager.com/gtm.js",
       "initiatorDomains": [
         "3djuegosguias.com",
@@ -941,5 +945,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 31
+  "path_exception_count": 32
 }

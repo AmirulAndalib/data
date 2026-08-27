@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-26",
+  "version": "2026-08-27",
   "type": "cmp_detectors",
-  "generated": "2026-08-26T03:25:23.295Z",
+  "generated": "2026-08-27T03:04:16.978Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "ce05b3b1e01533de",
-  "cmp_count": 337,
+  "autoconsent_tree_hash": "890a7efbd74d898c",
+  "cmp_count": 342,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -290,6 +290,17 @@
         "bandcamp.com"
       ]
     },
+    "bankmillennium_pl": {
+      "present": [
+        "#cookie_modal_placeholder dialog.bm-modal--cookie"
+      ],
+      "showing": [
+        "#cookie_modal_placeholder dialog.bm-modal--cookie"
+      ],
+      "domains": [
+        "bankmillennium.pl"
+      ]
+    },
     "bbb_org": {
       "present": [
         "iabbb-cookies-message"
@@ -326,6 +337,14 @@
       ],
       "showing": [
         ".b-cookie.is-open"
+      ]
+    },
+    "bibliotheeknl": {
+      "present": [
+        "#bibliotheek-nl-page"
+      ],
+      "showing": [
+        ".modalwindow-container.bar .modalwindow"
       ]
     },
     "bigcommerceconsentmanager": {
@@ -945,6 +964,14 @@
       ],
       "domains": [
         "ebay.com"
+      ]
+    },
+    "ecbeing": {
+      "present": [
+        "#cookieBox #consentButton.block-cookie-consent--btn"
+      ],
+      "showing": [
+        "#cookieBox"
       ]
     },
     "ecosia": {
@@ -1986,6 +2013,14 @@
         "#qc-cmp2-ui"
       ]
     },
+    "r42cookiebar": {
+      "present": [
+        "#r42CookieBar .cw-deny"
+      ],
+      "showing": [
+        "#r42CookieBar[open] .cw-deny"
+      ]
+    },
     "raspberrypi_com": {
       "present": [
         "#__rptl-cookiebanner #__rptl-cookiebanner-reject"
@@ -2265,6 +2300,14 @@
       ],
       "domains": [
         "strato.de"
+      ]
+    },
+    "stright": {
+      "present": [
+        "#controlled_banner-cookie_consent-consent_banner"
+      ],
+      "showing": [
+        "#controlled_banner-cookie_consent-consent_banner"
       ]
     },
     "stripchat_com": {

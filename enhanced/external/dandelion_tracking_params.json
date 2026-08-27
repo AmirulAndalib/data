@@ -1,10 +1,17 @@
 {
-  "version": "2026-08-26",
-  "generated": "2026-08-26T03:25:23.735Z",
+  "version": "2026-08-27",
+  "generated": "2026-08-27T03:04:17.644Z",
   "type": "tracking_params_sites",
-  "domain_count": 918,
+  "domain_count": 919,
   "param_count": 1901,
   "sites": {
+    "weathernews.jp": [
+      "fm",
+      "media"
+    ],
+    "nna.jp": [
+      "media"
+    ],
     "mantan-web.jp": [
       "ext_m"
     ],
@@ -710,9 +717,6 @@
     ],
     "provereno.media": [
       "tg_rhash"
-    ],
-    "weathernews.jp": [
-      "fm"
     ],
     "grok.com": [
       "referrer"
