@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-27",
+  "version": "2026-08-29",
   "type": "cmp_detectors",
-  "generated": "2026-08-27T03:04:16.978Z",
+  "generated": "2026-08-29T14:01:32.536Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "890a7efbd74d898c",
-  "cmp_count": 342,
+  "autoconsent_tree_hash": "785f3aa2d33c7cf8",
+  "cmp_count": 344,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -918,6 +918,14 @@
       ],
       "showing": [
         "[id^=cookie-consent-banner]"
+      ]
+    },
+    "doordashstorefront": {
+      "present": [
+        "[data-testid=\"cookie-banner\"][class*=\"cookie-banner-styles__StyledCookieBanner\"]"
+      ],
+      "showing": [
+        "[data-testid=\"cookie-banner\"][class*=\"cookie-banner-styles__StyledCookieBanner\"]"
       ]
     },
     "dpgmedianl": {
@@ -2779,6 +2787,14 @@
         "waitrose.com"
       ]
     },
+    "walmartca": {
+      "present": [
+        "a[href=\"https://www.walmartcanada.ca/cookie-notice\"]"
+      ],
+      "showing": [
+        "a[href=\"https://www.walmartcanada.ca/cookie-notice\"]"
+      ]
+    },
     "web_de": {
       "present": [
         "#save-all-pur",
@@ -2898,7 +2914,7 @@
     },
     "xvideos": {
       "present": [
-        ".disclaimer-opened #disclaimer-cookies"
+        ".disclaimer-opened #disclaimer-reject_cookies"
       ],
       "showing": [
         ".disclaimer-opened #disclaimer-cookies"

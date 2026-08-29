@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-27",
+  "version": "2026-08-29",
   "type": "cmp_site",
-  "generated": "2026-08-27T03:04:16.968Z",
+  "generated": "2026-08-29T14:01:32.526Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "890a7efbd74d898c",
-  "cmp_count": 284,
+  "autoconsent_tree_hash": "785f3aa2d33c7cf8",
+  "cmp_count": 285,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -1055,6 +1055,17 @@
         ],
         "showing": [
           "[id^=cookie-consent-banner]"
+        ]
+      }
+    },
+    "doordashstorefront": {
+      "selector": "[data-testid=\"cookie-banner\"][class*=\"cookie-banner-styles__StyledCookieBanner\"]",
+      "detectors": {
+        "present": [
+          "[data-testid=\"cookie-banner\"][class*=\"cookie-banner-styles__StyledCookieBanner\"]"
+        ],
+        "showing": [
+          "[data-testid=\"cookie-banner\"][class*=\"cookie-banner-styles__StyledCookieBanner\"]"
         ]
       }
     },

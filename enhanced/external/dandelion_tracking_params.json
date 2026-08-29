@@ -1,10 +1,29 @@
 {
-  "version": "2026-08-27",
-  "generated": "2026-08-27T03:04:17.644Z",
+  "version": "2026-08-29",
+  "generated": "2026-08-29T14:01:32.870Z",
   "type": "tracking_params_sites",
-  "domain_count": 919,
-  "param_count": 1901,
+  "domain_count": 924,
+  "param_count": 1908,
   "sites": {
+    "compshare.cn": [
+      "ytag"
+    ],
+    "bg-mania.jp": [
+      "in"
+    ],
+    "dailyshincho.jp": [
+      "ui_campaign",
+      "ui_medium",
+      "ui_source"
+    ],
+    "detail.chiebukuro.yahoo.co.jp": [
+      "__ysp",
+      "fr"
+    ],
+    "deview.co.jp": [
+      "am_ko",
+      "anc"
+    ],
     "weathernews.jp": [
       "fm",
       "media"
@@ -961,6 +980,9 @@
     "expressvpn.com": [
       "shareid",
       "xvcid"
+    ],
+    "news.golfdigest.co.jp": [
+      "ctid"
     ],
     "golfdigest.co.jp": [
       "car"
@@ -4159,10 +4181,6 @@
     ],
     "pond5.com": [
       "dd_referrer"
-    ],
-    "detail.chiebukuro.yahoo.co.jp": [
-      "__ysp",
-      "fr"
     ],
     "obs.no": [
       "matchtype"
