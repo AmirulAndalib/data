@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-08-29
-# Last modified: 2026-08-29T07:58:29.089Z
-# Entries: 10327
+# Version: 2026-08-30
+# Last modified: 2026-08-30T06:48:37.294Z
+# Entries: 10332
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -560,6 +560,7 @@
 0.0.0.0 analytics-log.withhive.com
 0.0.0.0 analytics-logger.service.junctiontv.net
 0.0.0.0 analytics-nssl.bradyid.com
+0.0.0.0 analytics-pit-nfl.yinzcam.com
 0.0.0.0 analytics-prd.aws.wehaa.net
 0.0.0.0 analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 0.0.0.0 analytics-prod.readtheory.org
@@ -742,6 +743,7 @@
 0.0.0.0 analytics.gnetworks.xyz
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.gooogol.com
+0.0.0.0 analytics.govyy.com
 0.0.0.0 analytics.greenmountain.com
 0.0.0.0 analytics.greenmountainenergy.com
 0.0.0.0 analytics.greensender.pl
@@ -760,7 +762,6 @@
 0.0.0.0 analytics.hollywoodlife.com
 0.0.0.0 analytics.homebank.ro
 0.0.0.0 analytics.hostiran.net
-0.0.0.0 analytics.hotradiators.com
 0.0.0.0 analytics.hub-js.com
 0.0.0.0 analytics.idfnet.net
 0.0.0.0 analytics.ifanrusercontent.com
@@ -1385,7 +1386,6 @@
 0.0.0.0 axp.wspa.com
 0.0.0.0 axp.wtnh.com
 0.0.0.0 axp.wwlp.com
-0.0.0.0 axp.yourbasin.com
 0.0.0.0 az.nzn.io
 0.0.0.0 azlej8cdm.pragmaticwebsecurity.com
 0.0.0.0 b.bedop.com
@@ -2545,6 +2545,7 @@
 0.0.0.0 data.inbank.it
 0.0.0.0 data.info.avianca.com
 0.0.0.0 data.info.consumercellular.com
+0.0.0.0 data.info.infomoney.com.br
 0.0.0.0 data.info.xpi.com.br
 0.0.0.0 data.information.optum.com
 0.0.0.0 data.inswa.coca-cola.com
@@ -2785,8 +2786,10 @@
 0.0.0.0 dragontamer.net
 0.0.0.0 dreamdata.io
 0.0.0.0 drfdisvc.walmart.com
+0.0.0.0 drjzh.loveinfaith.life
 0.0.0.0 drsbf.hannaandersson.com
 0.0.0.0 drumfills.com
+0.0.0.0 dryerwasher.com
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 dsbahmgppc0j4.cloudfront.net
 0.0.0.0 dsg.interia.pl
@@ -2797,7 +2800,6 @@
 0.0.0.0 dsparking.com
 0.0.0.0 dt.xfyun.cn
 0.0.0.0 dtasrvr.com
-0.0.0.0 dtaum.frontgate.com
 0.0.0.0 dtr-onsite-feed.datarize.ai
 0.0.0.0 dts-log.anker.com
 0.0.0.0 dtscdn.com
@@ -3237,8 +3239,8 @@
 0.0.0.0 fi-analytics.mgsn.it
 0.0.0.0 fifef.gohaus.com
 0.0.0.0 figpii.com
-0.0.0.0 fijzm.rarecarat.com
 0.0.0.0 filament-stats.herokuapp.com
+0.0.0.0 fileshareengine.com
 0.0.0.0 filitrac.com
 0.0.0.0 filmoljupci.com
 0.0.0.0 filter-eu.revantagex.com
@@ -4049,6 +4051,7 @@
 0.0.0.0 jdgtgb.kicker.de
 0.0.0.0 jdgtgb.t-online.de
 0.0.0.0 jeeng.com
+0.0.0.0 jelcp.igloocoolers.com
 0.0.0.0 jelly.mdhv.io
 0.0.0.0 jellyfish.therapieplatz-finden.de
 0.0.0.0 jhojz.killstar.com
@@ -5192,6 +5195,7 @@
 0.0.0.0 mt.9gag.com
 0.0.0.0 mt.gigazine.net
 0.0.0.0 mt48.net
+0.0.0.0 mtcs.nhk-ondemand.jp
 0.0.0.0 mtcs.nhk.or.jp
 0.0.0.0 mtg.macpaw.com
 0.0.0.0 mtgs.pelikan.sk
@@ -5234,7 +5238,6 @@
 0.0.0.0 mywebstats.com.au
 0.0.0.0 mywebstats.org
 0.0.0.0 mzqnq.ouraring.com
-0.0.0.0 mzulv.ironman.com
 0.0.0.0 n-analytics.io
 0.0.0.0 n.hdsupplysolutions.com
 0.0.0.0 n730.timesunion.com
@@ -5418,6 +5421,7 @@
 0.0.0.0 oghub.io
 0.0.0.0 ogt.jp
 0.0.0.0 ohmystats.com
+0.0.0.0 oiat.dow.com
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oktopost.com
 0.0.0.0 ol-collector.quillbot.com
@@ -5493,6 +5497,7 @@
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 onestat.com
 0.0.0.0 onghfx.revolve.com
+0.0.0.0 onigh.colorwowhair.com
 0.0.0.0 onioncomic.com
 0.0.0.0 onlinemediahelper.com
 0.0.0.0 onlinesucces.nl
@@ -5829,6 +5834,7 @@
 0.0.0.0 planarian.fatsackfails.com
 0.0.0.0 planarian.reverberate.org
 0.0.0.0 plantcourse.com
+0.0.0.0 plantscafe.net
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 platypus.cmp.is
 0.0.0.0 platypus.colly.com
@@ -6280,6 +6286,7 @@
 0.0.0.0 rs.mail.ru
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 rs.smc.tf
+0.0.0.0 rsc.lepoint.fr
 0.0.0.0 rstil.vionicshoes.com
 0.0.0.0 rsx.afterpay.com
 0.0.0.0 rt.cdnmedia.tv
@@ -6555,6 +6562,7 @@
 0.0.0.0 sdc.allianz.de
 0.0.0.0 sdcs.felissimo.co.jp
 0.0.0.0 sdegwynml.bmaci.me
+0.0.0.0 sdk.51.la
 0.0.0.0 sdk.airbridge.io
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 sdqoi2d.com
@@ -6566,7 +6574,6 @@
 0.0.0.0 sealmetrics.com
 0.0.0.0 seaotterplay.com
 0.0.0.0 searchfeed.com
-0.0.0.0 searchitems.com
 0.0.0.0 secmetrics.schaefer-shop.at
 0.0.0.0 secmetrics.schaefer-shop.ch
 0.0.0.0 secmetrics.schaefer-shop.de
@@ -6760,7 +6767,6 @@
 0.0.0.0 sgtm.ixbt.site
 0.0.0.0 sgtm.joga.dk
 0.0.0.0 sgtm.kaspersky.de
-0.0.0.0 sgtm.kpopiashop.com
 0.0.0.0 sgtm.lovi.fi
 0.0.0.0 sgtm.macrolibrarsi.it
 0.0.0.0 sgtm.mapei.com
@@ -6999,7 +7005,6 @@
 0.0.0.0 smetrics.bbva.pe
 0.0.0.0 smetrics.bbvanet.com.co
 0.0.0.0 smetrics.bbvanet.com.mx
-0.0.0.0 smetrics.bbvaseguros.mx
 0.0.0.0 smetrics.bcbsm.com
 0.0.0.0 smetrics.bcbsnc.com
 0.0.0.0 smetrics.beatsbydre.com
@@ -7211,7 +7216,6 @@
 0.0.0.0 smetrics.goinggoinggone.com
 0.0.0.0 smetrics.golfgalaxy.com
 0.0.0.0 smetrics.gomastercard.com.au
-0.0.0.0 smetrics.goodyear.com
 0.0.0.0 smetrics.grainger.com
 0.0.0.0 smetrics.grandandtoy.com
 0.0.0.0 smetrics.greatsouthernbank.com.au
@@ -7643,6 +7647,7 @@
 0.0.0.0 smetrics.thoughtworks.com
 0.0.0.0 smetrics.three.co.uk
 0.0.0.0 smetrics.three.ie
+0.0.0.0 smetrics.thrivent.com
 0.0.0.0 smetrics.tiaa.org
 0.0.0.0 smetrics.ticket.se
 0.0.0.0 smetrics.ticketsatwork.com
@@ -8899,11 +8904,11 @@
 0.0.0.0 td.caranddriver.com
 0.0.0.0 td.cosmopolitan.com
 0.0.0.0 td.countryliving.com
+0.0.0.0 td.deepsync.com
 0.0.0.0 td.delish.com
 0.0.0.0 td.elle.com
 0.0.0.0 td.esquire.com
 0.0.0.0 td.goodhousekeeping.com
-0.0.0.0 td.harpersbazaar.com
 0.0.0.0 td.menshealth.com
 0.0.0.0 td.popularmechanics.com
 0.0.0.0 td.roadandtrack.com
@@ -9038,6 +9043,7 @@
 0.0.0.0 tk.blancheporte.fr
 0.0.0.0 tk.boutique.voici.fr
 0.0.0.0 tk.engie.fr
+0.0.0.0 tk.evaneos.ch
 0.0.0.0 tk.evaneos.de
 0.0.0.0 tk.evaneos.it
 0.0.0.0 tk.frenchbee.com
@@ -9063,7 +9069,6 @@
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tl813.com
 0.0.0.0 tlrtd.cymbiotika.com
-0.0.0.0 tltev.calvinklein.us
 0.0.0.0 tluee.olaplex.com
 0.0.0.0 tm.msgs.jp
 0.0.0.0 tm.tradetracker.net
@@ -9835,7 +9840,6 @@
 0.0.0.0 utsssl.auction.co.kr
 0.0.0.0 uue2.destinia.ir
 0.0.0.0 uvzrtq.livingspaces.com
-0.0.0.0 uzahd.saatva.com
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 v.ipinfo.io
 0.0.0.0 v.oui.sncf
@@ -10332,4 +10336,5 @@
 0.0.0.0 ztoch.cozyearth.com
 0.0.0.0 ztqnls.lojasrenner.com.br
 0.0.0.0 zursq.everlane.com
+0.0.0.0 zxrrop.musely.com
 0.0.0.0 zz.bdstatic.com

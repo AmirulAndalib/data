@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-08-29
-! Last modified: 2026-08-29T07:58:29.089Z
-! Entries: 141919
+! Version: 2026-08-30
+! Last modified: 2026-08-30T06:48:37.294Z
+! Entries: 141931
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -4793,6 +4793,7 @@
 ||alphacreatesend2.com^$third-party
 ||alphacreatesend3.com^$third-party
 ||alphageo.ai^$third-party
+||alphaintent.com^$third-party
 ||alphastudio.finance^$third-party
 ||alphatraff.com^$third-party
 ||alpine-mtb.eu^$third-party
@@ -5662,6 +5663,7 @@
 ||analytics-pbl.vivino.com^$third-party
 ||analytics-phi-nba.yinzcam.com^$third-party
 ||analytics-pillarfour-1105396686.us-east-1.elb.amazonaws.com^$third-party
+||analytics-pit-nfl.yinzcam.com^$third-party
 ||analytics-por-nba.yinzcam.com^$third-party
 ||analytics-portal.inspiresleep.net^$third-party
 ||analytics-portals.com^$third-party
@@ -26743,6 +26745,7 @@
 ||container.guitarloopgod.com^$third-party
 ||container.pepperjam.com^$third-party
 ||container.vetweb.pet^$third-party
+||contanuity.com^$third-party
 ||contato.ervencosmetics.com.br^$third-party
 ||contatoreaccessi.com^$third-party
 ||conteiner.oaz.vc^$third-party
@@ -27325,6 +27328,7 @@
 ||cookies.us.jll.com^$third-party
 ||cookies.wpcarey.com^$third-party
 ||cookiescript.info^$third-party
+||cookiesyncmtrk.com^$third-party
 ||cookiewarden.com^$third-party
 ||cookiex.ngd.yahoo.com^$third-party
 ||cookingfry.com^$third-party
@@ -76293,6 +76297,7 @@
 ||partiality.itunes.apple.com.edgekey.net^$third-party
 ||particularaudience.com^$third-party
 ||partition.enterprise.com^$third-party
+||partner-alphaintent.com^$third-party
 ||partner.haru-shop.jp^$third-party
 ||partner.hubinternational.com^$third-party
 ||partner.kry.de^$third-party
@@ -84911,6 +84916,7 @@
 ||pxbnou.ig.com.br^$third-party
 ||pxc.otto.de^$third-party
 ||pxchk.net^$third-party
+||pxgdr.net^$third-party
 ||pxgpnp.angara.com^$third-party
 ||pxi.pub^$third-party
 ||pxjkbj.bostonproper.com^$third-party
@@ -121877,6 +121883,7 @@
 ||sync.adap.tv^$third-party
 ||sync.bruno.wine^$third-party
 ||sync.ex.co^$third-party
+||sync.p7cloud.net^$third-party
 ||sync.rambler.ru^$third-party
 ||sync.shinobi.jp^$third-party
 ||sync.tidaltv.com.akadns.net^$third-party
@@ -124067,6 +124074,7 @@
 ||tb.ask.com^$third-party
 ||tb.events.data.microsoft.com^$third-party
 ||tb.events.data.trafficmanager.net^$third-party
+||tb.pbs.yahoo.com^$third-party
 ||tb.pipe.aria.microsoft.com^$third-party
 ||tb.tannenbusch.de^$third-party
 ||tb.thebrandfactorybd.com^$third-party
@@ -124806,6 +124814,7 @@
 ||thebestlinks.com^$third-party
 ||theboedekergroup.com^$third-party
 ||theboeingcompany.tt.omtrdc.net^$third-party
+||thecas.xyz^$third-party
 ||thechasm.in^$third-party
 ||thecollector.codemonkey.net^$third-party
 ||thecontainerstore.tt.omtrdc.net^$third-party
@@ -130303,6 +130312,7 @@
 ||trbohq.com^$third-party
 ||trbohub.com^$third-party
 ||trc.agile-coding.net^$third-party
+||trc.archive-digger.com^$third-party
 ||trc.demobaza.com^$third-party
 ||trc.empreenderdinheiro.com.br^$third-party
 ||trc.fitimins.com^$third-party
@@ -131804,6 +131814,7 @@
 ||umami.01o.de^$third-party
 ||umami.0x5e.eu^$third-party
 ||umami.1cookie.com^$third-party
+||umami.abo.network^$third-party
 ||umami.acemap.info^$third-party
 ||umami.achimkraemer.com^$third-party
 ||umami.adulteducation.at^$third-party
@@ -140282,6 +140293,7 @@
 ||omsnative.de/tracking/^
 ||onboarding-ui.frontiersin.org/api/onboarding-ui/v1/session/logged^
 ||ondigitalocean.app/insight-analytics.js^
+||ondigitalocean.app/tracker.js^
 ||one.store/v1/analytics/^
 ||onecount.net/onecount/oc_track/^
 ||oneroof.co.nz/*/record-log/^
