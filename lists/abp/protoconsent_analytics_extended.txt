@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-08-30
-! Last modified: 2026-08-30T06:48:37.294Z
-! Entries: 141931
+! Version: 2026-08-31
+! Last modified: 2026-08-31T07:08:15.928Z
+! Entries: 141943
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -5663,7 +5663,6 @@
 ||analytics-pbl.vivino.com^$third-party
 ||analytics-phi-nba.yinzcam.com^$third-party
 ||analytics-pillarfour-1105396686.us-east-1.elb.amazonaws.com^$third-party
-||analytics-pit-nfl.yinzcam.com^$third-party
 ||analytics-por-nba.yinzcam.com^$third-party
 ||analytics-portal.inspiresleep.net^$third-party
 ||analytics-portals.com^$third-party
@@ -6353,6 +6352,7 @@
 ||analytics.anzeigen-aufgabe.de^$third-party
 ||analytics.ao20.com.ar^$third-party
 ||analytics.aoe4.pl^$third-party
+||analytics.aol.com^$third-party
 ||analytics.aorgn.com^$third-party
 ||analytics.aot-group.de^$third-party
 ||analytics.ap-event.it^$third-party
@@ -7399,6 +7399,7 @@
 ||analytics.canvasdevelopment.com^$third-party
 ||analytics.caop.nl^$third-party
 ||analytics.cap-kaya.fr^$third-party
+||analytics.cap-net.cz^$third-party
 ||analytics.capacities.io^$third-party
 ||analytics.capaseis.com^$third-party
 ||analytics.capcitypatios.com^$third-party
@@ -20750,7 +20751,6 @@
 ||beacon.kmi-us.com^$third-party
 ||beacon.lycos.com^$third-party
 ||beacon.mitremedia.org^$third-party
-||beacon.my.salesforce.com^$third-party
 ||beacon.nc-net.or.jp^$third-party
 ||beacon.necotracks.jp^$third-party
 ||beacon.nuskin.com^$third-party
@@ -20762,7 +20762,6 @@
 ||beacon.qa.walmart.com^$third-party
 ||beacon.qq.com^$third-party
 ||beacon.radiko.jp^$third-party
-||beacon.rallydev.com^$third-party
 ||beacon.s.llnwi.net^$third-party
 ||beacon.samsclub.com^$third-party
 ||beacon.searchspring.io^$third-party
@@ -20946,6 +20945,7 @@
 ||bestboundary.com^$third-party
 ||bestbuycanada.tt.omtrdc.net^$third-party
 ||bestclimbers.net^$third-party
+||bestcoffeemachine.net^$third-party
 ||bestevernewsletter.com^$third-party
 ||bestfreecounterstat.com^$third-party
 ||bestill.help.no^$third-party
@@ -39853,6 +39853,7 @@
 ||geniianalytics.com^$third-party
 ||genius.drivecentric.com^$third-party
 ||geniusdigital.tv^$third-party
+||genleads.com^$third-party
 ||gensquared.com^$third-party
 ||gentags.net^$third-party
 ||gentian-frd.hjapi.com^$third-party
@@ -40417,6 +40418,7 @@
 ||giveitanudge.com^$third-party
 ||givemazingthings.bond^$third-party
 ||givoiq.nichiigakkan-careerplus.jp^$third-party
+||gixel.gnetwork.me^$third-party
 ||gixmo.dk^$third-party
 ||gixtvwwny43.alphonso.tv^$third-party
 ||gizmos.future-fie.co.uk^$third-party
@@ -49312,6 +49314,7 @@
 ||justclick.ru^$third-party
 ||justconfig.com^$third-party
 ||justcustomerlabs.com^$third-party
+||justfordocs.com^$third-party
 ||justicejudo.com^$third-party
 ||justlcick.ru^$third-party
 ||justsayyes.infor.com^$third-party
@@ -67072,6 +67075,7 @@
 ||metrics.virginmedia.com^$third-party
 ||metrics.virginmobileusa.com^$third-party
 ||metrics.virtualservers.com^$third-party
+||metrics.virtualshield.com^$third-party
 ||metrics.vision-systems.com^$third-party
 ||metrics.visitflorida.com^$third-party
 ||metrics.visservanbaars.com^$third-party
@@ -74558,6 +74562,7 @@
 ||obs.esnlocco.com^$third-party
 ||obs.greencolumnblog.com^$third-party
 ||obs.jollyoutdoorjogger.com^$third-party
+||obs.sd4823.spglobal.com^$third-party
 ||obs.system1onesource.com^$third-party
 ||observable.net^$third-party
 ||observablehq.com^$third-party
@@ -74592,6 +74597,7 @@
 ||ociqz.aroma360.de^$third-party
 ||ocjgu.vivobarefoot.com^$third-party
 ||oclvs18.alphonso.tv^$third-party
+||ocmthood.com^$third-party
 ||ocmxbu.hanatour.com^$third-party
 ||ocos-office365-s2s.msedge.net^$third-party
 ||ocoya.net^$third-party
@@ -76368,6 +76374,7 @@
 ||paupud.meillandrichardier.com^$third-party
 ||pause.ameo.dev^$third-party
 ||pause.booq.cc^$third-party
+||pausible.flaq.ai^$third-party
 ||pav04trk.com^$third-party
 ||pavlov-prod.healthline.com^$third-party
 ||pawcon.com^$third-party
@@ -82098,6 +82105,7 @@
 ||pixel.udpauto.ru^$third-party
 ||pixel.ultrassomdepele.com.br^$third-party
 ||pixel.underzstore.com^$third-party
+||pixel.uppromote.com^$third-party
 ||pixel.vencaacrise.com.br^$third-party
 ||pixel.veritone-ce.com^$third-party
 ||pixel.videohub.tv^$third-party
@@ -128215,6 +128223,7 @@
 ||track.slintegrated.com^$third-party
 ||track.slotocash.im^$third-party
 ||track.slurm.io^$third-party
+||track.smadex.cc^$third-party
 ||track.smartadvisortools.com^$third-party
 ||track.smartmania.cz^$third-party
 ||track.smrtrdrct.com^$third-party
@@ -137868,6 +137877,7 @@
 ||advertising.amazon.dev/v1/ad-events/^
 ||advgo.net/hits/^
 ||advgo.net/mushroom/^
+||aeis.alicdn.com/awsc/fireyejs/^
 ||aemet.es/js/stats.js^
 ||aerlingus.com/ahktqsewxjhguuxe.js^
 ||aerzteblatt.de/inc/js/ga4.js^
@@ -138068,6 +138078,7 @@
 ||api.tacotax.fr/v2/amplitude_trackers^
 ||api.tally.so/forms/*/events^
 ||api.thefantazy.com/web-vitals^
+||api.transtore.app/api/v2/storefront/tracking^
 ||api.tsc.ca/Tracking/v1/events/^
 ||api.tv.de/*/tracking/^
 ||api.usestoryteller.com/api/app/activity/recordActivity?^
@@ -139193,7 +139204,6 @@
 ||futureparty.com/page_view^
 ||futureplc.com/push_metrics/^
 ||g-scale.org/scripts/EventLog.js^
-||g.alicdn.com/AWSC/fireyejs/^
 ||g.delfi.lt/g.js^
 ||g123.jp/stats?^
 ||ga.chickgoddess.com/gs_api/stats/^
@@ -139956,6 +139966,7 @@
 ||marktplaats.nl/metrics/^
 ||marktplaats.nl/px/^
 ||marmiton.org/reloaded/errpix.php^
+||marriott.com/mi/api/shop-renderer/logger^
 ||marsflag.com/mf2file/site/ext/tr.js^
 ||mashery.com/analytics/^
 ||massivecams.com/api/metrics^
@@ -140688,6 +140699,7 @@
 ||register.boostymark.com/a/reg^
 ||registercitizen.com/413gkwMT/init.js^
 ||rei.com/customer-analytics-attributes/^
+||reibootmac.com/script/rn_event_track_v2.min.js^
 ||reichelt.com/setsid.php?^
 ||rejoiner.com/tracker/^
 ||reklama.lv/services/espy.php^
