@@ -1,10 +1,17 @@
 {
-  "version": "2026-08-30",
-  "generated": "2026-08-30T20:27:30.477Z",
+  "version": "2026-09-01",
+  "generated": "2026-09-01T08:11:17.639Z",
   "type": "tracking_params_sites",
   "domain_count": 924,
-  "param_count": 1908,
+  "param_count": 1910,
   "sites": {
+    "resourify.com": [
+      "ref"
+    ],
+    "yna.co.kr": [
+      "input",
+      "site"
+    ],
     "compshare.cn": [
       "ytag"
     ],
@@ -1898,9 +1905,6 @@
       "updateEntityUrn",
       "upsellOrderOrigin"
     ],
-    "yna.co.kr": [
-      "site"
-    ],
     "easyfundraising.org.uk": [
       "efr_campaign",
       "efr_medium",
@@ -2257,9 +2261,6 @@
     ],
     "whale.naver.com": [
       "wpid"
-    ],
-    "wemakeprice.com": [
-      "refer"
     ],
     "joshi-spa.jp": [
       "cx_clicks_art_mdl",
@@ -2682,9 +2683,11 @@
       "fr"
     ],
     "nikkei.com": [
+      "extpf",
       "i_cid",
       "n_cid",
-      "n_tw"
+      "n_tw",
+      "ref"
     ],
     "nikkeibp.co.jp": [
       "i_cid"
