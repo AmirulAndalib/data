@@ -1,10 +1,10 @@
 {
-  "version": "2026-08-30",
+  "version": "2026-09-02",
   "type": "cmp_site",
-  "generated": "2026-08-30T02:33:06.843Z",
+  "generated": "2026-09-02T08:31:51.382Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "785f3aa2d33c7cf8",
-  "cmp_count": 285,
+  "autoconsent_tree_hash": "674238cf73663a5f",
+  "cmp_count": 288,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -497,6 +497,9 @@
           ".cc-banner[data-cc-banner]"
         ]
       }
+    },
+    "ccmnet": {
+      "selector": "iframe[srcdoc*='frame-root'], .incentive-banner"
     },
     "channel4_com": {
       "selector": "#cookie-consent-banner",
@@ -1173,6 +1176,17 @@
     },
     "ensighten": {
       "selector": "#ensNotifyBanner, .ensModal"
+    },
+    "epaas": {
+      "selector": "epaas-consent-drawer-shell",
+      "detectors": {
+        "present": [
+          "epaas-consent-drawer-shell"
+        ],
+        "showing": [
+          "epaas-consent-drawer-shell"
+        ]
+      }
     },
     "espacepersonnel_agircarrco_fr": {
       "selector": ".cdk-overlay-container",
@@ -2070,14 +2084,25 @@
         "paypal.com"
       ]
     },
-    "paypalus": {
-      "selector": "#ccpaCookieContent_wrapper, article.ppvx_modal--overpanel, #cookiePrefsModal",
+    "paypalcookieprefs": {
+      "selector": "#cookiePrefsModal, .privacy-sheet-content",
       "detectors": {
         "present": [
-          "#ccpaCookieBanner, .privacy-sheet-content, #cookiePrefsModal"
+          "#cookiePrefsModal #formContent, .privacy-sheet-content #formContent"
         ],
         "showing": [
-          "#ccpaCookieBanner, .privacy-sheet-content, #cookiePrefsModal"
+          "#cookiePrefsModal #formContent, .privacy-sheet-content #formContent"
+        ]
+      }
+    },
+    "paypalus": {
+      "selector": "#ccpaCookieContent_wrapper",
+      "detectors": {
+        "present": [
+          "#ccpaCookieBanner"
+        ],
+        "showing": [
+          "#ccpaCookieBanner"
         ]
       }
     },
