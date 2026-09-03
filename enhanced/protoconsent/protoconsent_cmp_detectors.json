@@ -1,10 +1,10 @@
 {
-  "version": "2026-09-02",
+  "version": "2026-09-03",
   "type": "cmp_detectors",
-  "generated": "2026-09-02T08:31:51.392Z",
+  "generated": "2026-09-03T06:56:25.536Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "674238cf73663a5f",
-  "cmp_count": 346,
+  "autoconsent_tree_hash": "b5f4ac2ae7e767c8",
+  "cmp_count": 347,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -771,6 +771,14 @@
       ],
       "showing": [
         ".cky-consent-container"
+      ]
+    },
+    "coolblue": {
+      "present": [
+        "#cookie-banner-2025-form"
+      ],
+      "showing": [
+        "button[form=\"cookie-banner-2025-form\"][name=\"accept_cookie\"]"
       ]
     },
     "copilotmicrosoft": {

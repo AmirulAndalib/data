@@ -605,6 +605,7 @@
         "fanpage.it",
         "farmaciabolli1833.it",
         "game.anymanager.io",
+        "gamelog.apexlegends-leaksnews.com",
         "globo.com",
         "gmanetwork.com",
         "herculesstands.com",
@@ -688,6 +689,7 @@
         "ksml.fi",
         "mainichi.jp",
         "marketwatch.com",
+        "nikkansports.com",
         "nippon.com",
         "rikejo.jp",
         "savonsanomat.fi",
@@ -709,6 +711,7 @@
         "inquirer.com",
         "mainichi.jp",
         "marketwatch.com",
+        "nikkansports.com",
         "shueisha.co.jp",
         "tarzanweb.jp",
         "tn.com.ar",
@@ -757,6 +760,10 @@
         "visible.com",
         "vmware.com"
       ]
+    },
+    {
+      "urlFilter": "||regatta.com/gtg/gtm.js",
+      "firstParty": true
     },
     {
       "urlFilter": "||a.run.app/api/stat?",
@@ -950,5 +957,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 33
+  "path_exception_count": 34
 }

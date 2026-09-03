@@ -1,10 +1,15 @@
 {
-  "version": "2026-09-02",
-  "generated": "2026-09-02T08:31:51.742Z",
+  "version": "2026-09-03",
+  "generated": "2026-09-03T06:56:26.487Z",
   "type": "tracking_params_sites",
-  "domain_count": 925,
-  "param_count": 1911,
+  "domain_count": 926,
+  "param_count": 1914,
   "sites": {
+    "video.unext.jp": [
+      "abm",
+      "adid",
+      "cid"
+    ],
     "smartnews.com": [
       "placement",
       "share_id"
@@ -1589,7 +1594,10 @@
       "ref"
     ],
     "allabout.co.jp": [
-      "FM"
+      "FM",
+      "af_id",
+      "af_type",
+      "utm_from"
     ],
     "dvdfab.org": [
       "ad",
