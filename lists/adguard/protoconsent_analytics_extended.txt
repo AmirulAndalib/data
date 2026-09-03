@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-09-02T05:56:39.314Z
+! Last modified: 2026-09-03T05:57:00.851Z
 ! Format: AdGuard
-! Entries: 141959
+! Entries: 141999
 !
 ||0.myikas.com^$third-party
 ||0.net.easyjet.com^$third-party
@@ -3076,7 +3076,6 @@
 ||acceptableauthority.com^$third-party
 ||acceptcards.americanexpress.co.uk^$third-party
 ||access-analytics.versantphysics.com^$third-party
-||access-analyze.org^$third-party
 ||access.acspubs.org^$third-party
 ||access.hikaritv.net^$third-party
 ||access.wyborcza.pl^$third-party
@@ -5557,6 +5556,7 @@
 ||analytics-api.youfone.nl^$third-party
 ||analytics-archive.ttc.io^$third-party
 ||analytics-ari-nfl.yinzcam.com^$third-party
+||analytics-assets.tes.com^$third-party
 ||analytics-batch.blitz.gg^$third-party
 ||analytics-beacon.p.uliza.jp^$third-party
 ||analytics-beanconqueror.com^$third-party
@@ -26704,6 +26704,7 @@
 ||consumer365.desigual.com^$third-party
 ||consumeraffairstrk.com^$third-party
 ||consumercellular.tt.omtrdc.net^$third-party
+||consumerdebtnegotiation.com^$third-party
 ||consumeropinionservices.com^$third-party
 ||consumerorbit.com^$third-party
 ||consumertrack.com^$third-party
@@ -35877,6 +35878,7 @@
 ||eml.condenast.com^$third-party
 ||eml.hearst.com^$third-party
 ||eml.hearstmags.com^$third-party
+||eml.iiconferences.com^$third-party
 ||emlfiles.com^$third-party
 ||emlfiles4.com^$third-party
 ||emlink.hermo.my^$third-party
@@ -50803,6 +50805,7 @@
 ||lets.go.mmm-online.com^$third-party
 ||lets.go.prweekus.com^$third-party
 ||lets.sli.ce.it^$third-party
+||lets.useflash.app^$third-party
 ||letsopptimise.com^$third-party
 ||letsstat.nl^$third-party
 ||letstrack.com^$third-party
@@ -82643,6 +82646,7 @@
 ||plausible.continis.ch^$third-party
 ||plausible.conveyal.com^$third-party
 ||plausible.cool03.ninjapixel.co.uk^$third-party
+||plausible.coolify0.estate-track.co.uk^$third-party
 ||plausible.coopgo.io^$third-party
 ||plausible.corp.black^$third-party
 ||plausible.corp.zoo.dev^$third-party
@@ -87011,6 +87015,7 @@
 ||reno.homevista.jp^$third-party
 ||rent.mgrc.com^$third-party
 ||rental.skinnerudlejning.dk^$third-party
+||rentinfrared.com^$third-party
 ||rentracks.co.jp^$third-party
 ||rentracks.jp^$third-party
 ||rentracks.me^$third-party
@@ -87168,6 +87173,7 @@
 ||reptile.o-lit.fr^$third-party
 ||reptile.sat.trading^$third-party
 ||republica.cursodetti.com.br^$third-party
+||republicfarm.net^$third-party
 ||repulsiverequest.com^$third-party
 ||req.mediabuyeracademy.com^$third-party
 ||reqssx.centerparcs.fr^$third-party
@@ -87360,6 +87366,7 @@
 ||retreaver.com^$third-party
 ||retro.geeklife.fr^$third-party
 ||retrocrypt.com^$third-party
+||retrorays.com^$third-party
 ||retru.conacyt.mx^$third-party
 ||retter.ai^$third-party
 ||rettica.com^$third-party
@@ -88215,9 +88222,35 @@
 ||ry289qrj.vasafitness.com^$third-party
 ||rybbit.102417.xyz^$third-party
 ||rybbit.com^$third-party
+||rybbit.databasus.com^$third-party
+||rybbit.docudetect.com^$third-party
+||rybbit.dricle.be^$third-party
+||rybbit.dwri.xyz^$third-party
+||rybbit.ekathi.com^$third-party
+||rybbit.fabfilter.com^$third-party
+||rybbit.falcondev.cloud^$third-party
+||rybbit.feathermc.com^$third-party
+||rybbit.getonline.ie^$third-party
+||rybbit.guppy.cloud^$third-party
+||rybbit.hexstorm.com^$third-party
 ||rybbit.hydrology.cc^$third-party
 ||rybbit.io^$third-party
+||rybbit.kirkified.ai^$third-party
+||rybbit.lou.gg^$third-party
+||rybbit.maulund.cloud^$third-party
+||rybbit.mkapi.no^$third-party
+||rybbit.oct.de^$third-party
+||rybbit.palmi.zone^$third-party
+||rybbit.recreabox.com^$third-party
+||rybbit.screener.in^$third-party
 ||rybbit.sg-app.com^$third-party
+||rybbit.strivee.ovh^$third-party
+||rybbit.template.net^$third-party
+||rybbit.thestack.net^$third-party
+||rybbit.thunderstore.io^$third-party
+||rybbit.vadobay.com^$third-party
+||rybbit.venipa.net^$third-party
+||rybbit.virail.app^$third-party
 ||rybbit.xzist.org^$third-party
 ||rybihvlqs.rbh-logistics.com^$third-party
 ||ryjknw.sonnenbrillen.com^$third-party
@@ -129992,6 +130025,7 @@
 ||tracking.voyagerwebsites.com^$third-party
 ||tracking.vtcnew.com.vn^$third-party
 ||tracking.vturb.com^$third-party
+||tracking.vviinn.com^$third-party
 ||tracking.vxonews.se^$third-party
 ||tracking.wallapop.com^$third-party
 ||tracking.walserart.at^$third-party
@@ -134460,6 +134494,7 @@
 ||wct.softonic-ar.com^$third-party
 ||wct.softonic-id.com^$third-party
 ||wct.softonic-th.com^$third-party
+||wct.softonic.com^$third-party
 ||wct.softonic.se^$third-party
 ||wctr.aures.ag^$third-party
 ||wctr.bodenverkauf.de^$third-party
@@ -139038,6 +139073,7 @@
 ||europe1.fr/assets/europe1/estat.^
 ||ev.mmin.io/ping^
 ||event.lib.visumo.io/js/hbn_track.js^
+||eventbrite.com/metrics/^
 ||eventful.com/apps/generic/^
 ||eventhub.au01.miro.com/api/stream^
 ||eventhub.eu01.miro.com/api/stream^
@@ -139660,6 +139696,7 @@
 ||joggo.run/api/events^
 ||johnlewis.com/browser-performance/^
 ||joka.it/inquiero/isapi/csf.dll?^
+||joomag.com/collect-bulk?^
 ||jotform.io/getReferrer/^
 ||js-agent.newrelic.com/^
 ||js.cdn.applicationinsights.io/scripts/b/ai.3.gbl.min.js^
@@ -140483,6 +140520,7 @@
 ||play.pl/?_hn:type=^
 ||play.pp9yy.com/hall/home/heartbeat^
 ||play.pp9yy.com/hall/v1/netstat/^
+||player.fabster.com/event/^
 ||player.instaread.co/js/inarticle-metrics.js^
 ||player.mangomolo.com/stats/^
 ||player.ooyala.com/errors/report?^
@@ -140969,6 +141007,7 @@
 ||shutterstock.com/blog/wp-content/themes/sstk/assets/js/parsely-tracking.min.js^
 ||siberiantimes.com/counter/^
 ||sibnet.ru/counter.php?^
+||sidecar.unext.jp/track/^
 ||sided.co/analytics/^
 ||siemens.com/c2_analytics.js^
 ||silvergames.com/div/g.php?^
@@ -141548,6 +141587,7 @@
 ||united.web.de/confirm?^
 ||united.web.de/event?^
 ||unity3d.com/v1/events^
+||unleash.zenchef.com/api/frontend/client/metrics^
 ||unsplash.com/nmetrics^
 ||untappd.com/profile/impression?^
 ||uol.com.br/stats?^

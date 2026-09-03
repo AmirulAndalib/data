@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics Extended
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-# Version: 2026-09-02
-# Last modified: 2026-09-02T05:56:39.314Z
-# Entries: 137756
+# Version: 2026-09-03
+# Last modified: 2026-09-03T05:57:00.851Z
+# Entries: 137791
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -3076,7 +3076,6 @@
 0.0.0.0 acceptableauthority.com
 0.0.0.0 acceptcards.americanexpress.co.uk
 0.0.0.0 access-analytics.versantphysics.com
-0.0.0.0 access-analyze.org
 0.0.0.0 access.acspubs.org
 0.0.0.0 access.hikaritv.net
 0.0.0.0 access.wyborcza.pl
@@ -5557,6 +5556,7 @@
 0.0.0.0 analytics-api.youfone.nl
 0.0.0.0 analytics-archive.ttc.io
 0.0.0.0 analytics-ari-nfl.yinzcam.com
+0.0.0.0 analytics-assets.tes.com
 0.0.0.0 analytics-batch.blitz.gg
 0.0.0.0 analytics-beacon.p.uliza.jp
 0.0.0.0 analytics-beanconqueror.com
@@ -26704,6 +26704,7 @@
 0.0.0.0 consumer365.desigual.com
 0.0.0.0 consumeraffairstrk.com
 0.0.0.0 consumercellular.tt.omtrdc.net
+0.0.0.0 consumerdebtnegotiation.com
 0.0.0.0 consumeropinionservices.com
 0.0.0.0 consumerorbit.com
 0.0.0.0 consumertrack.com
@@ -35877,6 +35878,7 @@
 0.0.0.0 eml.condenast.com
 0.0.0.0 eml.hearst.com
 0.0.0.0 eml.hearstmags.com
+0.0.0.0 eml.iiconferences.com
 0.0.0.0 emlfiles.com
 0.0.0.0 emlfiles4.com
 0.0.0.0 emlink.hermo.my
@@ -50803,6 +50805,7 @@
 0.0.0.0 lets.go.mmm-online.com
 0.0.0.0 lets.go.prweekus.com
 0.0.0.0 lets.sli.ce.it
+0.0.0.0 lets.useflash.app
 0.0.0.0 letsopptimise.com
 0.0.0.0 letsstat.nl
 0.0.0.0 letstrack.com
@@ -82643,6 +82646,7 @@
 0.0.0.0 plausible.continis.ch
 0.0.0.0 plausible.conveyal.com
 0.0.0.0 plausible.cool03.ninjapixel.co.uk
+0.0.0.0 plausible.coolify0.estate-track.co.uk
 0.0.0.0 plausible.coopgo.io
 0.0.0.0 plausible.corp.black
 0.0.0.0 plausible.corp.zoo.dev
@@ -87011,6 +87015,7 @@
 0.0.0.0 reno.homevista.jp
 0.0.0.0 rent.mgrc.com
 0.0.0.0 rental.skinnerudlejning.dk
+0.0.0.0 rentinfrared.com
 0.0.0.0 rentracks.co.jp
 0.0.0.0 rentracks.jp
 0.0.0.0 rentracks.me
@@ -87168,6 +87173,7 @@
 0.0.0.0 reptile.o-lit.fr
 0.0.0.0 reptile.sat.trading
 0.0.0.0 republica.cursodetti.com.br
+0.0.0.0 republicfarm.net
 0.0.0.0 repulsiverequest.com
 0.0.0.0 req.mediabuyeracademy.com
 0.0.0.0 reqssx.centerparcs.fr
@@ -87360,6 +87366,7 @@
 0.0.0.0 retreaver.com
 0.0.0.0 retro.geeklife.fr
 0.0.0.0 retrocrypt.com
+0.0.0.0 retrorays.com
 0.0.0.0 retru.conacyt.mx
 0.0.0.0 retter.ai
 0.0.0.0 rettica.com
@@ -88215,9 +88222,35 @@
 0.0.0.0 ry289qrj.vasafitness.com
 0.0.0.0 rybbit.102417.xyz
 0.0.0.0 rybbit.com
+0.0.0.0 rybbit.databasus.com
+0.0.0.0 rybbit.docudetect.com
+0.0.0.0 rybbit.dricle.be
+0.0.0.0 rybbit.dwri.xyz
+0.0.0.0 rybbit.ekathi.com
+0.0.0.0 rybbit.fabfilter.com
+0.0.0.0 rybbit.falcondev.cloud
+0.0.0.0 rybbit.feathermc.com
+0.0.0.0 rybbit.getonline.ie
+0.0.0.0 rybbit.guppy.cloud
+0.0.0.0 rybbit.hexstorm.com
 0.0.0.0 rybbit.hydrology.cc
 0.0.0.0 rybbit.io
+0.0.0.0 rybbit.kirkified.ai
+0.0.0.0 rybbit.lou.gg
+0.0.0.0 rybbit.maulund.cloud
+0.0.0.0 rybbit.mkapi.no
+0.0.0.0 rybbit.oct.de
+0.0.0.0 rybbit.palmi.zone
+0.0.0.0 rybbit.recreabox.com
+0.0.0.0 rybbit.screener.in
 0.0.0.0 rybbit.sg-app.com
+0.0.0.0 rybbit.strivee.ovh
+0.0.0.0 rybbit.template.net
+0.0.0.0 rybbit.thestack.net
+0.0.0.0 rybbit.thunderstore.io
+0.0.0.0 rybbit.vadobay.com
+0.0.0.0 rybbit.venipa.net
+0.0.0.0 rybbit.virail.app
 0.0.0.0 rybbit.xzist.org
 0.0.0.0 rybihvlqs.rbh-logistics.com
 0.0.0.0 ryjknw.sonnenbrillen.com
@@ -129992,6 +130025,7 @@
 0.0.0.0 tracking.voyagerwebsites.com
 0.0.0.0 tracking.vtcnew.com.vn
 0.0.0.0 tracking.vturb.com
+0.0.0.0 tracking.vviinn.com
 0.0.0.0 tracking.vxonews.se
 0.0.0.0 tracking.wallapop.com
 0.0.0.0 tracking.walserart.at
@@ -134460,6 +134494,7 @@
 0.0.0.0 wct.softonic-ar.com
 0.0.0.0 wct.softonic-id.com
 0.0.0.0 wct.softonic-th.com
+0.0.0.0 wct.softonic.com
 0.0.0.0 wct.softonic.se
 0.0.0.0 wctr.aures.ag
 0.0.0.0 wctr.bodenverkauf.de
