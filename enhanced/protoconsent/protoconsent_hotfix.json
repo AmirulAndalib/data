@@ -67,6 +67,12 @@
   "revocation_count": 61,
   "path_exceptions": [
     {
+      "urlFilter": "||agoda.net/cdn-supply-iam/static/js/webanalytics.",
+      "initiatorDomains": [
+        "agoda.com"
+      ]
+    },
+    {
       "urlFilter": "||an-sm.naughtycdn.com/js/lti-analytics-*.min.js",
       "initiatorDomains": [
         "members.naughtyamerica.com"
@@ -957,5 +963,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 34
+  "path_exception_count": 35
 }

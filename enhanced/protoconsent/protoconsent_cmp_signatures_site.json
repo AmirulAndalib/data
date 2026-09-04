@@ -1,10 +1,10 @@
 {
-  "version": "2026-09-03",
+  "version": "2026-09-04",
   "type": "cmp_site",
-  "generated": "2026-09-03T06:56:25.527Z",
+  "generated": "2026-09-04T08:14:35.633Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "b5f4ac2ae7e767c8",
-  "cmp_count": 289,
+  "autoconsent_tree_hash": "7bdf5332163b8b92",
+  "cmp_count": 290,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -1795,6 +1795,17 @@
       "domains": [
         "mediamarkt.de"
       ]
+    },
+    "mensajecookies": {
+      "selector": "#mensajeCookies, #divConfigCookies",
+      "detectors": {
+        "present": [
+          "#mensajeCookies .cajaCookies #btnAcceptAll"
+        ],
+        "showing": [
+          "#mensajeCookies .cajaCookies"
+        ]
+      }
     },
     "microsoft_com": {
       "selector": "#wcpConsentBannerCtrl",
