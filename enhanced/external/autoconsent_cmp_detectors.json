@@ -1,10 +1,10 @@
 {
-  "version": "2026-09-03",
+  "version": "2026-09-04",
   "type": "cmp_detectors",
-  "generated": "2026-09-03T08:17:19.045Z",
+  "generated": "2026-09-04T08:13:25.133Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "b5f4ac2ae7e767c8",
-  "cmp_count": 347,
+  "autoconsent_tree_hash": "7bdf5332163b8b92",
+  "cmp_count": 348,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -1614,6 +1614,14 @@
       ],
       "showing": [
         "div:has(> div > div > div[role=alert] > a[href^=\"https://policy.medium.com/medium-privacy-policy-\"])"
+      ]
+    },
+    "mensajecookies": {
+      "present": [
+        "#mensajeCookies .cajaCookies #btnAcceptAll"
+      ],
+      "showing": [
+        "#mensajeCookies .cajaCookies"
       ]
     },
     "microsoft_com": {

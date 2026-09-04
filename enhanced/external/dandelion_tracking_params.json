@@ -1,10 +1,15 @@
 {
-  "version": "2026-09-03",
-  "generated": "2026-09-03T08:17:19.778Z",
+  "version": "2026-09-04",
+  "generated": "2026-09-04T08:13:25.680Z",
   "type": "tracking_params_sites",
-  "domain_count": 926,
+  "domain_count": 927,
   "param_count": 1914,
   "sites": {
+    "bookbang.jp": [
+      "ui_campaign",
+      "ui_medium",
+      "ui_source"
+    ],
     "video.unext.jp": [
       "abm",
       "adid",
