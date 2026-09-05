@@ -1,10 +1,10 @@
 {
-  "version": "2026-09-04",
+  "version": "2026-09-05",
   "type": "cmp_detectors",
-  "generated": "2026-09-04T08:14:35.644Z",
+  "generated": "2026-09-05T07:52:52.743Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "7bdf5332163b8b92",
-  "cmp_count": 348,
+  "autoconsent_tree_hash": "f84fa8a352875595",
+  "cmp_count": 352,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -199,7 +199,9 @@
       "present": [
         "#consent-tracking"
       ],
-      "showing": [],
+      "showing": [
+        "#consent-tracking"
+      ],
       "domains": [
         "aquasana.com"
       ]
@@ -209,6 +211,14 @@
         "bahf-cookie-disclaimer-dpl3"
       ],
       "showing": []
+    },
+    "asadventure": {
+      "present": [
+        "dialog[data-testid=\"cookie-message-modal\"] button[data-testid=\"decline-all-cookies\"], [data-testid=\"cookie-message-bottom-sheet\"] button[data-testid=\"decline-all-cookies\"]"
+      ],
+      "showing": [
+        "dialog[data-testid=\"cookie-message-modal\"], [data-testid=\"cookie-message-bottom-sheet\"]"
+      ]
     },
     "asus": {
       "present": [
@@ -312,23 +322,23 @@
         "bbb.org"
       ]
     },
-    "bbc_com": {
-      "present": [
-        "#consent-banner-title"
-      ],
-      "showing": [
-        "#consent-banner-title"
-      ],
-      "domains": [
-        "bbc.com"
-      ]
-    },
     "bbva": {
       "present": [
         ".cookiesgdpr__base .cookiesgdpr__rejectbtn"
       ],
       "showing": [
         ".cookiesgdpr__base .cookiesgdpr__rejectbtn"
+      ]
+    },
+    "bcferries_com": {
+      "present": [
+        "#note .cpref #cPrefToggle"
+      ],
+      "showing": [
+        "#note .cpref"
+      ],
+      "domains": [
+        "bcferries.com"
       ]
     },
     "bcookie": {
@@ -1649,6 +1659,22 @@
         ".cookieconsent__buttonAcceptNecessary"
       ]
     },
+    "mipro_com_tw": {
+      "present": [
+        ".cookie-modal.open .cookie-box"
+      ],
+      "showing": [
+        ".cookie-modal.open .btn-box .simple-btn.cancel"
+      ]
+    },
+    "mirasvitgdpr": {
+      "present": [
+        ".mst-gdpr__cookie-bar .mst-gdpr__buttons"
+      ],
+      "showing": [
+        ".mst-gdpr__cookie-bar .mst-gdpr__buttons"
+      ]
+    },
     "moneysavingexpert_com": {
       "present": [
         "dialog[data-testid=accept-our-cookies-dialog]"
@@ -2571,6 +2597,15 @@
         "[data-test-id=cookies_section]"
       ]
     },
+    "tlcdirect": {
+      "present": [
+        "#cookie-consent #cookie-consent-btn-customise",
+        "#cookie-consent #cookie-consent-btn-accept-some"
+      ],
+      "showing": [
+        "#cookie-consent"
+      ]
+    },
     "tohoone_com": {
       "present": [
         "xpath///div[contains(@class, 'fixed') and contains(., 'Cookieをブロック') and .//button[normalize-space()='Cookieの設定']]"
@@ -2910,10 +2945,10 @@
     },
     "xe_com": {
       "present": [
-        "[class*=ConsentBanner]"
+        "dialog[aria-labelledby=\"consent-title\"], div.animate-slideFromLeft.fixed.bottom-0.z-50"
       ],
       "showing": [
-        "[class*=ConsentBanner]"
+        "dialog[aria-labelledby=\"consent-title\"], div.animate-slideFromLeft.fixed.bottom-0.z-50"
       ],
       "domains": [
         "xe.com"

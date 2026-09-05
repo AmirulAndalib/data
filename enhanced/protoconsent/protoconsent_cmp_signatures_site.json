@@ -1,10 +1,10 @@
 {
-  "version": "2026-09-04",
+  "version": "2026-09-05",
   "type": "cmp_site",
-  "generated": "2026-09-04T08:14:35.633Z",
+  "generated": "2026-09-05T07:52:52.732Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "7bdf5332163b8b92",
-  "cmp_count": 290,
+  "autoconsent_tree_hash": "f84fa8a352875595",
+  "cmp_count": 295,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -188,6 +188,9 @@
       "detectors": {
         "present": [
           "#consent-tracking"
+        ],
+        "showing": [
+          "#consent-tracking"
         ]
       },
       "domains": [
@@ -199,6 +202,17 @@
       "detectors": {
         "present": [
           "bahf-cookie-disclaimer-dpl3"
+        ]
+      }
+    },
+    "asadventure": {
+      "selector": "dialog[data-testid=\"cookie-message-modal\"], [data-testid=\"cookie-message-bottom-sheet\"], [data-testid=\"cookie-message-bottom-sheet-overlay\"]",
+      "detectors": {
+        "present": [
+          "dialog[data-testid=\"cookie-message-modal\"] button[data-testid=\"decline-all-cookies\"], [data-testid=\"cookie-message-bottom-sheet\"] button[data-testid=\"decline-all-cookies\"]"
+        ],
+        "showing": [
+          "dialog[data-testid=\"cookie-message-modal\"], [data-testid=\"cookie-message-bottom-sheet\"]"
         ]
       }
     },
@@ -315,15 +329,7 @@
       ]
     },
     "bbc_com": {
-      "selector": "*[aria-labelledby=\"consent-banner-title\"]",
-      "detectors": {
-        "present": [
-          "#consent-banner-title"
-        ],
-        "showing": [
-          "#consent-banner-title"
-        ]
-      },
+      "selector": "*[aria-labelledby=\"consent-banner-title\"], #bbccookies-prompt",
       "domains": [
         "bbc.com"
       ]
@@ -338,6 +344,20 @@
           ".cookiesgdpr__base .cookiesgdpr__rejectbtn"
         ]
       }
+    },
+    "bcferries_com": {
+      "selector": "#note .cpref",
+      "detectors": {
+        "present": [
+          "#note .cpref #cPrefToggle"
+        ],
+        "showing": [
+          "#note .cpref"
+        ]
+      },
+      "domains": [
+        "bcferries.com"
+      ]
     },
     "bcookie": {
       "selector": ".b-cookie.is-open",
@@ -1840,6 +1860,28 @@
         ]
       }
     },
+    "mipro_com_tw": {
+      "selector": ".cookie-modal.open",
+      "detectors": {
+        "present": [
+          ".cookie-modal.open .cookie-box"
+        ],
+        "showing": [
+          ".cookie-modal.open .btn-box .simple-btn.cancel"
+        ]
+      }
+    },
+    "mirasvitgdpr": {
+      "selector": "#gdprCookieBar, #gdprCookieBarOverlay, .mst-gdpr__cookie-bar-wrapper, .mst-gdpr__cookie-bar-overlay",
+      "detectors": {
+        "present": [
+          ".mst-gdpr__cookie-bar .mst-gdpr__buttons"
+        ],
+        "showing": [
+          ".mst-gdpr__cookie-bar .mst-gdpr__buttons"
+        ]
+      }
+    },
     "moove": {
       "selector": "#moove_gdpr_cookie_info_bar",
       "detectors": {
@@ -2850,6 +2892,18 @@
         ]
       }
     },
+    "tlcdirect": {
+      "selector": "#cookie-consent",
+      "detectors": {
+        "present": [
+          "#cookie-consent #cookie-consent-btn-customise",
+          "#cookie-consent #cookie-consent-btn-accept-some"
+        ],
+        "showing": [
+          "#cookie-consent"
+        ]
+      }
+    },
     "tohotheaterjp": {
       "selector": ".optIn",
       "detectors": {
@@ -3198,13 +3252,13 @@
       }
     },
     "xe_com": {
-      "selector": "[class*=ConsentBanner]",
+      "selector": "dialog[aria-labelledby=\"consent-title\"], div.animate-slideFromLeft.fixed.bottom-0.z-50",
       "detectors": {
         "present": [
-          "[class*=ConsentBanner]"
+          "dialog[aria-labelledby=\"consent-title\"], div.animate-slideFromLeft.fixed.bottom-0.z-50"
         ],
         "showing": [
-          "[class*=ConsentBanner]"
+          "dialog[aria-labelledby=\"consent-title\"], div.animate-slideFromLeft.fixed.bottom-0.z-50"
         ]
       },
       "domains": [
