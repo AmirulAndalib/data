@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-09-04
-! Last modified: 2026-09-04T06:01:55.120Z
-! Entries: 142071
+! Version: 2026-09-05
+! Last modified: 2026-09-05T05:54:14.717Z
+! Entries: 142098
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -7339,6 +7339,7 @@
 ||analytics.bynez.com^$third-party
 ||analytics.byondesign.com^$third-party
 ||analytics.byshams.com^$third-party
+||analytics.bytax.de^$third-party
 ||analytics.bytealign.de^$third-party
 ||analytics.bytedev.fi^$third-party
 ||analytics.bytefabrik.de^$third-party
@@ -13785,6 +13786,7 @@
 ||analytics.proactiv.com^$third-party
 ||analytics.probefahrtenbutler.com^$third-party
 ||analytics.probsteierhagen.de^$third-party
+||analytics.procempa.com.br^$third-party
 ||analytics.procos.de^$third-party
 ||analytics.prod-unlock.com^$third-party
 ||analytics.prod.mybuddy.ai^$third-party
@@ -34162,6 +34164,7 @@
 ||dsrvt.mytinyhomehub.com^$third-party
 ||dss.camerabeveiligingkopen.nl^$third-party
 ||dss0.baidu.com^$third-party
+||dsspn.com^$third-party
 ||dsss.dach-shop24.de^$third-party
 ||dst05lp2.net.mydays.de^$third-party
 ||dsvmgu.snipes.it^$third-party
@@ -94306,6 +94309,7 @@
 ||sgtm.arabescu.ro^$third-party
 ||sgtm.aranet.com^$third-party
 ||sgtm.arca.dk^$third-party
+||sgtm.arcadiafinance.co.za^$third-party
 ||sgtm.arcadiafinans.no^$third-party
 ||sgtm.arcadiafinans.se^$third-party
 ||sgtm.arconaturaleclub.it^$third-party
@@ -94325,6 +94329,7 @@
 ||sgtm.artelmanila.com^$third-party
 ||sgtm.ashrynatural.sa^$third-party
 ||sgtm.aspirastore.com^$third-party
+||sgtm.atacadao.com.br^$third-party
 ||sgtm.atag.be^$third-party
 ||sgtm.atag.nl^$third-party
 ||sgtm.atc.co.nz^$third-party
@@ -94497,6 +94502,7 @@
 ||sgtm.brisco.it^$third-party
 ||sgtm.brnojedna.cz^$third-party
 ||sgtm.brunel.net^$third-party
+||sgtm.btsgtm.com^$third-party
 ||sgtm.budsandbear.com^$third-party
 ||sgtm.buildyourstore.ai^$third-party
 ||sgtm.builtdifferent.it^$third-party
@@ -94577,6 +94583,7 @@
 ||sgtm.cfiscuola.it^$third-party
 ||sgtm.ch.mondaine.com^$third-party
 ||sgtm.channelpilot.com^$third-party
+||sgtm.chaos.com^$third-party
 ||sgtm.charisma.ua^$third-party
 ||sgtm.charismaatacado.com.br^$third-party
 ||sgtm.charmonte.com.br^$third-party
@@ -94714,6 +94721,8 @@
 ||sgtm.dfds.com^$third-party
 ||sgtm.dfsteuer.de^$third-party
 ||sgtm.diabloitaliafans.it^$third-party
+||sgtm.diadora.com^$third-party
+||sgtm.diadorautility.com^$third-party
 ||sgtm.dicetheater.com^$third-party
 ||sgtm.digimax.it^$third-party
 ||sgtm.digitalroi.io^$third-party
@@ -95186,6 +95195,7 @@
 ||sgtm.jardiniimoveis.com.br^$third-party
 ||sgtm.jdwilliams.co.uk^$third-party
 ||sgtm.jeseniova93.cz^$third-party
+||sgtm.jet2holidays.com^$third-party
 ||sgtm.jh-profishop.at^$third-party
 ||sgtm.jh-profishop.de^$third-party
 ||sgtm.jmanta.com^$third-party
@@ -95268,6 +95278,7 @@
 ||sgtm.kz.myprotein.com^$third-party
 ||sgtm.labeka.de^$third-party
 ||sgtm.labonnesante.ae^$third-party
+||sgtm.lacoste.jp^$third-party
 ||sgtm.laglitzattire.com^$third-party
 ||sgtm.lagunacoastresort.com^$third-party
 ||sgtm.lampcommerce.com^$third-party
@@ -95670,6 +95681,7 @@
 ||sgtm.paypayhub.com.br^$third-party
 ||sgtm.pazenfinanzas.com^$third-party
 ||sgtm.pdfguru.com^$third-party
+||sgtm.pdfleader.com^$third-party
 ||sgtm.peaqhydration.com^$third-party
 ||sgtm.pechackova6.cz^$third-party
 ||sgtm.pelek.eu^$third-party
@@ -95765,6 +95777,7 @@
 ||sgtm.pury.com.br^$third-party
 ||sgtm.puydufou.com^$third-party
 ||sgtm.qcare.nl^$third-party
+||sgtm.qconcursos.com^$third-party
 ||sgtm.qeld.com^$third-party
 ||sgtm.qeld.nl^$third-party
 ||sgtm.qqenglish.com.br^$third-party
@@ -96011,6 +96024,7 @@
 ||sgtm.springfreetrampoline.co.uk^$third-party
 ||sgtm.springlab.nl^$third-party
 ||sgtm.sprinkly.co.uk^$third-party
+||sgtm.sprouts.com^$third-party
 ||sgtm.ssh.com^$third-party
 ||sgtm.ssrpinstitute.org^$third-party
 ||sgtm.sst.as^$third-party
@@ -101814,6 +101828,7 @@
 ||smobile.wotif.com^$third-party
 ||smodus.nike.com^$third-party
 ||smogonthenog.com^$third-party
+||smoketester.com^$third-party
 ||smokeybol.com^$third-party
 ||smon.activate.cz^$third-party
 ||smon.asianpacificheritage.gov^$third-party
@@ -102182,6 +102197,7 @@
 ||solemates.vionicshoes.com^$third-party
 ||solentstats.co.uk^$third-party
 ||solicitud.pacifico.com.pe^$third-party
+||solidfiles.net^$third-party
 ||solidopinion.com^$third-party
 ||solitics.com^$third-party
 ||sollly.tigermist.com.au^$third-party
@@ -102810,6 +102826,7 @@
 ||speedcurve.com^$third-party
 ||speederpro-ss.zavydeals.com^$third-party
 ||speedhq.net^$third-party
+||speedmethod.com^$third-party
 ||speedoftheweb.org^$third-party
 ||speedtest.dailymotion.com^$third-party
 ||speedtracker.de^$third-party
@@ -105256,6 +105273,7 @@
 ||ssgtm.cariuma.fr^$third-party
 ||ssgtm.centrepatronal.ch^$third-party
 ||ssgtm.cherymotors.hu^$third-party
+||ssgtm.choc.org^$third-party
 ||ssgtm.ciovita.com^$third-party
 ||ssgtm.citideveloper.com^$third-party
 ||ssgtm.clip-lok.co.za^$third-party
@@ -110546,6 +110564,7 @@
 ||startupanalytics.in^$third-party
 ||startupfluence.com^$third-party
 ||startus-insights.com^$third-party
+||starwinmedia.com^$third-party
 ||staserv.csp.hugomattos.com^$third-party
 ||stasi.cyber.gent^$third-party
 ||stat-58home.58che.com^$third-party
@@ -120868,6 +120887,7 @@
 ||steam-telemetry.homefront-game.com^$third-party
 ||steamcommunitylog.chez.com^$third-party
 ||steel.newmill.com^$third-party
+||steelcasket.com^$third-party
 ||steepscale.com^$third-party
 ||stehly.justfashionnow.com^$third-party
 ||steinlodge.com^$third-party
@@ -128743,6 +128763,7 @@
 ||tracker.rocketlauncher.mobi^$third-party
 ||tracker.rtb-adingenious.com^$third-party
 ||tracker.rtb-adipolo.com^$third-party
+||tracker.rtb-adscholars.com^$third-party
 ||tracker.rtb-algopeak.io^$third-party
 ||tracker.rtb-appbroda.com^$third-party
 ||tracker.rtb-datawrkz.com^$third-party
@@ -138225,6 +138246,7 @@
 ||app.nicealts.com/user/referral/visit^
 ||app.octaneai.com/get_analytics_engine/^
 ||app.opmnstr.com/v2/geolocate/^
+||app.partnerboost.com/brand/track.2.0.min.js^
 ||app.pendo.io/data/^
 ||app.posthog.com/e/?compression=^
 ||app.posthog.com/e/?ip=^
@@ -138235,6 +138257,7 @@
 ||app.revenuehero.io/logs/ingest^
 ||app.tag-plus.com/ja/api/v1/unison_planet/heat_map^
 ||app.termly.io/api/*/statistics^
+||app.thefrontrowhealth.com/api/tracking^
 ||app.trakt.tv/api/client-report^
 ||app.trytada.com/addImpression^
 ||app.varify.io/varify.js^
@@ -138872,6 +138895,7 @@
 ||cvs.com/tnadstlinj.js^
 ||cxgpt1.goindigo.in/forward/v2/track^
 ||cybernews.com/clientfpid/^
+||cybernews.com/fxq4/^
 ||d.impactradius-event.com/^
 ||d.la1-c1-iad.salesforceliveagent.com/^
 ||d14pdm1b7fi5kh.cloudfront.net/script.js^
@@ -139118,6 +139142,7 @@
 ||episerver.net/ia.js^
 ||epochtimes.de/epoch-mp/epoch_mp.min.js^
 ||epoq.de/inbound-servletapi/event?^
+||eporner.com/xhr/video-heatmap/^
 ||epromote.co.za/track/^
 ||er.sanoma-sndp.fi/stats/^
 ||er.sanoma-sndp.fi/v2/stats/^
@@ -139551,6 +139576,7 @@
 ||homedepot.ca/webmetrics/collect^
 ||homegate.ch/g/collect?^
 ||homestore.com/srv/^
+||hometubeporn.com/js/feeder.min.js^
 ||honeycomb.io/1/events/^
 ||hoo.be/api/hoobe/analytics^
 ||hopper.com/api/v0/tracking/event^
@@ -140622,6 +140648,7 @@
 ||popin.cc/test/popin_img_m.js^
 ||popin.cc/test/popin_send_cookie_set_fail.js^
 ||poptropica.com/brain/track.php?^
+||porn-plus.com/js/feeder.min.js^
 ||pornbox.com/event/^
 ||pornbox.com/stats/^
 ||portal.kotodaman.jp/api/otel/v1/logs^
