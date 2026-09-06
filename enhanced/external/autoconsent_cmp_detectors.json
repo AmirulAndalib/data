@@ -1,10 +1,10 @@
 {
-  "version": "2026-09-05",
+  "version": "2026-09-06",
   "type": "cmp_detectors",
-  "generated": "2026-09-05T07:51:35.707Z",
+  "generated": "2026-09-06T08:07:02.135Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "f84fa8a352875595",
-  "cmp_count": 352,
+  "autoconsent_tree_hash": "410668668c1eeadd",
+  "cmp_count": 363,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -618,6 +618,14 @@
         ".cc-type-opt-in[aria-describedby=\"cookieconsent:desc\"]"
       ]
     },
+    "consentflo": {
+      "present": [
+        "._flo-consent-root ._flo-consent-modal-contextual ._flo-consent-button--accept-selected"
+      ],
+      "showing": [
+        "._flo-consent-root ._flo-consent-modal:not(._flo-consent-modal-contextual)"
+      ]
+    },
     "consentmanager": {
       "present": [
         "#cmpbox"
@@ -676,6 +684,17 @@
       ],
       "showing": [
         "cookie-banner-element#ckb"
+      ]
+    },
+    "cookiebot_be": {
+      "present": [
+        "#cbPopupWrap #cbRefuseTrigger"
+      ],
+      "showing": [
+        "#cbPopupWrap.cb-popup--open"
+      ],
+      "domains": [
+        "cookiebot.be"
       ]
     },
     "cookieconsent2": {
@@ -962,6 +981,14 @@
         ".cmp-popup_popup"
       ]
     },
+    "drouotrgpd": {
+      "present": [
+        "#rgpd-popup #rgpd-continue-without-accepting"
+      ],
+      "showing": [
+        "#rgpd-popup"
+      ]
+    },
     "drupal": {
       "present": [
         "#drupalorg-crosssite-gdpr"
@@ -1150,6 +1177,14 @@
       ],
       "showing": [
         "astro-island[component-url*=\"CookiesBanner\"] .cookies"
+      ]
+    },
+    "fevercookieadvice": {
+      "present": [
+        "#cookie-advice.fv-cookie-advice"
+      ],
+      "showing": [
+        "#cookie-advice.fv-cookie-advice"
       ]
     },
     "fides": {
@@ -1391,6 +1426,14 @@
         "#header-gdpr.is-active"
       ]
     },
+    "idxrcookies": {
+      "present": [
+        "body > #idxrcookies #idxrcookiesKO"
+      ],
+      "showing": [
+        "body > #idxrcookies #idxrcookiesKO"
+      ]
+    },
     "imdb": {
       "present": [
         "[data-testid=consent-banner]"
@@ -1400,6 +1443,14 @@
       ],
       "domains": [
         "imdb.com"
+      ]
+    },
+    "infomaniakrgpd": {
+      "present": [
+        "module-rgpd-component"
+      ],
+      "showing": [
+        "module-rgpd-component"
       ]
     },
     "inmobi": {
@@ -1609,6 +1660,14 @@
         "#macaron_cookie_box .macaronbtn"
       ]
     },
+    "mcoconsent": {
+      "present": [
+        "#mco-consent"
+      ],
+      "showing": [
+        "[class*=\"mco-consent-\"][class*=\"__button-decline\"]"
+      ]
+    },
     "mediamarkt_de": {
       "present": [
         "div[aria-labelledby^=pwa-consent-layer-title]"
@@ -1673,6 +1732,14 @@
       ],
       "showing": [
         ".mst-gdpr__cookie-bar .mst-gdpr__buttons"
+      ]
+    },
+    "mkdocsmaterial": {
+      "present": [
+        "#__consent form[name='consent'] .md-consent__settings input[type='checkbox']"
+      ],
+      "showing": [
+        "#__consent:not([hidden]) .md-consent__inner"
       ]
     },
     "moneysavingexpert_com": {
@@ -2241,6 +2308,14 @@
         "[data-qa=\"GDPRBanner-Container\"] [data-qa=\"GDPRBanner-Button\"]"
       ]
     },
+    "setupad": {
+      "present": [
+        ".stpd_cmp_wrapper .stpd_cmp_form"
+      ],
+      "showing": [
+        ".stpd_cmp_wrapper .stpd_cmp_form"
+      ]
+    },
     "sex_com": {
       "present": [
         "html[data-cookie-consent-required] [data-testid=\"accept-all-cookie-button\"]"
@@ -2317,6 +2392,15 @@
       ],
       "showing": [
         ".snigel-cmp-framework"
+      ]
+    },
+    "socialfunders": {
+      "present": [
+        "#cookie_modal #id_cookies_necessary",
+        "#cookie_modal #id_cookies_all"
+      ],
+      "showing": [
+        "#cookie_modal"
       ]
     },
     "sostereo_com": {
@@ -2912,6 +2996,14 @@
         ".wccom-comp-privacy-banner .wccom-privacy-banner"
       ],
       "showing": []
+    },
+    "workday": {
+      "present": [
+        "[data-automation-id=\"legalNoticeDeclineButton\"]"
+      ],
+      "showing": [
+        "[data-automation-id=\"legalNotice\"]"
+      ]
     },
     "wp_cookie_notice_for_gdpr": {
       "present": [
