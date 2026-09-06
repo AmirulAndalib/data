@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-09-05
-# Last modified: 2026-09-05T05:54:14.717Z
-# Entries: 10350
+# Version: 2026-09-06
+# Last modified: 2026-09-06T06:04:43.392Z
+# Entries: 10345
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -647,6 +647,7 @@
 0.0.0.0 analytics.cdf.cl
 0.0.0.0 analytics.cdn.live
 0.0.0.0 analytics.ceneo.pl
+0.0.0.0 analytics.changiairport.com
 0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.chegg.com
 0.0.0.0 analytics.churnzero.net
@@ -1225,6 +1226,7 @@
 0.0.0.0 artemis-cdn.ocdn.eu
 0.0.0.0 artfut.com
 0.0.0.0 as.autobild.de
+0.0.0.0 as.axelspringer.com
 0.0.0.0 as.bild.de
 0.0.0.0 as.businessinsider.de
 0.0.0.0 as.bz-berlin.de
@@ -1359,6 +1361,7 @@
 0.0.0.0 axp.pix11.com
 0.0.0.0 axp.rochesterfirst.com
 0.0.0.0 axp.thehill.com
+0.0.0.0 axp.valleycentral.com
 0.0.0.0 axp.wane.com
 0.0.0.0 axp.wate.com
 0.0.0.0 axp.wavy.com
@@ -1471,7 +1474,6 @@
 0.0.0.0 beacon.joinlede.com
 0.0.0.0 beacon.my.salesforce.com
 0.0.0.0 beacon.nuskin.com
-0.0.0.0 beacon.panorama.ai
 0.0.0.0 beacon.peakhour.io
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.radiko.jp
@@ -2527,7 +2529,6 @@
 0.0.0.0 data.elnortedecastilla.es
 0.0.0.0 data.em.macys.com
 0.0.0.0 data.em.officedepot.com
-0.0.0.0 data.em.optum.com
 0.0.0.0 data.em.viking.com
 0.0.0.0 data.email.gobrightline.com
 0.0.0.0 data.email.jet2.com
@@ -2800,6 +2801,7 @@
 0.0.0.0 dsmstats.com
 0.0.0.0 dsp-track-global.zmaticoo.com
 0.0.0.0 dsparking.com
+0.0.0.0 dsspn.com
 0.0.0.0 dt.xfyun.cn
 0.0.0.0 dtasrvr.com
 0.0.0.0 dtr-onsite-feed.datarize.ai
@@ -3021,7 +3023,6 @@
 0.0.0.0 etracker.com
 0.0.0.0 etracker.de
 0.0.0.0 ets.easybrain.com
-0.0.0.0 etual.boggbag.com
 0.0.0.0 etui.fs.ml.com
 0.0.0.0 etx.indiatimes.com
 0.0.0.0 etyper.com
@@ -3242,7 +3243,6 @@
 0.0.0.0 fi-analytics.mgsn.it
 0.0.0.0 fifef.gohaus.com
 0.0.0.0 figpii.com
-0.0.0.0 fijzm.rarecarat.com
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 fileshareengine.com
 0.0.0.0 filitrac.com
@@ -3323,7 +3323,6 @@
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
 0.0.0.0 fpa-cdn.slate.com
-0.0.0.0 fpa-events.adweek.com
 0.0.0.0 fpa-events.arstechnica.com
 0.0.0.0 fpapi.io
 0.0.0.0 fpc.firemountaingems.com
@@ -4050,7 +4049,6 @@
 0.0.0.0 jdgtgb.kicker.de
 0.0.0.0 jdgtgb.t-online.de
 0.0.0.0 jeeng.com
-0.0.0.0 jelcp.igloocoolers.com
 0.0.0.0 jelly.mdhv.io
 0.0.0.0 jellyfish.therapieplatz-finden.de
 0.0.0.0 jhojz.killstar.com
@@ -5421,10 +5419,8 @@
 0.0.0.0 offer.slgnt.eu
 0.0.0.0 officestylist.com
 0.0.0.0 oghub.io
-0.0.0.0 ogpzj.tumi.com
 0.0.0.0 ogt.jp
 0.0.0.0 ohmystats.com
-0.0.0.0 oiat.dow.com
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oktopost.com
 0.0.0.0 ol-collector.quillbot.com
@@ -6603,6 +6599,7 @@
 0.0.0.0 secure.365-bright-astute.com
 0.0.0.0 secure.365smartenterprising.com
 0.0.0.0 secure.365syndicate-smart.com
+0.0.0.0 secure.agile-enterprise-365.com
 0.0.0.0 secure.aiea6gaza.com
 0.0.0.0 secure.alea6badb.com
 0.0.0.0 secure.care5alea.com
@@ -6616,6 +6613,7 @@
 0.0.0.0 secure.emeu0circ.com
 0.0.0.0 secure.enterprise7syndicate.com
 0.0.0.0 secure.etym6cero.com
+0.0.0.0 secure.frog9alea.com
 0.0.0.0 secure.gard4mass.com
 0.0.0.0 secure.grow1maid.com
 0.0.0.0 secure.haig7anax.com
@@ -6648,7 +6646,6 @@
 0.0.0.0 secure.office-cloud-52.com
 0.0.0.0 secure.oita4bali.com
 0.0.0.0 secure.otto5loki.com
-0.0.0.0 secure.perceptionastute7.com
 0.0.0.0 secure.perceptive-innovation-ingenuity.com
 0.0.0.0 secure.perk0mean.com
 0.0.0.0 secure.plug1luge.com
@@ -6659,6 +6656,7 @@
 0.0.0.0 secure.ryke4peep.com
 0.0.0.0 secure.shoo5woop.com
 0.0.0.0 secure.skye6oner.com
+0.0.0.0 secure.smart-business-foresight.com
 0.0.0.0 secure.smart-enterprise-52.com
 0.0.0.0 secure.smartenterprisewisdom.com
 0.0.0.0 secure.sour1bare.com
@@ -7233,7 +7231,6 @@
 0.0.0.0 smetrics.goinggoinggone.com
 0.0.0.0 smetrics.golfgalaxy.com
 0.0.0.0 smetrics.gomastercard.com.au
-0.0.0.0 smetrics.goodyear.com
 0.0.0.0 smetrics.grainger.com
 0.0.0.0 smetrics.grandandtoy.com
 0.0.0.0 smetrics.greatsouthernbank.com.au
@@ -7662,7 +7659,6 @@
 0.0.0.0 smetrics.thoughtworks.com
 0.0.0.0 smetrics.three.co.uk
 0.0.0.0 smetrics.three.ie
-0.0.0.0 smetrics.thrivent.com
 0.0.0.0 smetrics.tiaa.org
 0.0.0.0 smetrics.ticket.se
 0.0.0.0 smetrics.ticketsatwork.com
@@ -9041,7 +9037,6 @@
 0.0.0.0 tigershark.moonpot.com
 0.0.0.0 tigershark.paavanmagic.com
 0.0.0.0 tigershark.samwaymire.com
-0.0.0.0 tigershark.vandevliet.me
 0.0.0.0 tiglon.beyondco.de
 0.0.0.0 tiglon.davidroessli.com
 0.0.0.0 tiktok.tray.com.br
