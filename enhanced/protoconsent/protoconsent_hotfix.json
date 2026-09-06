@@ -92,6 +92,12 @@
       ]
     },
     {
+      "urlFilter": "||cdn.shopify.com/extensions/*/ba_tracking.js",
+      "initiatorDomains": [
+        "ridge.com"
+      ]
+    },
+    {
       "urlFilter": "||cloudimanage.com/admin/api/audithub/v1/customers/*/analytics/events/crawl",
       "firstParty": true
     },
@@ -966,5 +972,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 35
+  "path_exception_count": 36
 }

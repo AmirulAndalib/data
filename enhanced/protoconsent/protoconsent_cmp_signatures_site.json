@@ -1,10 +1,10 @@
 {
-  "version": "2026-09-05",
+  "version": "2026-09-06",
   "type": "cmp_site",
-  "generated": "2026-09-05T07:52:52.732Z",
+  "generated": "2026-09-06T05:07:52.660Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "f84fa8a352875595",
-  "cmp_count": 295,
+  "autoconsent_tree_hash": "410668668c1eeadd",
+  "cmp_count": 306,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -710,6 +710,17 @@
         ]
       }
     },
+    "consentflo": {
+      "selector": "._flo-consent-root",
+      "detectors": {
+        "present": [
+          "._flo-consent-root ._flo-consent-modal-contextual ._flo-consent-button--accept-selected"
+        ],
+        "showing": [
+          "._flo-consent-root ._flo-consent-modal:not(._flo-consent-modal-contextual)"
+        ]
+      }
+    },
     "consentmanagerncmp": {
       "selector": "#ncmp__tool .ncmp__banner",
       "detectors": {
@@ -772,6 +783,20 @@
           "cookie-banner-element#ckb"
         ]
       }
+    },
+    "cookiebot_be": {
+      "selector": "#cbPopupWrap.cb-popup--open",
+      "detectors": {
+        "present": [
+          "#cbPopupWrap #cbRefuseTrigger"
+        ],
+        "showing": [
+          "#cbPopupWrap.cb-popup--open"
+        ]
+      },
+      "domains": [
+        "cookiebot.be"
+      ]
     },
     "cookieconsent2": {
       "selector": "#cc--main",
@@ -1125,6 +1150,17 @@
         ]
       }
     },
+    "drouotrgpd": {
+      "selector": "#rgpd-popup, #rgpd-custom-popup",
+      "detectors": {
+        "present": [
+          "#rgpd-popup #rgpd-continue-without-accepting"
+        ],
+        "showing": [
+          "#rgpd-popup"
+        ]
+      }
+    },
     "dunelm_com": {
       "selector": "div[data-testid=cookie-consent-modal-backdrop]",
       "detectors": {
@@ -1310,6 +1346,17 @@
         ],
         "showing": [
           "astro-island[component-url*=\"CookiesBanner\"] .cookies"
+        ]
+      }
+    },
+    "fevercookieadvice": {
+      "selector": "#cookie-advice.fv-cookie-advice",
+      "detectors": {
+        "present": [
+          "#cookie-advice.fv-cookie-advice"
+        ],
+        "showing": [
+          "#cookie-advice.fv-cookie-advice"
         ]
       }
     },
@@ -1547,6 +1594,17 @@
         ]
       }
     },
+    "idxrcookies": {
+      "selector": "body > #idxrcookies",
+      "detectors": {
+        "present": [
+          "body > #idxrcookies #idxrcookiesKO"
+        ],
+        "showing": [
+          "body > #idxrcookies #idxrcookiesKO"
+        ]
+      }
+    },
     "imdb": {
       "selector": "[data-testid=consent-banner]",
       "detectors": {
@@ -1560,6 +1618,17 @@
       "domains": [
         "imdb.com"
       ]
+    },
+    "infomaniakrgpd": {
+      "selector": "module-rgpd-component",
+      "detectors": {
+        "present": [
+          "module-rgpd-component"
+        ],
+        "showing": [
+          "module-rgpd-component"
+        ]
+      }
     },
     "inmobi": {
       "selector": ".accept-cookie",
@@ -1805,6 +1874,17 @@
         ]
       }
     },
+    "mcoconsent": {
+      "selector": ".mco-consent-pop-up, .mco-consent-slide-up, .mco-consent-slide-up__backdrop, .mco-overlay:has(.mco-consent)",
+      "detectors": {
+        "present": [
+          "#mco-consent"
+        ],
+        "showing": [
+          "[class*=\"mco-consent-\"][class*=\"__button-decline\"]"
+        ]
+      }
+    },
     "mediamarkt_de": {
       "selector": "div[aria-labelledby=pwa-consent-layer-title], div[class^=StyledConsentLayerWrapper-]",
       "detectors": {
@@ -1879,6 +1959,17 @@
         ],
         "showing": [
           ".mst-gdpr__cookie-bar .mst-gdpr__buttons"
+        ]
+      }
+    },
+    "mkdocsmaterial": {
+      "selector": "#__consent .md-consent__inner, #__consent .md-consent__overlay",
+      "detectors": {
+        "present": [
+          "#__consent form[name='consent'] .md-consent__settings input[type='checkbox']"
+        ],
+        "showing": [
+          "#__consent:not([hidden]) .md-consent__inner"
         ]
       }
     },
@@ -2505,6 +2596,17 @@
         ]
       }
     },
+    "setupad": {
+      "selector": ".stpd_cmp_wrapper",
+      "detectors": {
+        "present": [
+          ".stpd_cmp_wrapper .stpd_cmp_form"
+        ],
+        "showing": [
+          ".stpd_cmp_wrapper .stpd_cmp_form"
+        ]
+      }
+    },
     "sex_com": {
       "selector": "[class*=\"cookie-consent-required\"]",
       "detectors": {
@@ -2585,6 +2687,18 @@
         ],
         "showing": [
           "#cookieBannerContent"
+        ]
+      }
+    },
+    "socialfunders": {
+      "selector": "#cookie_modal",
+      "detectors": {
+        "present": [
+          "#cookie_modal #id_cookies_necessary",
+          "#cookie_modal #id_cookies_all"
+        ],
+        "showing": [
+          "#cookie_modal"
         ]
       }
     },
@@ -3207,6 +3321,17 @@
       "detectors": {
         "present": [
           ".wccom-comp-privacy-banner .wccom-privacy-banner"
+        ]
+      }
+    },
+    "workday": {
+      "selector": "[data-automation-id=\"legalNotice\"]",
+      "detectors": {
+        "present": [
+          "[data-automation-id=\"legalNoticeDeclineButton\"]"
+        ],
+        "showing": [
+          "[data-automation-id=\"legalNotice\"]"
         ]
       }
     },
