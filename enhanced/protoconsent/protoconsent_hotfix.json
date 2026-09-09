@@ -695,6 +695,7 @@
         "friday.gold",
         "friday.kodansha.co.jp",
         "handelsblatt.com",
+        "harpersbazaar.com",
         "hochi.news",
         "inquirer.com",
         "j-cast.com",
@@ -720,6 +721,7 @@
         "cxpublic.com",
         "diamond.jp",
         "handelsblatt.com",
+        "harpersbazaar.com",
         "hochi.news",
         "inquirer.com",
         "j-cast.com",
@@ -745,6 +747,7 @@
         "diamond.jp",
         "gizmodo.jp",
         "handelsblatt.com",
+        "harpersbazaar.com",
         "hochi.news",
         "inquirer.com",
         "j-cast.com",
@@ -762,6 +765,14 @@
         "tv-tokyo.co.jp",
         "tvnet.lv",
         "wsj.com"
+      ]
+    },
+    {
+      "urlFilter": "||collector.appconsent.io/hello",
+      "initiatorDomains": [
+        "lachainemeteo.com",
+        "lefigaro.fr",
+        "meteoconsult.fr"
       ]
     },
     {
@@ -972,5 +983,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 36
+  "path_exception_count": 37
 }
