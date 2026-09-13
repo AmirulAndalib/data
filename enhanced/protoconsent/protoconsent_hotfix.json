@@ -980,8 +980,12 @@
       "firstParty": true
     },
     {
+      "urlFilter": "||img.cf.47news.jp/static/*/300x250",
+      "firstParty": true
+    },
+    {
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 37
+  "path_exception_count": 38
 }

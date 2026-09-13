@@ -1,10 +1,15 @@
 {
   "version": "2026-09-13",
-  "generated": "2026-09-13T07:02:44.493Z",
+  "generated": "2026-09-13T20:56:25.884Z",
   "type": "tracking_params_sites",
-  "domain_count": 935,
-  "param_count": 1923,
+  "domain_count": 934,
+  "param_count": 1926,
   "sites": {
+    "spotfund.com": [
+      "SFID",
+      "share_location",
+      "source"
+    ],
     "canadapost-postescanada.ca": [
       "abid",
       "bid",
@@ -1513,6 +1518,7 @@
     ],
     "quora.com": [
       "al_imp",
+      "qv_src",
       "share",
       "uid"
     ],
@@ -3408,6 +3414,7 @@
       "dsh"
     ],
     "support.google.com": [
+      "ctx",
       "ref_topic",
       "sjid"
     ],
@@ -3749,9 +3756,6 @@
       "kpid",
       "locphy",
       "prof"
-    ],
-    "macys.com": [
-      "trackingid"
     ],
     "bindright.com": [
       "camp_id"
@@ -4369,9 +4373,6 @@
     ],
     "store.epicgames.com": [
       "epic_creator_id"
-    ],
-    "spotfund.com": [
-      "SFID"
     ],
     "ikea.com": [
       "f"
