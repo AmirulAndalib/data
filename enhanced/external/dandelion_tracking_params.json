@@ -1,10 +1,45 @@
 {
-  "version": "2026-09-13",
-  "generated": "2026-09-13T20:56:25.884Z",
+  "version": "2026-09-15",
+  "generated": "2026-09-15T07:25:11.745Z",
   "type": "tracking_params_sites",
-  "domain_count": 934,
-  "param_count": 1926,
+  "domain_count": 945,
+  "param_count": 1938,
   "sites": {
+    "mainichikirei.jp": [
+      "ext_m"
+    ],
+    "president.jp": [
+      "cx_referrertype",
+      "yhref"
+    ],
+    "jp.reuters.com": [
+      "rpc"
+    ],
+    "huffingtonpost.jp": [
+      "utm_hp_ref"
+    ],
+    "jisin.jp": [
+      "rf"
+    ],
+    "newsdig.tbs.co.jp": [
+      "ex_id",
+      "ex_position"
+    ],
+    "jprime.jp": [
+      "display"
+    ],
+    "ck12.org": [
+      "_eid",
+      "_mid",
+      "referrer"
+    ],
+    "newspicks.com": [
+      "a",
+      "adid",
+      "block",
+      "invoker",
+      "ref_t"
+    ],
     "spotfund.com": [
       "SFID",
       "share_location",
@@ -1205,12 +1240,6 @@
     ],
     "readyfor.jp": [
       "sns_share_token"
-    ],
-    "newspicks.com": [
-      "a",
-      "adid",
-      "block",
-      "ref_t"
     ],
     "wsj.com": [
       "inttrackingcode",
@@ -2735,8 +2764,6 @@
     ],
     "nikkei.com": [
       "extpf",
-      "i_cid",
-      "n_cid",
       "n_tw",
       "ref"
     ],
@@ -2912,6 +2939,7 @@
       "cid"
     ],
     "adobe.com": [
+      "correlationId",
       "mv2",
       "trackingid"
     ],
@@ -4373,6 +4401,17 @@
     ],
     "store.epicgames.com": [
       "epic_creator_id"
+    ],
+    "americanexpress.com": [
+      "inav"
+    ],
+    "ecoflow.com": [
+      "sc_lid",
+      "sc_llid",
+      "sc_src"
+    ],
+    "getquip.com": [
+      "syclid"
     ],
     "ikea.com": [
       "f"
