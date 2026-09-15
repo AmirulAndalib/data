@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-09-14
-# Last modified: 2026-09-14T06:27:56.770Z
-# Entries: 10341
+# Version: 2026-09-15
+# Last modified: 2026-09-15T06:16:24.864Z
+# Entries: 10345
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -557,6 +557,8 @@
 0.0.0.0 analytics-log.withhive.com
 0.0.0.0 analytics-logger.service.junctiontv.net
 0.0.0.0 analytics-nssl.bradyid.com
+0.0.0.0 analytics-phi-nfl.yinzcam.com
+0.0.0.0 analytics-pit-nfl.yinzcam.com
 0.0.0.0 analytics-prd.aws.wehaa.net
 0.0.0.0 analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 0.0.0.0 analytics-prod.readtheory.org
@@ -705,7 +707,6 @@
 0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.ekonsilio.io
 0.0.0.0 analytics.electro-com.ru
-0.0.0.0 analytics.emforce.co.kr
 0.0.0.0 analytics.emol.com
 0.0.0.0 analytics.enjoymobiserver.com
 0.0.0.0 analytics.erepublic.com
@@ -750,7 +751,6 @@
 0.0.0.0 analytics.gtflixtv.com
 0.0.0.0 analytics.hardlightgames.com
 0.0.0.0 analytics.hardrock.com
-0.0.0.0 analytics.hashnode.com
 0.0.0.0 analytics.haworth.com
 0.0.0.0 analytics.hebela.vn
 0.0.0.0 analytics.helpukrainewinwidget.org
@@ -1252,7 +1252,6 @@
 0.0.0.0 asp.brightmachine.uk
 0.0.0.0 asp.dimileeh.com
 0.0.0.0 asp.goodpa.co.uk
-0.0.0.0 asp.podlist.de
 0.0.0.0 asp.rikkeekelund.com
 0.0.0.0 asp.sepiasoft.eu
 0.0.0.0 assets.9gtb.com
@@ -1549,7 +1548,6 @@
 0.0.0.0 bicp-analytics.postscript.io
 0.0.0.0 bid.run
 0.0.0.0 bidgx.com
-0.0.0.0 bidsimulator.com
 0.0.0.0 bigcattracks.com
 0.0.0.0 biggerbling.com
 0.0.0.0 bighornbasin.net
@@ -2461,6 +2459,7 @@
 0.0.0.0 d9esmwyn3ffr1.cloudfront.net
 0.0.0.0 d9etzk30b05yg.cloudfront.net
 0.0.0.0 d9jj3mjthpub.cloudfront.net
+0.0.0.0 da.bookretreats.com
 0.0.0.0 da.netease.com
 0.0.0.0 dacounter.com
 0.0.0.0 dadispapi.gmarket.co.kr
@@ -2497,6 +2496,7 @@
 0.0.0.0 data.campaign.toyscenter.it
 0.0.0.0 data.campaigns.cineplex.com
 0.0.0.0 data.circulate.com
+0.0.0.0 data.clientemais.paodeacucar.com
 0.0.0.0 data.club.costacoffee.pl
 0.0.0.0 data.communicatie.nn.nl
 0.0.0.0 data.communications.manulife.ca
@@ -2525,7 +2525,6 @@
 0.0.0.0 data.email.princess.com
 0.0.0.0 data.email.realmadrid.com
 0.0.0.0 data.emails.tesco.com
-0.0.0.0 data.emails1.santander.co.uk
 0.0.0.0 data.emb-api.com
 0.0.0.0 data.embeddables.com
 0.0.0.0 data.emea.coca-cola.com
@@ -2801,6 +2800,7 @@
 0.0.0.0 dualstack-collection.rong-edge.com
 0.0.0.0 dup.baidustatic.com
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
+0.0.0.0 dvude.javvycoffee.com
 0.0.0.0 dw.xcar.com.cn
 0.0.0.0 dwin2.com
 0.0.0.0 dx.mountain.com
@@ -2900,7 +2900,6 @@
 0.0.0.0 ei.monday.com
 0.0.0.0 eicyds.qoo10.jp
 0.0.0.0 eipqr.rythmhealth.com
-0.0.0.0 ejbbcf.finishline.com
 0.0.0.0 ek-tracker.ekitan.com
 0.0.0.0 ekmpinpoint.com
 0.0.0.0 el.siglo.mx
@@ -3027,6 +3026,7 @@
 0.0.0.0 ev.moneymade.io
 0.0.0.0 ev.stellarlabs.ai
 0.0.0.0 ev.tpocdm.com
+0.0.0.0 evdni.littlesleepies.com
 0.0.0.0 event-api.rdstation.com.br
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-collector.prd.data.s.joyn.de
@@ -3106,6 +3106,7 @@
 0.0.0.0 events.onet.pl
 0.0.0.0 events.paramount.tech
 0.0.0.0 events.pickrr.com
+0.0.0.0 events.plutus.ninja
 0.0.0.0 events.prd.api.discomax.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.realgravity.com
@@ -3234,7 +3235,6 @@
 0.0.0.0 filter-eu.revantagex.com
 0.0.0.0 filter.revantagex.com
 0.0.0.0 finaloptics.com
-0.0.0.0 finch.market.xyz
 0.0.0.0 fingerprinter-production.herokuapp.com
 0.0.0.0 fireanalytics.firestream.to
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -3936,6 +3936,7 @@
 0.0.0.0 intelligencefocus.com
 0.0.0.0 intellimize.co
 0.0.0.0 intellimizeio.com
+0.0.0.0 intent.ai
 0.0.0.0 intentlens.com
 0.0.0.0 interactive-circle.jp
 0.0.0.0 internal-analytics.odoo.com
@@ -4040,6 +4041,7 @@
 0.0.0.0 jhojz.killstar.com
 0.0.0.0 jirafe.com
 0.0.0.0 jixie.io
+0.0.0.0 jknarp.kakaku.com
 0.0.0.0 jly24aw29n5m-a.akamaihd.net
 0.0.0.0 jncx1s.michaellindahl.com
 0.0.0.0 jnecc.jadedldn.com
@@ -4125,7 +4127,6 @@
 0.0.0.0 koala.readyfive.io
 0.0.0.0 koala.spectrum-therapeutics.de
 0.0.0.0 kohlermetricssecure.kohler.com
-0.0.0.0 koi.artsvp.co
 0.0.0.0 koi.fftf.cat
 0.0.0.0 koi.filtersource.com
 0.0.0.0 koi.henrydennis.dev
@@ -5225,6 +5226,7 @@
 0.0.0.0 mywebstats.com.au
 0.0.0.0 mywebstats.org
 0.0.0.0 mzqnq.ouraring.com
+0.0.0.0 mzulv.ironman.com
 0.0.0.0 n-analytics.io
 0.0.0.0 n.hdsupplysolutions.com
 0.0.0.0 n730.timesunion.com
@@ -5562,6 +5564,7 @@
 0.0.0.0 p-td.com
 0.0.0.0 p.armorgames.net
 0.0.0.0 p.aty.sohu.com
+0.0.0.0 p.cquotient.com
 0.0.0.0 p.data.cctv.com
 0.0.0.0 p.gazeta.pl
 0.0.0.0 p.metrilo.com
@@ -6047,6 +6050,7 @@
 0.0.0.0 qbrth.ezcontacts.com
 0.0.0.0 qchannel03.cn
 0.0.0.0 qcvji.aliceandolivia.com
+0.0.0.0 qeigr.luluandgeorgia.com
 0.0.0.0 qfp.intuit.com
 0.0.0.0 qgdgj.bugmd.com
 0.0.0.0 qhtqr.mindbodygreen.com
@@ -6175,7 +6179,6 @@
 0.0.0.0 refundradar.com
 0.0.0.0 regi.di.atlas.samsung.com
 0.0.0.0 regionconfig.amplitude.com
-0.0.0.0 reindeer.cablemod.com
 0.0.0.0 reindeer.iainbroome.com
 0.0.0.0 reingod.com
 0.0.0.0 reinvigorate.net
@@ -6789,6 +6792,7 @@
 0.0.0.0 sgtm.open.ac.uk
 0.0.0.0 sgtm.palaciodasferramentas.com.br
 0.0.0.0 sgtm.piuchepuoi.it
+0.0.0.0 sgtm.quarkexpeditions.com
 0.0.0.0 sgtm.refly.org
 0.0.0.0 sgtm.simoahava.com
 0.0.0.0 sgtm.stihl.ru
@@ -7051,6 +7055,7 @@
 0.0.0.0 smetrics.carphonewarehouse.com
 0.0.0.0 smetrics.carters.com
 0.0.0.0 smetrics.cartersoshkosh.ca
+0.0.0.0 smetrics.caser.es
 0.0.0.0 smetrics.casio.com
 0.0.0.0 smetrics.cbc.ca
 0.0.0.0 smetrics.ccma.cat
@@ -8012,7 +8017,6 @@
 0.0.0.0 ssp.betou.bet.br
 0.0.0.0 ssp.seznam.cz
 0.0.0.0 sspapi-prd.samsungrs.com
-0.0.0.0 sssjp.la-z-boy.com
 0.0.0.0 sst.babypark.de
 0.0.0.0 sst.babypark.nl
 0.0.0.0 sst.brodo.com
@@ -9325,7 +9329,6 @@
 0.0.0.0 tracker.curama.jp
 0.0.0.0 tracker.dcdn.baidu.com
 0.0.0.0 tracker.digikala.com
-0.0.0.0 tracker.downdetector.com
 0.0.0.0 tracker.durasite.net
 0.0.0.0 tracker.edupia.vn
 0.0.0.0 tracker.euroweb.net
@@ -9804,6 +9807,7 @@
 0.0.0.0 uqnnb.staud.clothing
 0.0.0.0 uranus.jd.com
 0.0.0.0 urbanairship.com
+0.0.0.0 urbanopus.net
 0.0.0.0 us-behavior.apitd.net
 0.0.0.0 us-central1-markuphero.cloudfunctions.net
 0.0.0.0 us-events.api.iheart.com

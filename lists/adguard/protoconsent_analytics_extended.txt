@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-09-14T06:27:56.770Z
+! Last modified: 2026-09-15T06:16:24.864Z
 ! Format: AdGuard
-! Entries: 142200
+! Entries: 142211
 !
 ||0.myikas.com^$third-party
 ||0.net.easyjet.com^$third-party
@@ -5684,7 +5684,9 @@
 ||analytics-paterzell.fwty.de^$third-party
 ||analytics-pbl.vivino.com^$third-party
 ||analytics-phi-nba.yinzcam.com^$third-party
+||analytics-phi-nfl.yinzcam.com^$third-party
 ||analytics-pillarfour-1105396686.us-east-1.elb.amazonaws.com^$third-party
+||analytics-pit-nfl.yinzcam.com^$third-party
 ||analytics-por-nba.yinzcam.com^$third-party
 ||analytics-portal.inspiresleep.net^$third-party
 ||analytics-portals.com^$third-party
@@ -10084,7 +10086,6 @@
 ||analytics.harvestingmedia.com^$third-party
 ||analytics.harvey.fr^$third-party
 ||analytics.harveydelaney.com^$third-party
-||analytics.hashnode.com^$third-party
 ||analytics.haskins.co^$third-party
 ||analytics.hassancorrigan.com^$third-party
 ||analytics.hatchpoint.com^$third-party
@@ -10159,6 +10160,7 @@
 ||analytics.hello-1.com^$third-party
 ||analytics.hello-nasty.com^$third-party
 ||analytics.helloalma.com^$third-party
+||analytics.hellobeautyblog.com^$third-party
 ||analytics.hellodigital.nz^$third-party
 ||analytics.hellofuture.se^$third-party
 ||analytics.hellotecno.it^$third-party
@@ -13394,6 +13396,7 @@
 ||analytics.partcommunity.com^$third-party
 ||analytics.partei-goe.de^$third-party
 ||analytics.particip-app.ch^$third-party
+||analytics.partijvoordedieren.nl^$third-party
 ||analytics.partioaitta.fi^$third-party
 ||analytics.parts2go.de^$third-party
 ||analytics.partslife.com^$third-party
@@ -34135,6 +34138,7 @@
 ||drfdisvc.walmart.com^$third-party
 ||drga.dubairealestate.net^$third-party
 ||drgnshrt.com^$third-party
+||driedwheat.com^$third-party
 ||dripappliance.com^$third-party
 ||drive.seagate.com^$third-party
 ||drivemotors.com^$third-party
@@ -37708,6 +37712,7 @@
 ||faat.be^$third-party
 ||fabcourses.iapcollege.com^$third-party
 ||fabio.ilydecor.com^$third-party
+||fabledglory.com^$third-party
 ||fabledsoul.com^$third-party
 ||fabric-analytics.com^$third-party
 ||fabricww.com^$third-party
@@ -37894,6 +37899,7 @@
 ||faults.norton.com^$third-party
 ||fauzxn.hairlavie.com^$third-party
 ||favann0.alphonso.tv^$third-party
+||faxardent.net^$third-party
 ||faxcoupons.com^$third-party
 ||fay.gg^$third-party
 ||fazphz.theiconic.com.au^$third-party
@@ -38363,6 +38369,7 @@
 ||fireshooters.s3.amazonaws.com^$third-party
 ||firetv-beacons.xumo.com^$third-party
 ||fireworkanalytics.com^$third-party
+||firmasset.com^$third-party
 ||firmowastrefa.pl^$third-party
 ||first.g2dicas.com^$third-party
 ||first.guttertuneup.com^$third-party
@@ -59053,6 +59060,7 @@
 ||maschine.bengs-modellbau.de^$third-party
 ||mashery.com^$third-party
 ||mask.bgsl.lol^$third-party
+||maskbaby.com.cn^$third-party
 ||masp.i-ma.pl^$third-party
 ||mass-analytics.com^$third-party
 ||mass.blenvor.com^$third-party
@@ -125029,6 +125037,7 @@
 ||theboeingcompany.tt.omtrdc.net^$third-party
 ||thecas.xyz^$third-party
 ||thechasm.in^$third-party
+||thecodingpad.com^$third-party
 ||thecollector.codemonkey.net^$third-party
 ||thecontainerstore.tt.omtrdc.net^$third-party
 ||thecore.top^$third-party
@@ -128744,7 +128753,6 @@
 ||tracker.didiglobal.com^$third-party
 ||tracker.digikala.com^$third-party
 ||tracker.digitalcamp.co.kr^$third-party
-||tracker.downdetector.com^$third-party
 ||tracker.durasite.net^$third-party
 ||tracker.edupia.vn^$third-party
 ||tracker.eft.com^$third-party
@@ -132048,6 +132056,7 @@
 ||umami.ancora-verlagsservice.de^$third-party
 ||umami.anindyaspaul.com^$third-party
 ||umami.aniversehd.com^$third-party
+||umami.appoutlet.dev^$third-party
 ||umami.apprunner.dk^$third-party
 ||umami.apps.perfectline.dev^$third-party
 ||umami.appsero.com^$third-party
@@ -138759,6 +138768,7 @@
 ||chat.vica.gov.sg/api/v1/unleash/proxy/client/metrics^
 ||chatfuel.com/cf-analytics/^
 ||chatgpt.com/backend-api/sentinel/ping^
+||chatgpt.com/ces/v1/telemetry/^
 ||chatroll.com/t.gif^
 ||checkout.com/logger/^
 ||checkout.com/logging^
@@ -141250,6 +141260,7 @@
 ||smaero.jp/js/access.js^
 ||smart-bdash.com/receptions/action/impression^
 ||smart-bdash.com/tracking-script/^
+||smartbrokerplus.de/_ingenious-script.js^
 ||smarte.rs/log^
 ||smartertravel.com/ext/pixel/^
 ||smarthint.co/Scripts/i/SmartHintTrack.Full.min.js^
