@@ -1,10 +1,45 @@
 {
-  "version": "2026-09-14",
-  "generated": "2026-09-14T09:15:46.046Z",
+  "version": "2026-09-15",
+  "generated": "2026-09-15T08:57:47.782Z",
   "type": "tracking_params_sites",
-  "domain_count": 938,
-  "param_count": 1930,
+  "domain_count": 945,
+  "param_count": 1938,
   "sites": {
+    "mainichikirei.jp": [
+      "ext_m"
+    ],
+    "president.jp": [
+      "cx_referrertype",
+      "yhref"
+    ],
+    "jp.reuters.com": [
+      "rpc"
+    ],
+    "huffingtonpost.jp": [
+      "utm_hp_ref"
+    ],
+    "jisin.jp": [
+      "rf"
+    ],
+    "newsdig.tbs.co.jp": [
+      "ex_id",
+      "ex_position"
+    ],
+    "jprime.jp": [
+      "display"
+    ],
+    "ck12.org": [
+      "_eid",
+      "_mid",
+      "referrer"
+    ],
+    "newspicks.com": [
+      "a",
+      "adid",
+      "block",
+      "invoker",
+      "ref_t"
+    ],
     "spotfund.com": [
       "SFID",
       "share_location",
@@ -1205,12 +1240,6 @@
     ],
     "readyfor.jp": [
       "sns_share_token"
-    ],
-    "newspicks.com": [
-      "a",
-      "adid",
-      "block",
-      "ref_t"
     ],
     "wsj.com": [
       "inttrackingcode",
@@ -4380,10 +4409,6 @@
       "sc_lid",
       "sc_llid",
       "sc_src"
-    ],
-    "ck12.org": [
-      "_eid",
-      "_mid"
     ],
     "getquip.com": [
       "syclid"
