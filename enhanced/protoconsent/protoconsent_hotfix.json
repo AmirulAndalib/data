@@ -143,6 +143,12 @@
       "firstParty": true
     },
     {
+      "urlFilter": "||static.klaviyo.com/onsite/js/event_adapter.",
+      "initiatorDomains": [
+        "gear.blizzard.com"
+      ]
+    },
+    {
       "urlFilter": "||googletagmanager.com/gtm.js",
       "initiatorDomains": [
         "3djuegosguias.com",
@@ -987,5 +993,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 38
+  "path_exception_count": 39
 }

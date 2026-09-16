@@ -1,10 +1,10 @@
 {
-  "version": "2026-09-09",
+  "version": "2026-09-16",
   "type": "cmp_site",
-  "generated": "2026-09-09T08:10:41.872Z",
+  "generated": "2026-09-16T08:04:13.784Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "ead003446b30442e",
-  "cmp_count": 316,
+  "autoconsent_tree_hash": "46cac3c219ec2d6f",
+  "cmp_count": 318,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -1921,6 +1921,17 @@
         ]
       }
     },
+    "massgeneralbrigham": {
+      "selector": ".cookie-banner[data-block-name=\"cookie-banner\"]",
+      "detectors": {
+        "present": [
+          ".cookie-banner[data-block-name=\"cookie-banner\"] .alert-close"
+        ],
+        "showing": [
+          ".cookie-banner[data-block-name=\"cookie-banner\"] .alert-close"
+        ]
+      }
+    },
     "maticrobotscom": {
       "selector": "section[aria-label=\"Cookie preferences\"]",
       "detectors": {
@@ -2574,6 +2585,20 @@
         "roofingmegastore.co.uk"
       ]
     },
+    "rspb_org_uk": {
+      "selector": "rspb-cookie-banner",
+      "detectors": {
+        "present": [
+          "rspb-cookie-banner"
+        ],
+        "showing": [
+          "rspb-cookie-banner"
+        ]
+      },
+      "domains": [
+        "rspb.org.uk"
+      ]
+    },
     "rt": {
       "selector": ".cookies-banner-shown",
       "detectors": {
@@ -2666,15 +2691,7 @@
       }
     },
     "scmp": {
-      "selector": "[data-qa=\"GDPRBanner-Container\"]",
-      "detectors": {
-        "present": [
-          "[data-qa=\"GDPRBanner-Container\"] [data-qa=\"GDPRBanner-Button\"]"
-        ],
-        "showing": [
-          "[data-qa=\"GDPRBanner-Container\"] [data-qa=\"GDPRBanner-Button\"]"
-        ]
-      }
+      "selector": "[data-qa=\"GDPRBanner-Container\"]"
     },
     "setupad": {
       "selector": ".stpd_cmp_wrapper",
