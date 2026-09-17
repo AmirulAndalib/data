@@ -79,6 +79,12 @@
       ]
     },
     {
+      "urlFilter": "||appdynamics.com/adrum/adrum-",
+      "initiatorDomains": [
+        "telecharge.com"
+      ]
+    },
+    {
       "urlFilter": "||blackbaud.net/proxy/api/track/"
     },
     {
@@ -993,5 +999,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 39
+  "path_exception_count": 40
 }

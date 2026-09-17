@@ -1,10 +1,25 @@
 {
-  "version": "2026-09-16",
-  "generated": "2026-09-16T08:04:14.306Z",
+  "version": "2026-09-17",
+  "generated": "2026-09-17T08:21:10.949Z",
   "type": "tracking_params_sites",
-  "domain_count": 945,
+  "domain_count": 947,
   "param_count": 1938,
   "sites": {
+    "fukuishimbun.co.jp": [
+      "f"
+    ],
+    "natalie.mu": [
+      "place",
+      "ref"
+    ],
+    "shimotsuke.co.jp": [
+      "newsletter",
+      "rankinghour",
+      "ref",
+      "relatedarticle",
+      "source",
+      "top"
+    ],
     "mainichikirei.jp": [
       "ext_m"
     ],
@@ -1509,13 +1524,6 @@
       "referringSource",
       "sgrp",
       "smid"
-    ],
-    "shimotsuke.co.jp": [
-      "newsletter",
-      "rankinghour",
-      "ref",
-      "relatedarticle",
-      "top"
     ],
     "boncharge.com": [
       "shpxid"
