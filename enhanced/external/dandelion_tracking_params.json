@@ -1,10 +1,31 @@
 {
-  "version": "2026-09-17",
-  "generated": "2026-09-17T08:54:11.636Z",
+  "version": "2026-09-18",
+  "generated": "2026-09-18T08:29:33.541Z",
   "type": "tracking_params_sites",
-  "domain_count": 947,
-  "param_count": 1938,
+  "domain_count": 950,
+  "param_count": 1941,
   "sites": {
+    "maps.app.goo.gl": [
+      "g_st"
+    ],
+    "oita-press.co.jp": [
+      "yh"
+    ],
+    "eiga.com": [
+      "cid"
+    ],
+    "instagram.com": [
+      "click_source",
+      "ig_rid",
+      "igsh",
+      "igsi",
+      "short_redirect",
+      "stkn"
+    ],
+    "yahoo.com": [
+      "ncid",
+      "src"
+    ],
     "fukuishimbun.co.jp": [
       "f"
     ],
@@ -2210,9 +2231,6 @@
     "tokyo-np.co.jp": [
       "rct"
     ],
-    "yahoo.com": [
-      "ncid"
-    ],
     "nishispo.nishinippon.co.jp": [
       "rct"
     ],
@@ -2989,13 +3007,6 @@
       "kls_sbp",
       "pfm",
       "prdPV"
-    ],
-    "instagram.com": [
-      "ig_rid",
-      "igsh",
-      "igsi",
-      "short_redirect",
-      "stkn"
     ],
     "mediamarkt.com.tr": [
       "rbtc"
