@@ -1,9 +1,9 @@
 {
-  "version": "2026-09-16",
+  "version": "2026-09-21",
   "type": "cmp_site",
-  "generated": "2026-09-16T08:50:32.782Z",
+  "generated": "2026-09-21T09:17:29.807Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "46cac3c219ec2d6f",
+  "autoconsent_tree_hash": "6ea2deb233ce83fa",
   "cmp_count": 318,
   "signatures": {
     "aacookiebanner": {
@@ -2813,6 +2813,17 @@
         "sostereo.com"
       ]
     },
+    "sourcepointtop": {
+      "selector": "div[id^='sp_message_container_']",
+      "detectors": {
+        "present": [
+          "div[id^='sp_message_container_']"
+        ],
+        "showing": [
+          "div[id^='sp_message_container_']"
+        ]
+      }
+    },
     "squarespacecookiebanner": {
       "selector": ".cookie-banner-mount-point",
       "detectors": {
@@ -3068,17 +3079,6 @@
       },
       "domains": [
         "thefreedictionary.com"
-      ]
-    },
-    "theguardian_com": {
-      "selector": "div[id='sp_message_container_1482251'],div[id='sp_message_container_1482252']",
-      "detectors": {
-        "present": [
-          "div[id='sp_message_container_1482251'],div[id='sp_message_container_1482252']"
-        ]
-      },
-      "domains": [
-        "theguardian.com"
       ]
     },
     "theinfatuation": {
