@@ -1,9 +1,9 @@
 {
-  "version": "2026-09-22",
-  "generated": "2026-09-22T08:42:07.579Z",
+  "version": "2026-09-24",
+  "generated": "2026-09-24T08:29:13.173Z",
   "type": "tracking_params_sites",
-  "domain_count": 959,
-  "param_count": 1951,
+  "domain_count": 960,
+  "param_count": 1961,
   "sites": {
     "cnn.com": [
       "Profile",
@@ -4463,10 +4463,22 @@
     ],
     "harborfreight.com": [
       "infy",
-      "mi_ecmp"
+      "mi_ecmp",
+      "mi_u"
     ],
     "cc.rs6.net": [
       "ch"
+    ],
+    "norton.com": [
+      "fb_ad",
+      "fb_adid",
+      "fb_adset",
+      "fb_campaign",
+      "fb_campaignid",
+      "fermat_adid",
+      "fermat_channel",
+      "fermat_redirect",
+      "om_ext_cid"
     ],
     "ikea.com": [
       "f"
