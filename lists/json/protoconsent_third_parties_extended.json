@@ -1,7 +1,7 @@
 {
   "name": "ProtoConsent Third Parties Extended",
-  "version": "2026-09-11",
-  "generated": "2026-09-11T06:08:58.596Z",
+  "version": "2026-09-24",
+  "generated": "2026-09-24T06:17:35.759Z",
   "description": "Sharing or combining data with third parties, partners or group companies beyond the core service (extended - all sources)",
   "homepage": "https://github.com/ProtoConsent/data",
   "license": "GPL-3.0-or-later",
@@ -577,6 +577,7 @@
     "tidio.co",
     "timbol.iad-03.braze.com",
     "track-eu1.hubspot.com",
+    "track-na2.hubspot.com",
     "tracking.hubspot.com",
     "tritondigital.com",
     "truepush.com",
@@ -659,7 +660,7 @@
     "yotpo.com",
     "zoominfo.com"
   ],
-  "domain_count": 652,
+  "domain_count": 653,
   "paths": [
     "||4399.com/plugins/tj/event?",
     "||adweek.com/wp-content/plugins/adw-parsley/",
@@ -823,6 +824,7 @@
     "||shbarcelona.com/img/socialnetwork/",
     "||sportrecs.com/redirect/embed/",
     "||spotify.com/follow/",
+    "||sputnik.by/files/tgparser/",
     "||static.getdrip.com/assets/",
     "||statuspage.io/embed/frame",
     "||stjegypt.com/uploads/stjnew.jpg",
@@ -861,5 +863,5 @@
     "||youtube.com/subscribe_widget",
     "||zextit.com/partners/"
   ],
-  "path_count": 199
+  "path_count": 200
 }
