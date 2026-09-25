@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated": "2026-09-24T08:29:46.657Z",
+  "generated": "2026-09-25T08:05:15.608Z",
   "lists": {
     "protoconsent_hotfix": {
       "name": "ProtoConsent Hotfix",
@@ -111,10 +111,10 @@
       "preset": "basic",
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/easyprivacy.json",
       "order": 100,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:04.153Z",
-      "domain_count": 46913,
-      "path_rule_count": 4266
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:24.056Z",
+      "domain_count": 46917,
+      "path_rule_count": 4269
     },
     "easylist": {
       "name": "EasyList",
@@ -125,10 +125,10 @@
       "preset": "full",
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/easylist.json",
       "order": 110,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:04.377Z",
-      "domain_count": 51625,
-      "path_rule_count": 1679
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:24.284Z",
+      "domain_count": 51918,
+      "path_rule_count": 1678
     },
     "adguard_dns": {
       "name": "AdGuard DNS Filter",
@@ -139,9 +139,9 @@
       "preset": "basic",
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/adguard_dns.json",
       "order": 120,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:05.096Z",
-      "domain_count": 181515,
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:24.837Z",
+      "domain_count": 181815,
       "path_rule_count": 0
     },
     "oisd_small": {
@@ -153,9 +153,9 @@
       "preset": "full",
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/oisd_small.json",
       "order": 200,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:06.836Z",
-      "domain_count": 57378,
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:26.565Z",
+      "domain_count": 56236,
       "path_rule_count": 0
     },
     "hagezi_pro": {
@@ -181,8 +181,8 @@
       "preset": "full",
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/blp_crypto.json",
       "order": 260,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:07.039Z",
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:26.739Z",
       "domain_count": 1270,
       "path_rule_count": 0
     },
@@ -195,8 +195,8 @@
       "preset": "full",
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/blp_phishing.json",
       "order": 270,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:07.526Z",
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:27.120Z",
       "domain_count": 117995,
       "path_rule_count": 0
     },
@@ -210,8 +210,8 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/cname_trackers.json",
       "type": "informational",
       "order": 300,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:10.783Z",
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:30.247Z",
       "domain_count": 496014,
       "path_rule_count": 0
     },
@@ -225,11 +225,11 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/easylist_cosmetic.json",
       "type": "cosmetic",
       "order": 20,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:11.335Z",
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:30.748Z",
       "domain_count": 7607,
       "path_rule_count": 0,
-      "generic_count": 13633,
+      "generic_count": 13634,
       "domain_rule_count": 15820
     },
     "easylist_cookie_cosmetic": {
@@ -242,12 +242,12 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/easylist_cookie_cosmetic.json",
       "type": "cosmetic",
       "order": 21,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:12.127Z",
-      "domain_count": 16863,
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:31.805Z",
+      "domain_count": 16873,
       "path_rule_count": 0,
       "generic_count": 15272,
-      "domain_rule_count": 18323
+      "domain_rule_count": 18335
     },
     "webannoyances_cosmetic": {
       "name": "Web Annoyances Cosmetic",
@@ -259,8 +259,8 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/webannoyances_cosmetic.json",
       "type": "cosmetic",
       "order": 22,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:12.129Z",
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:31.806Z",
       "domain_count": 4823,
       "path_rule_count": 0,
       "generic_count": 2106,
@@ -276,8 +276,8 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/protoconsent/protoconsent_cmp_signatures.json",
       "type": "cmp",
       "order": 10,
-      "version": "2026-09-22",
-      "generated": "2026-09-22T08:42:06.966Z",
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:38.500Z",
       "domain_count": 0,
       "path_rule_count": 0,
       "cmp_count": 31
@@ -292,11 +292,11 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/protoconsent/protoconsent_cmp_detectors.json",
       "type": "cmp_detectors",
       "order": 11,
-      "version": "2026-09-22",
-      "generated": "2026-09-22T08:42:06.976Z",
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:38.507Z",
       "domain_count": 0,
       "path_rule_count": 0,
-      "cmp_count": 374
+      "cmp_count": 375
     },
     "protoconsent_cmp_signatures_site": {
       "name": "ProtoConsent Site Banners",
@@ -308,11 +308,11 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/protoconsent/protoconsent_cmp_signatures_site.json",
       "type": "cmp_site",
       "order": 12,
-      "version": "2026-09-22",
-      "generated": "2026-09-22T08:42:06.966Z",
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:38.500Z",
       "domain_count": 0,
       "path_rule_count": 0,
-      "cmp_count": 318
+      "cmp_count": 319
     },
     "adguard_tracking_params": {
       "name": "AdGuard Tracking Params",
@@ -324,8 +324,8 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/adguard_tracking_params.json",
       "type": "tracking_params",
       "order": 290,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:13.173Z",
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:38.985Z",
       "domain_count": 0,
       "path_rule_count": 0,
       "param_count": 318
@@ -340,9 +340,9 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/dandelion_tracking_params.json",
       "type": "tracking_params_sites",
       "order": 291,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:13.173Z",
-      "domain_count": 960,
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:04:38.985Z",
+      "domain_count": 961,
       "path_rule_count": 0,
       "param_count": 1961
     },
@@ -388,12 +388,12 @@
       ],
       "type": "regional_cosmetic",
       "order": 21,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:46.101Z",
-      "domain_count": 52272,
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:05:15.102Z",
+      "domain_count": 52280,
       "path_rule_count": 0,
-      "generic_count": 23534,
-      "domain_rule_count": 116583,
+      "generic_count": 23535,
+      "domain_rule_count": 116590,
       "region_count": 30
     },
     "regional_blocking": {
@@ -438,10 +438,10 @@
       ],
       "type": "regional_blocking",
       "order": 281,
-      "version": "2026-09-24",
-      "generated": "2026-09-24T08:29:46.101Z",
-      "domain_count": 82453,
-      "path_rule_count": 25908,
+      "version": "2026-09-25",
+      "generated": "2026-09-25T08:05:15.102Z",
+      "domain_count": 82760,
+      "path_rule_count": 25913,
       "region_count": 30
     }
   }
