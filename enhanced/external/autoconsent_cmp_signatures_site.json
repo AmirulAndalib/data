@@ -1,10 +1,10 @@
 {
-  "version": "2026-09-21",
+  "version": "2026-09-25",
   "type": "cmp_site",
-  "generated": "2026-09-21T09:17:29.807Z",
+  "generated": "2026-09-25T09:05:18.737Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "6ea2deb233ce83fa",
-  "cmp_count": 318,
+  "autoconsent_tree_hash": "9d8eed3e69b0854a",
+  "cmp_count": 319,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -1701,6 +1701,17 @@
       "domains": [
         "ionos.de"
       ]
+    },
+    "iubendarti": {
+      "selector": "#iubenda-cs-banner",
+      "detectors": {
+        "present": [
+          "#rti-privacy-open-modal-btn-id"
+        ],
+        "showing": [
+          "#rti-privacy-open-modal-btn-id"
+        ]
+      }
     },
     "iwink": {
       "selector": "body.cookies-request #cookie-bar",

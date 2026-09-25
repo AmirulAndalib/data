@@ -1,10 +1,10 @@
 {
-  "version": "2026-09-21",
+  "version": "2026-09-25",
   "type": "cmp_detectors",
-  "generated": "2026-09-21T09:17:29.817Z",
+  "generated": "2026-09-25T09:05:18.744Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "6ea2deb233ce83fa",
-  "cmp_count": 374,
+  "autoconsent_tree_hash": "9d8eed3e69b0854a",
+  "cmp_count": 375,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -1530,6 +1530,14 @@
       ],
       "showing": [
         ".iubenda-cs-accept-btn"
+      ]
+    },
+    "iubendarti": {
+      "present": [
+        "#rti-privacy-open-modal-btn-id"
+      ],
+      "showing": [
+        "#rti-privacy-open-modal-btn-id"
       ]
     },
     "iwink": {
