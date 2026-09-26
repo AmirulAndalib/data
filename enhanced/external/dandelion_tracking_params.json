@@ -1,10 +1,13 @@
 {
-  "version": "2026-09-25",
-  "generated": "2026-09-25T08:04:38.985Z",
+  "version": "2026-09-26",
+  "generated": "2026-09-26T08:26:31.510Z",
   "type": "tracking_params_sites",
-  "domain_count": 961,
-  "param_count": 1961,
+  "domain_count": 962,
+  "param_count": 1963,
   "sites": {
+    "esquire.de": [
+      "utm_fenix_story_source"
+    ],
     "hotosena.com": [
       "landing"
     ],
@@ -4465,6 +4468,7 @@
       "qbzs"
     ],
     "harborfreight.com": [
+      "adsetid",
       "infy",
       "mi_ecmp",
       "mi_u"

@@ -132,6 +132,10 @@
       ]
     },
     {
+      "urlFilter": "||files.fm/js/analytics_events.js",
+      "firstParty": true
+    },
+    {
       "urlFilter": "||martech.condenastdigital.com/lib/martech.js",
       "initiatorDomains": [
         "cntraveler.com",
@@ -1000,5 +1004,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 40
+  "path_exception_count": 41
 }
