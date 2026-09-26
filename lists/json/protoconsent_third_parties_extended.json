@@ -1,7 +1,7 @@
 {
   "name": "ProtoConsent Third Parties Extended",
-  "version": "2026-09-25",
-  "generated": "2026-09-25T06:15:10.670Z",
+  "version": "2026-09-26",
+  "generated": "2026-09-26T06:15:25.657Z",
   "description": "Sharing or combining data with third parties, partners or group companies beyond the core service (extended - all sources)",
   "homepage": "https://github.com/ProtoConsent/data",
   "license": "GPL-3.0-or-later",
@@ -520,6 +520,7 @@
     "sjrtp6-cdn.marketo.com",
     "sjrtp6.marketo.com",
     "sjrtp7-cdn.marketo.com",
+    "sjrtp7.marketo.com",
     "sjrtp8-cdn.marketo.com",
     "sjrtp8.marketo.com",
     "sleeknote.com",
@@ -639,7 +640,7 @@
     "yotpo.com",
     "zoominfo.com"
   ],
-  "domain_count": 632,
+  "domain_count": 633,
   "paths": [
     "||4399.com/plugins/tj/event?",
     "||adweek.com/wp-content/plugins/adw-parsley/",
