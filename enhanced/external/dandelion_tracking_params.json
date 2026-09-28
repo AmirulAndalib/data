@@ -1,10 +1,15 @@
 {
-  "version": "2026-09-27",
-  "generated": "2026-09-27T07:13:09.683Z",
+  "version": "2026-09-28",
+  "generated": "2026-09-28T00:46:59.769Z",
   "type": "tracking_params_sites",
-  "domain_count": 964,
+  "domain_count": 965,
   "param_count": 1962,
   "sites": {
+    "cybernews.com": [
+      "campaign",
+      "medium",
+      "source"
+    ],
     "matrix.to": [
       "via"
     ],
