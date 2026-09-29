@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-09-28T07:05:48.783Z
+! Last modified: 2026-09-29T07:03:38.757Z
 ! Format: AdGuard
-! Entries: 14421
+! Entries: 14426
 !
 ||0.myikas.com^$third-party
 ||0stats.com^$third-party
@@ -96,6 +96,7 @@
 ||a869.mercurynews.com^$third-party
 ||a8723.com^$third-party
 ||a8clk.weleda.jp^$third-party
+||a8clk.xserver.ne.jp^$third-party
 ||a8cv.amiami.jp^$third-party
 ||a8cv.postcoffee.co^$third-party
 ||a8cv.somresta.jp^$third-party
@@ -565,6 +566,7 @@
 ||analytics-log.withhive.com^$third-party
 ||analytics-logger.service.junctiontv.net^$third-party
 ||analytics-nssl.bradyid.com^$third-party
+||analytics-pit-nfl.yinzcam.com^$third-party
 ||analytics-prd.aws.wehaa.net^$third-party
 ||analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com^$third-party
 ||analytics-prod.readtheory.org^$third-party
@@ -1807,7 +1809,6 @@
 ||cdn.logrocket.com^$third-party
 ||cdn.mgln.ai^$third-party
 ||cdn.moengage.com^$third-party
-||cdn.plausible.poweredby.soy^$third-party
 ||cdn.polarbyte.com^$third-party
 ||cdn.pranmcpkx.com^$third-party
 ||cdn.prod.euid.eu^$third-party
@@ -1815,7 +1816,6 @@
 ||cdn.segment.com^$third-party
 ||cdn.seonintelligence.com^$third-party
 ||cdn.usefathom.com^$third-party
-||cdn.watchingthat.net^$third-party
 ||cdn1.skrill.com^$third-party
 ||cdnhst.xyz^$third-party
 ||cdnlogs.org^$third-party
@@ -2813,6 +2813,7 @@
 ||dup.baidustatic.com^$third-party
 ||duu8lzqdm8tsz.cloudfront.net^$third-party
 ||duvkog4eyegl0.cloudfront.net^$third-party
+||dvude.javvycoffee.com^$third-party
 ||dw.xcar.com.cn^$third-party
 ||dwin2.com^$third-party
 ||dx.mountain.com^$third-party
@@ -2912,7 +2913,6 @@
 ||egret.hairproject.ch^$third-party
 ||ei.monday.com^$third-party
 ||eicyds.qoo10.jp^$third-party
-||eipqr.rythmhealth.com^$third-party
 ||ejbbcf.finishline.com^$third-party
 ||ek-tracker.ekitan.com^$third-party
 ||ekggp.rmsbeauty.com^$third-party
@@ -2983,6 +2983,7 @@
 ||epsilon.6sense.com^$third-party
 ||eq-beacon.stream.co.jp^$third-party
 ||eq-player-log.cdnext.stream.ne.jp^$third-party
+||eqsdv.everlane.com^$third-party
 ||eqy.link^$third-party
 ||era.easyvoyage.com^$third-party
 ||erate.co.il^$third-party
@@ -3041,6 +3042,7 @@
 ||ev.moneymade.io^$third-party
 ||ev.stellarlabs.ai^$third-party
 ||ev.tpocdm.com^$third-party
+||evdni.littlesleepies.com^$third-party
 ||event-api.rdstation.com.br^$third-party
 ||event-collector.moviesanywhere.com^$third-party
 ||event-collector.prd.data.s.joyn.de^$third-party
@@ -3380,6 +3382,7 @@
 ||fvmpm.fromrebel.com^$third-party
 ||fwpixel.com^$third-party
 ||fyrsbckgi-c.global.ssl.fastly.net^$third-party
+||fzexkf.drogaraia.com.br^$third-party
 ||fzgsu.trueclassictees.com^$third-party
 ||fzlnk.com^$third-party
 ||g-stats.openhost.es^$third-party
@@ -3939,6 +3942,7 @@
 ||inspectlet.com^$third-party
 ||inspector-collector.m.naver.com^$third-party
 ||instana.io^$third-party
+||instapagemetrics.com^$third-party
 ||instreamatic.com^$third-party
 ||int.akisinn.site^$third-party
 ||int.dewrain.life^$third-party
@@ -3949,6 +3953,7 @@
 ||int.vaicore.xyz^$third-party
 ||intake-analytics.wikimedia.org^$third-party
 ||intake-logging.wikimedia.org^$third-party
+||intake-lr.com^$third-party
 ||intelli-direct.com^$third-party
 ||intelliad.de^$third-party
 ||intelligencefocus.com^$third-party
@@ -5416,7 +5421,6 @@
 ||observe-nexus.pointandplace.com^$third-party
 ||observerapp.com^$third-party
 ||obseu.netgreencolumn.com^$third-party
-||obutl.4patriots.com^$third-party
 ||ocelot.anthroquiches.fr^$third-party
 ||ocelot.pixlwebs.nl^$third-party
 ||ocelot.sonicumonitoring.com^$third-party
@@ -6599,6 +6603,7 @@
 ||sdata.connection.com^$third-party
 ||sdata.wiley.com^$third-party
 ||sdc.allianz.de^$third-party
+||sdc.aware.com.au^$third-party
 ||sdcs.felissimo.co.jp^$third-party
 ||sdegwynml.bmaci.me^$third-party
 ||sdk.51.la^$third-party

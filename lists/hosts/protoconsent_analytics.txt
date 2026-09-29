@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-09-28
-# Last modified: 2026-09-28T07:05:48.783Z
-# Entries: 10407
+# Version: 2026-09-29
+# Last modified: 2026-09-29T07:03:38.757Z
+# Entries: 10412
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -96,6 +96,7 @@
 0.0.0.0 a869.mercurynews.com
 0.0.0.0 a8723.com
 0.0.0.0 a8clk.weleda.jp
+0.0.0.0 a8clk.xserver.ne.jp
 0.0.0.0 a8cv.amiami.jp
 0.0.0.0 a8cv.postcoffee.co
 0.0.0.0 a8cv.somresta.jp
@@ -565,6 +566,7 @@
 0.0.0.0 analytics-log.withhive.com
 0.0.0.0 analytics-logger.service.junctiontv.net
 0.0.0.0 analytics-nssl.bradyid.com
+0.0.0.0 analytics-pit-nfl.yinzcam.com
 0.0.0.0 analytics-prd.aws.wehaa.net
 0.0.0.0 analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 0.0.0.0 analytics-prod.readtheory.org
@@ -1807,7 +1809,6 @@
 0.0.0.0 cdn.logrocket.com
 0.0.0.0 cdn.mgln.ai
 0.0.0.0 cdn.moengage.com
-0.0.0.0 cdn.plausible.poweredby.soy
 0.0.0.0 cdn.polarbyte.com
 0.0.0.0 cdn.pranmcpkx.com
 0.0.0.0 cdn.prod.euid.eu
@@ -1815,7 +1816,6 @@
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.seonintelligence.com
 0.0.0.0 cdn.usefathom.com
-0.0.0.0 cdn.watchingthat.net
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 cdnhst.xyz
 0.0.0.0 cdnlogs.org
@@ -2813,6 +2813,7 @@
 0.0.0.0 dup.baidustatic.com
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
 0.0.0.0 duvkog4eyegl0.cloudfront.net
+0.0.0.0 dvude.javvycoffee.com
 0.0.0.0 dw.xcar.com.cn
 0.0.0.0 dwin2.com
 0.0.0.0 dx.mountain.com
@@ -2912,7 +2913,6 @@
 0.0.0.0 egret.hairproject.ch
 0.0.0.0 ei.monday.com
 0.0.0.0 eicyds.qoo10.jp
-0.0.0.0 eipqr.rythmhealth.com
 0.0.0.0 ejbbcf.finishline.com
 0.0.0.0 ek-tracker.ekitan.com
 0.0.0.0 ekggp.rmsbeauty.com
@@ -2983,6 +2983,7 @@
 0.0.0.0 epsilon.6sense.com
 0.0.0.0 eq-beacon.stream.co.jp
 0.0.0.0 eq-player-log.cdnext.stream.ne.jp
+0.0.0.0 eqsdv.everlane.com
 0.0.0.0 eqy.link
 0.0.0.0 era.easyvoyage.com
 0.0.0.0 erate.co.il
@@ -3041,6 +3042,7 @@
 0.0.0.0 ev.moneymade.io
 0.0.0.0 ev.stellarlabs.ai
 0.0.0.0 ev.tpocdm.com
+0.0.0.0 evdni.littlesleepies.com
 0.0.0.0 event-api.rdstation.com.br
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-collector.prd.data.s.joyn.de
@@ -3380,6 +3382,7 @@
 0.0.0.0 fvmpm.fromrebel.com
 0.0.0.0 fwpixel.com
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
+0.0.0.0 fzexkf.drogaraia.com.br
 0.0.0.0 fzgsu.trueclassictees.com
 0.0.0.0 fzlnk.com
 0.0.0.0 g-stats.openhost.es
@@ -3939,6 +3942,7 @@
 0.0.0.0 inspectlet.com
 0.0.0.0 inspector-collector.m.naver.com
 0.0.0.0 instana.io
+0.0.0.0 instapagemetrics.com
 0.0.0.0 instreamatic.com
 0.0.0.0 int.akisinn.site
 0.0.0.0 int.dewrain.life
@@ -3949,6 +3953,7 @@
 0.0.0.0 int.vaicore.xyz
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
+0.0.0.0 intake-lr.com
 0.0.0.0 intelli-direct.com
 0.0.0.0 intelliad.de
 0.0.0.0 intelligencefocus.com
@@ -5416,7 +5421,6 @@
 0.0.0.0 observe-nexus.pointandplace.com
 0.0.0.0 observerapp.com
 0.0.0.0 obseu.netgreencolumn.com
-0.0.0.0 obutl.4patriots.com
 0.0.0.0 ocelot.anthroquiches.fr
 0.0.0.0 ocelot.pixlwebs.nl
 0.0.0.0 ocelot.sonicumonitoring.com
@@ -6599,6 +6603,7 @@
 0.0.0.0 sdata.connection.com
 0.0.0.0 sdata.wiley.com
 0.0.0.0 sdc.allianz.de
+0.0.0.0 sdc.aware.com.au
 0.0.0.0 sdcs.felissimo.co.jp
 0.0.0.0 sdegwynml.bmaci.me
 0.0.0.0 sdk.51.la
