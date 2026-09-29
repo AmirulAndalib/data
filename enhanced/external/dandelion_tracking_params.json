@@ -1,10 +1,17 @@
 {
-  "version": "2026-09-28",
-  "generated": "2026-09-28T10:09:29.798Z",
+  "version": "2026-09-29",
+  "generated": "2026-09-29T10:08:10.515Z",
   "type": "tracking_params_sites",
-  "domain_count": 965,
-  "param_count": 1962,
+  "domain_count": 966,
+  "param_count": 1967,
   "sites": {
+    "afpbb.com": [
+      "cx_from",
+      "cx_id",
+      "cx_part",
+      "cx_position",
+      "cx_rss"
+    ],
     "cybernews.com": [
       "campaign",
       "medium",
