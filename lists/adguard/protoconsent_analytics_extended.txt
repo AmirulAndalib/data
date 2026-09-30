@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-09-29T07:03:38.757Z
+! Last modified: 2026-09-30T06:53:08.238Z
 ! Format: AdGuard
-! Entries: 142384
+! Entries: 142392
 !
 ||0.myikas.com^$third-party
 ||0.net.easyjet.com^$third-party
@@ -5693,7 +5693,6 @@
 ||analytics-pbl.vivino.com^$third-party
 ||analytics-phi-nba.yinzcam.com^$third-party
 ||analytics-pillarfour-1105396686.us-east-1.elb.amazonaws.com^$third-party
-||analytics-pit-nfl.yinzcam.com^$third-party
 ||analytics-por-nba.yinzcam.com^$third-party
 ||analytics-portal.inspiresleep.net^$third-party
 ||analytics-portals.com^$third-party
@@ -16661,6 +16660,7 @@
 ||analytics.vmsw.be^$third-party
 ||analytics.vnet.vpuu.org.za^$third-party
 ||analytics.vnncdn.net^$third-party
+||analytics.vnoc.com^$third-party
 ||analytics.vnpt.vn^$third-party
 ||analytics.vnsh.com^$third-party
 ||analytics.vocusstudios.com^$third-party
@@ -18768,6 +18768,7 @@
 ||apm.okd.liberty.edu^$third-party
 ||apm.qwant.com^$third-party
 ||apm.tnet.nl^$third-party
+||apm.yahoo.co.jp^$third-party
 ||apmplus.volces.com^$third-party
 ||apn.co.nz^$third-party
 ||apnanalytics.com^$third-party
@@ -20123,6 +20124,7 @@
 ||axm-telemetry.apple.com^$third-party
 ||axnskz.power-stones.jp^$third-party
 ||axonik527.analytics-ev.fr^$third-party
+||axonsite.com^$third-party
 ||axoqjt.gommadiretto.it^$third-party
 ||axoqvl.daf-shoes.com^$third-party
 ||axp.2822news.com^$third-party
@@ -20846,6 +20848,7 @@
 ||beacon.qa.walmart.com^$third-party
 ||beacon.qq.com^$third-party
 ||beacon.radiko.jp^$third-party
+||beacon.rallydev.com^$third-party
 ||beacon.s.llnwi.net^$third-party
 ||beacon.samsclub.com^$third-party
 ||beacon.searchspring.io^$third-party
@@ -45637,6 +45640,7 @@
 ||hyos-trk.mymarky.ai^$third-party
 ||hyperactivate.com^$third-party
 ||hypercarart.com^$third-party
+||hyperfrost.net^$third-party
 ||hypers.com^$third-party
 ||hypers.com.cn^$third-party
 ||hypestat.com^$third-party
@@ -73465,6 +73469,7 @@
 ||native.feedback.miui.com^$third-party
 ||nativesdks.cheatmyvegas.com^$third-party
 ||nativesubscribe.pro^$third-party
+||natom.app^$third-party
 ||natpal.com^$third-party
 ||nats.xing.com^$third-party
 ||natsp.xing.com^$third-party
@@ -128606,7 +128611,6 @@
 ||track.stonelakemortgage.com^$third-party
 ||track.store.aloun.org.sa^$third-party
 ||track.storm.mg^$third-party
-||track.strife.com^$third-party
 ||track.stuffedvr.com^$third-party
 ||track.sunmedia.tv^$third-party
 ||track.supplyframe.com^$third-party
@@ -132312,6 +132316,7 @@
 ||umami.keole.agency^$third-party
 ||umami.kingstinct.dev^$third-party
 ||umami.kolle.dev^$third-party
+||umami.l3montree.com^$third-party
 ||umami.lamvda.uyiatha.com^$third-party
 ||umami.lenciel.com^$third-party
 ||umami.leutsch.dev^$third-party
@@ -132977,6 +132982,7 @@
 ||userreplay.net^$third-party
 ||users-api.com^$third-party
 ||users.videasy.to^$third-party
+||users.vidy.st^$third-party
 ||usersegment.wpdigital.net^$third-party
 ||usersonlinecounter.com^$third-party
 ||userstatics.com^$third-party
@@ -139622,6 +139628,7 @@
 ||galaxus.com/_next/static/chunks/rum.^
 ||game-i.daa.jp/skin/analytics.php^
 ||game8.jp/logs^
+||gamedaily.com/.api/admiral^
 ||gamedistribution.com/collect?^
 ||gamedistribution.com/event?^
 ||gamedock.io/gamemonkey-web-tracker/^
@@ -140005,6 +140012,7 @@
 ||iphoneaddict.fr/wp-content/*/counter.php^
 ||iphonelife.com/_app/immutable/chunks/TrackingParamsFormInputs.^
 ||iplsc.com/inpl.log/^
+||ippen.space/api/metrics^
 ||ippen.space/idat^
 ||ipqualityscore.com/api/^
 ||ipstatp.com/growth/fe_sdk/reportsdk/^

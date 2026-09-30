@@ -1,7 +1,7 @@
 {
   "name": "ProtoConsent Third Parties Extended",
-  "version": "2026-09-29",
-  "generated": "2026-09-29T07:03:38.757Z",
+  "version": "2026-09-30",
+  "generated": "2026-09-30T06:53:08.238Z",
   "description": "Sharing or combining data with third parties, partners or group companies beyond the core service (extended - all sources)",
   "homepage": "https://github.com/ProtoConsent/data",
   "license": "GPL-3.0-or-later",
@@ -94,6 +94,8 @@
     "app-ab20.marketo.com",
     "app-ab23.marketo.com",
     "app-ab24.marketo.com",
+    "app-ab25.marketo.com",
+    "app-ab26.marketo.com",
     "app-ab28.marketo.com",
     "app-ab29.marketo.com",
     "app-ab30.marketo.com",
@@ -118,6 +120,7 @@
     "app-sj04.marketo.com",
     "app-sj05.marketo.com",
     "app-sj06.marketo.com",
+    "app-sj07.marketo.com",
     "app-sj08.marketo.com",
     "app-sj11.marketo.com",
     "app-sj13.marketo.com",
@@ -637,7 +640,7 @@
     "yotpo.com",
     "zoominfo.com"
   ],
-  "domain_count": 630,
+  "domain_count": 633,
   "paths": [
     "||4399.com/plugins/tj/event?",
     "||adweek.com/wp-content/plugins/adw-parsley/",
