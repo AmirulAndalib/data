@@ -1,10 +1,20 @@
 {
-  "version": "2026-09-29",
-  "generated": "2026-09-29T10:08:10.515Z",
+  "version": "2026-09-30",
+  "generated": "2026-09-30T09:59:44.381Z",
   "type": "tracking_params_sites",
-  "domain_count": 966,
-  "param_count": 1967,
+  "domain_count": 971,
+  "param_count": 1980,
   "sites": {
+    "dailymail.com": [
+      "ito",
+      "ns_campaign",
+      "ns_mchannel"
+    ],
+    "instacart.com": [
+      "ic_campaignid",
+      "ic_source",
+      "improvedParams"
+    ],
     "afpbb.com": [
       "cx_from",
       "cx_id",
@@ -221,7 +231,7 @@
     "j-cast.com": [
       "in"
     ],
-    "hanasone.mainichi.jp": [
+    "mainichi.jp": [
       "inb"
     ],
     "adesampa.com.br": [
@@ -328,7 +338,7 @@
       "ea_src"
     ],
     "oricon.co.jp": [
-      "ref",
+      "anc",
       "ref_cd"
     ],
     "adguard-dns.io": [
@@ -1036,6 +1046,7 @@
       "trackIdTrailer"
     ],
     "nintendo.com": [
+      "crmid",
       "nt_redirect_referrer"
     ],
     "code-wallets.com": [
@@ -1199,7 +1210,9 @@
     ],
     "fiverr.com": [
       "afp",
+      "agid",
       "bta",
+      "caid",
       "context_alg",
       "context_referrer",
       "context_type",
@@ -4212,6 +4225,8 @@
       "REF"
     ],
     "mcafee.com": [
+      "ccoe",
+      "ccoel2",
       "ccstype",
       "cctype"
     ],
@@ -4327,9 +4342,6 @@
     ],
     "obs.no": [
       "matchtype"
-    ],
-    "instacart.com": [
-      "improvedParams"
     ],
     "finn.no": [
       "alertType",
@@ -4502,6 +4514,23 @@
       "content_source",
       "fb_content_id",
       "tag4"
+    ],
+    "liquid-iv.com": [
+      "fb_adsetid"
+    ],
+    "parkcitymountain.com": [
+      "ad",
+      "adname"
+    ],
+    "dbrand.com": [
+      "adname",
+      "cvg_adid",
+      "cvg_cid",
+      "cvg_source"
+    ],
+    "cox.com": [
+      "leadref",
+      "sc_id"
     ],
     "ikea.com": [
       "f"
