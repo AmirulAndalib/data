@@ -823,6 +823,12 @@
       ]
     },
     {
+      "urlFilter": "||bvr.ast.snva.jp/beaver.js",
+      "initiatorDomains": [
+        "kojima.net"
+      ]
+    },
+    {
       "urlFilter": "||directg.jp/js/fingerprint2.js",
       "firstParty": true
     },
@@ -844,6 +850,33 @@
       "urlFilter": "||a.vdo.ai/core/v-m-timesofindia-v3/vdo.ai.js",
       "initiatorDomains": [
         "timesofindia.indiatimes.com"
+      ]
+    },
+    {
+      "urlFilter": "||amazon-adsystem.com/aax2/apstag.js",
+      "initiatorDomains": [
+        "accuweather.com",
+        "barstoolsports.com",
+        "familyhandyman.com",
+        "foxbusiness.com",
+        "gamingbible.co.uk",
+        "history.com",
+        "independent.co.uk",
+        "inquirer.com",
+        "keloland.com",
+        "radio.com",
+        "rd.com",
+        "si.com",
+        "sportbible.com",
+        "tasteofhome.com",
+        "the-independent.com",
+        "thehealthy.com",
+        "time.com",
+        "wboy.com",
+        "wellgames.com",
+        "wkrn.com",
+        "wlns.com",
+        "wvnstv.com"
       ]
     },
     {
@@ -891,15 +924,12 @@
         "asianembed.cam",
         "autokult.pl",
         "bbc.com",
-        "blastingnews.com",
         "bloomberg.co.jp",
         "bloomberg.com",
         "bsfuji.tv",
         "cbc.ca",
         "cbsnews.com",
         "cbssports.com",
-        "chicagotribune.com",
-        "clickorlando.com",
         "cnet.com",
         "crunchyroll.com",
         "delish.com",
@@ -908,32 +938,19 @@
         "doubtnut.com",
         "einthusan.tv",
         "etonline.com",
-        "farfeshplus.com",
-        "fastcompany.com",
         "filmweb.pl",
         "france24.com",
         "game.pointmall.rakuten.net",
         "gamebox.gesoten.com",
         "gamepix.com",
         "gameplayneo.com",
-        "games.usatoday.com",
         "gbnews.com",
         "geo.dailymotion.com",
         "givemesport.com",
-        "goodmorningamerica.com",
-        "goodstream.uno",
         "gospodari.com",
-        "haberler.com",
-        "howstuffworks.com",
         "humix.com",
         "ignboards.com",
-        "iheart.com",
         "insideedition.com",
-        "irctc.co.in",
-        "jilliandescribecompany.com",
-        "klix.ba",
-        "ktla.com",
-        "kxan.com",
         "laurelberninteriors.com",
         "lemino.docomo.ne.jp",
         "locipo.jp",
@@ -942,7 +959,6 @@
         "metacritic.com",
         "minigame.aeriagames.jp",
         "missoulian.com",
-        "myspace.com",
         "nettavisen.no",
         "newsweek.com",
         "njbeachcams.com",
@@ -959,7 +975,6 @@
         "rfi.fr",
         "root.cz",
         "rte.ie",
-        "rumble.com",
         "s.yimg.jp",
         "scrippsdigital.com",
         "sonyliv.com",
@@ -967,13 +982,9 @@
         "southparkstudios.com",
         "spiele.heise.de",
         "sportsbull.jp",
-        "sportsport.ba",
         "stirr.com",
-        "success-games.net",
-        "synk-casualgames.com",
         "tbs.co.jp",
         "tdn.com",
-        "thecw.com",
         "truvid.com",
         "tubitv.com",
         "tunein.com",
@@ -984,11 +995,9 @@
         "tver.jp",
         "tvp.pl",
         "univtec.com",
-        "utsports.com",
         "video.tv-tokyo.co.jp",
         "vlive.tv",
         "watch.nba.com",
-        "wbal.com",
         "weather.com",
         "webdunia.com",
         "wellgames.com",
@@ -998,6 +1007,151 @@
         "wtk.pl",
         "zdnet.com",
         "zeebiz.com"
+      ]
+    },
+    {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3_dai.js",
+      "initiatorDomains": [
+        "247sports.com",
+        "4029tv.com",
+        "bet.com",
+        "bloomberg.co.jp",
+        "bloomberg.com",
+        "cbc.ca",
+        "cbssports.com",
+        "cc.com",
+        "digi24.ro",
+        "gbnews.com",
+        "history.com",
+        "kcci.com",
+        "kcra.com",
+        "kmbc.com",
+        "koat.com",
+        "koco.com",
+        "ksbw.com",
+        "mynbc5.com",
+        "paramountplus.com",
+        "s.yimg.jp",
+        "sbs.com.au",
+        "sonyliv.com",
+        "tv.rakuten.co.jp",
+        "vk.sportsbull.jp",
+        "wapt.com",
+        "watchcharge.com",
+        "wbaltv.com",
+        "wcvb.com",
+        "wdsu.com",
+        "wesh.com",
+        "wgal.com",
+        "wisn.com",
+        "wjcl.com",
+        "wlky.com",
+        "wlwt.com",
+        "wmtw.com",
+        "wmur.com",
+        "worldsurfleague.com",
+        "wpbf.com",
+        "wtae.com",
+        "wvtm13.com",
+        "wxii12.com",
+        "wyff4.com"
+      ]
+    },
+    {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3_debug.js",
+      "initiatorDomains": [
+        "brightcove.net",
+        "cbsnews.com",
+        "embed.sportsline.com",
+        "insideedition.com",
+        "pch.com"
+      ]
+    },
+    {
+      "urlFilter": "||googletagservices.com/tag/js/gpt.js",
+      "initiatorDomains": [
+        "chegg.com",
+        "chelseafc.com",
+        "epaper.timesgroup.com",
+        "k2radio.com",
+        "koel.com",
+        "kowb1290.com",
+        "nationalreview.com",
+        "nationalworld.com",
+        "nbcsports.com",
+        "scotsman.com",
+        "tv-asahi.co.jp",
+        "uefa.com",
+        "vimeo.com",
+        "vlive.tv",
+        "voici.fr",
+        "windalert.com"
+      ]
+    },
+    {
+      "urlFilter": "||g.doubleclick.net/gpt/pubads_impl_",
+      "initiatorDomains": [
+        "accuweather.com",
+        "bloomberg.com",
+        "chelseafc.com",
+        "chromatographyonline.com",
+        "cornwalllive.com",
+        "digitaltrends.com",
+        "downdetector.com",
+        "edy.rakuten.co.jp",
+        "epaper.timesgroup.com",
+        "formularywatch.com",
+        "game.anymanager.io",
+        "games.coolgames.com",
+        "managedhealthcareexecutive.com",
+        "medicaleconomics.com",
+        "nationalreview.com",
+        "nationalworld.com",
+        "nbcsports.com",
+        "nycgo.com",
+        "physicianspractice.com",
+        "scotsman.com",
+        "telsu.fi",
+        "voici.fr",
+        "weather.com"
+      ]
+    },
+    {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "allb.game-db.tw",
+        "battlecats-db.com",
+        "cpu-world.com",
+        "game.anymanager.io",
+        "games.wkb.jp",
+        "html5.gamedistribution.com",
+        "knowfacts.info",
+        "lacoste.com",
+        "megagames.com",
+        "megaleech.us",
+        "newson.us",
+        "radioviainternet.nl",
+        "real-sports.jp",
+        "slideplayer.com",
+        "sudokugame.org",
+        "tampermonkey.net",
+        "thefreedictionary.com"
+      ]
+    },
+    {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl",
+      "initiatorDomains": [
+        "battlecats-db.com",
+        "game.anymanager.io",
+        "games.wkb.jp",
+        "sudokugame.org"
+      ]
+    },
+    {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/slotcar_library_",
+      "initiatorDomains": [
+        "game.anymanager.io",
+        "sudokugame.org"
       ]
     },
     {
@@ -1012,5 +1166,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 42
+  "path_exception_count": 51
 }
