@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-09-30
-# Last modified: 2026-09-30T06:53:08.238Z
-# Entries: 10432
+# Version: 2026-10-01
+# Last modified: 2026-10-01T07:17:33.559Z
+# Entries: 10431
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -855,6 +855,7 @@
 0.0.0.0 analytics.nianticspatial.com
 0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.nodecraft.com
+0.0.0.0 analytics.nordea.com
 0.0.0.0 analytics.nordea.dk
 0.0.0.0 analytics.nordea.fi
 0.0.0.0 analytics.nordea.no
@@ -1179,6 +1180,7 @@
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 aplus.alibaba.com
 0.0.0.0 apm.qwant.com
+0.0.0.0 apm.yahoo.co.jp
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
 0.0.0.0 app-analytics.huami.com
@@ -2543,13 +2545,11 @@
 0.0.0.0 data.eml.wegmans.com
 0.0.0.0 data.eu.pendo.io
 0.0.0.0 data.gosquared.com
-0.0.0.0 data.guest.princess.com
 0.0.0.0 data.hailuo.ai
 0.0.0.0 data.hicloud.com
 0.0.0.0 data.inbank.it
 0.0.0.0 data.info.avianca.com
 0.0.0.0 data.info.consumercellular.com
-0.0.0.0 data.info.infomoney.com.br
 0.0.0.0 data.info.xpi.com.br
 0.0.0.0 data.information.optum.com
 0.0.0.0 data.inswa.coca-cola.com
@@ -2887,7 +2887,6 @@
 0.0.0.0 eclick.baidu.com
 0.0.0.0 eco-tag.jp
 0.0.0.0 ecomm.events
-0.0.0.0 ecommerce-events.adscale.com
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 econda-monitor.de
 0.0.0.0 ecustomeropinions.com
@@ -2979,7 +2978,6 @@
 0.0.0.0 entravision.com
 0.0.0.0 enviousthread.com
 0.0.0.0 eoapxl.com
-0.0.0.0 eocfk.thehappyplanner.com
 0.0.0.0 eodda.womanwithin.com
 0.0.0.0 ep.jamx.ai
 0.0.0.0 epitrack.com
@@ -3793,6 +3791,8 @@
 0.0.0.0 hoverfly.papercrowns.com
 0.0.0.0 hoverfly.wholeheartedceremonies.com.au
 0.0.0.0 hoverfly.winchdesign.cn
+0.0.0.0 hpiup.littlesleepies.com
+0.0.0.0 hrm.healthgrades.com
 0.0.0.0 hs-analytics.net
 0.0.0.0 hscta.net
 0.0.0.0 hscvk.tnuck.com
@@ -4902,7 +4902,6 @@
 0.0.0.0 metrics.hbogola.com
 0.0.0.0 metrics.health.com
 0.0.0.0 metrics.heraldsun.com.au
-0.0.0.0 metrics.hkexpress.com
 0.0.0.0 metrics.hrblock.com
 0.0.0.0 metrics.hydraulicspneumatics.com
 0.0.0.0 metrics.icloud.com
@@ -5453,9 +5452,9 @@
 0.0.0.0 offer.slgnt.eu
 0.0.0.0 officestylist.com
 0.0.0.0 oghub.io
+0.0.0.0 ogpzj.tumi.com
 0.0.0.0 ogt.jp
 0.0.0.0 ohmystats.com
-0.0.0.0 oiat.dow.com
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oktopost.com
 0.0.0.0 ol-collector.quillbot.com
@@ -6058,6 +6057,7 @@
 0.0.0.0 purpose.maxizoo.be
 0.0.0.0 purpose.maxizoo.fr
 0.0.0.0 purpose.maxizoo.ie
+0.0.0.0 purpose.maxizoo.pl
 0.0.0.0 push-api.topaz-analytics.com
 0.0.0.0 push4site.com
 0.0.0.0 push7.jp
@@ -6100,7 +6100,6 @@
 0.0.0.0 qcvji.aliceandolivia.com
 0.0.0.0 qeigr.luluandgeorgia.com
 0.0.0.0 qfp.intuit.com
-0.0.0.0 qgdgj.bugmd.com
 0.0.0.0 qhtqr.mindbodygreen.com
 0.0.0.0 qhupdate.com
 0.0.0.0 qjnhs.teva.com
@@ -6645,6 +6644,7 @@
 0.0.0.0 secure.365smartenterprising.com
 0.0.0.0 secure.365syndicate-smart.com
 0.0.0.0 secure.alea6badb.com
+0.0.0.0 secure.bait4role.com
 0.0.0.0 secure.care5alea.com
 0.0.0.0 secure.cuba7tilt.com
 0.0.0.0 secure.data-creativecompany.com
@@ -7280,6 +7280,7 @@
 0.0.0.0 smetrics.grundfos.com
 0.0.0.0 smetrics.guaranteedrate.com
 0.0.0.0 smetrics.gvb.ch
+0.0.0.0 smetrics.h-dnet.com
 0.0.0.0 smetrics.ha.com
 0.0.0.0 smetrics.handelsbanken.nl
 0.0.0.0 smetrics.handelsbanken.se
@@ -7712,6 +7713,7 @@
 0.0.0.0 smetrics.thoughtworks.com
 0.0.0.0 smetrics.three.co.uk
 0.0.0.0 smetrics.three.ie
+0.0.0.0 smetrics.thrivent.com
 0.0.0.0 smetrics.tiaa.org
 0.0.0.0 smetrics.ticket.se
 0.0.0.0 smetrics.ticketsatwork.com
@@ -7878,7 +7880,6 @@
 0.0.0.0 somni.australia.com
 0.0.0.0 somni.bell.ca
 0.0.0.0 somni.bluecrossma.com
-0.0.0.0 somni.bluecrossma.org
 0.0.0.0 somni.carecredit.com
 0.0.0.0 somni.carecreditprovidercenter.com
 0.0.0.0 somni.choicehotels.com
@@ -8734,7 +8735,6 @@
 0.0.0.0 t.hypers.com.cn
 0.0.0.0 t.imgur.com
 0.0.0.0 t.indeed.com
-0.0.0.0 t.janieandjack.com
 0.0.0.0 t.jasper.ai
 0.0.0.0 t.jobsyn.org
 0.0.0.0 t.jossandmain.com
@@ -8987,7 +8987,6 @@
 0.0.0.0 tccd.douglas.es
 0.0.0.0 tccd.douglas.it
 0.0.0.0 tccd.douglas.nl
-0.0.0.0 tccd.douglas.sk
 0.0.0.0 tcimg.com
 0.0.0.0 tctm.co
 0.0.0.0 td.caranddriver.com
@@ -9186,7 +9185,6 @@
 0.0.0.0 tms.tescomobile.com
 0.0.0.0 tms.virginatlantic.com
 0.0.0.0 tms.zwilling.com
-0.0.0.0 tniujy.natura.com.br
 0.0.0.0 tns-counter.ru
 0.0.0.0 tns-cs.net
 0.0.0.0 tns-gallup.dk
@@ -9968,6 +9966,7 @@
 0.0.0.0 vertster.com
 0.0.0.0 verybark.com
 0.0.0.0 verybouncy.com
+0.0.0.0 veselchaga.link
 0.0.0.0 vgs-collect-keeper.apps.verygood.systems
 0.0.0.0 vgwort.de
 0.0.0.0 vicuna.casa-moebel.at

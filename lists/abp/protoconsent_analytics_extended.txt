@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-09-30
-! Last modified: 2026-09-30T06:53:08.238Z
-! Entries: 142392
+! Version: 2026-10-01
+! Last modified: 2026-10-01T07:17:33.559Z
+! Entries: 142409
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -15947,6 +15947,7 @@
 ||analytics.timeless.investments^$third-party
 ||analytics.timeta.co^$third-party
 ||analytics.timetapp.nl^$third-party
+||analytics.timo-reymann.de^$third-party
 ||analytics.timogrossenbacher.ch^$third-party
 ||analytics.timotheduc.com^$third-party
 ||analytics.timothyoesch.ch^$third-party
@@ -17440,6 +17441,7 @@
 ||analytics3.ricu.it^$third-party
 ||analytics33.techsmith.com^$third-party
 ||analytics4all.org^$third-party
+||analytics5.slayprod.com^$third-party
 ||analytics54.techsmith.com^$third-party
 ||analytics652.sonatek-group.fr^$third-party
 ||analytics8.com^$third-party
@@ -22013,6 +22015,7 @@
 ||browserguides.net^$third-party
 ||browserhawk.com^$third-party
 ||browserpusher.com^$third-party
+||browsertdidticket.m.qq.com^$third-party
 ||browsing.doamore.com^$third-party
 ||brp.tt.omtrdc.net^$third-party
 ||brpdealermarketing.azureedge.net^$third-party
@@ -35176,7 +35179,6 @@
 ||ecoenergyinsights.com^$third-party
 ||ecom.mss.hertz.io^$third-party
 ||ecomm.events^$third-party
-||ecommerce-events.adscale.com^$third-party
 ||ecommercesolutions.com.br^$third-party
 ||ecommstats.com^$third-party
 ||ecommstats.s3.amazonaws.com^$third-party
@@ -35372,6 +35374,7 @@
 ||edperformance.com^$third-party
 ||edq.com^$third-party
 ||edrone.me^$third-party
+||edshowpigs.com^$third-party
 ||edt02.net^$third-party
 ||edtp.de^$third-party
 ||edu.retireone.com^$third-party
@@ -37329,6 +37332,7 @@
 ||events.robertsonelectric.com^$third-party
 ||events.s4long.com^$third-party
 ||events.santander.co.uk^$third-party
+||events.searchtap.net^$third-party
 ||events.shareably.net^$third-party
 ||events.shoplift.ai^$third-party
 ||events.sk.ht^$third-party
@@ -39830,6 +39834,7 @@
 ||gateway1.ashleyshaw.ca^$third-party
 ||gatewaypn.com^$third-party
 ||gather.donga.com^$third-party
+||gatherer.m.qq.com^$third-party
 ||gator.io^$third-party
 ||gator.volces.com^$third-party
 ||gatorapi.com^$third-party
@@ -40600,6 +40605,7 @@
 ||gkkul.photozyme.com^$third-party
 ||gkopqp.coccodrillo.eu^$third-party
 ||gksqdt.reitmans.com^$third-party
+||gkx.gokwik.co^$third-party
 ||gl-product-analytics.com^$third-party
 ||gl.ewdcloud.com^$third-party
 ||gl.hostcg.com^$third-party
@@ -76148,6 +76154,7 @@
 ||p.redipiufitness.it^$third-party
 ||p.retool.com^$third-party
 ||p.ryanhalliday.com^$third-party
+||p.sa7eer.com^$third-party
 ||p.sec.miui.com^$third-party
 ||p.sitemana.com^$third-party
 ||p.skimresources.com^$third-party
@@ -125164,6 +125171,7 @@
 ||theappreciationengine.com^$third-party
 ||theardent.group^$third-party
 ||thebestlinks.com^$third-party
+||thebicyclehut.com^$third-party
 ||theboedekergroup.com^$third-party
 ||theboeingcompany.tt.omtrdc.net^$third-party
 ||thecas.xyz^$third-party
@@ -127849,6 +127857,7 @@
 ||track.congressodefelicidade.com.br^$third-party
 ||track.connect.bcg.com^$third-party
 ||track.controlyours.com^$third-party
+||track.convertfox.com^$third-party
 ||track.copuz.com^$third-party
 ||track.cordial.io^$third-party
 ||track.cornerstonebuildingbrands.com^$third-party
@@ -129075,6 +129084,7 @@
 ||trackertest.org^$third-party
 ||trackfeed.com^$third-party
 ||trackgecko.pl^$third-party
+||trackhaven.com^$third-party
 ||trackhorizon.nnmtools.com^$third-party
 ||trackhs.com^$third-party
 ||trackicollect.ibase.fr^$third-party
@@ -130595,6 +130605,7 @@
 ||trafic.lexpublishing.fr^$third-party
 ||trafic.ro^$third-party
 ||trafico.prensaiberica.es^$third-party
+||trafik.koopit.ist^$third-party
 ||trafikkfondet.no^$third-party
 ||trafit.com^$third-party
 ||traggetters.com^$third-party
@@ -138471,6 +138482,7 @@
 ||api.tsc.ca/Tracking/v1/events/^
 ||api.tv.de/*/tracking/^
 ||api.usestoryteller.com/api/app/activity/recordActivity?^
+||api.useunloq.com/event_management/^
 ||api.vk.com/method/statEvents.^
 ||api.vp.rambler.ru/events/^
 ||api.whtvr.ai/api/sdk/analytics/^
@@ -138892,6 +138904,7 @@
 ||cdn.super.com/remote-event-registry.json^
 ||cdn.tds.bid/bid.js^
 ||cdn.tolt.io/tolt.js^
+||cdn.zeroclick.io/scripts/badge.js^
 ||cdn.zg-api.com/a/z/js/v1/analytics.js^
 ||cdnjs.work/metrics.js^
 ||cdnma.com/apps/capture.js^
@@ -139157,7 +139170,6 @@
 ||cvs.com/tnadstlinj.js^
 ||cxgpt1.goindigo.in/forward/v2/track^
 ||cybernews.com/clientfpid/^
-||cybernews.com/fxq4/^
 ||d.impactradius-event.com/^
 ||d.la1-c1-iad.salesforceliveagent.com/^
 ||d14pdm1b7fi5kh.cloudfront.net/script.js^
@@ -139175,6 +139187,7 @@
 ||daiichi-kamotsu.co.jp/js/google_analytics.js^
 ||dailymail.co.uk/geo/^
 ||dailymail.co.uk/rta2/^
+||dailymail.com/zephr/features^
 ||dailymotion.com/logger/^
 ||daioncdn.net/events?^
 ||dap-cn.c.hihonor.com/dap/jssdk.js^
@@ -140690,6 +140703,7 @@
 ||npo.nl/divolte/tt/web-event?^
 ||npo.nl/tag/atinternet/^
 ||nslookup.io/pl.js^
+||nstool.netease.com/info.js^
 ||ntm.pstatic.net/scripts/ntm_^
 ||ntmb.de/count.html?^
 ||nude.hu/html/track.js^
@@ -140847,6 +140861,7 @@
 ||pdffiller.com/funnel.php?^
 ||pdffiller.com/mpages/track/^
 ||pdfforge.org/api/kd-gdpr-cc^
+||pdp.gokwik.co/cart-get-tokens.html^
 ||pearos.xyz/track.php^
 ||pega.com/logserver^
 ||pendo.io/data/ptm.gif/^
@@ -141566,6 +141581,7 @@
 ||static.rebelboost.com/tracking/^
 ||static.republika.co.id/js/tracker.js^
 ||static.shopmy.us/Affiliates/sms_aff_clicktrack.js^
+||static.ws.126.net/utf8/3g/util/antanalysis.min.js^
 ||staticasset.amarujala.com/handler/recomUserEvent.js^
 ||staticmoly.me/metric.php^
 ||statig.com.br/pub/setCookie.js?^
@@ -142022,6 +142038,7 @@
 ||vcita.com/tr_^
 ||vdo.ai/core/logger.php?^
 ||vdo.ai/core/scantrad-net/^
+||vecteezy.com/dmpu/^
 ||vector.co/pixel.js^
 ||vedomosti.ru/boom?^
 ||vee24.com/c/PageBehaviour?^

@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-09-30T06:53:08.238Z
+! Last modified: 2026-10-01T07:17:33.559Z
 ! Format: AdGuard
-! Entries: 14446
+! Entries: 14445
 !
 ||0.myikas.com^$third-party
 ||0stats.com^$third-party
@@ -855,6 +855,7 @@
 ||analytics.nianticspatial.com^$third-party
 ||analytics.nike.com^$third-party
 ||analytics.nodecraft.com^$third-party
+||analytics.nordea.com^$third-party
 ||analytics.nordea.dk^$third-party
 ||analytics.nordea.fi^$third-party
 ||analytics.nordea.no^$third-party
@@ -1179,6 +1180,7 @@
 ||apiv2.moengage.com^$third-party
 ||aplus.alibaba.com^$third-party
 ||apm.qwant.com^$third-party
+||apm.yahoo.co.jp^$third-party
 ||app-analytics-ru.huami.com^$third-party
 ||app-analytics-services.com^$third-party
 ||app-analytics.huami.com^$third-party
@@ -2543,13 +2545,11 @@
 ||data.eml.wegmans.com^$third-party
 ||data.eu.pendo.io^$third-party
 ||data.gosquared.com^$third-party
-||data.guest.princess.com^$third-party
 ||data.hailuo.ai^$third-party
 ||data.hicloud.com^$third-party
 ||data.inbank.it^$third-party
 ||data.info.avianca.com^$third-party
 ||data.info.consumercellular.com^$third-party
-||data.info.infomoney.com.br^$third-party
 ||data.info.xpi.com.br^$third-party
 ||data.information.optum.com^$third-party
 ||data.inswa.coca-cola.com^$third-party
@@ -2887,7 +2887,6 @@
 ||eclick.baidu.com^$third-party
 ||eco-tag.jp^$third-party
 ||ecomm.events^$third-party
-||ecommerce-events.adscale.com^$third-party
 ||ecommstats.s3.amazonaws.com^$third-party
 ||econda-monitor.de^$third-party
 ||ecustomeropinions.com^$third-party
@@ -2979,7 +2978,6 @@
 ||entravision.com^$third-party
 ||enviousthread.com^$third-party
 ||eoapxl.com^$third-party
-||eocfk.thehappyplanner.com^$third-party
 ||eodda.womanwithin.com^$third-party
 ||ep.jamx.ai^$third-party
 ||epitrack.com^$third-party
@@ -3793,6 +3791,8 @@
 ||hoverfly.papercrowns.com^$third-party
 ||hoverfly.wholeheartedceremonies.com.au^$third-party
 ||hoverfly.winchdesign.cn^$third-party
+||hpiup.littlesleepies.com^$third-party
+||hrm.healthgrades.com^$third-party
 ||hs-analytics.net^$third-party
 ||hscta.net^$third-party
 ||hscvk.tnuck.com^$third-party
@@ -4902,7 +4902,6 @@
 ||metrics.hbogola.com^$third-party
 ||metrics.health.com^$third-party
 ||metrics.heraldsun.com.au^$third-party
-||metrics.hkexpress.com^$third-party
 ||metrics.hrblock.com^$third-party
 ||metrics.hydraulicspneumatics.com^$third-party
 ||metrics.icloud.com^$third-party
@@ -5453,9 +5452,9 @@
 ||offer.slgnt.eu^$third-party
 ||officestylist.com^$third-party
 ||oghub.io^$third-party
+||ogpzj.tumi.com^$third-party
 ||ogt.jp^$third-party
 ||ohmystats.com^$third-party
-||oiat.dow.com^$third-party
 ||oimg.nbcuni.com^$third-party
 ||oktopost.com^$third-party
 ||ol-collector.quillbot.com^$third-party
@@ -6058,6 +6057,7 @@
 ||purpose.maxizoo.be^$third-party
 ||purpose.maxizoo.fr^$third-party
 ||purpose.maxizoo.ie^$third-party
+||purpose.maxizoo.pl^$third-party
 ||push-api.topaz-analytics.com^$third-party
 ||push4site.com^$third-party
 ||push7.jp^$third-party
@@ -6100,7 +6100,6 @@
 ||qcvji.aliceandolivia.com^$third-party
 ||qeigr.luluandgeorgia.com^$third-party
 ||qfp.intuit.com^$third-party
-||qgdgj.bugmd.com^$third-party
 ||qhtqr.mindbodygreen.com^$third-party
 ||qhupdate.com^$third-party
 ||qjnhs.teva.com^$third-party
@@ -6645,6 +6644,7 @@
 ||secure.365smartenterprising.com^$third-party
 ||secure.365syndicate-smart.com^$third-party
 ||secure.alea6badb.com^$third-party
+||secure.bait4role.com^$third-party
 ||secure.care5alea.com^$third-party
 ||secure.cuba7tilt.com^$third-party
 ||secure.data-creativecompany.com^$third-party
@@ -7280,6 +7280,7 @@
 ||smetrics.grundfos.com^$third-party
 ||smetrics.guaranteedrate.com^$third-party
 ||smetrics.gvb.ch^$third-party
+||smetrics.h-dnet.com^$third-party
 ||smetrics.ha.com^$third-party
 ||smetrics.handelsbanken.nl^$third-party
 ||smetrics.handelsbanken.se^$third-party
@@ -7712,6 +7713,7 @@
 ||smetrics.thoughtworks.com^$third-party
 ||smetrics.three.co.uk^$third-party
 ||smetrics.three.ie^$third-party
+||smetrics.thrivent.com^$third-party
 ||smetrics.tiaa.org^$third-party
 ||smetrics.ticket.se^$third-party
 ||smetrics.ticketsatwork.com^$third-party
@@ -7878,7 +7880,6 @@
 ||somni.australia.com^$third-party
 ||somni.bell.ca^$third-party
 ||somni.bluecrossma.com^$third-party
-||somni.bluecrossma.org^$third-party
 ||somni.carecredit.com^$third-party
 ||somni.carecreditprovidercenter.com^$third-party
 ||somni.choicehotels.com^$third-party
@@ -8734,7 +8735,6 @@
 ||t.hypers.com.cn^$third-party
 ||t.imgur.com^$third-party
 ||t.indeed.com^$third-party
-||t.janieandjack.com^$third-party
 ||t.jasper.ai^$third-party
 ||t.jobsyn.org^$third-party
 ||t.jossandmain.com^$third-party
@@ -8987,7 +8987,6 @@
 ||tccd.douglas.es^$third-party
 ||tccd.douglas.it^$third-party
 ||tccd.douglas.nl^$third-party
-||tccd.douglas.sk^$third-party
 ||tcimg.com^$third-party
 ||tctm.co^$third-party
 ||td.caranddriver.com^$third-party
@@ -9186,7 +9185,6 @@
 ||tms.tescomobile.com^$third-party
 ||tms.virginatlantic.com^$third-party
 ||tms.zwilling.com^$third-party
-||tniujy.natura.com.br^$third-party
 ||tns-counter.ru^$third-party
 ||tns-cs.net^$third-party
 ||tns-gallup.dk^$third-party
@@ -9968,6 +9966,7 @@
 ||vertster.com^$third-party
 ||verybark.com^$third-party
 ||verybouncy.com^$third-party
+||veselchaga.link^$third-party
 ||vgs-collect-keeper.apps.verygood.systems^$third-party
 ||vgwort.de^$third-party
 ||vicuna.casa-moebel.at^$third-party
