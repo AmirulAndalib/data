@@ -1,8 +1,8 @@
 {
-  "version": "2026-09-30",
-  "generated": "2026-09-30T09:59:44.381Z",
+  "version": "2026-10-01",
+  "generated": "2026-10-01T10:27:23.554Z",
   "type": "tracking_params_sites",
-  "domain_count": 971,
+  "domain_count": 972,
   "param_count": 1980,
   "sites": {
     "dailymail.com": [
@@ -1517,6 +1517,9 @@
     "walmart.com": [
       "classType",
       "veh"
+    ],
+    "audible.com": [
+      "ref"
     ],
     "camcam.cc": [
       "ref"
