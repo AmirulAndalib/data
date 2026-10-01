@@ -1,10 +1,14 @@
 {
   "version": "2026-10-01",
-  "generated": "2026-10-01T07:46:43.336Z",
+  "generated": "2026-10-01T22:13:12.791Z",
   "type": "tracking_params_sites",
-  "domain_count": 972,
-  "param_count": 1980,
+  "domain_count": 973,
+  "param_count": 1981,
   "sites": {
+    "askul.co.jp": [
+      "int_id",
+      "sc_i"
+    ],
     "dailymail.com": [
       "ito",
       "ns_campaign",
@@ -12,6 +16,7 @@
     ],
     "instacart.com": [
       "ic_campaignid",
+      "ic_medium",
       "ic_source",
       "improvedParams"
     ],
@@ -4522,11 +4527,9 @@
       "fb_adsetid"
     ],
     "parkcitymountain.com": [
-      "ad",
-      "adname"
+      "ad"
     ],
     "dbrand.com": [
-      "adname",
       "cvg_adid",
       "cvg_cid",
       "cvg_source"
