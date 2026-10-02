@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-01",
+  "version": "2026-10-02",
   "type": "cmp_detectors",
-  "generated": "2026-10-01T07:46:42.714Z",
+  "generated": "2026-10-02T10:02:16.432Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "96893cfc4985df27",
+  "autoconsent_tree_hash": "75638745a10d9f71",
   "cmp_count": 375,
   "detectors": {
     "aacookiebanner": {
@@ -3102,7 +3102,9 @@
       "present": [
         ".wccom-comp-privacy-banner .wccom-privacy-banner"
       ],
-      "showing": []
+      "showing": [
+        ".wccom-comp-privacy-banner .wccom-privacy-banner"
+      ]
     },
     "workday": {
       "present": [

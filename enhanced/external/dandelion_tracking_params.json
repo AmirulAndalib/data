@@ -1,10 +1,42 @@
 {
-  "version": "2026-10-01",
-  "generated": "2026-10-01T22:13:12.791Z",
+  "version": "2026-10-02",
+  "generated": "2026-10-02T10:02:16.776Z",
   "type": "tracking_params_sites",
-  "domain_count": 973,
-  "param_count": 1981,
+  "domain_count": 983,
+  "param_count": 1996,
   "sites": {
+    "my-best.com": [
+      "utm_y_top"
+    ],
+    "retty.me": [
+      "utm_y_pc_top"
+    ],
+    "bangumi.org": [
+      "pc_yjweb"
+    ],
+    "store.line.me": [
+      "ref"
+    ],
+    "paypay-bank.co.jp": [
+      "ys"
+    ],
+    "my.softbank.jp": [
+      "adid"
+    ],
+    "ikyu.com": [
+      "ikCo",
+      "sc_e"
+    ],
+    "lohaco.yahoo.co.jp": [
+      "bk"
+    ],
+    "ymobile-store.yahoo.co.jp": [
+      "entry_channel"
+    ],
+    "smartphone.yahoo.co.jp": [
+      "argument",
+      "dmai"
+    ],
     "askul.co.jp": [
       "int_id",
       "sc_i"
@@ -4487,11 +4519,6 @@
     "americanexpress.com": [
       "inav"
     ],
-    "ecoflow.com": [
-      "sc_lid",
-      "sc_llid",
-      "sc_src"
-    ],
     "getquip.com": [
       "syclid"
     ],
@@ -4504,9 +4531,7 @@
     ],
     "harborfreight.com": [
       "adsetid",
-      "infy",
-      "mi_ecmp",
-      "mi_u"
+      "infy"
     ],
     "cc.rs6.net": [
       "ch"
@@ -4537,6 +4562,19 @@
     "cox.com": [
       "leadref",
       "sc_id"
+    ],
+    "wayfair.com": [
+      "_eml",
+      "_emr",
+      "brcid",
+      "csnid",
+      "dcvrid",
+      "emlid",
+      "maiid",
+      "mdlid",
+      "sltid",
+      "sm",
+      "wfcs"
     ],
     "ikea.com": [
       "f"
