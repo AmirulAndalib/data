@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-02",
-  "generated": "2026-10-02T10:02:16.776Z",
+  "version": "2026-10-03",
+  "generated": "2026-10-03T09:24:54.066Z",
   "type": "tracking_params_sites",
   "domain_count": 983,
-  "param_count": 1996,
+  "param_count": 1997,
   "sites": {
     "my-best.com": [
       "utm_y_top"
@@ -147,9 +147,6 @@
     ],
     "huffingtonpost.jp": [
       "utm_hp_ref"
-    ],
-    "jisin.jp": [
-      "rf"
     ],
     "newsdig.tbs.co.jp": [
       "ex_id",
@@ -3058,7 +3055,6 @@
       "cid"
     ],
     "adobe.com": [
-      "correlationId",
       "mv2",
       "trackingid"
     ],
@@ -4158,6 +4154,7 @@
     "cdc.gov": [
       "ACSTrackingID",
       "ACSTrackingLabel",
+      "CDC_AA_refVal",
       "deliveryName"
     ],
     "bookdepository.com": [
@@ -4575,6 +4572,9 @@
       "sltid",
       "sm",
       "wfcs"
+    ],
+    "omio.com": [
+      "landing_referrer"
     ],
     "ikea.com": [
       "f"

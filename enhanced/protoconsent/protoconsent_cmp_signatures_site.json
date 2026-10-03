@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-02",
+  "version": "2026-10-03",
   "type": "cmp_site",
-  "generated": "2026-10-02T10:02:16.423Z",
+  "generated": "2026-10-03T09:24:53.585Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "75638745a10d9f71",
-  "cmp_count": 319,
+  "autoconsent_tree_hash": "9d201d87a9113b03",
+  "cmp_count": 321,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -536,7 +536,7 @@
       ]
     },
     "chatgpt": {
-      "selector": "dialog[data-cookie-consent]:has(form[data-privacy-consent-form])",
+      "selector": "dialog[data-cookie-consent]:not([aria-modal]):has(form[data-privacy-consent-form])",
       "detectors": {
         "present": [
           "dialog[data-cookie-consent] form[data-privacy-consent-form] input[name=\"action\"][value=\"reject\"]"
@@ -1219,6 +1219,17 @@
         ]
       }
     },
+    "elsevier": {
+      "selector": "[data-testid=\"cookie-banner\"]",
+      "detectors": {
+        "present": [
+          "[data-testid=\"cookie-banner\"] [data-testid=\"cookie-settings-button\"]"
+        ],
+        "showing": [
+          "[data-testid=\"cookie-banner\"] [data-testid=\"cookie-settings-button\"]"
+        ]
+      }
+    },
     "elsevierpure": {
       "selector": "div[role='dialog'][aria-modal='true']:has([data-qa='accept-all-button'])",
       "detectors": {
@@ -1849,6 +1860,17 @@
         ],
         "showing": [
           ".modal-object--cookie [data-js-cookies-decline]"
+        ]
+      }
+    },
+    "lacoccinelle": {
+      "selector": "#qc-cmp2-container",
+      "detectors": {
+        "present": [
+          "#qc-cmp2-container"
+        ],
+        "showing": [
+          "#qc-cmp2-ui, #qc-cmp2-usp"
         ]
       }
     },
