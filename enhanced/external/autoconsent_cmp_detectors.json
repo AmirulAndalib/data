@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-02",
+  "version": "2026-10-03",
   "type": "cmp_detectors",
-  "generated": "2026-10-02T10:02:51.942Z",
+  "generated": "2026-10-03T09:25:51.133Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "75638745a10d9f71",
-  "cmp_count": 375,
+  "autoconsent_tree_hash": "9d201d87a9113b03",
+  "cmp_count": 377,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -293,9 +293,7 @@
       "present": [
         "body.enable-cookie-control"
       ],
-      "showing": [
-        ".cookie-dialog-initial"
-      ],
+      "showing": [],
       "domains": [
         "bandcamp.com"
       ]
@@ -1051,6 +1049,14 @@
         "#ef-ccpa"
       ]
     },
+    "elsevier": {
+      "present": [
+        "[data-testid=\"cookie-banner\"] [data-testid=\"cookie-settings-button\"]"
+      ],
+      "showing": [
+        "[data-testid=\"cookie-banner\"] [data-testid=\"cookie-settings-button\"]"
+      ]
+    },
     "elsevierpure": {
       "present": [
         "[data-qa='accept-all-button']"
@@ -1203,7 +1209,8 @@
         "#fides-overlay-wrapper #fides-banner"
       ],
       "showing": [
-        "#fides-overlay-wrapper #fides-banner"
+        "#fides-overlay-wrapper #fides-banner",
+        "#fides-overlay-wrapper .fides-banner-hidden"
       ]
     },
     "financestrategists_com": {
@@ -1641,6 +1648,14 @@
       ],
       "showing": [
         ".modal-object--cookie [data-js-cookies-decline]"
+      ]
+    },
+    "lacoccinelle": {
+      "present": [
+        "#qc-cmp2-container"
+      ],
+      "showing": [
+        "#qc-cmp2-ui, #qc-cmp2-usp"
       ]
     },
     "lendable": {
