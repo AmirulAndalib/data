@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-! Version: 2026-10-03
-! Last modified: 2026-10-03T06:41:18.620Z
-! Entries: 14455
+! Version: 2026-10-04
+! Last modified: 2026-10-04T07:05:10.051Z
+! Entries: 14456
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -1777,7 +1777,6 @@
 ||cat.gfx.io^$third-party
 ||cat.laravel-news.com^$third-party
 ||cat.mattr.global^$third-party
-||caterpillarsigns.bannerbuzz.com^$third-party
 ||caterpillarsigns.coversandall.co.uk^$third-party
 ||catfish.phuclh.com^$third-party
 ||catfish.pressure.cooking^$third-party
@@ -2326,7 +2325,6 @@
 ||ctags.cn^$third-party
 ||ctd.quattroruote.it^$third-party
 ||ctdfm.ilgiornale.it^$third-party
-||ctlayn.talbots.com^$third-party
 ||ctr-iwb.nmg.de^$third-party
 ||ctr-opc.nmg.de^$third-party
 ||ctr.nmg.de^$third-party
@@ -2544,7 +2542,6 @@
 ||data.email.princess.com^$third-party
 ||data.email.realmadrid.com^$third-party
 ||data.emails.tesco.com^$third-party
-||data.emails1.santander.co.uk^$third-party
 ||data.emb-api.com^$third-party
 ||data.embeddables.com^$third-party
 ||data.emea.coca-cola.com^$third-party
@@ -2568,6 +2565,7 @@
 ||data.m.philadelphiaeagles.com^$third-party
 ||data.m.shop.nhl.com^$third-party
 ||data.m.starbucks.com^$third-party
+||data.m.store.nba.com^$third-party
 ||data.madridista-free.realmadrid.com^$third-party
 ||data.marketing.nascar.com^$third-party
 ||data.mistat.india.xiaomi.com^$third-party
@@ -2707,6 +2705,7 @@
 ||dii2.bitiba.fr^$third-party
 ||dii2.bitiba.nl^$third-party
 ||dii2.bitiba.pl^$third-party
+||dii2.zoohit.cz^$third-party
 ||dii2.zoohit.si^$third-party
 ||dii2.zoohit.sk^$third-party
 ||dii3.bitiba.be^$third-party
@@ -2715,6 +2714,7 @@
 ||dii3.bitiba.fr^$third-party
 ||dii3.bitiba.nl^$third-party
 ||dii3.bitiba.pl^$third-party
+||dii3.zoohit.cz^$third-party
 ||dii3.zoohit.si^$third-party
 ||dii3.zoohit.sk^$third-party
 ||dimensions.mappy.com^$third-party
@@ -3255,7 +3255,6 @@
 ||fi-analytics.mgsn.it^$third-party
 ||fifef.gohaus.com^$third-party
 ||figpii.com^$third-party
-||fijzm.rarecarat.com^$third-party
 ||filament-stats.herokuapp.com^$third-party
 ||fileshareengine.com^$third-party
 ||filitrac.com^$third-party
@@ -3869,7 +3868,6 @@
 ||ijaabm.nbcsports.com^$third-party
 ||ijhlca.lulus.com^$third-party
 ||ijogkae.churchserviceplanner.co.uk^$third-party
-||ilikeclick.com^$third-party
 ||ilzzb.retrofete.com^$third-party
 ||image.mdr.de^$third-party
 ||image.moengage.com^$third-party
@@ -5275,7 +5273,6 @@
 ||mywebstats.com.au^$third-party
 ||mywebstats.org^$third-party
 ||mzqnq.ouraring.com^$third-party
-||mzulv.ironman.com^$third-party
 ||n-analytics.io^$third-party
 ||n.hdsupplysolutions.com^$third-party
 ||n730.timesunion.com^$third-party
@@ -5457,6 +5454,7 @@
 ||offer.slgnt.eu^$third-party
 ||officestylist.com^$third-party
 ||oghub.io^$third-party
+||ogpzj.tumi.com^$third-party
 ||ogt.jp^$third-party
 ||ohmystats.com^$third-party
 ||oimg.nbcuni.com^$third-party
@@ -6305,6 +6303,7 @@
 ||rlogs.youdao.com^$third-party
 ||rma.homedepot.com^$third-party
 ||rmgdapfnccsharpprd.azurewebsites.net^$third-party
+||rmztc.bostonscally.com^$third-party
 ||rnengage.com^$third-party
 ||rng-snp-003.com^$third-party
 ||roadrunner.ausmv.com.au^$third-party
@@ -8067,6 +8066,7 @@
 ||ssl.o.medicinenet.com^$third-party
 ||ssl.o.medscape.com^$third-party
 ||ssl.o.medscape.org^$third-party
+||ssl.o.qxmd.com^$third-party
 ||ssl.o.rxlist.com^$third-party
 ||ssl.o.univadis.de^$third-party
 ||ssl.o.univadis.es^$third-party
@@ -8623,6 +8623,7 @@
 ||sw88.24kitchen.nl^$third-party
 ||sw88.abc.com^$third-party
 ||sw88.disney.co.jp^$third-party
+||sw88.disneynow.com^$third-party
 ||sw88.disneyrewards.com^$third-party
 ||sw88.disneystore.de^$third-party
 ||sw88.disneystore.eu^$third-party
@@ -8742,7 +8743,6 @@
 ||t.hypers.com.cn^$third-party
 ||t.imgur.com^$third-party
 ||t.indeed.com^$third-party
-||t.janieandjack.com^$third-party
 ||t.jasper.ai^$third-party
 ||t.jobsyn.org^$third-party
 ||t.jossandmain.com^$third-party
@@ -8995,6 +8995,7 @@
 ||tccd.douglas.es^$third-party
 ||tccd.douglas.it^$third-party
 ||tccd.douglas.nl^$third-party
+||tccd.douglas.sk^$third-party
 ||tcimg.com^$third-party
 ||tctm.co^$third-party
 ||td.caranddriver.com^$third-party
@@ -9574,7 +9575,6 @@
 ||tracking.groupe-ldlc.com^$third-party
 ||tracking.gvm.com.tw^$third-party
 ||tracking.hannoversche.de^$third-party
-||tracking.happierleads.com^$third-party
 ||tracking.hivecloud.net^$third-party
 ||tracking.hostgator.com^$third-party
 ||tracking.hsn.com^$third-party
@@ -10122,6 +10122,7 @@
 ||wbtrkk.teufelaudio.com^$third-party
 ||wbtrkk.teufelaudio.it^$third-party
 ||wbtrkk.teufelaudio.nl^$third-party
+||wbtrkk.teufelaudio.pl^$third-party
 ||wc.yahoodns.net^$third-party
 ||wcfbc.net^$third-party
 ||wco.crownpeak.com^$third-party
