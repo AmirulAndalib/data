@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-04",
-  "generated": "2026-10-04T10:04:51.630Z",
+  "version": "2026-10-05",
+  "generated": "2026-10-05T10:52:06.805Z",
   "type": "tracking_params_sites",
-  "domain_count": 985,
-  "param_count": 2001,
+  "domain_count": 986,
+  "param_count": 2003,
   "sites": {
     "my-best.com": [
       "utm_y_top"
@@ -4584,6 +4584,11 @@
     ],
     "www.thestack.technology": [
       "m"
+    ],
+    "sears.com": [
+      "eKey",
+      "guid",
+      "trk_link"
     ],
     "ikea.com": [
       "f"

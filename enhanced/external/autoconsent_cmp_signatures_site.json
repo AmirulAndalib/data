@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-03",
+  "version": "2026-10-05",
   "type": "cmp_site",
-  "generated": "2026-10-03T09:25:51.121Z",
+  "generated": "2026-10-05T10:52:06.597Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "9d201d87a9113b03",
-  "cmp_count": 321,
+  "autoconsent_tree_hash": "238112843e4f68d6",
+  "cmp_count": 324,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -927,6 +927,17 @@
         ],
         "showing": [
           "#cookiescript_injected"
+        ]
+      }
+    },
+    "cookiez": {
+      "selector": ".elementor-popup-modal:has(.cookiez-footer)",
+      "detectors": {
+        "present": [
+          ".cookiez-footer [data-cookiez-action]"
+        ],
+        "showing": [
+          ".cookiez-footer [data-cookiez-action=\"deny-all\"]"
         ]
       }
     },
@@ -2490,6 +2501,18 @@
         ]
       }
     },
+    "privacyarea": {
+      "selector": ".privacyArea",
+      "detectors": {
+        "present": [
+          ".privacyArea .privacyTrigger.acceptAll",
+          "#modulePrivacy .privacyTrigger.acceptCustom"
+        ],
+        "showing": [
+          ".privacyArea"
+        ]
+      }
+    },
     "privacymanager_io": {
       "selector": "#gdpr-consent-tool-wrapper, iframe[src^=\"https://cmp-consent-tool.privacymanager.io\"]",
       "domains": [
@@ -2856,6 +2879,20 @@
           "div[id^='sp_message_container_']"
         ]
       }
+    },
+    "speciesplus_net": {
+      "selector": "#cookie-consent-message",
+      "detectors": {
+        "present": [
+          "#cookie-consent-message #cookie-consent-reject"
+        ],
+        "showing": [
+          "#cookie-consent-message"
+        ]
+      },
+      "domains": [
+        "speciesplus.net"
+      ]
     },
     "squarespacecookiebanner": {
       "selector": ".cookie-banner-mount-point",
