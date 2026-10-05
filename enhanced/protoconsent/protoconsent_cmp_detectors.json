@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-03",
+  "version": "2026-10-05",
   "type": "cmp_detectors",
-  "generated": "2026-10-03T09:24:53.591Z",
+  "generated": "2026-10-05T10:49:50.726Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "9d201d87a9113b03",
-  "cmp_count": 377,
+  "autoconsent_tree_hash": "238112843e4f68d6",
+  "cmp_count": 382,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -800,6 +800,14 @@
         ".cky-consent-container"
       ]
     },
+    "cookiez": {
+      "present": [
+        ".cookiez-footer [data-cookiez-action]"
+      ],
+      "showing": [
+        ".cookiez-footer [data-cookiez-action=\"deny-all\"]"
+      ]
+    },
     "coolblue": {
       "present": [
         "#cookie-banner-2025-form"
@@ -855,6 +863,17 @@
       ],
       "showing": [
         "#cookiebar .cookiebar-content"
+      ]
+    },
+    "cuvva_com": {
+      "present": [
+        "#cuvva-app-injection-site button[data-testid=\"accept-cookies\"]"
+      ],
+      "showing": [
+        "#cuvva-app-injection-site button[data-testid=\"accept-cookies\"]"
+      ],
+      "domains": [
+        "cuvva.com"
       ]
     },
     "dailymotion_com": {
@@ -2185,6 +2204,15 @@
         "#cookie-bar .cb-enable,#cookie-bar .cb-disable,#cookie-bar .cb-policy"
       ]
     },
+    "privacyarea": {
+      "present": [
+        ".privacyArea .privacyTrigger.acceptAll",
+        "#modulePrivacy .privacyTrigger.acceptCustom"
+      ],
+      "showing": [
+        ".privacyArea"
+      ]
+    },
     "privado": {
       "present": [
         "#cookie-consent-banner #accept-button"
@@ -2513,6 +2541,17 @@
       ],
       "showing": [
         "div[id^='sp_message_container_']"
+      ]
+    },
+    "speciesplus_net": {
+      "present": [
+        "#cookie-consent-message #cookie-consent-reject"
+      ],
+      "showing": [
+        "#cookie-consent-message"
+      ],
+      "domains": [
+        "speciesplus.net"
       ]
     },
     "squarespacecookiebanner": {
@@ -3261,6 +3300,14 @@
       ],
       "showing": [
         "#consent-init"
+      ]
+    },
+    "ziptozipmoving": {
+      "present": [
+        ".cookies.main-class .customize-btn"
+      ],
+      "showing": [
+        ".cookies.main-class .customize-btn"
       ]
     }
   }
