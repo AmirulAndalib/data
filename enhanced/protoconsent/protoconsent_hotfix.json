@@ -142,6 +142,12 @@
       "firstParty": true
     },
     {
+      "urlFilter": "||heimdall.hearstapps.com/voltron",
+      "initiatorDomains": [
+        "caranddriver.com"
+      ]
+    },
+    {
       "urlFilter": "||martech.condenastdigital.com/lib/martech.js",
       "initiatorDomains": [
         "cntraveler.com",
@@ -1166,5 +1172,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 51
+  "path_exception_count": 52
 }

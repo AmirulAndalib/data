@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-05",
+  "version": "2026-10-06",
   "type": "cmp_site",
-  "generated": "2026-10-05T10:49:50.719Z",
+  "generated": "2026-10-06T10:45:37.336Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "238112843e4f68d6",
-  "cmp_count": 324,
+  "autoconsent_tree_hash": "0daf88386faca537",
+  "cmp_count": 327,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -1363,6 +1363,17 @@
         ]
       }
     },
+    "fanatics": {
+      "selector": ".aspire-banner.marketing-cookies-banner",
+      "detectors": {
+        "present": [
+          ".aspire-banner.marketing-cookies-banner"
+        ],
+        "showing": [
+          ".aspire-banner.marketing-cookies-banner"
+        ]
+      }
+    },
     "fedex": {
       "selector": "fedex-gdpr",
       "detectors": {
@@ -1882,6 +1893,17 @@
         ],
         "showing": [
           "#qc-cmp2-ui, #qc-cmp2-usp"
+        ]
+      }
+    },
+    "lego": {
+      "selector": "[class*=\"ConsentModal_consent-modal__modal-overlay\"]",
+      "detectors": {
+        "present": [
+          "[data-test=\"cookie-necessary-button\"]"
+        ],
+        "showing": [
+          "[data-test=\"cookie-necessary-button\"]"
         ]
       }
     },
@@ -2748,6 +2770,17 @@
     },
     "scmp": {
       "selector": "[data-qa=\"GDPRBanner-Container\"]"
+    },
+    "securitigpcflyout": {
+      "selector": ".f-cmp-flyout-wrapper .f-gpc-banner",
+      "detectors": {
+        "present": [
+          ".f-cmp-flyout-wrapper .f-gpc-banner .f-banner-close-btn"
+        ],
+        "showing": [
+          ".f-cmp-flyout-wrapper .f-gpc-banner"
+        ]
+      }
     },
     "setupad": {
       "selector": ".stpd_cmp_wrapper",
