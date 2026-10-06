@@ -1,10 +1,15 @@
 {
-  "version": "2026-10-05",
-  "generated": "2026-10-05T10:52:06.805Z",
+  "version": "2026-10-06",
+  "generated": "2026-10-06T10:46:02.671Z",
   "type": "tracking_params_sites",
-  "domain_count": 986,
-  "param_count": 2003,
+  "domain_count": 987,
+  "param_count": 2004,
   "sites": {
+    "boots.com": [
+      "affwin",
+      "sv1",
+      "sv_campaign_id"
+    ],
     "my-best.com": [
       "utm_y_top"
     ],

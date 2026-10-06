@@ -170,11 +170,16 @@
     "bitcoin-mastery.app",
     "bitcoin-millonario.com",
     "bitcoin-motion.cloud",
+    "bitcoin-motion.software",
+    "bitcoin-pro.live",
+    "bitcoin-smarter.com",
     "bitcoin-sprint.com",
     "bitcoin-storm.app",
     "bitcoinprime.software",
+    "bitcoinrush.io",
     "bitcoins-union.com",
     "bitcoinscircuit.com",
+    "bitcoinsmarter.org",
     "bitcoinsup.org",
     "bitcoinsystem.app",
     "bitcointrader2.com",
@@ -399,6 +404,7 @@
     "eriverwasquitefu.com",
     "erymuchadmirl.org",
     "escribedas.com",
+    "ethereum-proair.com",
     "etiquettesigned.com",
     "etneanlaos.cfd",
     "etobeasasile.org",
@@ -765,6 +771,7 @@
     "mdcmwrxomkirb.space",
     "mdrwjsijuqvtn.rocks",
     "meaninglesstoil.com",
+    "measure.chase.com",
     "mediocrebrilliant.com",
     "medlikeamate.org",
     "mehallatompon.qpon",
@@ -912,6 +919,7 @@
     "parteinroll.xyz",
     "pasiwhoulie.net",
     "passmanflagged.cfd",
+    "pattern-trader.app",
     "pauglouhootair.net",
     "pauvoobouchie.net",
     "payamdbgy.com",
@@ -1295,6 +1303,7 @@
     "tabzsounjeluw.com",
     "tacticsextreme.com",
     "taeetgvjpntlbu.com",
+    "tags.bluekai.com",
     "tahaowsngotkr.space",
     "taicopsaseevoo.net",
     "taisaglouroagle.net",
@@ -1674,7 +1683,7 @@
     "zxvzqrjtfijqq.website",
     "zybnqcnikmpqu.life"
   ],
-  "revocation_count": 1671,
+  "revocation_count": 1680,
   "path_exceptions": [
     {
       "urlFilter": "||agoda.net/cdn-supply-iam/static/js/webanalytics.",
@@ -1740,6 +1749,12 @@
     {
       "urlFilter": "||files.fm/js/analytics_events.js",
       "firstParty": true
+    },
+    {
+      "urlFilter": "||heimdall.hearstapps.com/voltron",
+      "initiatorDomains": [
+        "caranddriver.com"
+      ]
     },
     {
       "urlFilter": "||martech.condenastdigital.com/lib/martech.js",
@@ -2766,5 +2781,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 49
+  "path_exception_count": 50
 }

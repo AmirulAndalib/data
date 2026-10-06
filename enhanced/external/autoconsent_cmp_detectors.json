@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-05",
+  "version": "2026-10-06",
   "type": "cmp_detectors",
-  "generated": "2026-10-05T10:52:06.608Z",
+  "generated": "2026-10-06T10:46:02.519Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "238112843e4f68d6",
-  "cmp_count": 382,
+  "autoconsent_tree_hash": "0daf88386faca537",
+  "cmp_count": 385,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -1199,6 +1199,14 @@
         "[data-testid=\"cookie-policy-manage-dialog\"]"
       ]
     },
+    "fanatics": {
+      "present": [
+        ".aspire-banner.marketing-cookies-banner"
+      ],
+      "showing": [
+        ".aspire-banner.marketing-cookies-banner"
+      ]
+    },
     "fedex": {
       "present": [
         "fedex-gdpr"
@@ -1675,6 +1683,14 @@
       ],
       "showing": [
         "#qc-cmp2-ui, #qc-cmp2-usp"
+      ]
+    },
+    "lego": {
+      "present": [
+        "[data-test=\"cookie-necessary-button\"]"
+      ],
+      "showing": [
+        "[data-test=\"cookie-necessary-button\"]"
       ]
     },
     "lendable": {
@@ -2427,6 +2443,14 @@
       ],
       "showing": [
         "body > div#__next > div#app > div:nth-child(7):not([id])"
+      ]
+    },
+    "securitigpcflyout": {
+      "present": [
+        ".f-cmp-flyout-wrapper .f-gpc-banner .f-banner-close-btn"
+      ],
+      "showing": [
+        ".f-cmp-flyout-wrapper .f-gpc-banner"
       ]
     },
     "setupad": {
