@@ -1,10 +1,32 @@
 {
-  "version": "2026-10-06",
-  "generated": "2026-10-06T10:46:02.671Z",
+  "version": "2026-10-07",
+  "generated": "2026-10-07T10:34:18.215Z",
   "type": "tracking_params_sites",
-  "domain_count": 987,
-  "param_count": 2004,
+  "domain_count": 990,
+  "param_count": 2009,
   "sites": {
+    "search.yahoo.co.jp": [
+      "fr",
+      "frtype"
+    ],
+    "paypaygourmet.yahoo.co.jp": [
+      "CosNo"
+    ],
+    "restaurant.ikyu.com": [
+      "CosNo",
+      "CosUrl"
+    ],
+    "bangumi.org": [
+      "and_yjweb",
+      "pc_yjweb"
+    ],
+    "yahoo-mbga.jp": [
+      "_ref"
+    ],
+    "retty.me": [
+      "utm_y_pc_top",
+      "utm_y_smt_top"
+    ],
     "boots.com": [
       "affwin",
       "sv1",
@@ -12,12 +34,6 @@
     ],
     "my-best.com": [
       "utm_y_top"
-    ],
-    "retty.me": [
-      "utm_y_pc_top"
-    ],
-    "bangumi.org": [
-      "pc_yjweb"
     ],
     "store.line.me": [
       "ref"
@@ -386,6 +402,13 @@
     "chexy.co": [
       "_caid",
       "_cvid"
+    ],
+    "bestbuy.com": [
+      "commcode",
+      "eut",
+      "jobid",
+      "src",
+      "vehicle"
     ],
     "bestbuycreators.7tiv.net": [
       "adcampaignid",
@@ -1594,8 +1617,7 @@
       "ctg",
       "date",
       "dv",
-      "mid",
-      "source"
+      "mid"
     ],
     "shop.adidas.jp": [
       "shortlink",
@@ -1663,7 +1685,8 @@
       "cpt_s",
       "fr",
       "ikCo",
-      "sc_e"
+      "sc_e",
+      "source"
     ],
     "sbisec.co.jp": [
       "waad"
@@ -3371,9 +3394,6 @@
     "websearch.rakuten.co.jp": [
       "ref"
     ],
-    "search.yahoo.co.jp": [
-      "fr"
-    ],
     "flipkart.com": [
       "_refId",
       "affid",
@@ -4580,12 +4600,6 @@
     ],
     "omio.com": [
       "landing_referrer"
-    ],
-    "bestbuy.com": [
-      "commcode",
-      "eut",
-      "jobid",
-      "vehicle"
     ],
     "www.thestack.technology": [
       "m"
