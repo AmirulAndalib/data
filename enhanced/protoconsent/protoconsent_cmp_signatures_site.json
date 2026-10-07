@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-06",
+  "version": "2026-10-07",
   "type": "cmp_site",
-  "generated": "2026-10-06T10:45:37.336Z",
+  "generated": "2026-10-07T10:33:34.446Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "0daf88386faca537",
-  "cmp_count": 327,
+  "autoconsent_tree_hash": "d434dd6971bd6d8a",
+  "cmp_count": 328,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -1778,6 +1778,17 @@
       "domains": [
         "johnlewis.com"
       ]
+    },
+    "jpmorganchase": {
+      "selector": ".consent-banner:has(.consent-close-icon-wrapper)",
+      "detectors": {
+        "present": [
+          ".consent-banner a.consent-close-icon-wrapper[data-pt-name=\"consent-closed\"]"
+        ],
+        "showing": [
+          ".consent-banner a.consent-close-icon-wrapper[data-pt-name=\"consent-closed\"]"
+        ]
+      }
     },
     "jquery_cookiebar": {
       "selector": ".cookie-bar",

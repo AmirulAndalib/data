@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-06",
+  "version": "2026-10-07",
   "type": "cmp_detectors",
-  "generated": "2026-10-06T10:45:37.347Z",
+  "generated": "2026-10-07T10:33:34.457Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "0daf88386faca537",
-  "cmp_count": 385,
+  "autoconsent_tree_hash": "d434dd6971bd6d8a",
+  "cmp_count": 388,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -646,6 +646,14 @@
         "csm-cookie-consent"
       ]
     },
+    "controlgame": {
+      "present": [
+        "[data-consent-button][data-value=accept_partial]"
+      ],
+      "showing": [
+        "[data-consent-button][data-value=accept_partial]"
+      ]
+    },
     "conversant": {
       "present": [
         ".cmp-root .cmp-receptacle"
@@ -893,6 +901,14 @@
       ],
       "showing": [
         "div[class*=\"CookiePopup__desktopContainer\"]"
+      ]
+    },
+    "dalecarnegie": {
+      "present": [
+        "[class*=\"PrivacyBar_gdprAgreement\"] [class*=\"PrivacyBar_managePrefsBtn\"]"
+      ],
+      "showing": [
+        "[class*=\"PrivacyBar_gdprAgreement\"]"
       ]
     },
     "dancom": {
@@ -1597,6 +1613,14 @@
       "showing": [],
       "domains": [
         "johnlewis.com"
+      ]
+    },
+    "jpmorganchase": {
+      "present": [
+        ".consent-banner a.consent-close-icon-wrapper[data-pt-name=\"consent-closed\"]"
+      ],
+      "showing": [
+        ".consent-banner a.consent-close-icon-wrapper[data-pt-name=\"consent-closed\"]"
       ]
     },
     "jquery_cookiebar": {
