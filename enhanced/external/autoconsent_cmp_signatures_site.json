@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-07",
+  "version": "2026-10-08",
   "type": "cmp_site",
-  "generated": "2026-10-07T10:34:17.686Z",
+  "generated": "2026-10-08T10:55:28.124Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "d434dd6971bd6d8a",
-  "cmp_count": 328,
+  "autoconsent_tree_hash": "0be3ba6f7c18476c",
+  "cmp_count": 329,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -2448,6 +2448,17 @@
         ],
         "showing": [
           "#pmc-pp-tou--notice"
+        ]
+      }
+    },
+    "pmcprivacybanner": {
+      "selector": "aside[aria-labelledby=\"pmc-privacy-banner-heading\"]",
+      "detectors": {
+        "present": [
+          "aside[aria-labelledby=\"pmc-privacy-banner-heading\"]"
+        ],
+        "showing": [
+          "aside[aria-labelledby=\"pmc-privacy-banner-heading\"]"
         ]
       }
     },
