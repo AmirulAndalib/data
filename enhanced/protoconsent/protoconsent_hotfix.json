@@ -848,6 +848,12 @@
       "firstParty": true
     },
     {
+      "urlFilter": "||sdk-analytics-web.cloud.itau.com.br/index.js",
+      "initiatorDomains": [
+        "meu.userede.com.br"
+      ]
+    },
+    {
       "urlFilter": "||chat.dbo-dengi.online/*/track?event=",
       "initiatorDomains": [
         "online.mtsdengi.ru"
@@ -1173,5 +1179,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 52
+  "path_exception_count": 53
 }

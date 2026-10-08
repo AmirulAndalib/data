@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-07",
+  "version": "2026-10-08",
   "type": "cmp_detectors",
-  "generated": "2026-10-07T10:33:34.457Z",
+  "generated": "2026-10-08T10:54:33.602Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "d434dd6971bd6d8a",
-  "cmp_count": 388,
+  "autoconsent_tree_hash": "0be3ba6f7c18476c",
+  "cmp_count": 389,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -2169,6 +2169,14 @@
       ],
       "showing": [
         "#pmc-pp-tou--notice"
+      ]
+    },
+    "pmcprivacybanner": {
+      "present": [
+        "aside[aria-labelledby=\"pmc-privacy-banner-heading\"]"
+      ],
+      "showing": [
+        "aside[aria-labelledby=\"pmc-privacy-banner-heading\"]"
       ]
     },
     "policeuk": {
