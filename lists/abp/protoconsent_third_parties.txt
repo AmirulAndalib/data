@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Third Parties
 ! Description: Sharing or combining data with third parties, partners or group companies beyond the core service (curated - high-confidence sources)
-! Version: 2026-10-07
-! Last modified: 2026-10-07T07:22:21.724Z
+! Version: 2026-10-08
+! Last modified: 2026-10-08T07:32:23.546Z
 ! Entries: 412
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
@@ -175,6 +175,7 @@
 ||sjrtp2-cdn.marketo.com^$third-party
 ||sjrtp2.marketo.com^$third-party
 ||sjrtp3-cdn.marketo.com^$third-party
+||sjrtp3.marketo.com^$third-party
 ||sjrtp4-cdn.marketo.com^$third-party
 ||sjrtp4.marketo.com^$third-party
 ||sjrtp5-cdn.marketo.com^$third-party
@@ -182,7 +183,6 @@
 ||sjrtp6-cdn.marketo.com^$third-party
 ||sjrtp6.marketo.com^$third-party
 ||sjrtp7-cdn.marketo.com^$third-party
-||sjrtp7.marketo.com^$third-party
 ||sjrtp8-cdn.marketo.com^$third-party
 ||sjrtp8.marketo.com^$third-party
 ||snrtp-cdn.marketo.com^$third-party
