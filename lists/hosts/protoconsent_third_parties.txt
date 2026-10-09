@@ -1,8 +1,8 @@
 # Title: ProtoConsent Third Parties
 # Description: Sharing or combining data with third parties, partners or group companies beyond the core service (curated - high-confidence sources)
-# Version: 2026-10-08
-# Last modified: 2026-10-08T07:32:23.546Z
-# Entries: 217
+# Version: 2026-10-09
+# Last modified: 2026-10-09T07:31:38.139Z
+# Entries: 218
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -35,6 +35,7 @@
 0.0.0.0 app-ab16.marketo.com
 0.0.0.0 app-ab19.marketo.com
 0.0.0.0 app-ab20.marketo.com
+0.0.0.0 app-ab22.marketo.com
 0.0.0.0 app-ab23.marketo.com
 0.0.0.0 app-ab24.marketo.com
 0.0.0.0 app-ab25.marketo.com
@@ -174,7 +175,6 @@
 0.0.0.0 sjrtp2-cdn.marketo.com
 0.0.0.0 sjrtp2.marketo.com
 0.0.0.0 sjrtp3-cdn.marketo.com
-0.0.0.0 sjrtp3.marketo.com
 0.0.0.0 sjrtp4-cdn.marketo.com
 0.0.0.0 sjrtp4.marketo.com
 0.0.0.0 sjrtp5-cdn.marketo.com
@@ -182,6 +182,7 @@
 0.0.0.0 sjrtp6-cdn.marketo.com
 0.0.0.0 sjrtp6.marketo.com
 0.0.0.0 sjrtp7-cdn.marketo.com
+0.0.0.0 sjrtp7.marketo.com
 0.0.0.0 sjrtp8-cdn.marketo.com
 0.0.0.0 sjrtp8.marketo.com
 0.0.0.0 snrtp-cdn.marketo.com
