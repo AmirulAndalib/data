@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-08",
+  "version": "2026-10-09",
   "type": "cmp_site",
-  "generated": "2026-10-08T10:55:28.124Z",
+  "generated": "2026-10-09T10:54:05.567Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "0be3ba6f7c18476c",
-  "cmp_count": 329,
+  "autoconsent_tree_hash": "41ce0caeac1ee6f6",
+  "cmp_count": 336,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -710,6 +710,17 @@
         ]
       }
     },
+    "conjointly": {
+      "selector": ".cookie-prompt-container",
+      "detectors": {
+        "present": [
+          ".cookie-prompt-container #custom-cookie-banner-container"
+        ],
+        "showing": [
+          ".cookie-prompt-container #custom-cookie-banner-container"
+        ]
+      }
+    },
     "consentflo": {
       "selector": "._flo-consent-root",
       "detectors": {
@@ -919,6 +930,15 @@
         ]
       }
     },
+    "cookiepopupclosecookies": {
+      "selector": "#cookie-popup",
+      "detectors": {
+        "present": [
+          "#cookie-popup #close-cookies",
+          "#cookie-popup #view-all"
+        ]
+      }
+    },
     "cookiescript": {
       "selector": "#cookiescript_injected",
       "detectors": {
@@ -976,6 +996,17 @@
       "domains": [
         "coronainzahlen.de"
       ]
+    },
+    "costco": {
+      "selector": "#costco-consent-manager [data-testid=\"Popup\"]",
+      "detectors": {
+        "present": [
+          "#costco-consent-manager [data-testid=\"Popup\"]"
+        ],
+        "showing": [
+          "#costco-consent-manager [data-testid=\"Popup\"]"
+        ]
+      }
     },
     "csulandtagde": {
       "selector": "#cookie-disclaimer",
@@ -1263,6 +1294,17 @@
         ]
       }
     },
+    "ensembleartsphilly": {
+      "selector": ".global-cookie.js-cookie-banner",
+      "detectors": {
+        "present": [
+          ".global-cookie.js-cookie-banner .global-cookie__button"
+        ],
+        "showing": [
+          ".global-cookie.js-cookie-banner:not(.global-cookie__hidden)"
+        ]
+      }
+    },
     "ensighten": {
       "selector": "#ensNotifyBanner, .ensModal"
     },
@@ -1340,6 +1382,20 @@
           ".cck-container"
         ]
       }
+    },
+    "evium_de": {
+      "selector": "common-tracking-optin",
+      "detectors": {
+        "present": [
+          "common-tracking-optin"
+        ],
+        "showing": [
+          "common-tracking-optin"
+        ]
+      },
+      "domains": [
+        "evium.de"
+      ]
     },
     "ezoic": {
       "selector": "#ez-cookie-dialog-wrapper",
@@ -2350,13 +2406,16 @@
       }
     },
     "pandectes": {
-      "selector": "#pandectes-banner",
+      "selector": "#pandectes-banner, pandectes-cmp"
+    },
+    "passle": {
+      "selector": "#passle-cookie-control-container #cookie-control",
       "detectors": {
         "present": [
-          "#pandectes-banner"
+          "#passle-cookie-control-container"
         ],
         "showing": [
-          "#pandectes-banner"
+          "#passle-cookie-control-container.cookie-control_state--open #cookie-control"
         ]
       }
     },
@@ -2384,17 +2443,6 @@
       "domains": [
         "paypal.com"
       ]
-    },
-    "paypalcookieprefs": {
-      "selector": "#cookiePrefsModal, .privacy-sheet-content",
-      "detectors": {
-        "present": [
-          "#cookiePrefsModal #formContent, .privacy-sheet-content #formContent"
-        ],
-        "showing": [
-          "#cookiePrefsModal #formContent, .privacy-sheet-content #formContent"
-        ]
-      }
     },
     "paypalus": {
       "selector": "#ccpaCookieContent_wrapper",
@@ -2542,6 +2590,17 @@
         ],
         "showing": [
           "#cookie-bar .cb-enable,#cookie-bar .cb-disable,#cookie-bar .cb-policy"
+        ]
+      }
+    },
+    "primeconsent": {
+      "selector": ".azpp-cookie-consent",
+      "detectors": {
+        "present": [
+          ".azpp-cookie-consent"
+        ],
+        "showing": [
+          ".azpp-cookie-consent"
         ]
       }
     },
@@ -2841,6 +2900,20 @@
       },
       "domains": [
         "shein.com"
+      ]
+    },
+    "shinden_pl": {
+      "selector": "#cookie-bar",
+      "detectors": {
+        "present": [
+          "#cookie-bar .cb-enable,[class^=\"app_gdpr--\"] button"
+        ],
+        "showing": [
+          "#cookie-bar .cb-enable,[class^=\"app_gdpr--\"] button"
+        ]
+      },
+      "domains": [
+        "shinden.pl"
       ]
     },
     "shopify": {
@@ -3547,9 +3620,6 @@
     "webflow": {
       "selector": ".fs-cc-components,[fs-cc=banner]",
       "detectors": {
-        "present": [
-          ".fs-cc-components,[fs-cc=banner]"
-        ],
         "showing": [
           ".fs-cc-components,[fs-cc=banner]",
           ".fs-cc-components,[fs-cc=banner] [fs-cc=allow]"
