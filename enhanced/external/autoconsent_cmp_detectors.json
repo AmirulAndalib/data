@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-09",
+  "version": "2026-10-10",
   "type": "cmp_detectors",
-  "generated": "2026-10-09T10:54:05.577Z",
+  "generated": "2026-10-10T10:07:29.951Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "41ce0caeac1ee6f6",
-  "cmp_count": 398,
+  "autoconsent_tree_hash": "8b9a2669aff7f144",
+  "cmp_count": 416,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -144,6 +144,14 @@
         "amazon.com"
       ]
     },
+    "amazonhiring": {
+      "present": [
+        "[data-test-id=\"consentModal\"] [data-test-id=\"consentBtn\"]"
+      ],
+      "showing": [
+        "[data-test-id=\"consentModal\"] [data-test-id=\"consentBtn\"]"
+      ]
+    },
     "amazonpay": {
       "present": [
         ".cookie-menu.js-cookie-banner .js-cookie-banner-close"
@@ -242,6 +250,14 @@
       ],
       "showing": [
         "form[class*=\"cookie-banner\"][method=\"post\"]"
+      ]
+    },
+    "avadacookieconsent": {
+      "present": [
+        ".Avada-CookiesBar__OuterWrapper .Avada-CookiesBar_BtnDeny"
+      ],
+      "showing": [
+        ".Avada-CookiesBar__OuterWrapper .Avada-CookiesBar_BtnDeny"
       ]
     },
     "aws_amazon_com": {
@@ -363,6 +379,14 @@
         "#consent-manager button"
       ]
     },
+    "bigcrunch": {
+      "present": [
+        "#bc-cmp-host, #bc-cmp-host-auto"
+      ],
+      "showing": [
+        "#bc-cmp-host, #bc-cmp-host-auto"
+      ]
+    },
     "bing_com": {
       "present": [
         "#bnp_cookie_banner"
@@ -389,6 +413,14 @@
       ],
       "showing": [
         "._brlbs-bar-wrap,._brlbs-box-wrap,.brlbs-cmpnt-dialog"
+      ]
+    },
+    "bricklink": {
+      "present": [
+        ".blp-necessary-cookies-banner"
+      ],
+      "showing": [
+        ".blp-necessary-cookies-banner"
       ]
     },
     "bswhealth": {
@@ -465,6 +497,14 @@
       ],
       "showing": [
         ".cc-banner[data-cc-banner]"
+      ]
+    },
+    "ceneo": {
+      "present": [
+        "#js_cookie-consent-banner .js_cookie-consent-necessary"
+      ],
+      "showing": [
+        "#js_cookie-consent-banner .js_cookie-consent-necessary"
       ]
     },
     "channel4_com": {
@@ -985,6 +1025,14 @@
         "[data-testid=cookieBanner] button"
       ]
     },
+    "dhbbank": {
+      "present": [
+        "dialog.js-cookie-bar .js-reject-all"
+      ],
+      "showing": [
+        "dialog.js-cookie-bar .js-reject-all"
+      ]
+    },
     "didomi": {
       "present": [
         "#didomi-host"
@@ -1105,6 +1153,14 @@
       ],
       "showing": [
         "#edp-cookies-banner"
+      ]
+    },
+    "eeconsentnotice": {
+      "present": [
+        ".cookieNoticeWrapper #cookieConsentFormAccept input[name^='ee:cookies_']"
+      ],
+      "showing": [
+        ".cookieNoticeWrapper #cookieConsentFormAccept"
       ]
     },
     "efccpa": {
@@ -1279,6 +1335,14 @@
       ],
       "showing": [
         "fedex-gdpr div"
+      ]
+    },
+    "feracookies": {
+      "present": [
+        ".cookies-container .cookies-banner-non-essential .accept-necessary-only-btn"
+      ],
+      "showing": [
+        ".cookies-container"
       ]
     },
     "fever": {
@@ -1751,12 +1815,36 @@
         ".modal-object--cookie [data-js-cookies-decline]"
       ]
     },
+    "la7cmp": {
+      "present": [
+        "#_evh-ric #btn_donotaccept"
+      ],
+      "showing": [
+        "#_evh-ric #btn_donotaccept"
+      ]
+    },
     "lacoccinelle": {
       "present": [
         "#qc-cmp2-container"
       ],
       "showing": [
         "#qc-cmp2-ui, #qc-cmp2-usp"
+      ]
+    },
+    "laravelcookieconsent": {
+      "present": [
+        ".lcc-modal.js-lcc-modal-alert"
+      ],
+      "showing": [
+        ".lcc-modal.js-lcc-modal-alert"
+      ]
+    },
+    "legislationgovuk": {
+      "present": [
+        ".cookie-preferences-banner .reject-all-cookies"
+      ],
+      "showing": [
+        ".cookie-preferences-banner .reject-all-cookies"
       ]
     },
     "lego": {
@@ -1825,6 +1913,14 @@
       ],
       "showing": [
         "#macaron_cookie_box .macaronbtn"
+      ]
+    },
+    "mackeeper": {
+      "present": [
+        ".js-gdpr-banner .js-gdpr-banner-top-hide"
+      ],
+      "showing": [
+        ".js-gdpr-banner .js-gdpr-banner-top-hide"
       ]
     },
     "massgeneralbrigham": {
@@ -1961,6 +2057,14 @@
       ],
       "domains": [
         "nba.com"
+      ]
+    },
+    "ndlgojp": {
+      "present": [
+        ".privacy-confirmation .pc-buttons"
+      ],
+      "showing": [
+        ".privacy-confirmation .pc-buttons"
       ]
     },
     "netbeat_de": {
@@ -2885,6 +2989,14 @@
         "#privacy-test-page-cmp-test-banner"
       ]
     },
+    "texasinstruments": {
+      "present": [
+        "#tiGDPRecModal #consent_pref_center"
+      ],
+      "showing": [
+        "#tiGDPRecModal .privacy_prompt"
+      ]
+    },
     "thalia_de": {
       "present": [
         "consent-banner[component=consent-banner]"
@@ -2907,12 +3019,28 @@
         "thefreedictionary.com"
       ]
     },
+    "thegrandyork": {
+      "present": [
+        "#user-consent .page.main button.manage"
+      ],
+      "showing": [
+        "#user-consent .page.main"
+      ]
+    },
     "theinfatuation": {
       "present": [
         "#consent-banner button[data-testid='close-button']"
       ],
       "showing": [
         "#consent-banner button[data-testid='close-button']"
+      ]
+    },
+    "thenounproject": {
+      "present": [
+        "[data-callback=\"accounts/hide-banner/CookiesBanner\"] button[class*=\"ManageLink\"]"
+      ],
+      "showing": [
+        "[data-callback=\"accounts/hide-banner/CookiesBanner\"] button[class*=\"ManageLink\"]"
       ]
     },
     "tiktok": {
@@ -2959,10 +3087,10 @@
     },
     "toyota": {
       "present": [
-        "#cookie-banner.visible .cookie-banner__container .cookie-banner__accept"
+        "#cookie-banner .cookie-banner__container [data-cookie-preferences-button]"
       ],
       "showing": [
-        "#cookie-banner.visible .cookie-banner__container .cookie-banner__accept"
+        "#cookie-banner.visible .cookie-banner__container"
       ]
     },
     "tplink": {
@@ -3103,6 +3231,14 @@
         ".u12-data-protection-notice button"
       ]
     },
+    "uftcookienotice": {
+      "present": [
+        "#politique_confidentialite #cookies_settings"
+      ],
+      "showing": [
+        "#politique_confidentialite"
+      ]
+    },
     "uk_cookie_consent": {
       "present": [
         "#catapult-cookie-bar"
@@ -3238,6 +3374,14 @@
       ],
       "showing": [
         "a[href=\"https://www.walmartcanada.ca/cookie-notice\"]"
+      ]
+    },
+    "wbdlegalterms": {
+      "present": [
+        "dialog#ltp-dialog"
+      ],
+      "showing": [
+        "dialog#ltp-dialog[open]"
       ]
     },
     "web_de": {
