@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-10",
+  "version": "2026-10-12",
   "type": "cmp_detectors",
-  "generated": "2026-10-10T10:06:57.458Z",
+  "generated": "2026-10-12T11:18:19.231Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "8b9a2669aff7f144",
-  "cmp_count": 416,
+  "autoconsent_tree_hash": "ddd2a7ed485739de",
+  "cmp_count": 470,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -123,6 +123,14 @@
       ],
       "domains": [
         "aliexpress.com"
+      ]
+    },
+    "allaboutjapan": {
+      "present": [
+        ".cookie-message .cookie-agree"
+      ],
+      "showing": [
+        ".cookie-message .cookie-agree"
       ]
     },
     "ally": {
@@ -260,6 +268,14 @@
         ".Avada-CookiesBar__OuterWrapper .Avada-CookiesBar_BtnDeny"
       ]
     },
+    "avvio": {
+      "present": [
+        "#ACClayerBackground #ACCsmallCookieLayer"
+      ],
+      "showing": [
+        "#ACCsmallCookieLayer, #ACCtabedCookieLayer"
+      ]
+    },
     "aws_amazon_com": {
       "present": [
         "#awsccc-cb-content"
@@ -363,6 +379,25 @@
         ".b-cookie.is-open"
       ]
     },
+    "bdirectbookingengine": {
+      "present": [
+        "#overlay-policy #policy_pop_close .fa-times-circle"
+      ],
+      "showing": [
+        "#overlay-policy #policy_pop_close .fa-times-circle"
+      ]
+    },
+    "berelax_com": {
+      "present": [
+        "section.cookie .cookie__container .cookie__close"
+      ],
+      "showing": [
+        "section.cookie.show .cookie__container"
+      ],
+      "domains": [
+        "berelax.com"
+      ]
+    },
     "bibliotheeknl": {
       "present": [
         "#bibliotheek-nl-page"
@@ -405,6 +440,14 @@
       ],
       "showing": [
         ".cookie-notification"
+      ]
+    },
+    "bluepark": {
+      "present": [
+        "#cookie_banner #cookie_buttons #cookie_essential"
+      ],
+      "showing": [
+        "#cookie_banner #cookie_essential"
       ]
     },
     "borlabs": {
@@ -553,6 +596,14 @@
         "ciaopeople.it"
       ]
     },
+    "cinemaplus": {
+      "present": [
+        "section[role=\"alert\"] button[aria-label=\"close cookie message\"]"
+      ],
+      "showing": [
+        "section[role=\"alert\"] button[aria-label=\"close cookie message\"]"
+      ]
+    },
     "civiccookiecontrol": {
       "present": [
         "#ccc-module,#ccc-notify"
@@ -614,6 +665,14 @@
       ],
       "showing": [
         "div[class^=CookieBannerContent__Container]"
+      ]
+    },
+    "columbiaprivacynotice": {
+      "present": [
+        "#cu-privacy-notice .cu-privacy-notice-close"
+      ],
+      "showing": [
+        "#cu-privacy-notice"
       ]
     },
     "complianz_banner": {
@@ -757,6 +816,12 @@
       ],
       "showing": []
     },
+    "cookieconsent2legacy": {
+      "present": [
+        "#cc_div #cm_btns"
+      ],
+      "showing": []
+    },
     "cookieconsent3": {
       "present": [
         "#cc-main"
@@ -879,6 +944,14 @@
         "button[form=\"cookie-banner-2025-form\"][name=\"accept_cookie\"]"
       ]
     },
+    "copaamerica": {
+      "present": [
+        "div.fixed.z-50.rounded-xl:has(> p > a[href*=\"privac\"]):has(> button.button-primary)"
+      ],
+      "showing": [
+        "div.fixed.z-50.rounded-xl:has(> p > a[href*=\"privac\"]):has(> button.button-primary)"
+      ]
+    },
     "copilotmicrosoft": {
       "present": [
         "#cookie-banner"
@@ -980,6 +1053,17 @@
       ],
       "showing": [
         ".cookie-banner.show .cookie-banner__content-all-btn"
+      ]
+    },
+    "darkounity_com": {
+      "present": [
+        "gdpr-consent-popup"
+      ],
+      "showing": [
+        "gdpr-consent-popup"
+      ],
+      "domains": [
+        "darkounity.com"
       ]
     },
     "datagrail": {
@@ -1109,6 +1193,14 @@
         "#drupalorg-crosssite-gdpr"
       ]
     },
+    "dudacookienotification": {
+      "present": [
+        "#d-notification-bar[data-rule-type=\"notification\"]:not([data-rule]) .notification-dismiss"
+      ],
+      "showing": [
+        ".showing-message--shown > #d-notification-bar[data-rule-type=\"notification\"][data-visible]:not([data-rule])"
+      ]
+    },
     "dunelm_com": {
       "present": [
         "div[data-testid=cookie-consent-message-contents]"
@@ -1193,6 +1285,17 @@
       ],
       "showing": [
         ".cookie-consent #cookieDisagree"
+      ]
+    },
+    "endocrine_org": {
+      "present": [
+        "#gdprBanner"
+      ],
+      "showing": [
+        "#gdprBanner .js-close-btn"
+      ],
+      "domains": [
+        "endocrine.org"
       ]
     },
     "ensembleartsphilly": {
@@ -1389,6 +1492,14 @@
         "[fs-consent-element=banner] [fs-consent-element=allow]"
       ]
     },
+    "fisdataexchange": {
+      "present": [
+        ".dx-cookie-banner .dx-cookie-banner-close"
+      ],
+      "showing": [
+        ".dx-cookie-banner .dx-cookie-banner-close"
+      ]
+    },
     "fullertonhotels_com": {
       "present": [
         "#ifrmCookieBanner"
@@ -1448,6 +1559,14 @@
       ],
       "domains": [
         "geni.com"
+      ]
+    },
+    "givedirectly": {
+      "present": [
+        ".push-banner-consent"
+      ],
+      "showing": [
+        ".push-banner-consent"
       ]
     },
     "glastonburyfestivals": {
@@ -1525,6 +1644,22 @@
       ],
       "showing": [
         ".fixed [data-testid=closeCookieBanner]"
+      ]
+    },
+    "guesty": {
+      "present": [
+        "#guesty-be-root"
+      ],
+      "showing": [
+        "#guesty-be-root .cookies__block"
+      ]
+    },
+    "gundambaseentry": {
+      "present": [
+        "div.fixed.inset-0.drop-shadow-2xl button[aria-haspopup=\"dialog\"]"
+      ],
+      "showing": [
+        "div.fixed.inset-0.drop-shadow-2xl button[aria-haspopup=\"dialog\"]"
       ]
     },
     "hashicorp": {
@@ -1636,6 +1771,14 @@
         "imdb.com"
       ]
     },
+    "indysystems": {
+      "present": [
+        ".q-notifications .q-notification a[href=\"/cookie-policy\"]"
+      ],
+      "showing": [
+        ".q-notifications .q-notification:has(a[href=\"/cookie-policy\"])"
+      ]
+    },
     "infomaniakrgpd": {
       "present": [
         "module-rgpd-component"
@@ -1692,9 +1835,7 @@
       "present": [
         "#iubenda-cs-banner"
       ],
-      "showing": [
-        ".iubenda-cs-accept-btn"
-      ]
+      "showing": []
     },
     "iubendarti": {
       "present": [
@@ -1907,6 +2048,14 @@
         "lucozade.com"
       ]
     },
+    "lucrin": {
+      "present": [
+        "#notice-cookie-block #btn-manage-cookie"
+      ],
+      "showing": [
+        "#notice-cookie-block"
+      ]
+    },
     "macaron": {
       "present": [
         "#macaron_cookie_box"
@@ -1921,6 +2070,14 @@
       ],
       "showing": [
         ".js-gdpr-banner .js-gdpr-banner-top-hide"
+      ]
+    },
+    "makitatools": {
+      "present": [
+        ".makita-footer-warning"
+      ],
+      "showing": [
+        ".makita-footer-warning"
       ]
     },
     "massgeneralbrigham": {
@@ -1995,6 +2152,14 @@
       ],
       "showing": [
         ".cookieconsent__buttonAcceptNecessary"
+      ]
+    },
+    "milestoneinternet": {
+      "present": [
+        "#msCookieBanner.msCookieBanner"
+      ],
+      "showing": [
+        "#msCookieBanner.msCookieBanner"
       ]
     },
     "mipro_com_tw": {
@@ -2078,6 +2243,17 @@
         "netbeat.de"
       ]
     },
+    "nhm_ac_uk": {
+      "present": [
+        "[data-show-cookie-banner=\"true\"]"
+      ],
+      "showing": [
+        "[data-show-cookie-banner=\"true\"]"
+      ],
+      "domains": [
+        "nhm.ac.uk"
+      ]
+    },
     "nhnieuws": {
       "present": [
         "[class*=ConsentManager_cookieBar]"
@@ -2112,6 +2288,14 @@
       ],
       "domains": [
         "nos.nl"
+      ]
+    },
+    "npoccm": {
+      "present": [
+        "ccm-notification"
+      ],
+      "showing": [
+        "ccm-notification"
       ]
     },
     "nutritionix_com": {
@@ -2166,6 +2350,14 @@
         "onlyfans.com"
       ]
     },
+    "opalcollectioncom": {
+      "present": [
+        ".cookie-popup .cookie-popup__button"
+      ],
+      "showing": [
+        ".cookie-popup"
+      ]
+    },
     "openai": {
       "present": [
         "[aria-labelledby=cookieConsentTitle]"
@@ -2196,12 +2388,31 @@
         "opera.com"
       ]
     },
+    "orwcookiebanner": {
+      "present": [
+        "#CookieBanner.cookie-banner.drawer"
+      ],
+      "showing": [
+        "#CookieBanner.cookie-banner.drawer.opened"
+      ]
+    },
     "osano": {
       "present": [
         ".osano-cm-window"
       ],
       "showing": [
         ".osano-cm-dialog:not(.osano-cm-dialog--hidden)"
+      ]
+    },
+    "osf_io": {
+      "present": [
+        "osf-cookie-consent-banner p-message"
+      ],
+      "showing": [
+        "osf-cookie-consent-banner p-message"
+      ],
+      "domains": [
+        "osf.io"
       ]
     },
     "otto_de": {
@@ -2239,6 +2450,14 @@
         ".js-cookie-notice #cookie_settings-form"
       ]
     },
+    "palacecompany": {
+      "present": [
+        "#cookie-consent .cc-window[aria-describedby=\"cookieconsent:desc\"]"
+      ],
+      "showing": [
+        "#cookie-consent .cc-window[aria-describedby=\"cookieconsent:desc\"]"
+      ]
+    },
     "passle": {
       "present": [
         "#passle-cookie-control-container"
@@ -2274,6 +2493,14 @@
         "#ccpaCookieBanner"
       ]
     },
+    "paytronix": {
+      "present": [
+        "#overlay > .gdprBackgound > .gdprTitle"
+      ],
+      "showing": [
+        "#overlay > .gdprBackgound"
+      ]
+    },
     "piano_io": {
       "present": [
         "#piano-cookie_banner"
@@ -2301,6 +2528,25 @@
         ".BusinessCookieConsent [data-id=cookie-consent-banner-buttons]"
       ]
     },
+    "pittedu": {
+      "present": [
+        "#cookieMessage[data-cookie-boundary]"
+      ],
+      "showing": [
+        "#cookieMessage[data-cookie-boundary]"
+      ]
+    },
+    "pizzapilgrims_co_uk": {
+      "present": [
+        ".cookie-bg .cookie-inner .cookie-btn--accept"
+      ],
+      "showing": [
+        ".cookie-bg .cookie-inner"
+      ],
+      "domains": [
+        "pizzapilgrims.co.uk"
+      ]
+    },
     "plos": {
       "present": [
         "#cookie-consent button"
@@ -2323,6 +2569,14 @@
       ],
       "showing": [
         "aside[aria-labelledby=\"pmc-privacy-banner-heading\"]"
+      ]
+    },
+    "podimo": {
+      "present": [
+        "[data-testid=cookie-consent-bar-desktop], [data-testid=cookie-consent-bar-mobile]"
+      ],
+      "showing": [
+        "[data-testid=cookie-consent-bar-desktop], [data-testid=cookie-consent-bar-mobile]"
       ]
     },
     "policeuk": {
@@ -2434,6 +2688,14 @@
         "productz.com"
       ]
     },
+    "publicmobile": {
+      "present": [
+        "[data-testid=\"cookie-consent-sticky-footer\"]"
+      ],
+      "showing": [
+        "[data-testid=\"cookie-consent-sticky-footer\"][aria-hidden=\"false\"]"
+      ]
+    },
     "pubtech": {
       "present": [
         "#pubtech-cmp"
@@ -2456,6 +2718,14 @@
       ],
       "showing": [
         "#r42CookieBar[open] .cw-deny"
+      ]
+    },
+    "rakshaos": {
+      "present": [
+        "#raksha-consent-banner"
+      ],
+      "showing": [
+        "#raksha-consent-banner"
       ]
     },
     "raspberrypi_com": {
@@ -2588,6 +2858,14 @@
         "#gdprconsent.gdprcontainer"
       ]
     },
+    "rutjes": {
+      "present": [
+        "script[src*='consent.cookiebot.com/uc.js']"
+      ],
+      "showing": [
+        "#cookiebanner #DeclineAll"
+      ]
+    },
     "ryanair": {
       "present": [
         "#cookie-popup-with-overlay"
@@ -2623,6 +2901,14 @@
         "s4s-privacy-module"
       ]
     },
+    "saturdaysnyc": {
+      "present": [
+        "#popup-notice .popup__close"
+      ],
+      "showing": [
+        "#popup-notice"
+      ]
+    },
     "schoolhousecom": {
       "present": [
         "body > div#__next > div#app > div:nth-child(7):not([id])"
@@ -2637,6 +2923,14 @@
       ],
       "showing": [
         ".f-cmp-flyout-wrapper .f-gpc-banner"
+      ]
+    },
+    "serpstatcom": {
+      "present": [
+        ".cookie-consent[data-cookieconsent], .gdpr-tab #gdpr_tab_content"
+      ],
+      "showing": [
+        ".cookie-consent[data-cookieconsent], .gdpr-tab #gdpr_tab_content"
       ]
     },
     "setupad": {
@@ -2688,6 +2982,22 @@
         "#shopify-pc__banner"
       ]
     },
+    "shopquarters": {
+      "present": [
+        "aside[x-data=\"cookieConsent\"]"
+      ],
+      "showing": [
+        "#shopify-pc__banner, aside[x-data=\"cookieConsent\"] > div.opacity-100"
+      ]
+    },
+    "shopware": {
+      "present": [
+        ".cookie-permission-container[data-cookie-permission] .js-cookie-configuration-button"
+      ],
+      "showing": [
+        ".cookie-permission-container[data-cookie-permission]"
+      ]
+    },
     "sibbo": {
       "present": [
         "sibbo-cmp-layout"
@@ -2702,6 +3012,14 @@
       ],
       "showing": [
         "custom-cookie-consent#cookieBubble.banner-show #configureBtn"
+      ]
+    },
+    "simpleviewcookiebanner": {
+      "present": [
+        ".contentRender_name_plugins_common_cookie_banner [data-sv-close-banner], .contentRender_name_plugins_common_gdpr_banner [data-sv-close-banner]"
+      ],
+      "showing": [
+        ".contentRender_name_plugins_common_cookie_banner > :has([data-sv-close-banner]), .contentRender_name_plugins_common_gdpr_banner > :has([data-sv-close-banner])"
       ]
     },
     "simyonl": {
@@ -2745,6 +3063,17 @@
         "#cookie_modal"
       ]
     },
+    "solvhealth_com": {
+      "present": [
+        "#cookiesModal #cookiesModalCloseBtn"
+      ],
+      "showing": [
+        "#cookiesModal"
+      ],
+      "domains": [
+        "solvhealth.com"
+      ]
+    },
     "sostereo_com": {
       "present": [
         "app-cookie-consent"
@@ -2775,9 +3104,26 @@
         "speciesplus.net"
       ]
     },
+    "spermidinelifeus": {
+      "present": [
+        ".plug-gdpr-wrapper.js-gdpr-wrapper .js-gdpr-button"
+      ],
+      "showing": [
+        ".plug-gdpr-wrapper--show.js-gdpr-wrapper"
+      ]
+    },
     "squarespacecookiebanner": {
       "present": [
+        ".cookie-banner-mount-point section[aria-label='Cookie banner'] :is(button.decline, button.manage)"
+      ],
+      "showing": [
         ".cookie-banner-mount-point section[aria-label='Cookie banner']"
+      ]
+    },
+    "squarespacecookienotice": {
+      "present": [
+        ".cookie-banner-mount-point section[aria-label='Cookie banner'] button.accept",
+        ".cookie-banner-mount-point section[aria-label='Cookie banner'] :is(button.decline, button.manage)"
       ],
       "showing": [
         ".cookie-banner-mount-point section[aria-label='Cookie banner']"
@@ -2800,6 +3146,17 @@
       ],
       "domains": [
         "steampowered.com"
+      ]
+    },
+    "store2000_fr": {
+      "present": [
+        "div.fixed.inset-0:has(.lucide-cookie)"
+      ],
+      "showing": [
+        "div.fixed.inset-0:has(.lucide-cookie)"
+      ],
+      "domains": [
+        "store2000.fr"
       ]
     },
     "strato_de": {
@@ -2922,6 +3279,14 @@
         "#__tealiumGDPRecModal *,#__tealiumGDPRcpPrefs *,#__tealiumImplicitmodal *"
       ]
     },
+    "tempestcookienotice": {
+      "present": [
+        "div[data-cookie-consent] > button[data-cookie-consent-close]"
+      ],
+      "showing": [
+        "div[data-cookie-consent]:has(> button[data-cookie-consent-close])"
+      ]
+    },
     "temu": {
       "present": [
         "div > div > div > div > span[href*=\"/cookie-and-similar-technologies-policy.html\"]"
@@ -2940,10 +3305,10 @@
     },
     "termsfeed": {
       "present": [
-        ".termsfeed-com---nb"
+        ".termsfeed-com---nb,.freeprivacypolicy-com---nb"
       ],
       "showing": [
-        ".termsfeed-com---nb"
+        ".termsfeed-com---nb,.freeprivacypolicy-com---nb"
       ]
     },
     "termsfeed3": {
@@ -3043,11 +3408,27 @@
         "[data-callback=\"accounts/hide-banner/CookiesBanner\"] button[class*=\"ManageLink\"]"
       ]
     },
+    "therealest": {
+      "present": [
+        "[role=dialog][aria-labelledby=cookie-banner-title]"
+      ],
+      "showing": [
+        "[role=dialog][aria-labelledby=cookie-banner-title]"
+      ]
+    },
     "tiktok": {
       "present": [
         "tiktok-cookie-banner"
       ],
       "showing": []
+    },
+    "tineye": {
+      "present": [
+        "[data-test=\"cookie-banner\"]"
+      ],
+      "showing": [
+        "[data-test=\"cookie-banner\"]"
+      ]
     },
     "tinyurl": {
       "present": [
@@ -3055,6 +3436,17 @@
       ],
       "showing": [
         "[data-test-id=cookies_section]"
+      ]
+    },
+    "tkaerztefuehrer_de": {
+      "present": [
+        "#tkConsentmanager"
+      ],
+      "showing": [
+        "#tkConsentmanager"
+      ],
+      "domains": [
+        "tkaerztefuehrer.de"
       ]
     },
     "tlcdirect": {
@@ -3095,11 +3487,9 @@
     },
     "tplink": {
       "present": [
-        ".tp-dialog.cookie-dialog"
+        ".tp-dialog.cookie-dialog, :not(.tp-cookie-banner-tpl) > .tp-cookie-banner .show-cookie-dialog"
       ],
-      "showing": [
-        ".tp-dialog.cookie-dialog button"
-      ]
+      "showing": []
     },
     "traderjoescom": {
       "present": [
@@ -3147,6 +3537,14 @@
       ],
       "showing": [
         "#polaris-css-lockdown-container"
+      ]
+    },
+    "trust360": {
+      "present": [
+        ".T360PurposeOverviewBanner"
+      ],
+      "showing": [
+        ".T360PurposeOverviewBanner"
       ]
     },
     "trustarc": {
@@ -3269,6 +3667,14 @@
         "#__tealiumGDPRcpPrefs #consent-container"
       ]
     },
+    "upcookieconsent": {
+      "present": [
+        ".upcc-cookie-widget"
+      ],
+      "showing": [
+        ".upcc-cookie-widget"
+      ]
+    },
     "usercentrics": {
       "present": [
         "#usercentrics-root",
@@ -3300,6 +3706,14 @@
       ],
       "domains": [
         "uswitch.com"
+      ]
+    },
+    "uwmadisoncookieconsent": {
+      "present": [
+        "#cookieconsent-window[aria-describedby=\"cookieconsent-desc\"] #cookieconsent-dismiss"
+      ],
+      "showing": [
+        "#cookieconsent-window[aria-describedby=\"cookieconsent-desc\"]"
       ]
     },
     "uwvnl": {
@@ -3357,6 +3771,14 @@
         "cookie-banner#cookie-banner-host"
       ]
     },
+    "vowels": {
+      "present": [
+        "consent-scheduler > .cookie-consent-js"
+      ],
+      "showing": [
+        ".footer-signup.active consent-scheduler > .cookie-consent-js:not(.hidden)"
+      ]
+    },
     "waitrose_com": {
       "present": [
         "section[data-test=initial-waitrose-cookie-consent-banner]"
@@ -3403,6 +3825,17 @@
         ".fs-cc-components,[fs-cc=banner] [fs-cc=allow]"
       ]
     },
+    "webrewind_com": {
+      "present": [
+        ".cookie-banner .btn-accept-selected"
+      ],
+      "showing": [
+        ".cookie-banner .btn-accept-selected"
+      ],
+      "domains": [
+        "webrewind.com"
+      ]
+    },
     "wiki_gg": {
       "present": [
         ".mw-cookiewarning-container"
@@ -3417,6 +3850,14 @@
       ],
       "showing": [
         "[class^=cookie_wrapper]"
+      ]
+    },
+    "wildlingcom": {
+      "present": [
+        ".shopify-section.cookies .accept-cookies"
+      ],
+      "showing": [
+        ".shopify-section.cookies .accept-cookies"
       ]
     },
     "wix": {
@@ -3441,6 +3882,14 @@
       ],
       "showing": [
         "[data-automation-id=\"legalNotice\"]"
+      ]
+    },
+    "worldbank": {
+      "present": [
+        "#cookieconsentpopup.lp__cookie_tooltip"
+      ],
+      "showing": [
+        "#cookieconsentpopup.lp__cookie_tooltip"
       ]
     },
     "wp_cookie_notice_for_gdpr": {
@@ -3551,6 +4000,14 @@
       ],
       "showing": [
         "ytm-consent-bump-v2-renderer"
+      ]
+    },
+    "yuntrack": {
+      "present": [
+        ".cookies-box .cookies-btn-customize"
+      ],
+      "showing": [
+        ".cookies-box"
       ]
     },
     "zdf": {

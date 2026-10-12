@@ -1,10 +1,13 @@
 {
-  "version": "2026-10-11",
-  "generated": "2026-10-11T10:17:58.932Z",
+  "version": "2026-10-12",
+  "generated": "2026-10-12T11:18:19.717Z",
   "type": "tracking_params_sites",
-  "domain_count": 990,
-  "param_count": 2022,
+  "domain_count": 991,
+  "param_count": 2023,
   "sites": {
+    "elcomercio.es": [
+      "mrfcid"
+    ],
     "sp.mbga.jp": [
       "_fr",
       "_from"
@@ -594,8 +597,7 @@
     ],
     "topics.smt.docomo.ne.jp": [
       "fm",
-      "fm_topics_id",
-      "redirect"
+      "fm_topics_id"
     ],
     "online.nojima.co.jp": [
       "campaign"
