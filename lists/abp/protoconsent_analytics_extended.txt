@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-10-12
-! Last modified: 2026-10-12T07:29:51.314Z
-! Entries: 143072
+! Version: 2026-10-13
+! Last modified: 2026-10-13T07:50:00.999Z
+! Entries: 143096
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -1198,6 +1198,7 @@
 ||a1at.mno.link^$third-party
 ||a1webstats.com^$third-party
 ||a1webstrategy.com^$third-party
+||a2.cineflix.st^$third-party
 ||a2.mkedziora.pl^$third-party
 ||a24793.actonservice.com^$third-party
 ||a24982.actonservice.com^$third-party
@@ -5704,7 +5705,9 @@
 ||analytics-paterzell.fwty.de^$third-party
 ||analytics-pbl.vivino.com^$third-party
 ||analytics-phi-nba.yinzcam.com^$third-party
+||analytics-phi-nfl.yinzcam.com^$third-party
 ||analytics-pillarfour-1105396686.us-east-1.elb.amazonaws.com^$third-party
+||analytics-pit-nfl.yinzcam.com^$third-party
 ||analytics-por-nba.yinzcam.com^$third-party
 ||analytics-portal.inspiresleep.net^$third-party
 ||analytics-portals.com^$third-party
@@ -14748,6 +14751,7 @@
 ||analytics.sel4.systems^$third-party
 ||analytics.selbststaendig-als-freiberufler.de^$third-party
 ||analytics.selea.se^$third-party
+||analytics.selfboot.cn^$third-party
 ||analytics.selfdesign.org^$third-party
 ||analytics.selfh.st^$third-party
 ||analytics.selfhosting.rocks^$third-party
@@ -19918,6 +19922,7 @@
 ||audience.systems^$third-party
 ||audience.tatos.fr^$third-party
 ||audience73.com^$third-party
+||audiencedata.im-apps.net^$third-party
 ||audienceinsights.net^$third-party
 ||audienceplay.com^$third-party
 ||audienceproject.com^$third-party
@@ -26050,6 +26055,7 @@
 ||columbo.io^$third-party
 ||columbus.shortest-route.com^$third-party
 ||colvk.viki.io^$third-party
+||colwinners.com^$third-party
 ||com-track.live^$third-party
 ||com.com^$third-party
 ||com.econa.com^$third-party
@@ -32710,6 +32716,7 @@
 ||dbjnzp.estellabartlett.com^$third-party
 ||dbl.cadriamarketing.com^$third-party
 ||dblarson.com^$third-party
+||dblendcoatings.com^$third-party
 ||dbmanalytics.carrentals.com^$third-party
 ||dbmgc.marleylilly.com^$third-party
 ||dbmyvl.apartmentfinder.com^$third-party
@@ -33444,6 +33451,7 @@
 ||dha.io^$third-party
 ||dhaka.elitemart.com.bd^$third-party
 ||dhaka.sahariarshopbd.com^$third-party
+||dharmabrats.com^$third-party
 ||dhatma.com^$third-party
 ||dhdaa.duke.edu^$third-party
 ||dhddv.rarevinyl.com^$third-party
@@ -39585,6 +39593,7 @@
 ||futuristicfifth.com^$third-party
 ||futuristicfold.com^$third-party
 ||futursalumnes.uic.es^$third-party
+||fuvtxd.cdkeys.com^$third-party
 ||fuzaeg.secretcollagen.com^$third-party
 ||fuziontech.net^$third-party
 ||fuzrct.gutteridge.com^$third-party
@@ -45738,6 +45747,7 @@
 ||htrog.threewarriors.com.au^$third-party
 ||htrrg8trk.com^$third-party
 ||httjs.davidscookies.com^$third-party
+||http-intake.logs.datadoghq.com^$third-party
 ||httpdns.browser.miui.com^$third-party
 ||httptrack.com^$third-party
 ||httr.redskins.com^$third-party
@@ -46297,6 +46307,7 @@
 ||iieuv.thertastore.com^$third-party
 ||iieze.honeybirdette.com^$third-party
 ||iihmb.trtltravel.com^$third-party
+||iijblypu.idrotermoelettrico.it^$third-party
 ||iindy.co^$third-party
 ||iinside.com^$third-party
 ||iiqtru.aunworks.jp^$third-party
@@ -64142,6 +64153,7 @@
 ||mdws.mvcu.ca^$third-party
 ||mdws.myunited.ca^$third-party
 ||mdws.nelsoncu.com^$third-party
+||mdws.newrosscreditunion.ca^$third-party
 ||mdws.newwaterfordcreditunion.com^$third-party
 ||mdws.nivervillecu.mb.ca^$third-party
 ||mdws.nlcu.com^$third-party
@@ -69558,6 +69570,9 @@
 ||mkt188.com^$third-party
 ||mkt1946.com^$third-party
 ||mkt2000.com^$third-party
+||mkt2178.com^$third-party
+||mkt2527.com^$third-party
+||mkt2552.com^$third-party
 ||mkt2956.com^$third-party
 ||mkt2957.com^$third-party
 ||mkt2958.com^$third-party
@@ -69741,6 +69756,7 @@
 ||mkt330.com^$third-party
 ||mkt331.com^$third-party
 ||mkt332.com^$third-party
+||mkt3416.com^$third-party
 ||mkt3605.com^$third-party
 ||mkt3606.com^$third-party
 ||mkt3607.com^$third-party
@@ -70574,6 +70590,7 @@
 ||mkt4923.com^$third-party
 ||mkt4924.com^$third-party
 ||mkt4963.com^$third-party
+||mkt5013.com^$third-party
 ||mkt5026.com^$third-party
 ||mkt5027.com^$third-party
 ||mkt5028.com^$third-party
@@ -71120,6 +71137,7 @@
 ||mkt6504.com^$third-party
 ||mkt6505.com^$third-party
 ||mkt6506.com^$third-party
+||mkt6512.com^$third-party
 ||mkt6577.com^$third-party
 ||mkt6578.com^$third-party
 ||mkt6579.com^$third-party
@@ -88725,6 +88743,7 @@
 ||ru.lgsmartad.com^$third-party
 ||ru.video.intl.xiaomi.com^$third-party
 ||ru3s4trk.com^$third-party
+||rubberduck.suomityres.fi^$third-party
 ||rubel.adunikkrishi.com^$third-party
 ||rubel.mimseed.com^$third-party
 ||rubelhasanrokib.adhunikfosol.com^$third-party
@@ -91998,6 +92017,7 @@
 ||sentrant.com^$third-party
 ||sentry-cdn.com^$third-party
 ||sentry-cdn.top^$third-party
+||sentry-intake.datadoghq.com^$third-party
 ||sentry-internal.temp-mail.io^$third-party
 ||sentry-monitoring.magellantv.com^$third-party
 ||sentry-new.divar.ir^$third-party
@@ -109657,6 +109677,7 @@
 ||stape.everbridal.com^$third-party
 ||stape.everestpreparatorios.com.br^$third-party
 ||stape.evoluna.com.br^$third-party
+||stape.evolutize.com.br^$third-party
 ||stape.exame.com^$third-party
 ||stape.excelbible.techproductivityhub.com^$third-party
 ||stape.exceldefinitivo.com.br^$third-party
@@ -123471,6 +123492,7 @@
 ||t.onvi.ro^$third-party
 ||t.ophthalmica.gr^$third-party
 ||t.optiwizehealth.com^$third-party
+||t.orangeloops.com^$third-party
 ||t.orgat.co.il^$third-party
 ||t.orion.fi^$third-party
 ||t.osmo-official.com^$third-party
@@ -131501,6 +131523,7 @@
 ||trk.avalara.com^$third-party
 ||trk.aviationweek.com^$third-party
 ||trk.avlr.net^$third-party
+||trk.avonturium.com^$third-party
 ||trk.babylonbee.com^$third-party
 ||trk.bakewithstork.com^$third-party
 ||trk.banktech.com^$third-party
@@ -132922,6 +132945,7 @@
 ||umami.iamevan.dev^$third-party
 ||umami.inity.se^$third-party
 ||umami.insect-genome.com^$third-party
+||umami.intervals.icu^$third-party
 ||umami.ipl.com^$third-party
 ||umami.iqfareez.com^$third-party
 ||umami.irishartistsfilmindex.ie^$third-party

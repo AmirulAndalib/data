@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-10-12
-# Last modified: 2026-10-12T07:29:51.314Z
-# Entries: 10007
+# Version: 2026-10-13
+# Last modified: 2026-10-13T07:50:00.999Z
+# Entries: 10024
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -194,6 +194,7 @@ active-tracking.de
 active-trk7.com
 activity-flow.vtex.com
 activity.newlook.com
+activity.wisepops.com
 actuallysnake.com
 acustomizedgift.com
 acv.mira-dsp.com
@@ -550,6 +551,8 @@ analytics-listener.trafficmanager.net
 analytics-log.withhive.com
 analytics-logger.service.junctiontv.net
 analytics-nssl.bradyid.com
+analytics-phi-nfl.yinzcam.com
+analytics-pit-nfl.yinzcam.com
 analytics-prd.aws.wehaa.net
 analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 analytics-prod.readtheory.org
@@ -2438,6 +2441,7 @@ dantocmiennui-log.baotintuc.vn
 danv01ao0kdr2.cloudfront.net
 dap.hindustantimes.com
 dapxl.com
+darngavel.com
 dash.getsitecontrol.com
 dashapi.chartbeat.com
 dashingdrop.com
@@ -2487,6 +2491,7 @@ data.emb-api.com
 data.embeddables.com
 data.emea.coca-cola.com
 data.eml.wegmans.com
+data.engelhorn.de
 data.eu.pendo.io
 data.gosquared.com
 data.hailuo.ai
@@ -2494,6 +2499,7 @@ data.hicloud.com
 data.inbank.it
 data.info.avianca.com
 data.info.lifemiles.com
+data.inswa.coca-cola.com
 data.jaytuckwell.com
 data.latinamerica.coca-cola.com
 data.lavozdigital.es
@@ -2501,8 +2507,9 @@ data.librairieclub.be
 data.loyalty.timhortons.ca
 data.m.philadelphiaeagles.com
 data.m.shop.nhl.com
-data.m.store.nba.com
+data.madlan.co.il
 data.madridista-free.realmadrid.com
+data.marketing.nascar.com
 data.mediaworld.it
 data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
@@ -2841,7 +2848,6 @@ egret.hairproject.ch
 ei.monday.com
 eicyds.qoo10.jp
 eipqr.rythmhealth.com
-ejbbcf.finishline.com
 ek-tracker.ekitan.com
 ekmpinpoint.com
 el.siglo.mx
@@ -2925,7 +2931,6 @@ errors.snackly.co
 es-log.vietnamplus.vn
 escalated.io
 esearchvision.com
-esifi.acmetools.com
 esomniture.com
 esoterictools.com
 essayplanet.com
@@ -3264,6 +3269,7 @@ freeweblogger.com
 freshatl.azurewebsites.net
 freshcounter.com
 fresnel-events.vimeocdn.com
+frfge.bonobos.com
 friendbuy.com
 friendlyfold.com
 frog.borgs.app
@@ -3758,6 +3764,7 @@ ihi.flowplayer.com
 iid-network.jp
 ijaabm.eonline.com
 ijaabm.nbcsports.com
+ijhlca.lulus.com
 ijogkae.churchserviceplanner.co.uk
 ilikeclick.com
 image.mdr.de
@@ -3953,6 +3960,7 @@ j927.statnews.com
 jackal.jakerunzer.com
 jackal.thetie.io
 jas.indeednps.com
+jashz.crateandbarrel.com
 javascriptcounter.appspot.com
 jay.brauerei-egg.at
 jay.howivscode.com
@@ -4449,6 +4457,7 @@ lr-ingest.com
 lr-ingest.io
 lrkt-in.com
 lsdm.co
+ltassrv.com
 ltecrf.dhgate.com
 ltsveh.wetteronline.de
 lucid.mjhassoc.com
@@ -5735,6 +5744,7 @@ pls.prd.mz.internal.unity3d.com
 pm.boostintegrated.com
 pmi.flowplayer.com
 pmnbh.dedcool.com
+pmngv.veronicabeard.com
 pn.vg
 pnekru6pxrum-a.akamaihd.net
 pnstat.com
@@ -6343,6 +6353,7 @@ sanalytics.verizonwireless.com
 sanalytics.visible.com
 sanl.champssports.com
 sanl.footlocker.ca
+sanl.footlocker.co.uk
 sanl.footlocker.com
 sanl.footlocker.fr
 sanl.footlocker.it
@@ -6449,6 +6460,7 @@ secure.head3high.com
 secure.hear8crew.com
 secure.hiss3lark.com
 secure.imaginativeenterprising-intelligent.com
+secure.insightful-cloud-365.com
 secure.jaup0lake.com
 secure.keet1liod.com
 secure.kilo6alga.com
@@ -6493,9 +6505,11 @@ secureanalytics.avis.no
 secureanalytics.avisautonoleggio.it
 secureanalytics.budget.se
 secureanalytics.nedbank.co.za
+securedata.bioplanet.be
 securedata.collectandgo.be
 securedata.colruyt.be
 securedata.colruytgroup.com
+securedata.dats24.be
 securemetrics.blackrock.com
 securemetrics.gap.co.jp
 securemetrics.gap.com
@@ -6740,7 +6754,6 @@ smetrics.abercrombie.com
 smetrics.accaglobal.com
 smetrics.accredo.com
 smetrics.aclu.org
-smetrics.acmetools.com
 smetrics.adnradio.cl
 smetrics.aem.playstation.com
 smetrics.aetn.com
@@ -6801,6 +6814,7 @@ smetrics.bancomundial.org
 smetrics.bancsabadell.com
 smetrics.bankinter.com
 smetrics.bankofamerica.com
+smetrics.bankofmelbourne.com.au
 smetrics.banksa.com.au
 smetrics.bankwest.com.au
 smetrics.banter.com
@@ -6995,6 +7009,7 @@ smetrics.foxbusiness.com
 smetrics.fpl.com
 smetrics.francosarto.com
 smetrics.franke.com
+smetrics.fraport.com
 smetrics.freecreditscore.com
 smetrics.frontier.com
 smetrics.frontline.co.th
@@ -7125,6 +7140,7 @@ smetrics.mann-filter.com
 smetrics.marcus.com
 smetrics.markandgraham.com
 smetrics.marketing.lighting.philips.com.tr
+smetrics.marketing.lighting.philips.de
 smetrics.marketing.philips-hue.com
 smetrics.marksandspencer.com
 smetrics.marriott.com
@@ -7277,7 +7293,6 @@ smetrics.ralphlauren.ie
 smetrics.ralphlauren.it
 smetrics.ralphlauren.nl
 smetrics.ralphlauren.pt
-smetrics.ramtrucks.com
 smetrics.rate.com
 smetrics.ray-ban.com
 smetrics.rcsmetrics.it
@@ -7585,6 +7600,7 @@ somni.synchronybank.com
 somni.synchronybusiness.com
 somni.thermofisher.com
 somni.viking.com
+somni.vikingcruises.com
 somni.vikingrivercruises.com
 somnit.equinox.com
 somniture.scotiabank.com
@@ -8254,7 +8270,6 @@ sw88.nationalgeographic.com
 sw88.nationalgeographic.fr
 sw88.starchannel-bg.com
 swa.asnbank.nl
-swa.bol.com
 swa.consumentenbond.nl
 swa.energiedirect.nl
 swa.eonline.com
@@ -8499,6 +8514,7 @@ tags.mattressfirm.com
 tags.mwg.aaa.com
 tags.nba.com
 tags.news.com.au
+tags.newzealand.com
 tags.op-palvelut.fi
 tags.pepperl-fuchs.com
 tags.premiumads.com.br
@@ -8562,6 +8578,7 @@ target.nejm.org
 target.newark.com
 target.ni.com
 target.onlinebanking.bancogalicia.com.ar
+target.pandasecurity.com
 target.premierinn.com
 target.questdiagnostics.com
 target.qvc.com
@@ -8589,7 +8606,6 @@ tawdryson.com
 taxel.jp
 tbe.tom.ru
 tblcontent.com
-tbvjrd.gocase.com.br
 tc-log.mattel163.com
 tc2.hometogo.net
 tccd.douglas.at
@@ -8614,6 +8630,7 @@ td.housebeautiful.com
 td.menshealth.com
 td.popularmechanics.com
 td.prevention.com
+td.runnersworld.com
 td.thepioneerwoman.com
 td.townandcountrymag.com
 td.womenshealthmag.com
@@ -9197,7 +9214,6 @@ tracking.military.com
 tracking.minitool.com
 tracking.musixmatch.com
 tracking.mycapture.com
-tracking.netsuite.com
 tracking.netvigie.com
 tracking.nextdoor.com
 tracking.noen.at
@@ -9443,6 +9459,7 @@ ucounter.ucoz.net
 udgrbq.malwarebytes.com
 udkcrj.com
 uedkm.therange.co.uk
+uftis.vitaminshoppe.com
 ug4x1tagz.com
 ugdturner.com
 uh.nakanohito.jp
@@ -9640,6 +9657,7 @@ vppgamingnetwork.com
 vppst.iltrovatore.it
 vrimh.wearfigs.com
 vs.target.com
+vsqce.converse.com
 vsqyaz.sweetwater.com
 vst.sibnet.ru
 vstat.borderlessbd.com
@@ -9920,7 +9938,6 @@ x9.shinobi.jp
 xanalytics.vip
 xiti.com
 xlisting.jp
-xljqqe.hsn.com
 xlog-va.tiktokv.com
 xlog.byteoversea.com
 xlog.snssdk.com
