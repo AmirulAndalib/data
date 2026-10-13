@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-12",
+  "version": "2026-10-13",
   "type": "cmp_detectors",
-  "generated": "2026-10-12T11:18:19.231Z",
+  "generated": "2026-10-13T11:03:44.338Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "ddd2a7ed485739de",
-  "cmp_count": 470,
+  "autoconsent_tree_hash": "77e3ad9e7f28fb32",
+  "cmp_count": 483,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -39,6 +39,17 @@
       ],
       "showing": [
         "[data-testid=\"cookies_reject\"]"
+      ]
+    },
+    "aceodds_com": {
+      "present": [
+        "#cookie-consent-banner #cookie-consent-accept"
+      ],
+      "showing": [
+        "#cookie-consent-banner"
+      ],
+      "domains": [
+        "aceodds.com"
       ]
     },
     "acris": {
@@ -422,6 +433,14 @@
         "#bc-cmp-host, #bc-cmp-host-auto"
       ]
     },
+    "bigid": {
+      "present": [
+        "#bigidcmp-banner-widget"
+      ],
+      "showing": [
+        "#bigidcmp-banner-widget"
+      ]
+    },
     "bing_com": {
       "present": [
         "#bnp_cookie_banner"
@@ -494,6 +513,14 @@
       ],
       "domains": [
         "burpee.com"
+      ]
+    },
+    "bynder": {
+      "present": [
+        "#cookieconsent .cookiechoices .rejectcookies"
+      ],
+      "showing": [
+        "#cookieconsent .cookiechoices .rejectcookies"
       ]
     },
     "canyon_com": {
@@ -673,6 +700,17 @@
       ],
       "showing": [
         "#cu-privacy-notice"
+      ]
+    },
+    "community_screwfix_com": {
+      "present": [
+        "#consent-banner #truste-consent-track"
+      ],
+      "showing": [
+        "#consent-banner #truste-consent-track"
+      ],
+      "domains": [
+        "community.screwfix.com"
       ]
     },
     "complianz_banner": {
@@ -918,6 +956,14 @@
       ],
       "showing": [
         "#cookiescript_injected"
+      ]
+    },
+    "cookiesjsr": {
+      "present": [
+        ".cookiesjsr-banner"
+      ],
+      "showing": [
+        ".cookiesjsr-banner.active"
       ]
     },
     "cookieyes": {
@@ -1561,6 +1607,14 @@
         "geni.com"
       ]
     },
+    "getproven": {
+      "present": [
+        "pf-confirm-mat-modal a[href*='getproven.com/privacy']"
+      ],
+      "showing": [
+        "pf-confirm-mat-modal a[href*='getproven.com/privacy']"
+      ]
+    },
     "givedirectly": {
       "present": [
         ".push-banner-consent"
@@ -1591,6 +1645,23 @@
       ],
       "showing": [
         "#gtm_privacy"
+      ]
+    },
+    "godaddywebsitebuilder": {
+      "present": [
+        "[data-aid=FOOTER_COOKIE_BANNER_RENDERED] [data-aid=FOOTER_COOKIE_DECLINE_RENDERED]"
+      ],
+      "showing": [
+        "[data-aid=FOOTER_COOKIE_BANNER_RENDERED][style*=transform]"
+      ]
+    },
+    "godaddywebsitebuildercosmetic": {
+      "present": [
+        "[data-aid=FOOTER_COOKIE_BANNER_RENDERED]",
+        "[data-aid=FOOTER_COOKIE_BANNER_RENDERED] [data-aid=FOOTER_COOKIE_DECLINE_RENDERED]"
+      ],
+      "showing": [
+        "[data-aid=FOOTER_COOKIE_BANNER_RENDERED][style*=transform]"
       ]
     },
     "google_com": {
@@ -1787,6 +1858,14 @@
         "module-rgpd-component"
       ]
     },
+    "ingnl": {
+      "present": [
+        "ing-app-open-page"
+      ],
+      "showing": [
+        "ing-app-open-page"
+      ]
+    },
     "inmobi": {
       "present": [
         ".accept-cookie > .accept-cookie-inner"
@@ -1964,6 +2043,14 @@
         "#_evh-ric #btn_donotaccept"
       ]
     },
+    "labecanerie": {
+      "present": [
+        ".cookieconsent .cc_banner-wrapper [onclick*='refuseAllCookiesPreferences']"
+      ],
+      "showing": [
+        ".cookieconsent .cc_banner"
+      ]
+    },
     "lacoccinelle": {
       "present": [
         "#qc-cmp2-container"
@@ -2035,6 +2122,14 @@
       ],
       "domains": [
         "linkedin.com"
+      ]
+    },
+    "lta": {
+      "present": [
+        "#lta-cookies-banner"
+      ],
+      "showing": [
+        "#lta-cookies-banner"
       ]
     },
     "lucozade_com": {
@@ -2176,6 +2271,17 @@
       ],
       "showing": [
         ".mst-gdpr__cookie-bar .mst-gdpr__buttons"
+      ]
+    },
+    "mizuno_com": {
+      "present": [
+        "#consent-tracking .btn-necessary"
+      ],
+      "showing": [
+        "#consent-tracking"
+      ],
+      "domains": [
+        "mizuno.com"
       ]
     },
     "mkdocsmaterial": {
@@ -2512,6 +2618,14 @@
         "piano.io"
       ]
     },
+    "pigu": {
+      "present": [
+        "#consent_block[widget=\"CookieTracker\"]"
+      ],
+      "showing": [
+        "#consent_block [widget-attachpoint=\"basicAgree\"]"
+      ]
+    },
     "pikpak": {
       "present": [
         ".cookie-wrapper .cookie-tip__container"
@@ -2709,7 +2823,7 @@
         "#qc-cmp2-container"
       ],
       "showing": [
-        "#qc-cmp2-ui"
+        "#qc-cmp2-ui,#qc-cmp2-usp"
       ]
     },
     "r42cookiebar": {

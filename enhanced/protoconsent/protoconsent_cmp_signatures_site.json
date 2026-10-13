@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-12",
+  "version": "2026-10-13",
   "type": "cmp_site",
-  "generated": "2026-10-12T11:18:19.224Z",
+  "generated": "2026-10-13T11:03:44.328Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "ddd2a7ed485739de",
-  "cmp_count": 405,
+  "autoconsent_tree_hash": "77e3ad9e7f28fb32",
+  "cmp_count": 416,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -32,6 +32,20 @@
       },
       "domains": [
         "abconcerts.be"
+      ]
+    },
+    "aceodds_com": {
+      "selector": "#cookie-consent-banner",
+      "detectors": {
+        "present": [
+          "#cookie-consent-banner #cookie-consent-accept"
+        ],
+        "showing": [
+          "#cookie-consent-banner"
+        ]
+      },
+      "domains": [
+        "aceodds.com"
       ]
     },
     "acris": {
@@ -464,6 +478,17 @@
         ]
       }
     },
+    "bigid": {
+      "selector": "#bigidcmp-banner-widget",
+      "detectors": {
+        "present": [
+          "#bigidcmp-banner-widget"
+        ],
+        "showing": [
+          "#bigidcmp-banner-widget"
+        ]
+      }
+    },
     "bing_com": {
       "selector": "#bnp_container",
       "detectors": {
@@ -550,6 +575,17 @@
       "domains": [
         "burpee.com"
       ]
+    },
+    "bynder": {
+      "selector": "#cookieconsent",
+      "detectors": {
+        "present": [
+          "#cookieconsent .cookiechoices .rejectcookies"
+        ],
+        "showing": [
+          "#cookieconsent .cookiechoices .rejectcookies"
+        ]
+      }
     },
     "canyon_com": {
       "selector": "div.modal.cookiesModal.is-open",
@@ -781,6 +817,20 @@
           "#cu-privacy-notice"
         ]
       }
+    },
+    "community_screwfix_com": {
+      "selector": "#consent-banner",
+      "detectors": {
+        "present": [
+          "#consent-banner #truste-consent-track"
+        ],
+        "showing": [
+          "#consent-banner #truste-consent-track"
+        ]
+      },
+      "domains": [
+        "community.screwfix.com"
+      ]
     },
     "complianz_banner": {
       "selector": "#cmplz-cookiebanner-container",
@@ -1082,6 +1132,17 @@
         ],
         "showing": [
           "#cookiescript_injected"
+        ]
+      }
+    },
+    "cookiesjsr": {
+      "selector": ".cookiesjsr-banner.active",
+      "detectors": {
+        "present": [
+          ".cookiesjsr-banner"
+        ],
+        "showing": [
+          ".cookiesjsr-banner.active"
         ]
       }
     },
@@ -1772,6 +1833,17 @@
         "geni.com"
       ]
     },
+    "getproven": {
+      "selector": ".cdk-global-overlay-wrapper:has(pf-confirm-mat-modal a[href*='getproven.com/privacy'])",
+      "detectors": {
+        "present": [
+          "pf-confirm-mat-modal a[href*='getproven.com/privacy']"
+        ],
+        "showing": [
+          "pf-confirm-mat-modal a[href*='getproven.com/privacy']"
+        ]
+      }
+    },
     "givedirectly": {
       "selector": ".push-banner-consent",
       "detectors": {
@@ -1813,6 +1885,29 @@
         ],
         "showing": [
           "#gtm_privacy"
+        ]
+      }
+    },
+    "godaddywebsitebuilder": {
+      "selector": "[data-aid=FOOTER_COOKIE_BANNER_RENDERED]",
+      "detectors": {
+        "present": [
+          "[data-aid=FOOTER_COOKIE_BANNER_RENDERED] [data-aid=FOOTER_COOKIE_DECLINE_RENDERED]"
+        ],
+        "showing": [
+          "[data-aid=FOOTER_COOKIE_BANNER_RENDERED][style*=transform]"
+        ]
+      }
+    },
+    "godaddywebsitebuildercosmetic": {
+      "selector": "[data-aid=FOOTER_COOKIE_BANNER_RENDERED]",
+      "detectors": {
+        "present": [
+          "[data-aid=FOOTER_COOKIE_BANNER_RENDERED]",
+          "[data-aid=FOOTER_COOKIE_BANNER_RENDERED] [data-aid=FOOTER_COOKIE_DECLINE_RENDERED]"
+        ],
+        "showing": [
+          "[data-aid=FOOTER_COOKIE_BANNER_RENDERED][style*=transform]"
         ]
       }
     },
@@ -2225,6 +2320,17 @@
         ]
       }
     },
+    "labecanerie": {
+      "selector": ".cookieconsent .cc_banner-wrapper",
+      "detectors": {
+        "present": [
+          ".cookieconsent .cc_banner-wrapper [onclick*='refuseAllCookiesPreferences']"
+        ],
+        "showing": [
+          ".cookieconsent .cc_banner"
+        ]
+      }
+    },
     "lacoccinelle": {
       "selector": "#qc-cmp2-container",
       "detectors": {
@@ -2323,6 +2429,17 @@
       "domains": [
         "linkedin.com"
       ]
+    },
+    "lta": {
+      "selector": "#lta-cookies-banner",
+      "detectors": {
+        "present": [
+          "#lta-cookies-banner"
+        ],
+        "showing": [
+          "#lta-cookies-banner"
+        ]
+      }
     },
     "lucozade_com": {
       "selector": "#cookiePopup, .cookie-overlay",
@@ -2502,6 +2619,20 @@
           ".mst-gdpr__cookie-bar .mst-gdpr__buttons"
         ]
       }
+    },
+    "mizuno_com": {
+      "selector": "#consent-tracking",
+      "detectors": {
+        "present": [
+          "#consent-tracking .btn-necessary"
+        ],
+        "showing": [
+          "#consent-tracking"
+        ]
+      },
+      "domains": [
+        "mizuno.com"
+      ]
     },
     "mkdocsmaterial": {
       "selector": "#__consent .md-consent__inner, #__consent .md-consent__overlay",

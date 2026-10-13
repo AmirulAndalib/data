@@ -1,10 +1,15 @@
 {
-  "version": "2026-10-12",
-  "generated": "2026-10-12T11:18:19.717Z",
+  "version": "2026-10-13",
+  "generated": "2026-10-13T11:03:44.852Z",
   "type": "tracking_params_sites",
-  "domain_count": 991,
-  "param_count": 2023,
+  "domain_count": 992,
+  "param_count": 2029,
   "sites": {
+    "bfmtv.com": [
+      "at_brand",
+      "at_compte",
+      "at_plateforme"
+    ],
     "elcomercio.es": [
       "mrfcid"
     ],
@@ -132,9 +137,11 @@
       "click_source",
       "cplk",
       "dlrf",
+      "exln",
       "ig_rid",
       "igsh",
       "igsi",
+      "mdxt",
       "ndid",
       "obrf",
       "psln",
@@ -142,6 +149,7 @@
       "short_redirect",
       "srtk",
       "stkn",
+      "vrfl",
       "xtok"
     ],
     "yahoo.com": [
