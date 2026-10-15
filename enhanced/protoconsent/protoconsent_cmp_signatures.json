@@ -1,7 +1,7 @@
 {
-  "version": "2026-10-13",
+  "version": "2026-10-15",
   "type": "cmp",
-  "generated": "2026-10-13T11:03:44.328Z",
+  "generated": "2026-10-15T08:34:37.014Z",
   "cmp_count": 31,
   "signatures": {
     "onetrust": {
@@ -247,7 +247,7 @@
     },
     "ccm19": {
       "cookie": [],
-      "selector": ".ccm-modal-inner",
+      "selector": ".ccm-modal-inner, #ccm-widget.ccm-show",
       "lockClass": null,
       "note": "localStorage-based (ccm_consent). Cookie injection not possible from ISOLATED world."
     },
@@ -452,5 +452,5 @@
       "note": "Usercentrics CMP (SDK v2/v4). Uses localStorage (uc_settings), not cookies. Standard SDK: #usercentrics-root (shadow DOM). Custom integrations (e.g. Porsche): uc-layer1/uc-layer2 custom elements (uc-p-modal is inside their shadow DOM, unreachable by CSS)."
     }
   },
-  "autoconsent_augmented": 19
+  "autoconsent_augmented": 20
 }
