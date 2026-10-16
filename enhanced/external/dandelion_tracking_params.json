@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-15",
-  "generated": "2026-10-15T08:34:37.483Z",
+  "version": "2026-10-16",
+  "generated": "2026-10-16T08:29:12.867Z",
   "type": "tracking_params_sites",
-  "domain_count": 992,
-  "param_count": 2029,
+  "domain_count": 993,
+  "param_count": 2030,
   "sites": {
     "bfmtv.com": [
       "at_brand",
@@ -4632,6 +4632,10 @@
       "fuse_fs",
       "priceCompare",
       "request_id"
+    ],
+    "oxylabs.io": [
+      "groupid",
+      "transaction_id"
     ],
     "ikea.com": [
       "f"
