@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-! Version: 2026-10-15
-! Last modified: 2026-10-15T05:59:28.654Z
-! Entries: 14121
+! Version: 2026-10-16
+! Last modified: 2026-10-16T05:57:55.753Z
+! Entries: 14137
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -1404,6 +1404,7 @@
 ||banana.le.com^$third-party
 ||bandicoot.mohit.dev^$third-party
 ||bandicoot.sigerr.org^$third-party
+||bank.svb.com^$third-party
 ||banner.appsflyersdk.com^$third-party
 ||bannerave.com^$third-party
 ||banstat.nadavi.net^$third-party
@@ -2522,6 +2523,7 @@
 ||data.loyalty.timhortons.ca^$third-party
 ||data.m.philadelphiaeagles.com^$third-party
 ||data.m.shop.nhl.com^$third-party
+||data.m.store.nba.com^$third-party
 ||data.madridista-free.realmadrid.com^$third-party
 ||data.marketing.nascar.com^$third-party
 ||data.mediaworld.it^$third-party
@@ -2977,6 +2979,7 @@
 ||etyper.com^$third-party
 ||eu-survey.com^$third-party
 ||eucsoft.com^$third-party
+||eugek.travelpro.com^$third-party
 ||eugtm.casio.com^$third-party
 ||eulerian.belambra.be^$third-party
 ||eulerian.belambra.fr^$third-party
@@ -3304,6 +3307,7 @@
 ||frogator.com^$third-party
 ||frontend-logger.flippback.com^$third-party
 ||froomle.com^$third-party
+||frtoi.calpaktravel.com^$third-party
 ||fruitflan.com^$third-party
 ||fs-client-logger.herokuapp.com^$third-party
 ||fsbozl.dillards.com^$third-party
@@ -3380,6 +3384,7 @@
 ||gdm1.toner.fr^$third-party
 ||gecko.rrrelax.app^$third-party
 ||gecko.withclarify.com^$third-party
+||gedpv.halosleep.com^$third-party
 ||geekactive.com^$third-party
 ||gem-log.sloegem.com^$third-party
 ||generaltracking.de^$third-party
@@ -3448,6 +3453,7 @@
 ||gft2.de^$third-party
 ||gfvlq.liquid-iv.com^$third-party
 ||gg.vevor.com^$third-party
+||ggdec.fromourplace.com^$third-party
 ||ggxt.net^$third-party
 ||ghochv3eng.trafficmanager.net^$third-party
 ||gi-client-tracking.goodgamestudios.com^$third-party
@@ -3558,6 +3564,7 @@
 ||gtm.bswhealth.com^$third-party
 ||gtm.careercontessa.com^$third-party
 ||gtm.clutter.com^$third-party
+||gtm.cruzeirodosulvirtual.com.br^$third-party
 ||gtm.diamond.jp^$third-party
 ||gtm.hashtagtreinamentos.com^$third-party
 ||gtm.heritagepartscentre.com^$third-party
@@ -4002,6 +4009,7 @@
 ||jdgtgb.t-online.de^$third-party
 ||jdlog.uu.cc^$third-party
 ||jeeng.com^$third-party
+||jelcp.igloocoolers.com^$third-party
 ||jelly.mdhv.io^$third-party
 ||jellyfish.therapieplatz-finden.de^$third-party
 ||jirafe.com^$third-party
@@ -4136,6 +4144,7 @@
 ||laurel.rovicorp.com^$third-party
 ||lbdqs.yankeecandle.com^$third-party
 ||lc-event.pixiv.net^$third-party
+||lcdsyj.daily.co.jp^$third-party
 ||lciapi.ninthdecimal.com^$third-party
 ||lcs.naver.com^$third-party
 ||ldpns.ruggable.com^$third-party
@@ -5126,6 +5135,7 @@
 ||mt48.net^$third-party
 ||mtcs.nhk.or.jp^$third-party
 ||mtg.macpaw.com^$third-party
+||mtgs.pelikan.sk^$third-party
 ||mtm.qdqmedia.com^$third-party
 ||mtm.walls.io^$third-party
 ||mto.cgv.vn^$third-party
@@ -5838,6 +5848,7 @@
 ||preciso.net^$third-party
 ||predicta.net^$third-party
 ||predictiveresponse.net^$third-party
+||preference.americafirst.com^$third-party
 ||presetrabbits.com^$third-party
 ||prettybicycle.com^$third-party
 ||prettydemo.com^$third-party
@@ -6066,6 +6077,7 @@
 ||recapture.io^$third-party
 ||receive.wmcdp.io^$third-party
 ||rechenschieber.transfermarkt.co.id^$third-party
+||rechenschieber.transfermarkt.co.uk^$third-party
 ||rechenschieber.transfermarkt.com^$third-party
 ||rechenschieber.transfermarkt.com.br^$third-party
 ||rechenschieber.transfermarkt.com.tr^$third-party
@@ -6493,7 +6505,6 @@
 ||secure.coup7cold.com^$third-party
 ||secure.cuba7tilt.com^$third-party
 ||secure.data-creativecompany.com^$third-party
-||secure.details24group.com^$third-party
 ||secure.detailsinventivegroup.com^$third-party
 ||secure.emeu0circ.com^$third-party
 ||secure.etym6cero.com^$third-party
@@ -6507,7 +6518,6 @@
 ||secure.hear8crew.com^$third-party
 ||secure.hiss3lark.com^$third-party
 ||secure.imaginativeenterprising-intelligent.com^$third-party
-||secure.innovation-perceptive52.com^$third-party
 ||secure.insightful-cloud-365.com^$third-party
 ||secure.intelligent-company-365.com^$third-party
 ||secure.jaup0lake.com^$third-party
@@ -6559,6 +6569,7 @@
 ||securedata.collectandgo.be^$third-party
 ||securedata.colruyt.be^$third-party
 ||securedata.colruytgroup.com^$third-party
+||securedata.colruytgroupacademy.be^$third-party
 ||securedata.dats24.be^$third-party
 ||securemetrics.blackrock.com^$third-party
 ||securemetrics.gap.co.jp^$third-party
@@ -7051,6 +7062,7 @@
 ||smetrics.finning.com^$third-party
 ||smetrics.firestonebpco.com^$third-party
 ||smetrics.firstcitizens.com^$third-party
+||smetrics.flagstar.com^$third-party
 ||smetrics.fnac.be^$third-party
 ||smetrics.fnac.ch^$third-party
 ||smetrics.fnac.com^$third-party
@@ -7228,6 +7240,7 @@
 ||smetrics.michaelkors.uk^$third-party
 ||smetrics.miles-and-more.com^$third-party
 ||smetrics.miniusa.com^$third-party
+||smetrics.mitrelinen.co.uk^$third-party
 ||smetrics.mitsubishi-motors.co.jp^$third-party
 ||smetrics.mitsubishi-motors.com.au^$third-party
 ||smetrics.modernhealthcare.com^$third-party
@@ -7541,6 +7554,7 @@
 ||smetrics.vodafone.in^$third-party
 ||smetrics.vodafone.qa^$third-party
 ||smetrics.vodafone.ro^$third-party
+||smetrics.vodafonecu.gr^$third-party
 ||smetrics.vogue-eyewear.com^$third-party
 ||smetrics.vonage.com^$third-party
 ||smetrics.vw.com^$third-party
@@ -7771,6 +7785,7 @@
 ||ssc.currenttime.tv^$third-party
 ||ssc.cvent.com^$third-party
 ||ssc.disneylandparis.com^$third-party
+||ssc.europalibera.org^$third-party
 ||ssc.golosameriki.com^$third-party
 ||ssc.hl.co.uk^$third-party
 ||ssc.holosameryky.com^$third-party
@@ -9645,6 +9660,7 @@
 ||vampirebat.febolos.es^$third-party
 ||vampirebat.git-tower.com^$third-party
 ||vampirebat.tinamrak.com^$third-party
+||vampn.calpaktravel.com^$third-party
 ||vanfireworks.com^$third-party
 ||vault.gostatera.com^$third-party
 ||vcvnl.fashionnova.com^$third-party
