@@ -1,7 +1,7 @@
 {
   "name": "ProtoConsent Third Parties",
-  "version": "2026-10-16",
-  "generated": "2026-10-16T05:57:55.753Z",
+  "version": "2026-10-17",
+  "generated": "2026-10-17T05:41:56.728Z",
   "description": "Sharing or combining data with third parties, partners or group companies beyond the core service (curated - high-confidence sources)",
   "homepage": "https://github.com/ProtoConsent/data",
   "license": "GPL-3.0-or-later",
@@ -120,6 +120,7 @@
     "gotchosen.com",
     "ha-api.pushwoosh.com",
     "ha.pushwoosh.com",
+    "haaretz.pushwoosh.com",
     "hellobar.com",
     "hubspot.com",
     "hubspotlinks.com",
@@ -226,7 +227,7 @@
     "wonderpush.com",
     "zoominfo.com"
   ],
-  "domain_count": 219,
+  "domain_count": 220,
   "paths": [
     "||4399.com/plugins/tj/event?",
     "||adweek.com/wp-content/plugins/adw-parsley/",
