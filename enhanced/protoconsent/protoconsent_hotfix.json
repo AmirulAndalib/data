@@ -165,6 +165,10 @@
       "firstParty": true
     },
     {
+      "urlFilter": "||zs.com/scripts/analytics/pageview.js",
+      "firstParty": true
+    },
+    {
       "urlFilter": "||googletagmanager.com/gtm.js",
       "initiatorDomains": [
         "3djuegosguias.com",
@@ -1179,5 +1183,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 53
+  "path_exception_count": 54
 }
