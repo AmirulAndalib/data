@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-19",
-  "generated": "2026-10-19T09:17:23.458Z",
+  "version": "2026-10-20",
+  "generated": "2026-10-20T08:51:57.033Z",
   "type": "tracking_params_sites",
-  "domain_count": 994,
-  "param_count": 2030,
+  "domain_count": 995,
+  "param_count": 2032,
   "sites": {
     "wayground.com": [
       "source"
@@ -4639,6 +4639,10 @@
     "oxylabs.io": [
       "groupid",
       "transaction_id"
+    ],
+    "simon.com": [
+      "bt_ee",
+      "bt_ts"
     ],
     "ikea.com": [
       "f"

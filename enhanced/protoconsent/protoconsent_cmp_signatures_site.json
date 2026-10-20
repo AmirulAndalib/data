@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-19",
+  "version": "2026-10-20",
   "type": "cmp_site",
-  "generated": "2026-10-19T09:17:22.982Z",
+  "generated": "2026-10-20T08:51:56.625Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "215c16c1d1d1f9ba",
-  "cmp_count": 500,
+  "autoconsent_tree_hash": "fdd6a580cc348bfb",
+  "cmp_count": 516,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -33,6 +33,17 @@
       "domains": [
         "abconcerts.be"
       ]
+    },
+    "abebooks": {
+      "selector": "#abe-gdpr-banner #gdpr-banner-component",
+      "detectors": {
+        "present": [
+          "#abe-gdpr-banner #gdpr-banner-component-decline-btn"
+        ],
+        "showing": [
+          "#gdpr-banner-component"
+        ]
+      }
     },
     "acceptcookiebox": {
       "selector": "div[id$=\"_cookie_box\"]:has(a[onclick^=\"accept_\"][onclick*=\"_cookie_box()\"])",
@@ -263,6 +274,17 @@
       "detectors": {
         "present": [
           "bahf-cookie-disclaimer-dpl3"
+        ]
+      }
+    },
+    "arto": {
+      "selector": ".Dialog:has(.ConsentManager)",
+      "detectors": {
+        "present": [
+          ".ConsentManager[data-controller~='consent-manager']"
+        ],
+        "showing": [
+          ".ConsentManager button[data-action*='consent-manager#denyAll']"
         ]
       }
     },
@@ -622,6 +644,17 @@
         ],
         "showing": [
           "#bsw-consentCookie .accept-btn"
+        ]
+      }
+    },
+    "bundesarchivcookiebanner": {
+      "selector": ".cookiebanner--tablist, #cookiebanner[data-cookiebanner]",
+      "detectors": {
+        "present": [
+          ".cookiebanner [data-consent=\"acceptSelection\"]"
+        ],
+        "showing": [
+          ".cookiebanner [data-consent=\"acceptSelection\"]"
         ]
       }
     },
@@ -1360,6 +1393,17 @@
         ]
       }
     },
+    "cookieyeslegacy": {
+      "selector": "#cky-consent.cky-consent-bar",
+      "detectors": {
+        "present": [
+          "#cky-consent.cky-consent-bar"
+        ],
+        "showing": [
+          "#cky-consent.cky-consent-bar"
+        ]
+      }
+    },
     "cookiez": {
       "selector": ".elementor-popup-modal:has(.cookiez-footer)",
       "detectors": {
@@ -1603,6 +1647,17 @@
         ]
       }
     },
+    "djangogdprcookieconsent": {
+      "selector": "#cc_modal_dialog, #cc_modal_window",
+      "detectors": {
+        "present": [
+          "#cc_section_quick_info #cc_accept_all_cookies"
+        ],
+        "showing": [
+          "#cc_section_quick_info #cc_accept_all_cookies"
+        ]
+      }
+    },
     "dji": {
       "selector": ".cc-window.cc-visible",
       "detectors": {
@@ -1773,6 +1828,17 @@
         ],
         "showing": [
           "#ef-ccpa"
+        ]
+      }
+    },
+    "elektromaterialch": {
+      "selector": ".cookie-bar__wrapper:has(.cookie-bar__message--top)",
+      "detectors": {
+        "present": [
+          ".cookie-bar__wrapper .cookie-bar__message--top"
+        ],
+        "showing": [
+          ".cookie-bar__wrapper .cookie-bar__container"
         ]
       }
     },
@@ -2091,6 +2157,28 @@
         ]
       }
     },
+    "fixpart": {
+      "selector": ".fp-cookie-modal",
+      "detectors": {
+        "present": [
+          ".fp-cookie-modal .cookie-essentials"
+        ],
+        "showing": [
+          ".fp-cookie-modal"
+        ]
+      }
+    },
+    "forddse": {
+      "selector": ".dse-cookie-disclaimer",
+      "detectors": {
+        "present": [
+          ".dse-cookie-disclaimer .cta-decline-cookies"
+        ],
+        "showing": [
+          ".dse-cookie-disclaimer.cookie-visible:not(.cookie-hidden) .cta-decline-cookies"
+        ]
+      }
+    },
     "forsakringskassan_se": {
       "selector": ".fk-cookie-warning",
       "detectors": {
@@ -2295,6 +2383,20 @@
           ".gravitoCMP-background-overlay"
         ]
       }
+    },
+    "groupama_fr": {
+      "selector": "#perfModal",
+      "detectors": {
+        "present": [
+          "#perfModal #refuseCookies"
+        ],
+        "showing": [
+          "#perfModal"
+        ]
+      },
+      "domains": [
+        "groupama.fr"
+      ]
     },
     "gsbcookiebanner": {
       "selector": ".bhh-cookie-banner",
@@ -2749,6 +2851,17 @@
         ]
       }
     },
+    "kolibricookiewidget": {
+      "selector": "body.kolibri [data-testid=\"cookie-widget\"]",
+      "detectors": {
+        "present": [
+          "body.kolibri [data-testid=\"cookie-widget\"]"
+        ],
+        "showing": [
+          "body.kolibri [data-testid=\"cookie-widget\"]"
+        ]
+      }
+    },
     "krowncookiebanner": {
       "selector": "modal-box[data-options*=\"cookies\"] .modal-object--cookie",
       "detectors": {
@@ -2903,6 +3016,18 @@
         ],
         "showing": [
           ".lia-cookie-banner-alert"
+        ]
+      }
+    },
+    "liferaycookiesbanner": {
+      "selector": "#p_p_id_com_liferay_cookies_banner_web_portlet_CookiesBannerPortlet_",
+      "detectors": {
+        "present": [
+          "#p_p_id_com_liferay_cookies_banner_web_portlet_CookiesBannerPortlet_",
+          "script[src*=\"otSDKStub\"]"
+        ],
+        "showing": [
+          "#p_p_id_com_liferay_cookies_banner_web_portlet_CookiesBannerPortlet_"
         ]
       }
     },
@@ -3886,6 +4011,17 @@
         ]
       }
     },
+    "profilerdk": {
+      "selector": "div.cookie:has(a.cookie-okay-button)",
+      "detectors": {
+        "present": [
+          "div.cookie a.cookie-okay-button"
+        ],
+        "showing": [
+          "div.cookie:has(a.cookie-okay-button)"
+        ]
+      }
+    },
     "publicmobile": {
       "selector": "[data-testid=\"cookie-consent-sticky-footer\"]",
       "detectors": {
@@ -3949,6 +4085,17 @@
         ],
         "showing": [
           "#raksha-consent-banner"
+        ]
+      }
+    },
+    "rcscpmt": {
+      "selector": "#_cpmt-iframe",
+      "detectors": {
+        "present": [
+          "#_cpmt-iframe"
+        ],
+        "showing": [
+          "#_cpmt-iframe"
         ]
       }
     },
@@ -4588,6 +4735,17 @@
         ],
         "showing": [
           "#cookie-consent-banner #accept-cdp-cookie"
+        ]
+      }
+    },
+    "stellantispsa": {
+      "selector": "#_psaihm_main_div, #_psaihm_overlay",
+      "detectors": {
+        "present": [
+          "#_psaihm_main_div #_psaihm_id_accept_all_btn"
+        ],
+        "showing": [
+          "#_psaihm_main_div #_psaihm_id_accept_all_btn"
         ]
       }
     },
@@ -5404,6 +5562,17 @@
         "waitrose.com"
       ]
     },
+    "warningcookienotice": {
+      "selector": ".warning.warning--active:has(.warning__apply)",
+      "detectors": {
+        "present": [
+          ".warning:has(.warning__text) .warning__apply"
+        ],
+        "showing": [
+          ".warning.warning--active:has(.warning__apply)"
+        ]
+      }
+    },
     "webflow": {
       "selector": ".fs-cc-components,[fs-cc=banner]",
       "detectors": {
@@ -5594,6 +5763,17 @@
       "domains": [
         "yachtclubgames.com"
       ]
+    },
+    "yleconsentsdk": {
+      "selector": "#yle-consent-sdk-container .ycd-banner",
+      "detectors": {
+        "present": [
+          "#yle-consent-sdk-container button[name=accept-necessary-consents]"
+        ],
+        "showing": [
+          "#yle-consent-sdk-container .ycd-banner"
+        ]
+      }
     },
     "youtubedesktop": {
       "selector": "tp-yt-iron-overlay-backdrop.opened, ytd-consent-bump-v2-lightbox",
