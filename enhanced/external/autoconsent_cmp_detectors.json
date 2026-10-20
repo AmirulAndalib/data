@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-19",
+  "version": "2026-10-20",
   "type": "cmp_detectors",
-  "generated": "2026-10-19T09:17:34.652Z",
+  "generated": "2026-10-20T08:52:13.594Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "215c16c1d1d1f9ba",
-  "cmp_count": 584,
+  "autoconsent_tree_hash": "fdd6a580cc348bfb",
+  "cmp_count": 600,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -31,6 +31,14 @@
       ],
       "domains": [
         "abconcerts.be"
+      ]
+    },
+    "abebooks": {
+      "present": [
+        "#abe-gdpr-banner #gdpr-banner-component-decline-btn"
+      ],
+      "showing": [
+        "#gdpr-banner-component"
       ]
     },
     "abetterrouteplanner": {
@@ -277,6 +285,14 @@
       ],
       "showing": [
         "xpath///div[@role='dialog'][.//h2[normalize-space(.)='This website uses cookies']]"
+      ]
+    },
+    "arto": {
+      "present": [
+        ".ConsentManager[data-controller~='consent-manager']"
+      ],
+      "showing": [
+        ".ConsentManager button[data-action*='consent-manager#denyAll']"
       ]
     },
     "asadventure": {
@@ -571,6 +587,14 @@
       ],
       "showing": [
         "#bsw-consentCookie .accept-btn"
+      ]
+    },
+    "bundesarchivcookiebanner": {
+      "present": [
+        ".cookiebanner [data-consent=\"acceptSelection\"]"
+      ],
+      "showing": [
+        ".cookiebanner [data-consent=\"acceptSelection\"]"
       ]
     },
     "bundesregierung_de": {
@@ -1161,6 +1185,14 @@
         ".cky-consent-container"
       ]
     },
+    "cookieyeslegacy": {
+      "present": [
+        "#cky-consent.cky-consent-bar"
+      ],
+      "showing": [
+        "#cky-consent.cky-consent-bar"
+      ]
+    },
     "cookiez": {
       "present": [
         ".cookiez-footer [data-cookiez-action]"
@@ -1402,6 +1434,14 @@
         "#didomi-popup, #didomi-notice, .didomi-popup-notice, .didomi-notice-banner, #didomi-host:not([aria-hidden=\"true\"]):not(:empty)"
       ]
     },
+    "djangogdprcookieconsent": {
+      "present": [
+        "#cc_section_quick_info #cc_accept_all_cookies"
+      ],
+      "showing": [
+        "#cc_section_quick_info #cc_accept_all_cookies"
+      ]
+    },
     "dji": {
       "present": [
         ".cc-window .cc-dialog"
@@ -1552,6 +1592,14 @@
       ],
       "showing": [
         "#ef-ccpa"
+      ]
+    },
+    "elektromaterialch": {
+      "present": [
+        ".cookie-bar__wrapper .cookie-bar__message--top"
+      ],
+      "showing": [
+        ".cookie-bar__wrapper .cookie-bar__container"
       ]
     },
     "elsevier": {
@@ -1839,6 +1887,22 @@
         ".dx-cookie-banner .dx-cookie-banner-close"
       ]
     },
+    "fixpart": {
+      "present": [
+        ".fp-cookie-modal .cookie-essentials"
+      ],
+      "showing": [
+        ".fp-cookie-modal"
+      ]
+    },
+    "forddse": {
+      "present": [
+        ".dse-cookie-disclaimer .cta-decline-cookies"
+      ],
+      "showing": [
+        ".dse-cookie-disclaimer.cookie-visible:not(.cookie-hidden) .cta-decline-cookies"
+      ]
+    },
     "forsakringskassan_se": {
       "present": [
         ".fk-cookie-warning .cookie-warning-content"
@@ -2038,6 +2102,17 @@
       ],
       "showing": [
         ".fixed [data-testid=closeCookieBanner]"
+      ]
+    },
+    "groupama_fr": {
+      "present": [
+        "#perfModal #refuseCookies"
+      ],
+      "showing": [
+        "#perfModal"
+      ],
+      "domains": [
+        "groupama.fr"
       ]
     },
     "gsbcookiebanner": {
@@ -2422,6 +2497,14 @@
         "#gdpr-banner-container #gdpr-banner [data-testid=gdpr-banner-decline-button]"
       ]
     },
+    "kolibricookiewidget": {
+      "present": [
+        "body.kolibri [data-testid=\"cookie-widget\"]"
+      ],
+      "showing": [
+        "body.kolibri [data-testid=\"cookie-widget\"]"
+      ]
+    },
     "krowncookiebanner": {
       "present": [
         ".modal-object--cookie [data-js-cookies-decline]"
@@ -2535,6 +2618,15 @@
       ],
       "showing": [
         ".lia-cookie-banner-alert"
+      ]
+    },
+    "liferaycookiesbanner": {
+      "present": [
+        "#p_p_id_com_liferay_cookies_banner_web_portlet_CookiesBannerPortlet_",
+        "script[src*=\"otSDKStub\"]"
+      ],
+      "showing": [
+        "#p_p_id_com_liferay_cookies_banner_web_portlet_CookiesBannerPortlet_"
       ]
     },
     "lightbox": {
@@ -3372,6 +3464,14 @@
         "productz.com"
       ]
     },
+    "profilerdk": {
+      "present": [
+        "div.cookie a.cookie-okay-button"
+      ],
+      "showing": [
+        "div.cookie:has(a.cookie-okay-button)"
+      ]
+    },
     "publicmobile": {
       "present": [
         "[data-testid=\"cookie-consent-sticky-footer\"]"
@@ -3453,6 +3553,14 @@
       ],
       "domains": [
         "raspberrypi.com"
+      ]
+    },
+    "rcscpmt": {
+      "present": [
+        "#_cpmt-iframe"
+      ],
+      "showing": [
+        "#_cpmt-iframe"
       ]
     },
     "rdcconcents": {
@@ -3986,6 +4094,14 @@
       ],
       "domains": [
         "steampowered.com"
+      ]
+    },
+    "stellantispsa": {
+      "present": [
+        "#_psaihm_main_div #_psaihm_id_accept_all_btn"
+      ],
+      "showing": [
+        "#_psaihm_main_div #_psaihm_id_accept_all_btn"
       ]
     },
     "stepstoneccm": {
@@ -4724,6 +4840,14 @@
         "a[href=\"https://www.walmartcanada.ca/cookie-notice\"]"
       ]
     },
+    "warningcookienotice": {
+      "present": [
+        ".warning:has(.warning__text) .warning__apply"
+      ],
+      "showing": [
+        ".warning.warning--active:has(.warning__apply)"
+      ]
+    },
     "wbdlegalterms": {
       "present": [
         "dialog#ltp-dialog, [id=\"id/ltp\"]"
@@ -4933,6 +5057,14 @@
       ],
       "showing": [
         "#consent-page"
+      ]
+    },
+    "yleconsentsdk": {
+      "present": [
+        "#yle-consent-sdk-container button[name=accept-necessary-consents]"
+      ],
+      "showing": [
+        "#yle-consent-sdk-container .ycd-banner"
       ]
     },
     "youtubedesktop": {
