@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-20",
+  "version": "2026-10-21",
   "type": "cmp_site",
-  "generated": "2026-10-20T08:52:13.587Z",
+  "generated": "2026-10-21T08:52:22.280Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "fdd6a580cc348bfb",
-  "cmp_count": 516,
+  "autoconsent_tree_hash": "faa4f05422a8374e",
+  "cmp_count": 527,
   "signatures": {
     "aacookiebanner": {
       "selector": "adc-cookie-banner",
@@ -147,6 +147,17 @@
         ],
         "showing": [
           ".fullpageCover a[href*='/go/page/privacy.html']"
+        ]
+      }
+    },
+    "aemet": {
+      "selector": "#popup_cookies",
+      "detectors": {
+        "present": [
+          "#popup_cookies .boton_cookies"
+        ],
+        "showing": [
+          "#popup_cookies"
         ]
       }
     },
@@ -580,6 +591,17 @@
       "domains": [
         "bing.com"
       ]
+    },
+    "bleaucookiecontrol": {
+      "selector": "#cconsent-modal",
+      "detectors": {
+        "present": [
+          "#cconsent-modal .ccm__footer .consent-givenone"
+        ],
+        "showing": [
+          "#cconsent-modal.ccm--visible .ccm__footer .consent-givenone"
+        ]
+      }
     },
     "blocksy": {
       "selector": ".cookie-notification",
@@ -1469,7 +1491,7 @@
       "selector": "#costco-consent-manager [data-testid=\"Popup\"]",
       "detectors": {
         "present": [
-          "#costco-consent-manager [data-testid=\"Popup\"]"
+          "#costco-consent-manager [data-testid=\"Popup\"], script[src*=\"/consent-ui/costco-consent-manager\"]"
         ],
         "showing": [
           "#costco-consent-manager [data-testid=\"Popup\"]"
@@ -1536,6 +1558,17 @@
         ],
         "showing": [
           ".cookies-consent .cookies-inner"
+        ]
+      }
+    },
+    "daikin": {
+      "selector": ".cookie-notice.js-cookie-modal",
+      "detectors": {
+        "present": [
+          ".cookie-notice.js-cookie-modal .js-accept-minimal-cookies"
+        ],
+        "showing": [
+          ".cookie-notice.js-cookie-modal"
         ]
       }
     },
@@ -1806,6 +1839,17 @@
         ],
         "showing": [
           "#edp-cookies-banner"
+        ]
+      }
+    },
+    "educamadrid": {
+      "selector": "#emCookieWrapper",
+      "detectors": {
+        "present": [
+          "#emCookieWrapper #emCookieBanner"
+        ],
+        "showing": [
+          "#emCookieBanner"
         ]
       }
     },
@@ -2325,6 +2369,17 @@
         ],
         "showing": [
           "#overlay[role=dialog]"
+        ]
+      }
+    },
+    "gobiernodecanarias": {
+      "selector": ".cookie-consent-modal.active",
+      "detectors": {
+        "present": [
+          ".cookie-consent-modal #checkbox_analiticas"
+        ],
+        "showing": [
+          ".cookie-consent-modal.active"
         ]
       }
     },
@@ -3019,6 +3074,17 @@
         ]
       }
     },
+    "librus": {
+      "selector": ".consent-categories-modal-wrapper",
+      "detectors": {
+        "present": [
+          "#consent-categories-modal [data-modal-consent-open-settings]"
+        ],
+        "showing": [
+          "#consent-categories-modal [data-modal-consent-open-settings]"
+        ]
+      }
+    },
     "liferaycookiesbanner": {
       "selector": "#p_p_id_com_liferay_cookies_banner_web_portlet_CookiesBannerPortlet_",
       "detectors": {
@@ -3175,6 +3241,20 @@
       },
       "domains": [
         "mediamarkt.de"
+      ]
+    },
+    "mega_io": {
+      "selector": "dialog.cookie-banner",
+      "detectors": {
+        "present": [
+          "dialog.cookie-banner .customise-cookie"
+        ],
+        "showing": [
+          "dialog.cookie-banner"
+        ]
+      },
+      "domains": [
+        "mega.io"
       ]
     },
     "mensajecookies": {
@@ -4066,6 +4146,17 @@
         ]
       }
     },
+    "rabobank": {
+      "selector": "feature-modular-cookiebanner-variant-one .cookiebanner-container",
+      "detectors": {
+        "present": [
+          "feature-modular-cookiebanner-variant-one .cookiebanner-container"
+        ],
+        "showing": [
+          "feature-modular-cookiebanner-variant-one .cookiebanner-container"
+        ]
+      }
+    },
     "racv": {
       "selector": ".gdpr[data-gdprservice]",
       "detectors": {
@@ -4301,6 +4392,17 @@
         ],
         "showing": [
           ".sv-cookie-management__banner.sv--visible"
+        ]
+      }
+    },
+    "sccookiebanner": {
+      "selector": "#scCookieBanner:has(.sc-cookie-reject)",
+      "detectors": {
+        "present": [
+          "#scCookieBanner .sc-cookie-reject"
+        ],
+        "showing": [
+          "#scCookieBanner"
         ]
       }
     },
@@ -4630,6 +4732,17 @@
       "domains": [
         "sostereo.com"
       ]
+    },
+    "soteshop": {
+      "selector": "#cookies_message, #cookies-message-modal",
+      "detectors": {
+        "present": [
+          "#cookies-close-deny, #cookies_frame > #cookies_close"
+        ],
+        "showing": [
+          "#cookies-close-deny, #cookies_frame > #cookies_close"
+        ]
+      }
     },
     "sourcepointtop": {
       "selector": "div[id^='sp_message_container_']",
@@ -5097,6 +5210,17 @@
         ],
         "showing": [
           "[role=dialog][aria-labelledby=cookie-banner-title]"
+        ]
+      }
+    },
+    "tinder": {
+      "selector": "div[role=alertdialog][data-nosnippet][aria-describedby]",
+      "detectors": {
+        "present": [
+          "div[role=alertdialog][data-nosnippet][aria-describedby]"
+        ],
+        "showing": [
+          "div[role=alertdialog][data-nosnippet][aria-describedby]"
         ]
       }
     },

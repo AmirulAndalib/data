@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-20",
+  "version": "2026-10-21",
   "type": "cmp_detectors",
-  "generated": "2026-10-20T08:52:13.594Z",
+  "generated": "2026-10-21T08:52:22.292Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "fdd6a580cc348bfb",
-  "cmp_count": 600,
+  "autoconsent_tree_hash": "faa4f05422a8374e",
+  "cmp_count": 614,
   "detectors": {
     "aacookiebanner": {
       "present": [
@@ -125,6 +125,14 @@
       ],
       "showing": [
         ".fullpageCover a[href*='/go/page/privacy.html']"
+      ]
+    },
+    "aemet": {
+      "present": [
+        "#popup_cookies .boton_cookies"
+      ],
+      "showing": [
+        "#popup_cookies"
       ]
     },
     "affinity_serif_com": {
@@ -404,6 +412,14 @@
         "badenwuerttemberg.de"
       ]
     },
+    "bakeca": {
+      "present": [
+        ".ui-alert.bottom-fixed a[data-href*='cookie-policy']"
+      ],
+      "showing": [
+        ".ui-alert.bottom-fixed"
+      ]
+    },
     "bandcamp_com": {
       "present": [
         "body.enable-cookie-control"
@@ -523,6 +539,14 @@
       ],
       "domains": [
         "bing.com"
+      ]
+    },
+    "bleaucookiecontrol": {
+      "present": [
+        "#cconsent-modal .ccm__footer .consent-givenone"
+      ],
+      "showing": [
+        "#cconsent-modal.ccm--visible .ccm__footer .consent-givenone"
       ]
     },
     "blocksy": {
@@ -745,6 +769,14 @@
       ],
       "showing": [
         ".chefcookie .chefcookie__box"
+      ]
+    },
+    "chomikuj": {
+      "present": [
+        ".cookiesInfo .closeCookiesInfo"
+      ],
+      "showing": [
+        ".cookiesInfo .closeCookiesInfo"
       ]
     },
     "ciaopeople_it": {
@@ -1238,7 +1270,7 @@
     },
     "costco": {
       "present": [
-        "#costco-consent-manager [data-testid=\"Popup\"]"
+        "#costco-consent-manager [data-testid=\"Popup\"], script[src*=\"/consent-ui/costco-consent-manager\"]"
       ],
       "showing": [
         "#costco-consent-manager [data-testid=\"Popup\"]"
@@ -1308,6 +1340,14 @@
       ],
       "showing": [
         ".cookies-consent .cookies-inner"
+      ]
+    },
+    "daikin": {
+      "present": [
+        ".cookie-notice.js-cookie-modal .js-accept-minimal-cookies"
+      ],
+      "showing": [
+        ".cookie-notice.js-cookie-modal"
       ]
     },
     "dailymotion_com": {
@@ -1576,6 +1616,14 @@
       ],
       "showing": [
         "#edp-cookies-banner"
+      ]
+    },
+    "educamadrid": {
+      "present": [
+        "#emCookieWrapper #emCookieBanner"
+      ],
+      "showing": [
+        "#emCookieBanner"
       ]
     },
     "eeconsentnotice": {
@@ -2024,6 +2072,14 @@
       ],
       "showing": [
         "#overlay[role=dialog]"
+      ]
+    },
+    "gobiernodecanarias": {
+      "present": [
+        ".cookie-consent-modal #checkbox_analiticas"
+      ],
+      "showing": [
+        ".cookie-consent-modal.active"
       ]
     },
     "godaddyprivacywidget": {
@@ -2620,6 +2676,14 @@
         ".lia-cookie-banner-alert"
       ]
     },
+    "librus": {
+      "present": [
+        "#consent-categories-modal [data-modal-consent-open-settings]"
+      ],
+      "showing": [
+        "#consent-categories-modal [data-modal-consent-open-settings]"
+      ]
+    },
     "liferaycookiesbanner": {
       "present": [
         "#p_p_id_com_liferay_cookies_banner_web_portlet_CookiesBannerPortlet_",
@@ -2755,6 +2819,17 @@
       ],
       "showing": [
         "div:has(> div > div > div[role=alert] > a[href^=\"https://policy.medium.com/medium-privacy-policy-\"])"
+      ]
+    },
+    "mega_io": {
+      "present": [
+        "dialog.cookie-banner .customise-cookie"
+      ],
+      "showing": [
+        "dialog.cookie-banner"
+      ],
+      "domains": [
+        "mega.io"
       ]
     },
     "mensajecookies": {
@@ -3520,6 +3595,14 @@
         "#r42CookieBar[open] .cw-deny"
       ]
     },
+    "rabobank": {
+      "present": [
+        "feature-modular-cookiebanner-variant-one .cookiebanner-container"
+      ],
+      "showing": [
+        "feature-modular-cookiebanner-variant-one .cookiebanner-container"
+      ]
+    },
     "racv": {
       "present": [
         ".gdpr[data-gdprservice]:not(.hide)"
@@ -3731,6 +3814,14 @@
       ],
       "showing": [
         ".sv-cookie-management__banner.sv--visible"
+      ]
+    },
+    "sccookiebanner": {
+      "present": [
+        "#scCookieBanner .sc-cookie-reject"
+      ],
+      "showing": [
+        "#scCookieBanner"
       ]
     },
     "schadefonds": {
@@ -4003,6 +4094,14 @@
       ],
       "domains": [
         "sostereo.com"
+      ]
+    },
+    "soteshop": {
+      "present": [
+        "#cookies-close-deny, #cookies_frame > #cookies_close"
+      ],
+      "showing": [
+        "#cookies-close-deny, #cookies_frame > #cookies_close"
       ]
     },
     "sourcepointtop": {
@@ -4405,6 +4504,14 @@
       ],
       "showing": []
     },
+    "tinder": {
+      "present": [
+        "div[role=alertdialog][data-nosnippet][aria-describedby]"
+      ],
+      "showing": [
+        "div[role=alertdialog][data-nosnippet][aria-describedby]"
+      ]
+    },
     "tineye": {
       "present": [
         "[data-test=\"cookie-banner\"]"
@@ -4764,6 +4871,14 @@
       ],
       "showing": [
         "#js-pw-consent-wrapper [data-ta-id='pw-consent-rejectAllButton']"
+      ]
+    },
+    "vdch": {
+      "present": [
+        ".alert-cookie #dismiss-cookie-banner-button"
+      ],
+      "showing": [
+        ".alert-cookie #dismiss-cookie-banner-button"
       ]
     },
     "venngage_com": {
