@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-22",
+  "version": "2026-10-23",
   "type": "cmp_detectors",
-  "generated": "2026-10-22T15:06:57.283Z",
+  "generated": "2026-10-23T08:49:38.050Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "39af9a26dd1f5bcc",
-  "cmp_count": 718,
+  "autoconsent_tree_hash": "44e66fbe42f0d210",
+  "cmp_count": 730,
   "detectors": {
     "123inkt": {
       "present": [
@@ -408,6 +408,14 @@
       ],
       "showing": [
         "form.test-cookie-consent [data-cookie-consent-target=\"screen1\"]"
+      ]
+    },
+    "autodoc": {
+      "present": [
+        "div[data-popup-cookies][data-terms-cookies-popup-common] button[data-cookies=\"disallow_all_cookies\"]"
+      ],
+      "showing": [
+        "div[data-popup-cookies][data-terms-cookies-popup-common] button[data-cookies=\"disallow_all_cookies\"]"
       ]
     },
     "automatticcmpoptout": {
@@ -1415,6 +1423,14 @@
         "#eksCookiePrompt"
       ]
     },
+    "cookiereports": {
+      "present": [
+        "#CookieReportsPanel #CookieReportsBanner"
+      ],
+      "showing": [
+        "#CookieReportsBanner"
+      ]
+    },
     "cookiescript": {
       "present": [
         "#cookiescript_injected"
@@ -1676,6 +1692,12 @@
       "showing": [
         "#transcend-consent-manager"
       ]
+    },
+    "devolksbank": {
+      "present": [
+        "#cookieconsent.cookie-overlay .cookie-buttons #cookie-deny"
+      ],
+      "showing": []
     },
     "dfactorycookienotice": {
       "present": [
@@ -2775,7 +2797,7 @@
     },
     "interia": {
       "present": [
-        "form.rodo-popup"
+        "form.rodo-popup button.rodo-popup-main-settings"
       ],
       "showing": [
         "form.rodo-popup"
@@ -2930,6 +2952,15 @@
       ],
       "showing": [
         "#cookies > #cookies-info #btnCookiesAll"
+      ]
+    },
+    "kasperskycookiesnotification": {
+      "present": [
+        "script#kasp-cookie-alert-js",
+        ".gdprPopup > .gdprPopupContainer > .gdprButton"
+      ],
+      "showing": [
+        ".gdprPopup > .gdprPopupContainer > .gdprButton"
       ]
     },
     "kconsent": {
@@ -3269,6 +3300,14 @@
         "malaysiaairlines.com"
       ]
     },
+    "mango": {
+      "present": [
+        "#cookies-banner [class*=\"CookiesFooter-module\"]"
+      ],
+      "showing": [
+        "#cookies-banner [class*=\"CookiesFooter-module\"]"
+      ]
+    },
     "massgeneralbrigham": {
       "present": [
         ".cookie-banner[data-block-name=\"cookie-banner\"] .alert-close"
@@ -3557,6 +3596,14 @@
         ".privacy-confirmation .pc-buttons"
       ]
     },
+    "nederlandseloterij": {
+      "present": [
+        "dialog[data-test=\"common-consent\"] [data-test=\"consent-reject-all\"], #nlportal-cookie-consent .cookie-consent-modal-static-buttons > button"
+      ],
+      "showing": [
+        "dialog[data-test=\"common-consent\"] [data-test=\"consent-reject-all\"], #nlportal-cookie-consent .cookie-consent-modal-static-buttons > button"
+      ]
+    },
     "nestpensions": {
       "present": [
         ".cookie-policy-wrapper #declineCookies"
@@ -3626,6 +3673,14 @@
       ],
       "showing": [
         "#CookieReportsBanner"
+      ]
+    },
+    "nordnet": {
+      "present": [
+        "[role=dialog] #cookie-accept-all-secondary"
+      ],
+      "showing": [
+        "[role=dialog] #cookie-accept-all-secondary"
       ]
     },
     "nos_nl": {
@@ -4197,6 +4252,14 @@
         "div.cookie:has(a.cookie-okay-button)"
       ]
     },
+    "pubfactory": {
+      "present": [
+        "#euCookiesZone .european-union-cookies-agreement"
+      ],
+      "showing": [
+        "#euCookiesZone .european-union-cookies-agreement"
+      ]
+    },
     "publicmobile": {
       "present": [
         "[data-testid=\"cookie-consent-sticky-footer\"]"
@@ -4345,6 +4408,17 @@
       ],
       "domains": [
         "reddit.com"
+      ]
+    },
+    "rejestr_io": {
+      "present": [
+        "#footer > .container > .d-flex > button.btn-outline-primary"
+      ],
+      "showing": [
+        "#footer > .container > .d-flex > button.btn-outline-primary"
+      ],
+      "domains": [
+        "rejestr.io"
       ]
     },
     "remarkable_com": {
@@ -4528,6 +4602,17 @@
       ],
       "showing": [
         "body > div#__next > div#app > div:nth-child(7):not([id])"
+      ]
+    },
+    "schumacher_com": {
+      "present": [
+        "xpath///div[contains(@class, 'MuiBackdrop-root')][.//h1[contains(., 'Your Privacy Matters to Us')]]"
+      ],
+      "showing": [
+        "xpath///div[contains(@class, 'MuiBackdrop-root')][.//h1[contains(., 'Your Privacy Matters to Us')]]"
+      ],
+      "domains": [
+        "schumacher.com"
       ]
     },
     "scottishgovernmentdesignsystem": {
@@ -5139,10 +5224,10 @@
     },
     "temu": {
       "present": [
-        "div > div > div > div > span[href*=\"/cookie-and-similar-technologies-policy.html\"]"
+        "div:has([href=\"cookiePrivacyLink\"]) + div:has(> [role=button][aria-label])"
       ],
       "showing": [
-        "div > div > div > div > span[href*=\"/cookie-and-similar-technologies-policy.html\"]"
+        "div:has([href=\"cookiePrivacyLink\"]) + div:has(> [role=button][aria-label])"
       ]
     },
     "termly": {
@@ -5221,6 +5306,14 @@
       ],
       "domains": [
         "thalia.de"
+      ]
+    },
+    "thecode": {
+      "present": [
+        ".cookie-popups__container"
+      ],
+      "showing": [
+        ".cookie-popups__first-consent-popup"
       ]
     },
     "thefreedictionary_com": {
@@ -5586,6 +5679,14 @@
         "#catapult-cookie-bar"
       ],
       "showing": []
+    },
+    "ukparliament": {
+      "present": [
+        ".cookie-manager #cookiebanner #rejectall, #p-cookie-banner #p-cookie-banner__button--reject"
+      ],
+      "showing": [
+        ".cookie-manager > #cookiebanner, #p-cookie-banner"
+      ]
     },
     "uniconsent": {
       "present": [

@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-22",
+  "version": "2026-10-23",
   "type": "cmp_site",
-  "generated": "2026-10-22T15:06:57.271Z",
+  "generated": "2026-10-23T08:49:38.037Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "39af9a26dd1f5bcc",
-  "cmp_count": 619,
+  "autoconsent_tree_hash": "44e66fbe42f0d210",
+  "cmp_count": 627,
   "signatures": {
     "123inkt": {
       "selector": ".c-simple-popup:has(.c-cookie-popup)",
@@ -431,6 +431,17 @@
         ],
         "showing": [
           "form.test-cookie-consent [data-cookie-consent-target=\"screen1\"]"
+        ]
+      }
+    },
+    "autodoc": {
+      "selector": "div[data-popup-cookies][data-terms-cookies-popup-common]",
+      "detectors": {
+        "present": [
+          "div[data-popup-cookies][data-terms-cookies-popup-common] button[data-cookies=\"disallow_all_cookies\"]"
+        ],
+        "showing": [
+          "div[data-popup-cookies][data-terms-cookies-popup-common] button[data-cookies=\"disallow_all_cookies\"]"
         ]
       }
     },
@@ -1657,6 +1668,17 @@
         ],
         "showing": [
           "#eksCookiePrompt"
+        ]
+      }
+    },
+    "cookiereports": {
+      "selector": "#CookieReportsBanner, #CookieReportsOverlay",
+      "detectors": {
+        "present": [
+          "#CookieReportsPanel #CookieReportsBanner"
+        ],
+        "showing": [
+          "#CookieReportsBanner"
         ]
       }
     },
@@ -3143,7 +3165,7 @@
       "selector": "form.rodo-popup",
       "detectors": {
         "present": [
-          "form.rodo-popup"
+          "form.rodo-popup button.rodo-popup-main-settings"
         ],
         "showing": [
           "form.rodo-popup"
@@ -3329,6 +3351,18 @@
         ],
         "showing": [
           "#cookies > #cookies-info #btnCookiesAll"
+        ]
+      }
+    },
+    "kasperskycookiesnotification": {
+      "selector": ".gdprPopup:has(> .gdprPopupContainer > .gdprButton)",
+      "detectors": {
+        "present": [
+          "script#kasp-cookie-alert-js",
+          ".gdprPopup > .gdprPopupContainer > .gdprButton"
+        ],
+        "showing": [
+          ".gdprPopup > .gdprPopupContainer > .gdprButton"
         ]
       }
     },
@@ -3764,6 +3798,17 @@
         ]
       }
     },
+    "mango": {
+      "selector": "#cookies-banner",
+      "detectors": {
+        "present": [
+          "#cookies-banner [class*=\"CookiesFooter-module\"]"
+        ],
+        "showing": [
+          "#cookies-banner [class*=\"CookiesFooter-module\"]"
+        ]
+      }
+    },
     "massgeneralbrigham": {
       "selector": ".cookie-banner[data-block-name=\"cookie-banner\"]",
       "detectors": {
@@ -4107,6 +4152,17 @@
         ],
         "showing": [
           ".privacy-confirmation .pc-buttons"
+        ]
+      }
+    },
+    "nederlandseloterij": {
+      "selector": "dialog[data-test=\"common-consent\"], #nlportal-cookie-consent .modal",
+      "detectors": {
+        "present": [
+          "dialog[data-test=\"common-consent\"] [data-test=\"consent-reject-all\"], #nlportal-cookie-consent .cookie-consent-modal-static-buttons > button"
+        ],
+        "showing": [
+          "dialog[data-test=\"common-consent\"] [data-test=\"consent-reject-all\"], #nlportal-cookie-consent .cookie-consent-modal-static-buttons > button"
         ]
       }
     },
@@ -4846,6 +4902,17 @@
         ],
         "showing": [
           "div.cookie:has(a.cookie-okay-button)"
+        ]
+      }
+    },
+    "pubfactory": {
+      "selector": "#euCookiesZone .european-union-cookies-agreement",
+      "detectors": {
+        "present": [
+          "#euCookiesZone .european-union-cookies-agreement"
+        ],
+        "showing": [
+          "#euCookiesZone .european-union-cookies-agreement"
         ]
       }
     },
@@ -6062,6 +6129,17 @@
         "thalia.de"
       ]
     },
+    "thecode": {
+      "selector": ".cookie-popups__container",
+      "detectors": {
+        "present": [
+          ".cookie-popups__container"
+        ],
+        "showing": [
+          ".cookie-popups__first-consent-popup"
+        ]
+      }
+    },
     "thefreedictionary_com": {
       "selector": "#cmpBanner",
       "detectors": {
@@ -6485,6 +6563,17 @@
       "detectors": {
         "present": [
           "#catapult-cookie-bar"
+        ]
+      }
+    },
+    "ukparliament": {
+      "selector": ".cookie-manager > #cookiebanner, #p-cookie-banner",
+      "detectors": {
+        "present": [
+          ".cookie-manager #cookiebanner #rejectall, #p-cookie-banner #p-cookie-banner__button--reject"
+        ],
+        "showing": [
+          ".cookie-manager > #cookiebanner, #p-cookie-banner"
         ]
       }
     },
