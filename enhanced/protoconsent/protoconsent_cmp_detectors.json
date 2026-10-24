@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-23",
+  "version": "2026-10-24",
   "type": "cmp_detectors",
-  "generated": "2026-10-23T08:49:38.050Z",
+  "generated": "2026-10-24T08:23:08.009Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "44e66fbe42f0d210",
-  "cmp_count": 730,
+  "autoconsent_tree_hash": "e2b1be379bdb7a97",
+  "cmp_count": 741,
   "detectors": {
     "123inkt": {
       "present": [
@@ -171,6 +171,17 @@
       ],
       "domains": [
         "ah.nl"
+      ]
+    },
+    "airbnb": {
+      "present": [
+        "[data-testid=\"main-cookies-banner-container\"] section > div > div:nth-child(2) > div:nth-child(2) > button"
+      ],
+      "showing": [
+        "[data-testid=\"main-cookies-banner-container\"] section > div > div:nth-child(2) > div:nth-child(2) > button"
+      ],
+      "domains": [
+        "airbnb.com"
       ]
     },
     "alaskaair": {
@@ -1093,6 +1104,14 @@
       ],
       "showing": [
         "#cu-privacy-notice"
+      ]
+    },
+    "comconsentlayer": {
+      "present": [
+        "com-consent-layer"
+      ],
+      "showing": [
+        "com-consent-layer"
       ]
     },
     "community_screwfix_com": {
@@ -2181,6 +2200,14 @@
         ".aspire-banner.marketing-cookies-banner"
       ]
     },
+    "fastwebcookiecenter": {
+      "present": [
+        "iframe.ck_if[title='Cookie center']"
+      ],
+      "showing": [
+        "html.ck_panel iframe.ck_if[style*='visibility: visible']"
+      ]
+    },
     "fedex": {
       "present": [
         "fedex-gdpr"
@@ -2317,6 +2344,17 @@
       ],
       "showing": []
     },
+    "futurabolzano_it": {
+      "present": [
+        "#privacy_modal"
+      ],
+      "showing": [
+        "#privacy_modal"
+      ],
+      "domains": [
+        "futurabolzano.it"
+      ]
+    },
     "gallup": {
       "present": [
         "[data-gcb-modal-show-prefs]"
@@ -2418,6 +2456,14 @@
       ],
       "showing": [
         "#overlay[role=dialog]"
+      ]
+    },
+    "gobasic": {
+      "present": [
+        ".cookie-banner[data-available-cookies] .reject-cookies"
+      ],
+      "showing": [
+        ".cookie-banner[data-available-cookies] .reject-cookies"
       ]
     },
     "gobiernodecanarias": {
@@ -3229,6 +3275,14 @@
         "linkedin.com"
       ]
     },
+    "livsmedelsverket": {
+      "present": [
+        "#cookie-banner #cookie-consent-settings"
+      ],
+      "showing": [
+        "#cookie-banner #cookie-consent-view"
+      ]
+    },
     "lta": {
       "present": [
         "#lta-cookies-banner"
@@ -3623,6 +3677,14 @@
         "netbeat.de"
       ]
     },
+    "newsbreak": {
+      "present": [
+        "button[aria-label='Close cookie banner']"
+      ],
+      "showing": [
+        "button[aria-label='Close cookie banner']"
+      ]
+    },
     "nhm_ac_uk": {
       "present": [
         "[data-show-cookie-banner=\"true\"]"
@@ -3649,6 +3711,14 @@
       "showing": [],
       "domains": [
         "nhs.uk"
+      ]
+    },
+    "nhsapp": {
+      "present": [
+        "#cookie-banner [data-qa=\"cookie-banner-close\"]"
+      ],
+      "showing": [
+        "#cookie-banner [data-qa=\"cookie-banner\"]"
       ]
     },
     "nhsjobs": {
@@ -4558,10 +4628,10 @@
     },
     "sas": {
       "present": [
-        "s4s-privacy-module"
+        "dialog[aria-labelledby='cookie-dialog-title'] #deny-consent-button"
       ],
       "showing": [
-        "s4s-privacy-module"
+        "dialog[aria-labelledby='cookie-dialog-title'][open]"
       ]
     },
     "saturdaysnyc": {
@@ -4578,6 +4648,17 @@
       ],
       "showing": [
         ".sv-cookie-management__banner.sv--visible"
+      ]
+    },
+    "scb_se": {
+      "present": [
+        "#kakrutan scb-button[value='inget']"
+      ],
+      "showing": [
+        "#kakrutan"
+      ],
+      "domains": [
+        "scb.se"
       ]
     },
     "sccookiebanner": {
@@ -5084,6 +5165,14 @@
       ],
       "domains": [
         "stripchat.com"
+      ]
+    },
+    "studentapan": {
+      "present": [
+        "dialog[class*=\"CookieModal-module\"]"
+      ],
+      "showing": [
+        "dialog[class*=\"CookieModal-module\"]"
       ]
     },
     "substack": {
@@ -5613,6 +5702,15 @@
       ],
       "domains": [
         "turkishairlines.com"
+      ]
+    },
+    "tv2regcookienotice": {
+      "present": [
+        "[x-data^='cookieNotice('][x-data*='tv2reg_cookie_consent']",
+        "[x-data^='cookieNotice('] button[\\@click='acceptNecessary'], [x-data^='cookieNotice('] button[x-on\\:click='acceptNecessary']"
+      ],
+      "showing": [
+        "[x-data^='cookieNotice('] button[\\@click='acceptNecessary'], [x-data^='cookieNotice('] button[x-on\\:click='acceptNecessary']"
       ]
     },
     "twcc": {

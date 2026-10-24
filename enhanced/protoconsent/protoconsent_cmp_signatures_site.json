@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-23",
+  "version": "2026-10-24",
   "type": "cmp_site",
-  "generated": "2026-10-23T08:49:38.037Z",
+  "generated": "2026-10-24T08:23:07.998Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "44e66fbe42f0d210",
-  "cmp_count": 627,
+  "autoconsent_tree_hash": "e2b1be379bdb7a97",
+  "cmp_count": 637,
   "signatures": {
     "123inkt": {
       "selector": ".c-simple-popup:has(.c-cookie-popup)",
@@ -171,6 +171,20 @@
           "#popup_cookies"
         ]
       }
+    },
+    "airbnb": {
+      "selector": "[data-testid=\"main-cookies-banner-container\"]",
+      "detectors": {
+        "present": [
+          "[data-testid=\"main-cookies-banner-container\"] section > div > div:nth-child(2) > div:nth-child(2) > button"
+        ],
+        "showing": [
+          "[data-testid=\"main-cookies-banner-container\"] section > div > div:nth-child(2) > div:nth-child(2) > button"
+        ]
+      },
+      "domains": [
+        "airbnb.com"
+      ]
     },
     "alaskaair": {
       "selector": "#aag-cookie-consent",
@@ -1252,6 +1266,17 @@
         ],
         "showing": [
           "#cu-privacy-notice"
+        ]
+      }
+    },
+    "comconsentlayer": {
+      "selector": "com-consent-layer",
+      "detectors": {
+        "present": [
+          "com-consent-layer"
+        ],
+        "showing": [
+          "com-consent-layer"
         ]
       }
     },
@@ -2482,6 +2507,17 @@
         ]
       }
     },
+    "fastwebcookiecenter": {
+      "selector": "iframe.ck_if",
+      "detectors": {
+        "present": [
+          "iframe.ck_if[title='Cookie center']"
+        ],
+        "showing": [
+          "html.ck_panel iframe.ck_if[style*='visibility: visible']"
+        ]
+      }
+    },
     "fedex": {
       "selector": "fedex-gdpr",
       "detectors": {
@@ -2639,6 +2675,20 @@
         ]
       }
     },
+    "futurabolzano_it": {
+      "selector": "#privacy_modal",
+      "detectors": {
+        "present": [
+          "#privacy_modal"
+        ],
+        "showing": [
+          "#privacy_modal"
+        ]
+      },
+      "domains": [
+        "futurabolzano.it"
+      ]
+    },
     "gallup": {
       "selector": "[class*=\"gcb-modal-overlay\"]",
       "detectors": {
@@ -2774,6 +2824,17 @@
         ],
         "showing": [
           "#overlay[role=dialog]"
+        ]
+      }
+    },
+    "gobasic": {
+      "selector": ".cookie-banner[data-available-cookies]",
+      "detectors": {
+        "present": [
+          ".cookie-banner[data-available-cookies] .reject-cookies"
+        ],
+        "showing": [
+          ".cookie-banner[data-available-cookies] .reject-cookies"
         ]
       }
     },
@@ -3729,6 +3790,17 @@
         "linkedin.com"
       ]
     },
+    "livsmedelsverket": {
+      "selector": "#cookie-banner",
+      "detectors": {
+        "present": [
+          "#cookie-banner #cookie-consent-settings"
+        ],
+        "showing": [
+          "#cookie-banner #cookie-consent-view"
+        ]
+      }
+    },
     "lta": {
       "selector": "#lta-cookies-banner",
       "detectors": {
@@ -4226,6 +4298,17 @@
       "domains": [
         "nhs.uk"
       ]
+    },
+    "nhsapp": {
+      "selector": "#cookie-banner.nhsuk-cookie-banner",
+      "detectors": {
+        "present": [
+          "#cookie-banner [data-qa=\"cookie-banner-close\"]"
+        ],
+        "showing": [
+          "#cookie-banner [data-qa=\"cookie-banner\"]"
+        ]
+      }
     },
     "nhsjobs": {
       "selector": "#cookie-banner",
@@ -5232,13 +5315,13 @@
       ]
     },
     "sas": {
-      "selector": "s4s-privacy-module",
+      "selector": "dialog[aria-labelledby='cookie-dialog-title']:has(#deny-consent-button)",
       "detectors": {
         "present": [
-          "s4s-privacy-module"
+          "dialog[aria-labelledby='cookie-dialog-title'] #deny-consent-button"
         ],
         "showing": [
-          "s4s-privacy-module"
+          "dialog[aria-labelledby='cookie-dialog-title'][open]"
         ]
       }
     },
@@ -5263,6 +5346,20 @@
           ".sv-cookie-management__banner.sv--visible"
         ]
       }
+    },
+    "scb_se": {
+      "selector": "#kakrutan",
+      "detectors": {
+        "present": [
+          "#kakrutan scb-button[value='inget']"
+        ],
+        "showing": [
+          "#kakrutan"
+        ]
+      },
+      "domains": [
+        "scb.se"
+      ]
     },
     "sccookiebanner": {
       "selector": "#scCookieBanner:has(.sc-cookie-reject)",
@@ -5875,6 +5972,17 @@
         "stripchat.com"
       ]
     },
+    "studentapan": {
+      "selector": "dialog[class*=\"CookieModal-module\"]",
+      "detectors": {
+        "present": [
+          "dialog[class*=\"CookieModal-module\"]"
+        ],
+        "showing": [
+          "dialog[class*=\"CookieModal-module\"]"
+        ]
+      }
+    },
     "sujetdebac_fr": {
       "selector": "#banniere_cookies",
       "detectors": {
@@ -6482,6 +6590,18 @@
       "domains": [
         "turkishairlines.com"
       ]
+    },
+    "tv2regcookienotice": {
+      "selector": "[x-data^='cookieNotice('] > .fixed",
+      "detectors": {
+        "present": [
+          "[x-data^='cookieNotice('][x-data*='tv2reg_cookie_consent']",
+          "[x-data^='cookieNotice('] button[\\@click='acceptNecessary'], [x-data^='cookieNotice('] button[x-on\\:click='acceptNecessary']"
+        ],
+        "showing": [
+          "[x-data^='cookieNotice('] button[\\@click='acceptNecessary'], [x-data^='cookieNotice('] button[x-on\\:click='acceptNecessary']"
+        ]
+      }
     },
     "twcc": {
       "selector": "#twcc__mechanism",
