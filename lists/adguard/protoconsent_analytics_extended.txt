@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-10-24T06:01:53.421Z
+! Last modified: 2026-10-25T06:17:47.957Z
 ! Format: AdGuard
-! Entries: 143527
+! Entries: 143532
 !
 ||0.myikas.com^$third-party
 ||0.net.easyjet.com^$third-party
@@ -17268,6 +17268,7 @@
 ||analytics.xgimi.com^$third-party
 ||analytics.xhibit.de^$third-party
 ||analytics.xhila.com^$third-party
+||analytics.xhive.media^$third-party
 ||analytics.xhmeio.net^$third-party
 ||analytics.xhorizont.com^$third-party
 ||analytics.xhostplus.at^$third-party
@@ -55530,6 +55531,7 @@
 ||load.sst.coachlaunch.com^$third-party
 ||load.sst.colemanfurniture.com^$third-party
 ||load.sst.combi-camp.com^$third-party
+||load.sst.comparacorsi.it^$third-party
 ||load.sst.comptoir-sud-pacifique.com^$third-party
 ||load.sst.condomerie.com^$third-party
 ||load.sst.confidentcareerpath.com^$third-party
@@ -55757,6 +55759,7 @@
 ||load.sst.missantisnurk.nl^$third-party
 ||load.sst.mokeohio.net^$third-party
 ||load.sst.monnikendam.nl^$third-party
+||load.sst.montrahotels.dk^$third-party
 ||load.sst.mortemboligryd.dk^$third-party
 ||load.sst.mprez.fr^$third-party
 ||load.sst.msj.dk^$third-party
@@ -77792,6 +77795,7 @@
 ||pingmemessenger.us^$third-party
 ||pingmeter.com^$third-party
 ||pingometer.com^$third-party
+||pingprove.com^$third-party
 ||pings.conviva.com^$third-party
 ||pings.vidpulse.com^$third-party
 ||pingsl.avast.com^$third-party
@@ -91653,6 +91657,7 @@
 ||secure.brie5jiff.com^$third-party
 ||secure.burn5tilt.com^$third-party
 ||secure.businessintuition247.com^$third-party
+||secure.bux1le001.com^$third-party
 ||secure.cage6west.com^$third-party
 ||secure.care5alea.com^$third-party
 ||secure.cart8draw.com^$third-party
@@ -120311,7 +120316,6 @@
 ||stats.slavoj.cz^$third-party
 ||stats.sleepystudios.net^$third-party
 ||stats.slicedthread.com^$third-party
-||stats.slideshare.net^$third-party
 ||stats.slideup.de^$third-party
 ||stats.slixe.de^$third-party
 ||stats.slosar.sk^$third-party
@@ -129251,7 +129255,6 @@
 ||track.mgame.nu^$third-party
 ||track.mgdcampaignstats.com^$third-party
 ||track.mia-mailing.fr^$third-party
-||track.mialltrack.com^$third-party
 ||track.miamiclubcasino.im^$third-party
 ||track.miappi.com^$third-party
 ||track.milano.dev^$third-party
@@ -129571,7 +129574,6 @@
 ||track.skysharkwaters.com^$third-party
 ||track.slickinbox.com^$third-party
 ||track.slickrocktanningspa.com^$third-party
-||track.slideshare.net^$third-party
 ||track.slintegrated.com^$third-party
 ||track.slotocash.im^$third-party
 ||track.slurm.io^$third-party
@@ -129672,6 +129674,7 @@
 ||track.ugamezone.com^$third-party
 ||track.ultimate-guitar.com^$third-party
 ||track.undefeatedtribe.com^$third-party
+||track.unidata.ai^$third-party
 ||track.uniquebumblebee.com^$third-party
 ||track.untd.com^$third-party
 ||track.uppromote.com^$third-party
@@ -131241,7 +131244,6 @@
 ||tracking.ti.com.cn^$third-party
 ||tracking.tibnor.fi^$third-party
 ||tracking.ticketingbox.com^$third-party
-||tracking.tidalhifi.com^$third-party
 ||tracking.tidningenangermanland.se^$third-party
 ||tracking.tidningenharjedalen.se^$third-party
 ||tracking.tidningsgava.se^$third-party
@@ -133270,6 +133272,7 @@
 ||umami.dev01.mk3media.net^$third-party
 ||umami.devstats.io^$third-party
 ||umami.dhravya.dev^$third-party
+||umami.diptesh.me^$third-party
 ||umami.doga.dev^$third-party
 ||umami.doge.rs^$third-party
 ||umami.dokku.railslabs.com^$third-party
@@ -139567,6 +139570,7 @@
 ||api.tv.de/*/tracking/^
 ||api.usestoryteller.com/api/app/activity/recordActivity?^
 ||api.useunloq.com/event_management/^
+||api.vaile.ai/api/track^
 ||api.vk.com/method/statEvents.^
 ||api.vp.rambler.ru/events/^
 ||api.whtvr.ai/api/sdk/analytics/^
@@ -141333,6 +141337,7 @@
 ||leggo.it/index.php?^
 ||legitscript.com/seals/^
 ||lego.com/api/dl-event-ingest^
+||lego.com/api/uec/v1/events^
 ||leguide.com/js/lgtrk-*.js^
 ||leipziger-stadtplan.com/t.gif^
 ||lemonde.fr/*.pa.js^
