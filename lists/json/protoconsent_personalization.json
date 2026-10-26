@@ -1,7 +1,7 @@
 {
   "name": "ProtoConsent Personalization",
-  "version": "2026-10-23",
-  "generated": "2026-10-23T06:08:17.239Z",
+  "version": "2026-10-26",
+  "generated": "2026-10-26T06:25:17.777Z",
   "description": "Content/UX personalization, recommendations, profiling and behavioural A/B testing (curated - high-confidence sources)",
   "homepage": "https://github.com/ProtoConsent/data",
   "license": "GPL-3.0-or-later",
@@ -33,6 +33,7 @@
     "counter.personyze.com",
     "crwdcntrl.net",
     "cuebiq.com",
+    "di.rlcdn.com",
     "dmp.brand-display.com",
     "dmp.sbermarketing.ru",
     "dstillery.com",
@@ -102,7 +103,7 @@
     "useinsider.com",
     "zeotap.com"
   ],
-  "domain_count": 95,
+  "domain_count": 96,
   "paths": [
     "||ak.sail-horizon.com/",
     "||bcp.crwdcntrl.net/",
