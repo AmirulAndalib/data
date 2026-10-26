@@ -1,10 +1,10 @@
 {
-  "version": "2026-10-24",
+  "version": "2026-10-26",
   "type": "cmp_detectors",
-  "generated": "2026-10-24T08:23:08.009Z",
+  "generated": "2026-10-26T09:20:17.630Z",
   "source": "Autoconsent (duckduckgo/autoconsent) MPL-2.0",
-  "autoconsent_tree_hash": "e2b1be379bdb7a97",
-  "cmp_count": 741,
+  "autoconsent_tree_hash": "3996bfcc7d2f7f3a",
+  "cmp_count": 768,
   "detectors": {
     "123inkt": {
       "present": [
@@ -84,6 +84,14 @@
         "aceodds.com"
       ]
     },
+    "acoscms": {
+      "present": [
+        ".bc-content-modal [class*=\"_cookieFooter_\"]"
+      ],
+      "showing": [
+        ".bc-content-modal [class*=\"_cookieFooter_\"]"
+      ]
+    },
     "acris": {
       "present": [
         "[data-acris-cookie-consent]"
@@ -125,6 +133,14 @@
       ],
       "showing": [
         "#adroll_consent_container"
+      ]
+    },
+    "adstate": {
+      "present": [
+        "adstate-settings-component app-wrapper"
+      ],
+      "showing": [
+        "adstate-settings-component app-wrapper"
       ]
     },
     "adultfriendfinder": {
@@ -538,6 +554,14 @@
         ".ui-alert.bottom-fixed"
       ]
     },
+    "bancaditalia": {
+      "present": [
+        "#banner-privacy #cb-RejectAll"
+      ],
+      "showing": [
+        "#banner-privacy"
+      ]
+    },
     "bandcamp_com": {
       "present": [
         "body.enable-cookie-control"
@@ -556,6 +580,14 @@
       ],
       "domains": [
         "bankmillennium.pl"
+      ]
+    },
+    "banknorwegian": {
+      "present": [
+        "[role=\"dialog\"] #approveAllCookies[data-uit=\"accept-all\"]"
+      ],
+      "showing": [
+        "[role=\"dialog\"] [data-uit=\"show-details\"]"
       ]
     },
     "bbb_org": {
@@ -724,6 +756,14 @@
       ],
       "showing": [
         "._brlbs-bar-wrap,._brlbs-box-wrap,.brlbs-cmpnt-dialog"
+      ]
+    },
+    "boschdockprivacysettings": {
+      "present": [
+        "dock-privacy-settings"
+      ],
+      "showing": [
+        "dock-privacy-settings"
       ]
     },
     "bouvetcookiepanel": {
@@ -1173,6 +1213,14 @@
         ".cookie-consent-card [data-cy=cookie-customize]"
       ]
     },
+    "concordiach": {
+      "present": [
+        ".cookieconsent[data-init=cookieConsent]"
+      ],
+      "showing": [
+        ".cookieconsent.cookieconsent--active"
+      ]
+    },
     "conextra": {
       "present": [
         ".cookiebanner #cookieform .chooseCookies"
@@ -1187,6 +1235,14 @@
       ],
       "showing": [
         ".cookie-prompt-container #custom-cookie-banner-container"
+      ]
+    },
+    "consentaur": {
+      "present": [
+        "#consentaur-banner"
+      ],
+      "showing": [
+        "#consentaur-banner .consentaur-btn-reject"
       ]
     },
     "consentflo": {
@@ -1403,6 +1459,14 @@
         "#notice-cookie-block"
       ]
     },
+    "cookienoticecheckboxes": {
+      "present": [
+        "#cookie-notice #cookie-notice-accept.cookie-notice__accept--custom"
+      ],
+      "showing": [
+        "#cookie-notice #cookie-notice-accept.cookie-notice__accept--custom"
+      ]
+    },
     "cookiepermissioncpoverlay": {
       "present": [
         "#cp-overlay #cp-no a"
@@ -1452,10 +1516,10 @@
     },
     "cookiescript": {
       "present": [
-        "#cookiescript_injected"
+        "#cookiescript_injected, .cookiescript_banner_container"
       ],
       "showing": [
-        "#cookiescript_injected"
+        "#cookiescript_injected, .cookiescript_banner_container [role=dialog]"
       ]
     },
     "cookiesjsr": {
@@ -1977,6 +2041,14 @@
         ".cookie-consent #cookieDisagree"
       ]
     },
+    "emrch": {
+      "present": [
+        "#consent-cookie-modal #cookie-selection-button"
+      ],
+      "showing": [
+        "#consent-cookie-modal"
+      ]
+    },
     "endocrine_org": {
       "present": [
         "#gdprBanner"
@@ -2165,6 +2237,17 @@
         "evium.de"
       ]
     },
+    "evozen_fr": {
+      "present": [
+        ".privacy-bar #close-rgpd-notice"
+      ],
+      "showing": [
+        ".privacy-bar"
+      ],
+      "domains": [
+        "evozen.fr"
+      ]
+    },
     "ezoic": {
       "present": [
         "#ez-cookie-dialog-wrapper"
@@ -2249,6 +2332,14 @@
         "#fides-overlay-wrapper .fides-banner-hidden"
       ]
     },
+    "fideuram": {
+      "present": [
+        "#cookiemanager-popup #cookie-modal-close"
+      ],
+      "showing": [
+        "#cookiemanager-popup #cookie-modal-close"
+      ]
+    },
     "figma": {
       "present": [
         "#app > div[role=alertdialog] button .btn-text, #react-root div[role=alertdialog] button .btn-text"
@@ -2306,6 +2397,28 @@
       ],
       "showing": [
         ".fp-cookie-modal"
+      ]
+    },
+    "fondoest_it": {
+      "present": [
+        "#cookie-mask #cookieContainer"
+      ],
+      "showing": [
+        "#cookieContainer #btn-cookie-accept-edit"
+      ],
+      "domains": [
+        "fondoest.it"
+      ]
+    },
+    "fonts_google_com": {
+      "present": [
+        "gf-notifications .notification a[href^=\"https://policies.google.com/technologies/cookies\"]"
+      ],
+      "showing": [
+        "gf-notifications .notification:has(a[href^=\"https://policies.google.com/technologies/cookies\"])"
+      ],
+      "domains": [
+        "fonts.google.com"
       ]
     },
     "forddse": {
@@ -2456,6 +2569,14 @@
       ],
       "showing": [
         "#overlay[role=dialog]"
+      ]
+    },
+    "gnoccaforum": {
+      "present": [
+        "#cookieBanner a[href*='cookies_agreed=']"
+      ],
+      "showing": [
+        "#cookieBanner"
       ]
     },
     "gobasic": {
@@ -2768,6 +2889,22 @@
         "ign.es"
       ]
     },
+    "ihavecookies": {
+      "present": [
+        "#gdpr-cookie-message #gdpr-cookie-advanced"
+      ],
+      "showing": [
+        "#gdpr-cookie-message"
+      ]
+    },
+    "iisvaldagno": {
+      "present": [
+        "#notifica-cookies .btn-chiudi"
+      ],
+      "showing": [
+        "#notifica-cookies"
+      ]
+    },
     "ilovepdf": {
       "present": [
         "#toast-container.ck-tstr #ck_set"
@@ -2855,6 +2992,17 @@
       ],
       "showing": [
         ".js-cookie-message #cookie-chiudi"
+      ]
+    },
+    "io_no": {
+      "present": [
+        "#cookiebox a.close"
+      ],
+      "showing": [
+        "#cookiebox"
+      ],
+      "domains": [
+        "io.no"
       ]
     },
     "ionos_de": {
@@ -3067,6 +3215,14 @@
         "#gdpr-banner-container #gdpr-banner [data-testid=gdpr-banner-decline-button]"
       ]
     },
+    "klpcookiebanner": {
+      "present": [
+        "#xp-cookie-banner-root dialog.xp-cookie-banner"
+      ],
+      "showing": [
+        "#xp-cookie-banner-root dialog.xp-cookie-banner[open]"
+      ]
+    },
     "kolibricookiewidget": {
       "present": [
         "body.kolibri [data-testid=\"cookie-widget\"]"
@@ -3075,12 +3231,28 @@
         "body.kolibri [data-testid=\"cookie-widget\"]"
       ]
     },
+    "kriegerconsentform": {
+      "present": [
+        ".consentForm__root .consentForm__acceptButton[data-accept-action=selected]"
+      ],
+      "showing": [
+        ".consentForm__root"
+      ]
+    },
     "krowncookiebanner": {
       "present": [
         ".modal-object--cookie [data-js-cookies-decline]"
       ],
       "showing": [
         ".modal-object--cookie [data-js-cookies-decline]"
+      ]
+    },
+    "kulturitccm": {
+      "present": [
+        "#kit-ccm"
+      ],
+      "showing": [
+        "#kit-ccm"
       ]
     },
     "kwikfit": {
@@ -3360,6 +3532,14 @@
       ],
       "showing": [
         "#cookies-banner [class*=\"CookiesFooter-module\"]"
+      ]
+    },
+    "massaggiamilano": {
+      "present": [
+        "nav.navbar-privacy .privacy-continue"
+      ],
+      "showing": [
+        "nav.navbar-privacy .privacy-continue"
       ]
     },
     "massgeneralbrigham": {
@@ -3810,6 +3990,14 @@
         ".js-occ-gdrp-modal.is-visible .js-occ-gdrp-modal__btn-modal-gdpr-settings"
       ]
     },
+    "octopusenergyit": {
+      "present": [
+        "xpath///button[contains(., 'Imposta le tue preferenze')]"
+      ],
+      "showing": [
+        "xpath///button[contains(., 'Imposta le tue preferenze')]"
+      ]
+    },
     "ok": {
       "present": [
         ".cookies-agreement-notification"
@@ -4241,6 +4429,14 @@
       ],
       "showing": [
         "#cookiesPopup button.MuiButton-outlined"
+      ]
+    },
+    "praktikertjanst": {
+      "present": [
+        "#tc-consent #tc-banner"
+      ],
+      "showing": [
+        "#tc-banner .tc-accept-btn"
       ]
     },
     "pride_com": {
@@ -4771,6 +4967,14 @@
         "sex.com"
       ]
     },
+    "sfanytime": {
+      "present": [
+        "[data-testid=\"cookie-banner\"]"
+      ],
+      "showing": [
+        "[data-testid=\"cookie-banner\"]"
+      ]
+    },
     "shein_com": {
       "present": [
         "body > div[class*=_shein_privacy] > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(3)"
@@ -5021,10 +5225,10 @@
     },
     "sourcepointtop": {
       "present": [
-        "div[id^='sp_message_container_']"
+        "body > div[id^='sp_message_container_']"
       ],
       "showing": [
-        "div[id^='sp_message_container_']"
+        "body > div[id^='sp_message_container_']"
       ]
     },
     "spaggiaripvw": {
@@ -5802,6 +6006,15 @@
         ".cookie-banner"
       ]
     },
+    "unive_it": {
+      "present": [
+        "#cookieModal [onclick*=\"cookiesPolicy.selDefAndloadScript\"]"
+      ],
+      "showing": [],
+      "domains": [
+        "unive.it"
+      ]
+    },
     "univenl": {
       "present": [
         "#__tealiumGDPRcpPrefs #consent-container #consent-modal-settings"
@@ -6070,6 +6283,14 @@
         ".shopify-section.cookies .accept-cookies"
       ]
     },
+    "wimcgtmconsent": {
+      "present": [
+        "[data-gtm-consent-modal]"
+      ],
+      "showing": [
+        "[data-gtm-consent-modal].gtm-consent__modal--show"
+      ]
+    },
     "wirtualnapolska": {
       "present": [
         "div[role=dialog][aria-modal=true][aria-label*='WP']"
@@ -6190,6 +6411,17 @@
       "showing": [],
       "domains": [
         "xing.com"
+      ]
+    },
+    "xlbygg_se": {
+      "present": [
+        "form#consent-dialog button[data-testid=give-consent-button]"
+      ],
+      "showing": [
+        "form#consent-dialog"
+      ],
+      "domains": [
+        "xlbygg.se"
       ]
     },
     "xtb": {
