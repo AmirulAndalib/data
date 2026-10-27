@@ -2,9 +2,9 @@
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-10-26T06:25:17.777Z
+! Last modified: 2026-10-27T06:27:02.860Z
 ! Format: AdGuard
-! Entries: 14386
+! Entries: 14388
 !
 ||0.myikas.com^$third-party
 ||0stats.com^$third-party
@@ -221,7 +221,6 @@
 ||adat.mindmegette.hu^$third-party
 ||adat.origo.hu^$third-party
 ||adat.videa.hu^$third-party
-||adb-analytics.live-now.com^$third-party
 ||adb-secured.kijk.nl^$third-party
 ||adbedgeexp.aircanada.com^$third-party
 ||adbmetrics.canarias7.es^$third-party
@@ -543,6 +542,7 @@
 ||analytics-collect.karakuri.ai^$third-party
 ||analytics-dataplane.invideo.io^$third-party
 ||analytics-eu.tactilews.com^$third-party
+||analytics-event.com^$third-party
 ||analytics-events.inshorts.com^$third-party
 ||analytics-fe.digital-cloud-prem.medallia.com^$third-party
 ||analytics-fe.digital-cloud.medallia.ca^$third-party
@@ -1114,6 +1114,7 @@
 ||analytics1.wpmudev.com^$third-party
 ||analytics2-3-meride-tv.akamaized.net^$third-party
 ||analytics2-meride-tv.akamaized.net^$third-party
+||analytics2.wpmudev.com^$third-party
 ||analytics33.techsmith.com^$third-party
 ||analyticsbusiness.ing.ro^$third-party
 ||analyticsehnwe.servicebus.windows.net^$third-party
@@ -2978,6 +2979,7 @@
 ||emltrk.com^$third-party
 ||emmmbed.com^$third-party
 ||emptyescort.com^$third-party
+||emrld.cc^$third-party
 ||emu.blitzpower.com^$third-party
 ||emu.cortexfutura.com^$third-party
 ||emu.pin13.net^$third-party
@@ -3510,7 +3512,6 @@
 ||georiot.com^$third-party
 ||geoservice.curse.com^$third-party
 ||geotags.refinery89.com^$third-party
-||geotargetly-1a441.appspot.com^$third-party
 ||geotargetly.co^$third-party
 ||geovisite.ovh^$third-party
 ||gerbil.buf.build^$third-party
@@ -3649,6 +3650,7 @@
 ||gtags.net^$third-party
 ||gtcslt-di2.com^$third-party
 ||gtm-server.healthline.com^$third-party
+||gtm-sst.crowdin.com^$third-party
 ||gtm.ahlens.se^$third-party
 ||gtm.asiakastieto.fi^$third-party
 ||gtm.bswhealth.com^$third-party
@@ -3866,6 +3868,7 @@
 ||iconmediapixel.com^$third-party
 ||iconnode.com^$third-party
 ||icstats.nl^$third-party
+||id-msp.newsbreak.com^$third-party
 ||id-visitors.com^$third-party
 ||id.nbcuni.com^$third-party
 ||iddu1vvb7sk8-a.akamaihd.net^$third-party
@@ -4214,7 +4217,6 @@
 ||kwwvxn.uniqlo.com^$third-party
 ||kzsicw.focus.de^$third-party
 ||l.typesquare.com^$third-party
-||l.web.huya.com^$third-party
 ||l936.expressnews.com^$third-party
 ||l997.lmtonline.com^$third-party
 ||la2.vnecdn.net^$third-party
@@ -4454,7 +4456,6 @@
 ||log.nguoimuanha.vn^$third-party
 ||log.nhandan.vn^$third-party
 ||log.nhipcaudautu.vn^$third-party
-||log.nordot.jp^$third-party
 ||log.ohou.se^$third-party
 ||log.olark.com^$third-party
 ||log.oto.com.vn^$third-party
@@ -7598,6 +7599,7 @@
 ||smetrics.sephora.com^$third-party
 ||smetrics.sephora.it^$third-party
 ||smetrics.sharecare.com^$third-party
+||smetrics.shell.co.uk^$third-party
 ||smetrics.sherwoodbuickgmc.com^$third-party
 ||smetrics.shihang.org^$third-party
 ||smetrics.shinseibank.com^$third-party
@@ -8031,6 +8033,7 @@
 ||sst.cleansimpleeats.com^$third-party
 ||sst.colemanfurniture.com^$third-party
 ||sst.davinci.ai^$third-party
+||sst.eraldo.com^$third-party
 ||sst.esn.com^$third-party
 ||sst.hrw.org^$third-party
 ||sst.johnlewis.com^$third-party
@@ -8103,6 +8106,7 @@
 ||stape.bouxavenue.com^$third-party
 ||stape.fufuslotserver.site^$third-party
 ||stape.net^$third-party
+||stape.terapeutasconresultados.com^$third-party
 ||stape.winsornewton.com^$third-party
 ||stapecdn.com^$third-party
 ||stapegtm.uva.br^$third-party
@@ -8169,7 +8173,6 @@
 ||stat.mixi.media^$third-party
 ||stat.mydaddy.cc^$third-party
 ||stat.nate.com^$third-party
-||stat.ntv.ru^$third-party
 ||stat.okko.tv^$third-party
 ||stat.ovh^$third-party
 ||stat.pandora.xiaomi.com^$third-party
@@ -8893,7 +8896,6 @@
 ||target.onlinebanking.bancogalicia.com.ar^$third-party
 ||target.pandasecurity.com^$third-party
 ||target.premierinn.com^$third-party
-||target.pwc.dk^$third-party
 ||target.questdiagnostics.com^$third-party
 ||target.qvc.com^$third-party
 ||target.qvc.de^$third-party

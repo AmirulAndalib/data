@@ -1,8 +1,8 @@
 # Title: ProtoConsent Analytics
 # Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (curated - high-confidence sources)
-# Version: 2026-10-26
-# Last modified: 2026-10-26T06:25:17.777Z
-# Entries: 10372
+# Version: 2026-10-27
+# Last modified: 2026-10-27T06:27:02.860Z
+# Entries: 10374
 # Homepage: https://github.com/ProtoConsent/data
 # License: GPL-3.0-or-later
 #
@@ -221,7 +221,6 @@
 0.0.0.0 adat.mindmegette.hu
 0.0.0.0 adat.origo.hu
 0.0.0.0 adat.videa.hu
-0.0.0.0 adb-analytics.live-now.com
 0.0.0.0 adb-secured.kijk.nl
 0.0.0.0 adbedgeexp.aircanada.com
 0.0.0.0 adbmetrics.canarias7.es
@@ -543,6 +542,7 @@
 0.0.0.0 analytics-collect.karakuri.ai
 0.0.0.0 analytics-dataplane.invideo.io
 0.0.0.0 analytics-eu.tactilews.com
+0.0.0.0 analytics-event.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics-fe.digital-cloud-prem.medallia.com
 0.0.0.0 analytics-fe.digital-cloud.medallia.ca
@@ -1114,6 +1114,7 @@
 0.0.0.0 analytics1.wpmudev.com
 0.0.0.0 analytics2-3-meride-tv.akamaized.net
 0.0.0.0 analytics2-meride-tv.akamaized.net
+0.0.0.0 analytics2.wpmudev.com
 0.0.0.0 analytics33.techsmith.com
 0.0.0.0 analyticsbusiness.ing.ro
 0.0.0.0 analyticsehnwe.servicebus.windows.net
@@ -2978,6 +2979,7 @@
 0.0.0.0 emltrk.com
 0.0.0.0 emmmbed.com
 0.0.0.0 emptyescort.com
+0.0.0.0 emrld.cc
 0.0.0.0 emu.blitzpower.com
 0.0.0.0 emu.cortexfutura.com
 0.0.0.0 emu.pin13.net
@@ -3510,7 +3512,6 @@
 0.0.0.0 georiot.com
 0.0.0.0 geoservice.curse.com
 0.0.0.0 geotags.refinery89.com
-0.0.0.0 geotargetly-1a441.appspot.com
 0.0.0.0 geotargetly.co
 0.0.0.0 geovisite.ovh
 0.0.0.0 gerbil.buf.build
@@ -3649,6 +3650,7 @@
 0.0.0.0 gtags.net
 0.0.0.0 gtcslt-di2.com
 0.0.0.0 gtm-server.healthline.com
+0.0.0.0 gtm-sst.crowdin.com
 0.0.0.0 gtm.ahlens.se
 0.0.0.0 gtm.asiakastieto.fi
 0.0.0.0 gtm.bswhealth.com
@@ -3866,6 +3868,7 @@
 0.0.0.0 iconmediapixel.com
 0.0.0.0 iconnode.com
 0.0.0.0 icstats.nl
+0.0.0.0 id-msp.newsbreak.com
 0.0.0.0 id-visitors.com
 0.0.0.0 id.nbcuni.com
 0.0.0.0 iddu1vvb7sk8-a.akamaihd.net
@@ -4214,7 +4217,6 @@
 0.0.0.0 kwwvxn.uniqlo.com
 0.0.0.0 kzsicw.focus.de
 0.0.0.0 l.typesquare.com
-0.0.0.0 l.web.huya.com
 0.0.0.0 l936.expressnews.com
 0.0.0.0 l997.lmtonline.com
 0.0.0.0 la2.vnecdn.net
@@ -4454,7 +4456,6 @@
 0.0.0.0 log.nguoimuanha.vn
 0.0.0.0 log.nhandan.vn
 0.0.0.0 log.nhipcaudautu.vn
-0.0.0.0 log.nordot.jp
 0.0.0.0 log.ohou.se
 0.0.0.0 log.olark.com
 0.0.0.0 log.oto.com.vn
@@ -7598,6 +7599,7 @@
 0.0.0.0 smetrics.sephora.com
 0.0.0.0 smetrics.sephora.it
 0.0.0.0 smetrics.sharecare.com
+0.0.0.0 smetrics.shell.co.uk
 0.0.0.0 smetrics.sherwoodbuickgmc.com
 0.0.0.0 smetrics.shihang.org
 0.0.0.0 smetrics.shinseibank.com
@@ -8031,6 +8033,7 @@
 0.0.0.0 sst.cleansimpleeats.com
 0.0.0.0 sst.colemanfurniture.com
 0.0.0.0 sst.davinci.ai
+0.0.0.0 sst.eraldo.com
 0.0.0.0 sst.esn.com
 0.0.0.0 sst.hrw.org
 0.0.0.0 sst.johnlewis.com
@@ -8103,6 +8106,7 @@
 0.0.0.0 stape.bouxavenue.com
 0.0.0.0 stape.fufuslotserver.site
 0.0.0.0 stape.net
+0.0.0.0 stape.terapeutasconresultados.com
 0.0.0.0 stape.winsornewton.com
 0.0.0.0 stapecdn.com
 0.0.0.0 stapegtm.uva.br
@@ -8169,7 +8173,6 @@
 0.0.0.0 stat.mixi.media
 0.0.0.0 stat.mydaddy.cc
 0.0.0.0 stat.nate.com
-0.0.0.0 stat.ntv.ru
 0.0.0.0 stat.okko.tv
 0.0.0.0 stat.ovh
 0.0.0.0 stat.pandora.xiaomi.com
@@ -8893,7 +8896,6 @@
 0.0.0.0 target.onlinebanking.bancogalicia.com.ar
 0.0.0.0 target.pandasecurity.com
 0.0.0.0 target.premierinn.com
-0.0.0.0 target.pwc.dk
 0.0.0.0 target.questdiagnostics.com
 0.0.0.0 target.qvc.com
 0.0.0.0 target.qvc.de
