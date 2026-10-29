@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Analytics Extended
 ! Description: Measurement, statistics and usage analytics, even when not directly linked to marketing (extended - all sources)
-! Version: 2026-10-28
-! Last modified: 2026-10-28T06:57:50.897Z
-! Entries: 143622
+! Version: 2026-10-29
+! Last modified: 2026-10-29T07:15:24.232Z
+! Entries: 143634
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -8806,6 +8806,7 @@
 ||analytics.ecosia.org^$third-party
 ||analytics.ecoslay.com^$third-party
 ||analytics.ecothermo.be^$third-party
+||analytics.ecotone.bio^$third-party
 ||analytics.ecowebuk.co.uk^$third-party
 ||analytics.ecpad.fr^$third-party
 ||analytics.ectool.de^$third-party
@@ -45436,6 +45437,7 @@
 ||heatmaps.lcisoft.it^$third-party
 ||heatmaptracker.com^$third-party
 ||heatmaptracking.com^$third-party
+||heatrave.com^$third-party
 ||heavy.ai^$third-party
 ||hebiichigo.com^$third-party
 ||hedgehog.fightforthefuture.org^$third-party
@@ -45490,6 +45492,7 @@
 ||hemnes.win^$third-party
 ||hemxqn.boldking.com^$third-party
 ||henkel.tt.omtrdc.net^$third-party
+||hensonempire.com^$third-party
 ||henze-online.de^$third-party
 ||heppp.solawoodflowers.com^$third-party
 ||hepsiburada01.wt-eu02.net^$third-party
@@ -45523,6 +45526,7 @@
 ||heyaxr.fashiondays.bg^$third-party
 ||heycustomerlabs.com^$third-party
 ||heyhalda.com^$third-party
+||heyhotshots.com^$third-party
 ||heylink.com^$third-party
 ||heymarvin.com^$third-party
 ||heymatic.com^$third-party
@@ -66911,6 +66915,7 @@
 ||metrics.mobilebanking.scotiabank.com^$third-party
 ||metrics.mobiledevdesign.com^$third-party
 ||metrics.mobonline.ro^$third-party
+||metrics.modif.ai^$third-party
 ||metrics.modilac.pl^$third-party
 ||metrics.moen.ca^$third-party
 ||metrics.moen.com^$third-party
@@ -73454,6 +73459,7 @@
 ||mre6.destinia.ma^$third-party
 ||mrems.pinkfishes.com^$third-party
 ||mrevolss.yopagomenos.co^$third-party
+||mrgr.me^$third-party
 ||mrhcmybeao1.alphonso.tv^$third-party
 ||mrhik.houseofspoils.com^$third-party
 ||mri.iradimed.com^$third-party
@@ -75044,6 +75050,7 @@
 ||node.zerotoccna.com^$third-party
 ||node.zerotolinux.com^$third-party
 ||node41.aizhantj.com^$third-party
+||node91.aizhantj.com^$third-party
 ||node93.aizhantj.com^$third-party
 ||nodetime.com^$third-party
 ||noflake-aggregator-http.narvar.com^$third-party
@@ -87475,6 +87482,7 @@
 ||rac.ruutu.fi^$third-party
 ||raccoon.alexanderssonlaw.com^$third-party
 ||raccoon.jaronheard.com^$third-party
+||racerpets.com^$third-party
 ||racmail.com.au^$third-party
 ||radar.bayan.ir^$third-party
 ||radar.com^$third-party
@@ -87756,6 +87764,7 @@
 ||reading-analytics.invotra.com^$third-party
 ||readingguilt.com^$third-party
 ||readnotify.com^$third-party
+||readourminds.com^$third-party
 ||ready.curriculumassociates.com^$third-party
 ||readymoon.com^$third-party
 ||real-feedback.toros.daum.net^$third-party
@@ -88009,6 +88018,7 @@
 ||rehh44s2.victoriabeckhambeauty.com^$third-party
 ||rehmann.actonservice.com^$third-party
 ||rei3a1yw.mi-content.com^$third-party
+||reignfans.com^$third-party
 ||reilt.site^$third-party
 ||reindeer.cablemod.com^$third-party
 ||reindeer.iainbroome.com^$third-party
@@ -101589,6 +101599,7 @@
 ||smetrics.pulmozyme.com^$third-party
 ||smetrics.pulselibrary.com^$third-party
 ||smetrics.pulte.com^$third-party
+||smetrics.puma.com^$third-party
 ||smetrics.purchasingpower.com^$third-party
 ||smetrics.purina.ca^$third-party
 ||smetrics.purinamills.com^$third-party
@@ -133356,6 +133367,7 @@
 ||umami.dev.futc.de^$third-party
 ||umami.dev01.mk3media.net^$third-party
 ||umami.devstats.io^$third-party
+||umami.dharmaland.win^$third-party
 ||umami.dhravya.dev^$third-party
 ||umami.diptesh.me^$third-party
 ||umami.doga.dev^$third-party
@@ -140118,7 +140130,6 @@
 ||chat.vica.gov.sg/api/v1/unleash/proxy/client/metrics^
 ||chatfuel.com/cf-analytics/^
 ||chatgpt.com/awe/api/v2/rum^
-||chatgpt.com/backend-api/beacons/^
 ||chatgpt.com/backend-api/codex/app-download-signal^
 ||chatgpt.com/ces/v1/telemetry/intake^
 ||chatgpt.com/unauth-mweb/events/^
@@ -140431,6 +140442,7 @@
 ||dev.to/fallback_activity_recorder^
 ||dev.visualwebsiteoptimizer.com/*/track-^
 ||dev.visualwebsiteoptimizer.com/apm^
+||dev.visualwebsiteoptimizer.com/collect/events/^
 ||dev.visualwebsiteoptimizer.com/ping_tpc.php^
 ||developer.mozilla.org/submit/^
 ||developers.miro.com/pageview^
