@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-21",
-  "generated": "2026-10-21T08:52:23.004Z",
+  "version": "2026-10-29",
+  "generated": "2026-10-29T10:23:34.814Z",
   "type": "tracking_params_sites",
-  "domain_count": 996,
-  "param_count": 2032,
+  "domain_count": 997,
+  "param_count": 2033,
   "sites": {
     "wayground.com": [
       "source"
@@ -194,6 +194,7 @@
     "ck12.org": [
       "_eid",
       "_mid",
+      "refcode",
       "referrer"
     ],
     "newspicks.com": [
@@ -4646,6 +4647,9 @@
     "simon.com": [
       "bt_ee",
       "bt_ts"
+    ],
+    "investopedia.com": [
+      "inv_to_sim"
     ],
     "ikea.com": [
       "f"
