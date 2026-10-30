@@ -1,10 +1,16 @@
 {
-  "version": "2026-10-29",
-  "generated": "2026-10-29T10:23:12.314Z",
+  "version": "2026-10-30",
+  "generated": "2026-10-30T10:26:22.873Z",
   "type": "tracking_params_sites",
-  "domain_count": 997,
-  "param_count": 2033,
+  "domain_count": 998,
+  "param_count": 2034,
   "sites": {
+    "auto.de": [
+      "adgroupid",
+      "campaign",
+      "medium",
+      "source"
+    ],
     "wayground.com": [
       "source"
     ],
