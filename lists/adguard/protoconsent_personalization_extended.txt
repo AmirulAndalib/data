@@ -2,9 +2,9 @@
 ! Description: Content/UX personalization, recommendations, profiling and behavioural A/B testing (extended - all sources)
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
-! Last modified: 2026-09-05T05:54:14.717Z
+! Last modified: 2026-10-31T07:06:29.346Z
 ! Format: AdGuard
-! Entries: 418
+! Entries: 422
 !
 ||100001623.collect.igodigital.com^$third-party
 ||100001654.collect.igodigital.com^$third-party
@@ -198,6 +198,7 @@
 ||cdn-fallback.petametrics.com^$third-party
 ||cdn.crwdcntrl.net^$third-party
 ||cdn.dynamicyield.com^$third-party
+||cdn.getblueshift.com^$third-party
 ||cdn.granify.com^$third-party
 ||cdn.optimove.net^$third-party
 ||cdn.permutive.com^$third-party
@@ -394,13 +395,16 @@
 ||talkspacetracksdk.optimove.net^$third-party
 ||td.crwdcntrl.net^$third-party
 ||telemetry.split.io^$third-party
+||tiaabank.us-4.evergage.com^$third-party
 ||tv.rlcdn.com^$third-party
 ||ui-analytics.gservice.emarsys.net^$third-party
 ||uip.semasio.net^$third-party
 ||uipglob.semasio.net^$third-party
+||us-1.evergage.com^$third-party
 ||us.optimove.net^$third-party
 ||useinsider.com^$third-party
 ||vidilife.crwdcntrl.net^$third-party
+||voice-chat.richrelevance.com^$third-party
 ||vox.amp.permutive.com^$third-party
 ||webchannel-content.eservice.emarsys.net^$third-party
 ||www.barilliance.net^$third-party

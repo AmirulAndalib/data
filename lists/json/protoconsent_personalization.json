@@ -1,7 +1,7 @@
 {
   "name": "ProtoConsent Personalization",
-  "version": "2026-10-26",
-  "generated": "2026-10-26T06:25:17.777Z",
+  "version": "2026-10-31",
+  "generated": "2026-10-31T07:06:29.346Z",
   "description": "Content/UX personalization, recommendations, profiling and behavioural A/B testing (curated - high-confidence sources)",
   "homepage": "https://github.com/ProtoConsent/data",
   "license": "GPL-3.0-or-later",
@@ -55,9 +55,11 @@
     "id.rlcdn.com",
     "idio.ai",
     "idsync.rlcdn.com",
+    "integration.richrelevance.com",
     "intentiq.com",
     "lotame.com",
     "maxymiser.net",
+    "media.richrelevance.com",
     "mediarithmics.com",
     "mobile-events.eservice.emarsys.net",
     "monetate.com",
@@ -77,6 +79,7 @@
     "rcom-eu.dynamicyield.com",
     "rcom.dynamicyield.com",
     "recombee.com",
+    "recs.richrelevance.com",
     "reflektion.com",
     "relay42.com",
     "rest.dynamicyield.com",
@@ -103,7 +106,7 @@
     "useinsider.com",
     "zeotap.com"
   ],
-  "domain_count": 96,
+  "domain_count": 99,
   "paths": [
     "||ak.sail-horizon.com/",
     "||bcp.crwdcntrl.net/",

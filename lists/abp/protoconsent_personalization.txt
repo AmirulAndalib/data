@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: ProtoConsent Personalization
 ! Description: Content/UX personalization, recommendations, profiling and behavioural A/B testing (curated - high-confidence sources)
-! Version: 2026-10-26
-! Last modified: 2026-10-26T06:25:17.777Z
-! Entries: 109
+! Version: 2026-10-31
+! Last modified: 2026-10-31T07:06:29.346Z
+! Entries: 112
 ! Homepage: https://github.com/ProtoConsent/data
 ! License: GPL-3.0-or-later
 !
@@ -56,9 +56,11 @@
 ||id.rlcdn.com^$third-party
 ||idio.ai^$third-party
 ||idsync.rlcdn.com^$third-party
+||integration.richrelevance.com^$third-party
 ||intentiq.com^$third-party
 ||lotame.com^$third-party
 ||maxymiser.net^$third-party
+||media.richrelevance.com^$third-party
 ||mediarithmics.com^$third-party
 ||mobile-events.eservice.emarsys.net^$third-party
 ||monetate.com^$third-party
@@ -78,6 +80,7 @@
 ||rcom-eu.dynamicyield.com^$third-party
 ||rcom.dynamicyield.com^$third-party
 ||recombee.com^$third-party
+||recs.richrelevance.com^$third-party
 ||reflektion.com^$third-party
 ||relay42.com^$third-party
 ||rest.dynamicyield.com^$third-party
