@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-31",
-  "generated": "2026-10-31T09:56:17.378Z",
+  "version": "2026-11-01",
+  "generated": "2026-11-01T10:47:06.764Z",
   "type": "tracking_params_sites",
-  "domain_count": 998,
-  "param_count": 2034,
+  "domain_count": 999,
+  "param_count": 2036,
   "sites": {
     "auto.de": [
       "adgroupid",
@@ -158,6 +158,7 @@
       "short_redirect",
       "srtk",
       "stkn",
+      "target_user_id",
       "vrfl",
       "xtok"
     ],
@@ -4656,6 +4657,9 @@
     ],
     "investopedia.com": [
       "inv_to_sim"
+    ],
+    "entire.com": [
+      "redirected_from"
     ],
     "ikea.com": [
       "f"
