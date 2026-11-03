@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated": "2026-11-02T11:40:29.753Z",
+  "generated": "2026-11-03T11:18:33.964Z",
   "lists": {
     "protoconsent_hotfix": {
       "name": "ProtoConsent Hotfix",
@@ -111,10 +111,10 @@
       "preset": "basic",
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/easyprivacy.json",
       "order": 100,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:39:22.871Z",
-      "domain_count": 47101,
-      "path_rule_count": 4315
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:17:52.028Z",
+      "domain_count": 47107,
+      "path_rule_count": 4316
     },
     "easylist": {
       "name": "EasyList",
@@ -125,9 +125,9 @@
       "preset": "full",
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/easylist.json",
       "order": 110,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:39:23.061Z",
-      "domain_count": 44797,
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:17:52.160Z",
+      "domain_count": 45117,
       "path_rule_count": 1695
     },
     "adguard_dns": {
@@ -139,9 +139,9 @@
       "preset": "basic",
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/adguard_dns.json",
       "order": 120,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:39:23.730Z",
-      "domain_count": 185707,
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:17:52.584Z",
+      "domain_count": 187277,
       "path_rule_count": 0
     },
     "oisd_small": {
@@ -153,9 +153,9 @@
       "preset": "full",
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/oisd_small.json",
       "order": 200,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:39:25.622Z",
-      "domain_count": 59466,
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:17:53.996Z",
+      "domain_count": 59961,
       "path_rule_count": 0
     },
     "hagezi_pro": {
@@ -181,8 +181,8 @@
       "preset": "full",
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/blp_crypto.json",
       "order": 260,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:39:25.853Z",
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:17:54.149Z",
       "domain_count": 1270,
       "path_rule_count": 0
     },
@@ -195,8 +195,8 @@
       "preset": "full",
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/blp_phishing.json",
       "order": 270,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:39:26.421Z",
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:17:54.663Z",
       "domain_count": 117995,
       "path_rule_count": 0
     },
@@ -210,9 +210,9 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/cname_trackers.json",
       "type": "informational",
       "order": 300,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:39:30.820Z",
-      "domain_count": 637521,
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:17:58.560Z",
+      "domain_count": 662291,
       "path_rule_count": 0
     },
     "easylist_cosmetic": {
@@ -225,12 +225,12 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/easylist_cosmetic.json",
       "type": "cosmetic",
       "order": 20,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:39:31.422Z",
-      "domain_count": 7662,
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:17:59.072Z",
+      "domain_count": 7663,
       "path_rule_count": 0,
       "generic_count": 13635,
-      "domain_rule_count": 16018
+      "domain_rule_count": 16022
     },
     "easylist_cookie_cosmetic": {
       "name": "EasyList Cookie Cosmetic",
@@ -242,12 +242,12 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/easylist_cookie_cosmetic.json",
       "type": "cosmetic",
       "order": 21,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:39:32.041Z",
-      "domain_count": 17155,
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:17:59.676Z",
+      "domain_count": 17158,
       "path_rule_count": 0,
       "generic_count": 15271,
-      "domain_rule_count": 18634
+      "domain_rule_count": 18637
     },
     "webannoyances_cosmetic": {
       "name": "Web Annoyances Cosmetic",
@@ -259,12 +259,12 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/webannoyances_cosmetic.json",
       "type": "cosmetic",
       "order": 22,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:39:32.043Z",
-      "domain_count": 4822,
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:17:59.678Z",
+      "domain_count": 4832,
       "path_rule_count": 0,
       "generic_count": 2106,
-      "domain_rule_count": 8014
+      "domain_rule_count": 8228
     },
     "protoconsent_cmp_signatures": {
       "name": "ProtoConsent Banners",
@@ -324,8 +324,8 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/adguard_tracking_params.json",
       "type": "tracking_params",
       "order": 290,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:39:48.675Z",
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:18:00.576Z",
       "domain_count": 0,
       "path_rule_count": 0,
       "param_count": 319
@@ -340,11 +340,11 @@
       "fetch_url": "https://cdn.jsdelivr.net/gh/ProtoConsent/data@main/enhanced/external/dandelion_tracking_params.json",
       "type": "tracking_params_sites",
       "order": 291,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:39:48.675Z",
-      "domain_count": 1000,
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:18:00.576Z",
+      "domain_count": 1003,
       "path_rule_count": 0,
-      "param_count": 2037
+      "param_count": 2039
     },
     "regional_cosmetic": {
       "name": "Regional Cosmetic",
@@ -388,12 +388,12 @@
       ],
       "type": "regional_cosmetic",
       "order": 21,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:40:28.975Z",
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:18:33.265Z",
       "domain_count": 52456,
       "path_rule_count": 0,
       "generic_count": 23376,
-      "domain_rule_count": 116871,
+      "domain_rule_count": 116885,
       "region_count": 30
     },
     "regional_blocking": {
@@ -438,10 +438,10 @@
       ],
       "type": "regional_blocking",
       "order": 281,
-      "version": "2026-11-02",
-      "generated": "2026-11-02T11:40:28.974Z",
-      "domain_count": 76058,
-      "path_rule_count": 25730,
+      "version": "2026-11-03",
+      "generated": "2026-11-03T11:18:33.264Z",
+      "domain_count": 76392,
+      "path_rule_count": 25735,
       "region_count": 30
     }
   }
