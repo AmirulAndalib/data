@@ -737,6 +737,7 @@
         "hochi.news",
         "inquirer.com",
         "j-cast.com",
+        "journaldemontreal.com",
         "journaldequebec.com",
         "ksml.fi",
         "mainichi.jp",
@@ -1178,6 +1179,10 @@
       ]
     },
     {
+      "urlFilter": "||i.cdn.bg/js/nuevo/*/videojs8/plugins/videojs-contrib-ads.min.js",
+      "firstParty": true
+    },
+    {
       "urlFilter": "||sf.nm-ovp.nelonenmedia.fi/player/assets/ad/admanager.js",
       "initiatorDomains": [
         "ruutu.fi"
@@ -1195,5 +1200,5 @@
       "urlFilter": "||rollercoin.com/static/img/referral_160-600.png"
     }
   ],
-  "path_exception_count": 56
+  "path_exception_count": 57
 }
