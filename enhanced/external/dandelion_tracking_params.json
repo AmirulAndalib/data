@@ -1,10 +1,13 @@
 {
-  "version": "2026-11-09",
-  "generated": "2026-11-09T12:04:27.774Z",
+  "version": "2026-11-10",
+  "generated": "2026-11-10T11:43:49.594Z",
   "type": "tracking_params_sites",
-  "domain_count": 1006,
-  "param_count": 2043,
+  "domain_count": 1008,
+  "param_count": 2044,
   "sites": {
+    "check24.de": [
+      "source"
+    ],
     "euronews.com": [
       "webPushId"
     ],
@@ -4690,6 +4693,9 @@
     ],
     "amazon.com": [
       "btn_ref"
+    ],
+    "delta.com": [
+      "mkcpgn"
     ],
     "ikea.com": [
       "f"
